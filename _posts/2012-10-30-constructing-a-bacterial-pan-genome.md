@@ -13,11 +13,11 @@ tags: []
 
 Plan:
 
-Using Mugsy to generate LCBs for all E. coli / Shigella sequences. Extract LCBs to create a pan-genome and use as reference alignment database for short-read mapping of metagenomics data. Visualise aligned blocks as visual "barcode" to genome composition. Compare with other genomes, e.g. E. coli O157, E. coli ETEC etc. Sort blocks for obviously recognisable elements e.g. E. coli core genome, Shiga-toxin phage, plasmids, etc.
+Using Mugsy to generate LCBs for all E. coli / Shigella sequences. Extract LCBs to create a pan-genome and use as reference alignment database for short-read mapping of metagenomics data. By plotting presence/absence of mapping reads to each individual LCB hope to create some kind of visual "barcode" for the E. coli / E. colis in a metagenomics sample (obviously could be applied to other species). Compare with other genomes, e.g. E. coli O157, E. coli ETEC etc. Sort blocks for obviously recognisable elements e.g. E. coli core genome, Shiga-toxin phage, plasmids, etc.
 
 Steps:
 
-Download all E. coli and Shigella from Genbank (https://gist.github.com/3974107) - 67 genomes. Place paths in inputfiles.
+Download all E. coli and Shigella from Genbank (https://gist.github.com/3974107) - 65 genomes. Place paths in inputfiles.
 
 Needed to edit Mugsy mugsyenv.sh file replace 'mapping' with 'MUMmer3.20'
 
@@ -73,6 +73,8 @@ rewriteheaders.py:
 	        rec.description = ''
         	SeqIO.write([rec], fh, "fasta")
 
+Seems to work for 20 genomes now.
+
 ### Alignment file to pan-genome
 
 Create pan-genome from MAF file. Try Biopython MAF branch (http://biopython.org/wiki/Multiple_Alignment_Format). Read each alignment and take the non-gapped characters. Perhaps need to remove any Ns or very small blocks. What are the size of the blocks and number of species per block? Plot.
@@ -107,4 +109,29 @@ Test with 3 genome seqences. Just extracted the sequence in each LCB alignment w
 
 ## Test with 20 genomes
 
+Pan-genome about 7.7Mb, 2301 LCBs.
+
+	python pangenome.py ecoli.maf > test_pangenome.fasta
+	bwa index test_pangenome.fasta
+	bwa bwasw -t8 test_pangenome.fasta ~nick/sbtm12/data/TY2482_30x_1.fastq.gz ~nick/sbtm12/data/TY2482_30x_2.fastq.gz > test_ty2482.sam
+	samtools view -bS test_ty2482.sam > test_ty2482.bam
+	samtools sort test_ty2482.bam test_ty2482.sorted
+	samtools index test_ty2482.sorted.bam
+
+	samtools flagstat test_ty2482.sorted.bam
+	3214331 + 0 in total (QC-passed reads + QC-failed reads)
+	0 + 0 duplicates
+	2968019 + 0 mapped (92.34%:-nan%)
+	2968019 + 0 paired in sequencing
+	1483936 + 0 read1
+	1484083 + 0 read2
+	2552550 + 0 properly paired (86.00%:-nan%)
+	2905151 + 0 with itself and mate mapped
+	62868 + 0 singletons (2.12%:-nan%)
+	283060 + 0 with mate mapped to a different chr
+	215455 + 0 with mate mapped to a different chr (mapQ>=5)
+
+92% not bad, although perhaps not as high as it should be. Compare with reference genome.
+
+Run all 65 genomes overnight ... 
 

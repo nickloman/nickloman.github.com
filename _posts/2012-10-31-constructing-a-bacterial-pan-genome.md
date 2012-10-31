@@ -36,4 +36,17 @@ Options for depth-counting (all_ecoli_shig_pangenome.fasta):
   samtools depth
   BEDtools
   VarScan2
-  
+ 
+Try piping samtools depth into a script first.
+
+Script: depth.py
+
+Mugsy finally finished running on the 65 genomes set, final pan-genome size 25Mb, 113k blocks. (is this reasonable?)
+
+Now run all the metagenomics samples across the test pan-genome and depth script and get visualisation working.
+
+
+
+
+
+

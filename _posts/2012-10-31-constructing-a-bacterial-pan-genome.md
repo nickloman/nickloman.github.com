@@ -22,12 +22,12 @@ On to the visualisation on some test data:
   * BLAT (psl2bam.py to simplify)
 * Try fixed length blocks and variable length blocks
 
-Input to R:
+Example input to R:
 
-Block Sample MeanDepth PercentCoveredByReads
-Block1 Sample1 40 99
-Block2 Sample2 30 98
-Block3 Sample3 40 99
+	Block Sample MeanDepth PercentCoveredByReads
+	Block1 Sample1 40 99
+	Block2 Sample2 30 98
+	Block3 Sample3 40 99
 
 Just try it and see how it works? Exclude gapped characters from % covered by reads.
 
@@ -45,6 +45,8 @@ Mugsy finally finished running on the 65 genomes set, final pan-genome size 25Mb
 
 Now run all the metagenomics samples across the test pan-genome and depth script and get visualisation working.
 
+Issues:
+* pan-genomes have hyphens in, probably best to remove these as they won't map well?
 
 
 

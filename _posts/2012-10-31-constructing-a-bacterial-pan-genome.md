@@ -31,13 +31,13 @@ Example input to R:
 
 Just try it and see how it works? Exclude gapped characters from % covered by reads.
 
-Options for depth-counting (all_ecoli_shig_pangenome.fasta):
-  GATK 
-  samtools depth
-  BEDtools
-  VarScan2
+Options for depth-counting:
+* GATK  DepthOfCoverage
+* samtools depth
+* BEDtools
+* VarScan2
  
-Try piping samtools depth into a script first.
+Try piping samtools depth into a Python script first.
 
 Script: depth.py
 

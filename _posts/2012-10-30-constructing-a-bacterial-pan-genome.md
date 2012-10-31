@@ -3,13 +3,13 @@ layout: post
 title: "Constructing bacterial pan-genomes"
 description: ""
 category: clinical-metagenomics
-tags: []
+tags: [pangenome]
 ---
 {% include JB/setup %}
 
 # Pan-genome construction notebook
 
-## 29/12/2012
+## 29/10/2012
 
 Plan:
 
@@ -23,7 +23,7 @@ Needed to edit Mugsy mugsyenv.sh file replace 'mapping' with 'MUMmer3.20'
 
 Seemed like Mugsy required the first file to be a single replicon, but this might have been my mistake.
 
-## 30/12/2012
+## 30/10/2012
 
 ### Create pan-genome for all E. coli/Shigella
 

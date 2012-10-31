@@ -16,6 +16,7 @@ I could think of the following:
   * PCR chimeras (very likely to be a problem in a metagenomic dataset)
   * Indels (sometimes strand-specific)
 * (Illumina) Cluster generation errors - probably similar to PCR as this is a PCR-like stage
+* (454/PGM) emPCR errors - again similar to PCR
 * (All platforms) Random sequencing errors
 * Systematic sequencing errors: seen in Illumina in the past; certain GC-rich motifs, inverted repeats, downstream of homopolymers SNPs, 454/PGM: homopolymers
 * Adaptor sequencing

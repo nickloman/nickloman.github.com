@@ -21,3 +21,19 @@ On to the visualisation on some test data:
   * MUMMER
   * BLAT (psl2bam.py to simplify)
 * Try fixed length blocks and variable length blocks
+
+Input to R:
+
+Block Sample MeanDepth PercentCoveredByReads
+Block1 Sample1 40 99
+Block2 Sample2 30 98
+Block3 Sample3 40 99
+
+Just try it and see how it works? Exclude gapped characters from % covered by reads.
+
+Options for depth-counting (all_ecoli_shig_pangenome.fasta):
+  GATK 
+  samtools depth
+  BEDtools
+  VarScan2
+  

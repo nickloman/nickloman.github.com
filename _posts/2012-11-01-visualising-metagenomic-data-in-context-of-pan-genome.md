@@ -20,7 +20,7 @@ It would be nicer if the blocks could be brought together to reduce the total nu
 
 It's quite nice if there's still a gradient from core genome -> pan genome -> strain-specific genome.
 
-Could do something like: for each block with the same number of genomes, order blocks together which appear in the same genomes. Quite simple. Although this would make some blocks harder to see?
+Could do something like: for each block with the same number of genomes, order blocks together which appear in the same genomes. Quite simple. Although this would make some (missing) blocks harder to see?
 
 To try:
 * Order by relatedness?

@@ -24,6 +24,7 @@ Could do something like: for each block with the same number of genomes, order b
 
 To try:
 * Order by relatedness?
+* ..
 
 Still worried about the hyphens... need to have a closer look at the alignments.
 

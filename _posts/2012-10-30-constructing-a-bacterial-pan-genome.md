@@ -19,7 +19,8 @@ Steps:
 
 Download all E. coli and Shigella from Genbank (https://gist.github.com/3974107) - 65 genomes. Place paths in inputfiles.
 
-{% gist 3974107 %}
+{% assign gist.id = 3974107 %}
+{% include JB/gist %}
 
 Needed to edit Mugsy mugsyenv.sh file replace 'mapping' with 'MUMmer3.20'
 

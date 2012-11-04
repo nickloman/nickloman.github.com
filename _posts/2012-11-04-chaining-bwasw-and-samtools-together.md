@@ -21,6 +21,6 @@ Also note that latest bwasw supports paired-end mode so you can do away with bwa
 
 The trick is you need "-o" to get samtools to print to stdout (HT Josh Quick).
 
-What you can't get away with is the need to specify an external file to save the results of sort. The point of "-o" is just to cat the results of the sorted BAM file at the end.
+What you can't get away with is the need to specify an external file to save the results of sort. The point of "-o" is just to cat the results of the sorted BAM file at the end (if you specify /dev/stdout as the filename you get the error: [sort_blocks] fail to create file /dev/stdout.bam).
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Chaining bwasw and samtools together"
 description: ""
-category: 
+category: bioinformatics
 tags: []
 ---
 {% include JB/setup %}

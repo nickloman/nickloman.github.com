@@ -12,7 +12,7 @@ For some reason - perhaps true of a previous version of samtools - I didn't thin
 So, e.g. you can do:
 
 	bwa bwasw reference fastq1 fastq2 |
-		samtools view -bS - |
+		samtools view -uS - |
 		samtools sort -o - sortedbam |
 		samtools mpileup - | 
 		... (bcftools, vcftools etc.)
@@ -23,4 +23,4 @@ The trick is you need "-o" to get samtools to print to stdout (HT Josh Quick).
 
 What you can't get away with is the need to specify an external file to save the results of sort. The point of "-o" is just to cat the results of the sorted BAM file at the end (if you specify /dev/stdout as the filename you get the error: [sort_blocks] fail to create file /dev/stdout.bam).
 
-
+Shaun Jackman points out that "-u" for uncompressed BAM from samtools view is faster than "-b" in a pipeline.

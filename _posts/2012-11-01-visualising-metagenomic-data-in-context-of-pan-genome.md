@@ -37,3 +37,6 @@ It's going to be easier to figure out what needs to be done if I can show real (
 Changed the pan-genome script to always take the first sequence, and remove gaps.
 
 Then will redo the alignments against the proper pangenome.
+
+*	Try just looking at large blocks (>10kb)
+

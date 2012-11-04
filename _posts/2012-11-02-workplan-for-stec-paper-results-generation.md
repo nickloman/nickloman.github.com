@@ -28,9 +28,17 @@ These both depend on filtering against hg19 step.
 
 ### Table: Run stats
 
+### Table: Alignment stats against 280
+
+### Figure: Plot stx2 ratio against other data
+
+### Selection of informative coverage plots (different phage copy number, other pathogens)
+
 ### Figure: Taxonomic assignment by phylum
 
 Depends on Metaphlan.
+
+### Figure: Presence of top 10 most abundant genera/species by sample
 
 ### Figure: Virulence genes grid
 

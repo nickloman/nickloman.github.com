@@ -11,7 +11,7 @@ For some reason - perhaps true of a previous version of samtools - I didn't thin
 
 So, e.g. you can do:
 
-	bwa bwasw -t reference fastq1 fastq2 |
+	bwa bwasw reference fastq1 fastq2 |
 		samtools view -bS - |
 		samtools sort -o - sortedbam |
 		samtools mpileup - | 

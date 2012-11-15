@@ -12,3 +12,4 @@ Thought I'd keep a track of apps for my Mac:
 *	Alfred: enables Alt-space to fire up applications and web searches (HT: Josh Quick)
 *	Mosh: command-line SSH client replacement for crappy connections
 *	TotalTerminal: http://totalterminal.binaryage.com (HT: Anthony Underwood)
+*	TotalFinder: tabs for the Apple finder (HT: Anthony Underwood)

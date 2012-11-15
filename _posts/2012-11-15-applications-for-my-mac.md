@@ -36,6 +36,11 @@ Thought I'd keep a track of apps for my Mac:
 
 *	MacPorts
 
+## Science stuff
+
+*	EverNote
+*	Readcube
+
 ## Uncategorised
 
 *	QuickCursor

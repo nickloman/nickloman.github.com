@@ -13,3 +13,5 @@ Thought I'd keep a track of apps for my Mac:
 *	Mosh: command-line SSH client replacement for crappy connections
 *	TotalTerminal: http://totalterminal.binaryage.com (HT: Anthony Underwood)
 *	TotalFinder: tabs for the Apple finder (HT: Anthony Underwood)
+*	ITerm/DTerm - terminal replacements (HT: Keith Bradnam)
+*	BetterTouchTool, Spectacle (HT: Giovanni Coppola)

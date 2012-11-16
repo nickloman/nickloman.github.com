@@ -23,6 +23,8 @@ Thought I'd keep a track of apps for my Mac:
 *	*Spectacle* (HT: Giovanni Coppola)
 *	GeekTool (HT: Keith Bradnam)
 *	http://www.grandtotal.biz/CheatSheet/
+*	NoMachine Player
+
 
 ## Terminal stuff
 
@@ -43,6 +45,12 @@ Thought I'd keep a track of apps for my Mac:
 
 *	*EverNote*
 *	Readcube
+*	Papers 2
+
+## Image stuff
+
+*	Gimp
+*	Inkscape
 
 ## Uncategorised
 
@@ -55,5 +63,13 @@ Thought I'd keep a track of apps for my Mac:
 *	TextExpander
 *	Caffeine
 *	Boom
+*	Keka
+*	Living Earth HD
+*	Sublimetext
 
-Thanks to Keith Bradnam, Anthony Underwood, Josh Quick, Giovanni Coppola for suggestions so far. Please post more in the comments.
+## Music
+
+*	Clementine
+*	TextWrangler
+
+Thanks to Keith Bradnam, Anthony Underwood, Josh Quick, Giovanni Coppola, Joao Carrico, Eli Perencevich, Mike Cox, Rupert Loman for suggestions so far. Please post more in the comments.

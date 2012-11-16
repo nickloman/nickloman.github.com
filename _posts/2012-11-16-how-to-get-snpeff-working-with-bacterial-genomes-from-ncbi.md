@@ -19,7 +19,7 @@ Add a line at the bottom of snpEff.config:
 
 	<databasename>.genome : Descriptive Name
 
-The FNA should be renamed:
+The FNA should be renamed and the header line rewritten to match the GFF header:
 
 	data/genomes/<databasename>.fa
 

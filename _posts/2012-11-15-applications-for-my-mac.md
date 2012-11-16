@@ -9,23 +9,25 @@ tags: [mac]
 
 Thought I'd keep a track of apps for my Mac:
 
+*Stuff I've tried/recommend*
+
 ## Important things:
 
 *	http://www.wheresthehashkeyonamac.co.uk
  
 ## Desktop helpers
 
-*	Alfred: enables Alt-space to fire up applications and web searches (HT: Josh Quick)
+*	*Alfred*: enables Alt-space to fire up applications and web searches (HT: Josh Quick)
 *	TotalFinder: tabs for the Apple finder (HT: Anthony Underwood)
 *	BetterTouchTool (HT: Giovanni Coppola)
-*	Spectacle (HT: Giovanni Coppola)
+*	*Spectacle* (HT: Giovanni Coppola)
 *	GeekTool (HT: Keith Bradnam)
 *	http://www.grandtotal.biz/CheatSheet/
 
 ## Terminal stuff
 
-*	Mosh: command-line SSH client replacement for crappy connections
-*	TotalTerminal: http://totalterminal.binaryage.com (HT: Anthony Underwood)
+*	*Mosh*: command-line SSH client replacement for crappy connections
+*	*TotalTerminal*: Quake-style dropdown terminal http://totalterminal.binaryage.com (HT: Anthony Underwood)
 *	ITerm/DTerm - terminal replacements (HT: Keith Bradnam)
 
 ## Backup stuff
@@ -35,10 +37,11 @@ Thought I'd keep a track of apps for my Mac:
 ## *NIXy stuff
 
 *	MacPorts
+*	*Brew*: Ruby based package installer
 
 ## Science stuff
 
-*	EverNote
+*	*EverNote*
 *	Readcube
 
 ## Uncategorised

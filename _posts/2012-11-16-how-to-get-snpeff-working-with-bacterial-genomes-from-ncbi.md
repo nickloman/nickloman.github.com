@@ -9,7 +9,11 @@ tags: []
 
 You can do this from GFF files. You need the GFF file and corresponding FNA file. 
 
-Create a nickname <databasename> and add to "genomes" list at top of snpEff.config.
+Create a nickname
+
+	<databasename>
+
+and add to "genomes" list at top of snpEff.config.
 
 Add a line at the bottom of snpEff.config:
 

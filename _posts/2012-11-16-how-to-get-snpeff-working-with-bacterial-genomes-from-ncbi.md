@@ -29,10 +29,19 @@ The GFF file should go in:
 
 Then build the database:
 
-	java -jar bin/snpEff_2_0_5d/snpEff.jar build -gff3 -v smeg
+	java -jar bin/snpEff_2_0_5d/snpEff.jar build -gff3 -v <databasename>
+
+Ensure the snpEff.config has the bacterial codon table selected:
+
+	<databasename>.genome : <description>
+        	<databasename>.chromosomes : <fastahdrid>
+        	<databasename>.<fastahdrid>.: Bacterial_and_Plant_Plastid
 
 The VCF file also needs to match the modified header
 
 Then:
 
 	java -jar bin/snpEff_2_0_5d/snpEff.jar eff -no-downstream -no-upstream -no-utr -no-intergenic -o vcf -c snpEff.config <databasename> vcffile
+
+
+

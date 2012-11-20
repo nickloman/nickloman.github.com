@@ -17,7 +17,7 @@ Two problems here;
 *	The distribution is properly weird (bimodal)
 *	The sequencing lab thinks the median insert size is 800bp from their BioAnalyzer plot
 
-I've seen weirdness in insert size distributions before. From vague memories of online discussions I had a half memory that not all aligners calculate insert sizes the same way, e.g. some report the distances between reads, and some report the total fragment length. 
+I've seen weirdness in insert size distributions before. From vague memories of online discussions I had a half-remembrance that not all aligners calculate insert sizes the same way, e.g. some report the distances between reads, and some report the total fragment length. 
 
 I would consider the correct definition of the insert size to be the total length of the original fragment put into sequencing. Therefore it would include the read length and the distance between fragments. This should be consistent with the definition of column 9 in the SAM format specification: http://samtools.sourceforge.net/SAM1.pdf
 

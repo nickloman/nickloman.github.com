@@ -83,3 +83,8 @@ OK, so the first problem we know is the BWASW is reporting the insert sizes wron
 
 But why are the BioAnalyzer plots still in such disagreement?
 
+Let's try again with Bowtie2.
+
+![Weird insert sizes resolved](/images/2012-11-20-weird_insert_sizes_resolved.png)
+
+OK, maybe this makes a bit more sense now.

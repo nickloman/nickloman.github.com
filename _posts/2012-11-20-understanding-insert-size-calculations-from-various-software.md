@@ -9,7 +9,7 @@ tags: []
 
 Debugging some weird insert size distributions on recent MiSeq / Nextera sequencing runs which don't seem to relate to the BioAnalyzer plots:
 
-![Weird insert sizes](/_images/2012-11-20-weird_insert_sizes.png)
+![Weird insert sizes](/images/2012-11-20-weird_insert_sizes.png)
 
 Mapped to reference with BWASW, image produced by Qualimap.
 

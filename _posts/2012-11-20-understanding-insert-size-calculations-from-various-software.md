@@ -41,7 +41,7 @@ A quick test:
 Just a little script to pull out perfect reads from the reference file, with defined distance apart:
 
 {% assign gist_id = '4118536' %}
-{% assign gist_file = 'aaa' %}
+{% assign gist_file = 'aab' %}
 {% include JB/gist %}
 
 	python extractpairs.py ecoli_10k.fa 500 100 1000 ec500

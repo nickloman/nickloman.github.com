@@ -21,8 +21,7 @@ I've seen weirdness in insert size distributions before. From vague memories of 
 
 I would consider the correct definition of the insert size to be the total length of the original fragment put into sequencing. Therefore it would include the read length and the distance between fragments. This should be consistent with the definition of column 9 in the SAM format specification: http://samtools.sourceforge.net/SAM1.pdf
 
-	TLEN: signed observed Template LENgth. If all segments are mapped to the same reference, the unsigned observed template length equals the number of bases from the leftmost mapped base
-to the rightmost mapped base. The leftmost segment has a plus sign and the rightmost has a minus sign. The sign of segments in the middle is undened. It is set as 0 for single-segment template or when the information is unavailable	
+> TLEN: signed observed Template LENgth. If all segments are mapped to the same reference, the unsigned observed template length equals the number of bases from the leftmost mapped base to the rightmost mapped base. The leftmost segment has a plus sign and the rightmost has a minus sign. The sign of segments in the middle is undened. It is set as 0 for single-segment template or when the information is unavailable
 
 A quick test:
 
@@ -41,7 +40,7 @@ A quick test:
 
 Just a little script to pull out perfect reads from the reference file, with defined distance apart:
 
-{% assign gist_id = '44118536' %}
+{% assign gist_id = '4118536' %}
 {% assign gist_file = 'aaa' %}
 {% include JB/gist %}
 

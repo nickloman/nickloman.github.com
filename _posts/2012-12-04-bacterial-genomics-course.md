@@ -25,7 +25,8 @@ Below is a table where you can fill in the answers to the question(s)
 
 | Question        |  Answer   |
 |-------------------|----------------------|
-| What's your name?      |     |
+| What's your name?      |    
+
 
 Software/services used in this practical
 
@@ -190,20 +191,21 @@ Run Velvet again but let it decide the values automatically
 
 Whole genome comparison
 
-So it turns out that this sequence type has been seen before. In fact there is an E. coli with the same sequence type in Genbank, although it is not in the MLST database! It is called E. coli 55989. Interestingly this strain is from the enteroaggregative lineage. Let’s compare our sequence with this one and see what the differences are. One easy way of doing this is with the xBASE annotation interface:
+So it turns out that this sequence type has been seen before. In fact there is an `E. coli` with the same sequence type in Genbank, although it is not in the MLST database! It is called `E. coli` 55989. Interestingly this strain is from the enteroaggregative lineage. Let’s compare our sequence with this one and see what the differences are. One easy way of doing this is with the xBASE annotation interface:
+	
+	http://xbase.ac.uk/annotation/
 
-http://xbase.ac.uk/annotation/
-
-Select your reference sequence (E. coli 55989)
-Upload your contigs from your assembly
-Choose a strain identifier
-Add your email address
-Submit
+1.	Select your reference sequence (`Escherichia coli` 55989)
+2.	Upload your contigs from your assembly
+3.	Choose a strain identifier
+4.	Add your email address
+5.	Submit
  
-It should take 10-20 minutes but you don’t have to wait, we have got the results for you already.
-http://static.xbase.ac.uk/results/annotation//1V5o7OQSIFVIJ3Zi0KQz1vZbzsT3IrpC/
+It should take 10-20 minutes but you don’t have to wait as I have already run the file, we have got the results for you already.
 
-And the files for loading into ACT are in assemblies
+<http://static.xbase.ac.uk/results/annotation//1V5o7OQSIFVIJ3Zi0KQz1vZbzsT3IrpC/>
+
+And the files for loading into the Artemis Comparison Tool are in assemblies
 
 Now select “Launch ACT” from the web page. Open the act.jnlp file that opens. Choose Run.
 
@@ -211,14 +213,30 @@ When ACT has loaded, choose Open from the file menu.
 
 Load the following files:
 
-Sequence file 1:  annotations/act_reference_file.txt
-Sequence file 2:  annotations/act_crunch_file.txt
-Sequence file 3:  annotations/act_sequence_file.txt
+Sequence file 1:  `annotations/act_reference_file.txt`
+Sequence file 2:  `annotations/act_crunch_file.txt`
+Sequence file 3:  `annotations/act_sequence_file.txt`
 
-Have a browse around ACT which permits the comparison of two genomes. Play with some of the options: GC track, 
-What is the typical average nucleotide identity for aligned regions?	
-Find 5 examples of genes which are in E. coli 55989 but not in E. coli O104:H4 STEC 
-280	
+Have a browse around ACT which permits the comparison of two genomes. Play with some of the options: GC track.
+
+| Question | Answer |
+|----------|--------|
+| What is the typical average nucleotide identity for aligned regions?	 |
+| Find 5 examples of genes which are in _E. coli_ 55989 but not in _E. coli_ O104:H4 STEC 280	 |
+
+
+Group task: finding novel regions
+
+Find the coding sequences which are in the _E. coli_ O104:H4 STEC strain but not in _E. coli_ 55989. Between you, “crowd-source” the function of these genes, using BLAST, Pfam or whatever you like. Do it in batches for speed.
+
+Post your results here as a group:
+
+<https://docs.google.com/spreadsheet/ccc?key=0AkNPpmDaw5GhdHdYbXp5ZXpZNnJ4UzdWek5MMWlMUXc>
+
+What genes are potentially responsible for the severe presentation of this outbreak?
+
+
+
 
 
 
@@ -247,7 +265,7 @@ How did the automatic values compare to your predictions?
 
 Group task: finding novel regions
 
-Find the coding sequences which are in the E. coli O104:H4 STEC strain but not in E. coli 55989. Between you, “crowd-source” the function of these genes, using BLAST, Pfam or whatever you like. Do it in batches for speed.
+Find the coding sequences which are in the _E. coli_ O104:H4 STEC strain but not in _E. coli_ 55989. Between you, “crowd-source” the function of these genes, using BLAST, Pfam or whatever you like. Do it in batches for speed.
 
 Post your results here as a group:
 https://docs.google.com/spreadsheet/ccc?key=0AkNPpmDaw5GhdHdYbXp5ZXpZNnJ4UzdWek5MMWlMUXc
@@ -265,7 +283,7 @@ Now we have an assembly it would be nice to find out something about this strain
 
 We are going to retrieve the MLST type directly from the contigs. We could use BIGSDb for this. There is also the option of the web server at DTU. Visit it’s website http://cge.cbs.dtu.dk/services/MLST/
 
-Select “Escherichia coli #1” (Achtman E. coli scheme)
+Select “Escherichia coli #1” (Achtman _E. coli_ scheme)
 Select “Assembled genomes/contigs”
 Upload the file
 

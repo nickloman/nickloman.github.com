@@ -23,13 +23,10 @@ For example, this might be the name of the file that will contain the input for 
  
 Below is a table where you can fill in the answers to the question(s)
 
-| Question 1        |   Your answer here   |
+| Question        |  Answer   |
 |-------------------|----------------------|
-| **Question 2**    | **Your answer here** |
- 
-Question 1	Your answer here
-Question 2	Your answer here
- 
+| What's your name?      |     |
+
 Software/services used in this practical
 
 *	FastQC: a read quality analysis software
@@ -174,7 +171,7 @@ The important files are:
  
 Group task: Fill out the Google Document with the results for your k-mer.
 
-<https://docs.google.com/spreadsheet/ccc?key=0AkNPpmDaw5GhdGNRME5BN2VWZHZJanA5d0VGazBEU2c>
+<http://tinyurl.com/kmersheet>
 
 If you are running ahead, try some other values of `k` too.
 

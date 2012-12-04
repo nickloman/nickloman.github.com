@@ -87,4 +87,4 @@ Let's try again with Bowtie2.
 
 ![Weird insert sizes resolved](/images/2012-11-20-weird_insert_sizes_resolved.png)
 
-OK, maybe this makes a bit more sense now.
+OK, maybe this makes a bit more sense now. But is the drop off at 250 bases real (due to correct clean-up), or an artifact of the read length?

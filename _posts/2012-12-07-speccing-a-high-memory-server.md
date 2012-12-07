@@ -9,7 +9,7 @@ tags: [high-memory]
 
 Want to get a 512Gb server that doesn't break the bank, with decent single processor performance addressing all available RAM. 
 
-Josh has been looking into it, here's what he has found so far:
+Josh Quick has been looking into it, here's what he has found so far:
 
 > Problems are that:
 > Only 2MB dies available no 4MB for a few years - means to need 4 ranks for 32GB LRDIMMs, 2 ranks for 16GB

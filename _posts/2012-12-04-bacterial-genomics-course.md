@@ -166,7 +166,7 @@ The important files are:
 | Question   |  Answer     |
 |------------|-------------|
 | What k-mer did you use?	        |
-| What is the N50 of your assembly?	|
+| What is the N50 of your assembly according to Velvet?	|
 | What is the largest contig size?	|
 | What is the total assembly size?	|
  
@@ -187,6 +187,17 @@ For this to work well we need to set a new parameter, `exp_cov`. This parameter 
 Run Velvet again but let it decide the values automatically
 
 	velvetg assemblies/280_miseq -cov_cutoff auto -exp_cov auto
+
+### Analysing the assembly
+
+Let's take a look at this assembly in more detail, and see if the information we have can reveal anything about the organism's biology:
+
+	contigs_stats.pl -t Velvet assemblies/280_miseq/contigs.fa -plot
+
+![hello](http://nickloman.github.com/images/2012-12_06_contigslen_vs_depth.png)
+
+
+ x
 
 
 Whole genome comparison

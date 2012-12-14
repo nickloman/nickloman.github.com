@@ -13,9 +13,9 @@ Josh Quick has been looking into it, here's what he has found so far:
 
 > Problems are that:
 
-> Only 2MB dies available no 4MB for a few years - means to need 4 ranks for 32GB LRDIMMs, 2 ranks for 16GB
+> Only 2GB dies available no 4GB for a few years - means to need 4 ranks for 32GB, 2/4 ranks for 16GB
 
-> 4 ranked RDIMMs poor performance as memory bus halved.
+> 4 ranked RDIMMs poor performance as memory speed reduced
 
 > LRDIMMs 1066 MHz with 4 ranks but $$$$$$
 
@@ -23,11 +23,11 @@ Josh Quick has been looking into it, here's what he has found so far:
 
 > Therefore need 16 slots addressing single CPU to get 256GB
 
-> Therefore need Intel 7510 chipset
+> Therefore need Intel 7510/600 series chipsets
 
 > Dell R810 cheapest system with 7510 chipset
 
-> Takes E7 series plus 6500/7500
+> Takes E7 series plus 6500/7500 series chips
 
 > <http://www.kingston.com/us/business/server_solutions/best_practices/maximizing_memory.aspx>
 > <http://www.kingston.com/us/business/server_solutions/32gb_memory_modules> (table)
@@ -40,7 +40,7 @@ Josh Quick has been looking into it, here's what he has found so far:
 > <http://www.zdnet.com/dell-poweredge-r810-3040089356/>
 > <http://www.dell.com/downloads/global/products/pedge/en/poweredge-server-11gen-whitepaper-en.pdf>
 
-> Or for more money the 12th gen R820 might be a better shot for backwards compatibility with the new C600 chipset (I think if we got this one the memory would run at 1600 MHz).
+> Or for more money the 12th gen R820 might be a better shot for backwards compatibility with the newer C600 chipset (I think if we got this one the memory would run at 1600 MHz).
 
 
 We're a bit stuck on the original spec, any clues?

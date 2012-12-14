@@ -73,17 +73,23 @@ Let’s have a look at some reads. We have some _E. coli_ sequence data from the
 
 We will be using a program called _FastQC_ to assess the reads further. The program is available with a graphical user interface, or as a command-line only version. We will use the graphical one. It takes a single fastq file (the file can be compressed with `gzip`) as input.
 
-Load the program by running:
+For the first part of the practical we will use the file `data/Sample280.fastq` (from now on, all paths will be relative to the NGS directory which should be your current directory. To see what directory you are in you can type the command `pwd`).
 
-`fastqc`
+FastQC has a GUI interface, but you can also run it as a script:
 
-Load our sequence data for the first part of this practical which is in `data/Sample280.fastq` (from now on, all paths will be relative to the NGS directory which should be your current directory. To see what directory you are in you can type the command `pwd`).
+	fastqc data/Sample280.fastq
 
 The program will tell you how far it has come, and should finish in a minute or two. Check that it finished without error messages. 
 
+The results will be put into a ZIP file called `data/Sample280_fastqc.zip`
+
+Transfer this file to your Windows PC (if you have problems I have created a direct link at <http://static.xbase.ac.uk/files/results/nick/Sample280_fastqc.zip>
+
 Study the results. The plot called “Per base sequence quality” shows an overview of the range of quality scores across all based at each position in the fastq file. The y-axis shows quality scores and the x-axis shows the read position. For each read position, a boxplot is used to show the distribution of quality scores for all reads. The yellow boxes represent quality scores within the inter-quartile range (25% - 75%). The upper and lower whiskers represent 10% and 90% point. The central red line shows the median of the quality values and the blue line shows the mean of the quality values.
 
-A rule of thumb is that a quality score of 30 indicates a 1 in 1000 probability of error and a quality score of 20 indicates a 1 in 100 probability of error (see the wikipedia page on the fastq format at http://en.wikipedia.org/wiki/Fastq). The higher the score the better the base call. You will see from the plots that the quality of the base calling deteriorates along the read (as is always the case with Illumina sequencing). A minimum requirement for Per Base Sequence Quality is that the first 50 bases should have a median and mean quality score over 20.
+A rule of thumb is that a quality score of 30 indicates a 1 in 1000 probability of error (99.9% accuracy) and a quality score of 20 indicates a 1 in 100 probability of error (see the Wikipedia page on the fastq format at <http://en.wikipedia.org/wiki/Fastq>).  Therefore, the higher the score the better the base call. You will see from the plots that the quality of the base calling deteriorates along the read (as is usually the case with Illumina sequencing).
+
+As a rule of thumb, a minimum requirement for Per Base Sequence Quality is that the first 50 bases should have a median and mean quality score over 20, otherwise there may have been a problem with the sequencing run.
 
 Now, answer these questions:
 
@@ -99,7 +105,9 @@ Let’s trim these reads using `seqtk`
 
 	seqtk trimfq data/Sample280.fastq > my_trimmed_file.fastq
 
-Load your newly-trimmed file into FastQC. What is the difference in quality plot?
+Load your newly-trimmed file into FastQC. How does the quality plot differ?
+
+<http://static.xbase.ac.uk/files/results/nick/Sample280_trimmed_fastqc.zip>
 
 | Question |	Your answer |
 |----------|----------------|
@@ -131,7 +139,7 @@ Pick a value of `k` between 21 and 99 as a starting point (don’t everyone choo
 (You should choose a better, more descriptive name than `my_assembly_directory`)
  
 	velveth my_assembly_directory value_of_k -shortPaired -fastq \
-	data/Sample280.fastq
+	data/Sample280_trimmed.fastq
  
 Note, the `\` character permits commands to be entered over more than one line.
 
@@ -197,14 +205,11 @@ Let's take a look at this assembly in more detail, and see if the information we
 ![hello](http://nickloman.github.com/images/2012-12_06_contigslen_vs_depth.png)
 
 
- x
-
-
-Whole genome comparison
+### Whole genome comparison
 
 So it turns out that this sequence type has been seen before. In fact there is an `E. coli` with the same sequence type in Genbank, although it is not in the MLST database! It is called `E. coli` 55989. Interestingly this strain is from the enteroaggregative lineage. Let’s compare our sequence with this one and see what the differences are. One easy way of doing this is with the xBASE annotation interface:
 	
-	http://xbase.ac.uk/annotation/
+<http://xbase.ac.uk/annotation/>
 
 1.	Select your reference sequence (`Escherichia coli` 55989)
 2.	Upload your contigs from your assembly

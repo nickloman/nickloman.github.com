@@ -153,7 +153,7 @@ Have a look at the file `Log` - this is a useful reminder of what commands you t
  
 Then we run `velvetg` to create contigs:
  
-`velvetg` my_assembly_directory
+`velvetg my_assembly_directory`
  
 This will take a minute or two.
  
@@ -200,10 +200,9 @@ Run Velvet again but let it decide the values automatically
 
 Let's take a look at this assembly in more detail, and see if the information we have can reveal anything about the organism's biology:
 
-	contigs_stats.pl -t Velvet assemblies/280_miseq/contigs.fa -plot
+	bin/contigs_stats.pl -t Velvet assemblies/280_miseq/contigs.fa -plot
 
 ![hello](http://nickloman.github.com/images/2012-12_06_contigslen_vs_depth.png)
-
 
 ### Whole genome comparison
 
@@ -227,7 +226,7 @@ Now select “Launch ACT” from the web page. Open the act.jnlp file that opens
 
 When ACT has loaded, choose Open from the file menu.
 
-Load the following files:
+Load the following files (they are on the USB stick):
 
 Sequence file 1:  `annotations/act_reference_file.txt`
 Sequence file 2:  `annotations/act_crunch_file.txt`
@@ -240,17 +239,15 @@ Have a browse around ACT which permits the comparison of two genomes. Play with 
 | What is the typical average nucleotide identity for aligned regions?	 |
 | Find 5 examples of genes which are in _E. coli_ 55989 but not in _E. coli_ O104:H4 STEC 280	 |
 
-
 Group task: finding novel regions
 
 Find the coding sequences which are in the _E. coli_ O104:H4 STEC strain but not in _E. coli_ 55989. Between you, “crowd-source” the function of these genes, using BLAST, Pfam or whatever you like. Do it in batches for speed.
 
 Post your results here as a group:
 
-<https://docs.google.com/spreadsheet/ccc?key=0AkNPpmDaw5GhdHdYbXp5ZXpZNnJ4UzdWek5MMWlMUXc>
+<http://tinyurl.com/genecrowd>
 
 What genes are potentially responsible for the severe presentation of this outbreak?
-
 
 
 

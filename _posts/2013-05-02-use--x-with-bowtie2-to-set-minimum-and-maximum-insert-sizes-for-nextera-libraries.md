@@ -51,7 +51,7 @@ insert size? The manual states:
 
 I assume this relates also to the default setting for concordant alignments.
 
->By default, bowtie2 looks for discordant alignments if it cannot find any concordant alignments. A discordant alignment is an alignment where both mates align uniquely, but that does not satisfy the paired-end constraints (--fr/--rf/--ff, -I, -X). This option disables that behavior.
+>By default, bowtie2 looks for discordant alignments **if it cannot find any concordant alignments**. A discordant alignment is an alignment where both mates align uniquely, but that does not satisfy the paired-end constraints (--fr/--rf/--ff, -I, -X).
 
 Interestingly this seems to be independent of the species
 used. I assume it relates more to the read length, in this

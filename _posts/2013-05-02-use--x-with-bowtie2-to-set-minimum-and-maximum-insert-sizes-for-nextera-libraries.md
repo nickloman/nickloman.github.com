@@ -25,18 +25,17 @@ Qualimap, with -X 500
 This results in quite an alarming peak. There are
 two positions which are significantly enriched at 547-548bp:
 
-samtools view bamfile | cut -f 9 | sort -n | uniq -c
-
-..
- 421 544
- 596 545
- 721 546
-1654 547
-3050 548
- 190 549
- 187 550
- 212 551
-..
+	samtools view bamfile | cut -f 9 | sort -n | uniq -c
+	..
+	 421 544
+	 596 545
+	 721 546
+	1654 547
+	3050 548
+	 190 549
+	 187 550
+	 212 551
+	..
 
 Re-running Bowtie2 with -X 1000:
 

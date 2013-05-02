@@ -53,9 +53,8 @@ I assume this relates also to the default setting for concordant alignments.
 
 >By default, bowtie2 looks for discordant alignments **if it cannot find any concordant alignments**. A discordant alignment is an alignment where both mates align uniquely, but that does not satisfy the paired-end constraints (--fr/--rf/--ff, -I, -X).
 
-Interestingly this seems to be independent of the species
-used. I assume it relates more to the read length, in this
-case 2x250.
+Interestingly this peak position seems to be independent of the species
+used. Therefore I assume it relates more to the read length, in this case 2x250.
 
 I tried it with Bowtie2 2.0.2 and 2.1.0.
 

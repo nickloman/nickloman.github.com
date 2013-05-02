@@ -20,7 +20,7 @@ also the calculation of insert sizes.
 Perhaps best illustrated with an example, visualised with
 Qualimap, with -X 500
 
-![Weird insert sizes](/images/2013-05-02-before.png)
+![Weird insert sizes](/images/2013-05-02-before2.png)
 
 This results in quite an alarming peak. There are
 two positions which are significantly enriched at 547-548bp:

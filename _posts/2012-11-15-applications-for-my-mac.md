@@ -36,7 +36,7 @@ Thought I'd keep a track of apps for my Mac:
 
 *	SuperDuper - easy cloned backups (HT: Keith Bradnam)
 
-## *NIXy stuff
+## UNIXy stuff
 
 *	MacPorts
 *	*Brew*: Ruby based package installer

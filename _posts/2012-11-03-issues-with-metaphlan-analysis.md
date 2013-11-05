@@ -21,7 +21,7 @@ Clean up Metaphlan results? Perhaps:
 
 	seqtk trimfq 2638-N12-STEC_V_High.fastq | metaphlan.py /dev/stdin  --bt2_ps very-fast --bowtie2db bin/nsegata-metaphlan-8485393d6b53/bowtie2db/mpa --nproc 8 --bowtie2out 2638-N12-STEC_V_High.fastq.bowtie2out.very-fast.txt --input_type multifastqa
 
-* very-fast-local reports 5% Shigella very-fast reports <1% - what's the difference?
+* very-fast-local reports 5% Shigella very-fast reports &lt;1% - what's the difference?
 
 	very-fast-local hits 100362775 ~170 times 
 

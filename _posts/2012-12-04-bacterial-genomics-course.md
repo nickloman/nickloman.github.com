@@ -96,7 +96,7 @@ Now, answer these questions:
 | Question |	Your answer |
 |----------|----------------|
 | How many reads were there in total in the sequence file?	 | 
-| How many bases were there in total in the file?	|
+	⁃	| How many bases were there in total in the file?	|
 | Which part(s) of the reads would you say are of low quality?	|
 | Does this run meet the minimum requirement?	 |
 | What, expressed as a p-value is the mean accuracy of the last base in the sequence?	 |

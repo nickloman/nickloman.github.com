@@ -65,9 +65,9 @@ Let’s have a look at some reads. We have some _E. coli_ sequence data from the
 
 | Question | Your answer |
 |----------|-------------|
-| What is the read length?	| 
-| What specific instrument did this come from?	|
-| Is this sequence data paired-end?	 |
+| What is the read length?	| |
+| What specific instrument did this come from?	| |
+| Is this sequence data paired-end?	 | |
 
 (Hint: read up on <http://en.wikipedia.org/wiki/FASTQ_format>)
 
@@ -95,11 +95,11 @@ Now, answer these questions:
 
 | Question |	Your answer |
 |----------|----------------|
-| How many reads were there in total in the sequence file?	 | 
-	⁃	| How many bases were there in total in the file?	|
-| Which part(s) of the reads would you say are of low quality?	|
-| Does this run meet the minimum requirement?	 |
-| What, expressed as a p-value is the mean accuracy of the last base in the sequence?	 |
+| How many reads were there in total in the sequence file?	 |  | 
+	⁃	| How many bases were there in total in the file?	| |
+| Which part(s) of the reads would you say are of low quality?	| |
+| Does this run meet the minimum requirement?	 | |
+| What, expressed as a p-value is the mean accuracy of the last base in the sequence?	 | |
 
 Let’s trim these reads using `seqtk`
 
@@ -111,9 +111,9 @@ Load your newly-trimmed file into FastQC. How does the quality plot differ?
 
 | Question |	Your answer |
 |----------|----------------|
-How many reads were there in total in the sequence file ? |	
-How many bases were there in total in the file?	 |
-What, expressed as a p-value is the mean accuracy of the last base in the sequence?	|
+How many reads were there in total in the sequence file ? | |
+How many bases were there in total in the file?	 | |
+What, expressed as a p-value is the mean accuracy of the last base in the sequence?	| |
 
 
 ## Practical part 2: _de novo_ Assembly
@@ -173,10 +173,10 @@ The important files are:
 
 | Question   |  Answer     |
 |------------|-------------|
-| What k-mer did you use?	        |
-| What is the N50 of your assembly according to Velvet?	|
-| What is the largest contig size?	|
-| What is the total assembly size?	|
+| What k-mer did you use?	        | |
+| What is the N50 of your assembly according to Velvet?	| |
+| What is the largest contig size?	| |
+| What is the total assembly size?	| |
  
 Group task: Fill out the Google Document with the results for your k-mer.
 
@@ -236,8 +236,8 @@ Have a browse around ACT which permits the comparison of two genomes. Play with 
 
 | Question | Answer |
 |----------|--------|
-| What is the typical average nucleotide identity for aligned regions?	 |
-| Find 5 examples of genes which are in _E. coli_ 55989 but not in _E. coli_ O104:H4 STEC 280	 |
+| What is the typical average nucleotide identity for aligned regions?	 | |
+| Find 5 examples of genes which are in _E. coli_ 55989 but not in _E. coli_ O104:H4 STEC 280	 | |
 
 Group task: finding novel regions
 

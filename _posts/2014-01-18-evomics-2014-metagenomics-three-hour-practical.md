@@ -74,7 +74,7 @@ You can read more about seqtk at C. Titus Brown's tutorial page here: <http://ge
 | NCBI   | RefSeq genomes                 | Huge                      | <ftp://ftp.ncbi.nlm.nih.gov/refseq/release/complete/>  |
 | NCBI   | RefSeq proteins                | Huge                      | <ftp://ftp.ncbi.nlm.nih.gov/refseq/release/complete/>  |
 | HMPDACC| HMPREFG                        | Human body-site specific                          | <http://www.hmpdacc.org/HMREFG/> |
-| Metaphlan | Metaphlan lineage-specific  | 
+| Metaphlan | Metaphlan lineage-specific  |  | |
 
 
 For more information about databases, see: http://camera.calit2.net/camdata.shtm

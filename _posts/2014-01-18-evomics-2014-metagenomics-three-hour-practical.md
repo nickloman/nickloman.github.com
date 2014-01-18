@@ -70,7 +70,7 @@ You can read more about seqtk at C. Titus Brown's tutorial page here: <http://ge
 | NCBI   | Non-redundant proteins (nr)    | Pre-built BLAST database  | <ftp://ftp.ncbi.nlm.nih.gov/blast/db/> |
 | NCBI   | Non-redundant nucleotides (nt) | Pre-built BLAST database  | <ftp://ftp.ncbi.nlm.nih.gov/blast/db/> |
 | NCBI   | Microbial RefSeq genomes       |                           | <ftp://ftp.ncbi.nlm.nih.gov/refseq/release/microbial/> |
-| NCBI   | Microbial RefSeq proteins      | *.faa files               | <ftp://ftp.ncbi.nlm.nih.gov/refseq/release/microbial/> |
+| NCBI   | Microbial RefSeq proteins      | \*.faa files               | <ftp://ftp.ncbi.nlm.nih.gov/refseq/release/microbial/> |
 | NCBI   | RefSeq genomes                 | Huge                      | <ftp://ftp.ncbi.nlm.nih.gov/refseq/release/complete/>  |
 | NCBI   | RefSeq proteins                | Huge                      | <ftp://ftp.ncbi.nlm.nih.gov/refseq/release/complete/>  |
 | HMPDACC| HMPREFG                        | Human body-site specific                          | <http://www.hmpdacc.org/HMREFG/> |
@@ -99,34 +99,33 @@ Others: BLASTZ, mpiBLAST (@yokofakun), USEARCH (@guyleonard), RAPsearch2
 The easiest and fastest way is to use the rsync protocol which is supported by NCBI:
 
     rsync -avz rsync://ftp.ncbi.nlm.nih.gov/refseq/release/microbial/ \
-       --include "*/" --include "*.faa.gz" --exclude "*" .
+       --include "\*/" --include "\*.faa.gz" --exclude "\*" .
 
     rsync -avz rsync://ftp.ncbi.nlm.nih.gov/refseq/release/microbial/ \
-       --include "*/" --include "*.genomic.gz" --exclude "*" .
+       --include "\*/" --include "\*.genomic.gz" --exclude "\*" .
    
 ftp://ftp.ncbi.nlm.nih.gov/refseq/release/microbial/microbial.10.1.genomic.fna.gz    
-This command will download all files matching the pattern '*.faa.gz', i.e. microbial protein sequences.
+This command will download all files matching the pattern '\*.faa.gz', i.e. microbial protein sequences.
 
 Now we need to concatenate them all together:
 
-    zcat *.gz > microbial_refseq.faa
+    zcat \*.gz > microbial_refseq.faa
 
 ### Taxonomic assignments with LAST
-
 
 ####Creating the LAST database 
 
 Before we can search our reads, we need to build the database.
 
-	$ bin/last-291/src/lastdb microbial.lastdb <(zcat refs/microbial*)
+	$ bin/last-291/src/lastdb microbial.lastdb <(zcat refs/microbial\*)
 
-This is an example of _redirection_: we are redirecting the output of the command 'zcat refs/microbial*' as the FASTA input. This saves us having to decompress and concatenate the file.
+This is an example of _redirection_: we are redirecting the output of the command 'zcat refs/microbial\*' as the FASTA input. This saves us having to decompress and concatenate the file.
 
 	lastdb: that's some funny-lookin DNA
 
 Woops! We need to provide -p option to tell LAST we are indexing a protein database.
 
-	$ bin/last-291/src/lastdb -p microbial.lastdb <(zcat refs/microbial*)
+	$ bin/last-291/src/lastdb -p microbial.lastdb <(zcat refs/microbial\*)
 
 This process takes an hour or two on a fast server, and consumes quite a lot of memory. 
 

@@ -44,8 +44,7 @@ Aim for 0.3 ng/ul for Nextera input to generate longer fragments:
 |S506 | 21         | 22    | 53     | 54   |
 |S507 | 55         | 62    | 91     | 92   |
 
-
- - PCR
+## PCR
  
 Watch out for any problems with sample 53, may need re-running.
 

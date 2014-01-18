@@ -20,7 +20,7 @@ Test with Nextera kits. Concentrations determined by Nanodrop.
 | 91        | Mucoid                 | 70.88        |
 | 92        | Non-mucoid             | 137.8        |
 
-##Dilutions
+## Dilutions
 
 Aim for 0.3 ng/ul for Nextera input to generate longer fragments:
 
@@ -35,9 +35,9 @@ Aim for 0.3 ng/ul for Nextera input to generate longer fragments:
 | 91         | 7.088 | n/a    | 0.7088 | 2.1              | 2.9
 | 92         | 13.78 | n/a    | 1.378  | 1.1              | 3.9
 
- - Routine Nextera tagmentation protocol
+Routine Nextera tagmentation protocol
  
-##Barcodes
+## Barcodes
 
 |     | N909       | N910  | N911   | N912 |
 |-----|------------|-------|--------|------|

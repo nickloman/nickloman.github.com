@@ -9,18 +9,18 @@ tags: []
 
 ##Whole-genome shotgun metagenomics learning objectives
 
-- Know how to subsample reads from a FASTQ file without losing paired-information [20 minutes]
-- Know how to perform basic taxonomic assignment using a marker-gene method: MetaPhlan [10 minutes]
-- Assess the impact sampling has on discovery of taxa [20 minutes]
-- Know how to use MEGAN to visualise taxonomic information [30 minutes]
-- Understand how the Least Common Ancestor parameters affect sensitivity and specificity of taxonomic assignments [20 minutes]
-- Know how to use MEGAN to visualise functional information [30 minutes]
-- Understand how to compare multiple samples in MEGAN [30 minutes]
+- Know how to subsample reads from a FASTQ file without losing paired-information (20 minutes)
+- Know how to perform basic taxonomic assignment using a marker-gene method: MetaPhlan (10 minutes)
+- Assess the impact sampling has on discovery of taxa (20 minutes)
+- Know how to use MEGAN to visualise taxonomic information (30 minutes)
+- Understand how the Least Common Ancestor parameters affect sensitivity and specificity of taxonomic assignments (20 minutes)
+- Know how to use MEGAN to visualise functional information (30 minutes)
+- Understand how to compare multiple samples in MEGAN (30 minutes)
 
 ###Optional, more advanced objectives (if you finish, or when back at home)
-- Know how to generate a heatmap of taxa from Metaphlan results [20 minutes]
-- Assemble a metagenome with Velvet [30 minutes]
-- Know how to perform basic taxonomic and functional assignment using a sequence similarity method: BLAST/RapSearch2 [10 minutes]
+- Know how to generate a heatmap of taxa from Metaphlan results (20 minutes)
+- Assemble a metagenome with Velvet (30 minutes)
+- Know how to perform basic taxonomic and functional assignment using a sequence similarity method: BLAST/RapSearch2 (10 minutes)
 
 ##Datasets for this practical
 
@@ -199,7 +199,7 @@ In this example, the clustering is performed with "average" linkage (default -m 
 | NCBI   | Non-redundant proteins (nr)    | Pre-built BLAST database  | <ftp://ftp.ncbi.nlm.nih.gov/blast/db/> |
 | NCBI   | Non-redundant nucleotides (nt) | Pre-built BLAST database  | <ftp://ftp.ncbi.nlm.nih.gov/blast/db/> |
 | NCBI   | Microbial RefSeq genomes       |                           | <ftp://ftp.ncbi.nlm.nih.gov/refseq/release/microbial/> |
-| NCBI   | Microbial RefSeq proteins      | *.faa files               | <ftp://ftp.ncbi.nlm.nih.gov/refseq/release/microbial/> |
+| NCBI   | Microbial RefSeq proteins      | \*.faa files               | <ftp://ftp.ncbi.nlm.nih.gov/refseq/release/microbial/> |
 | NCBI   | RefSeq genomes                 | Huge                      | <ftp://ftp.ncbi.nlm.nih.gov/refseq/release/complete/>  |
 | NCBI   | RefSeq proteins                | Huge                      | <ftp://ftp.ncbi.nlm.nih.gov/refseq/release/complete/>  |
 | HMPDACC| HMPREFG                        | Human body-site specific                          | <http://www.hmpdacc.org/HMREFG/> |

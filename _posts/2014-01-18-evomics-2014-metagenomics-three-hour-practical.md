@@ -65,7 +65,7 @@ This command shows how to subsample 100,000 read pairs from two large paired FAS
 	seqtk sample -s100 pair1.fastq.gz 100000 > <MYREADS>_1.fastq
 	seqtk sample -s100 pair2.fastq.gz 100000 > <MYREADS>_2.fastq
 
-Replace \<MYREADS\> with an informative name, so if you are dealing with sample 2638 and have subsampled 10000 reads then perhaps `2638_10000_1.fastq` would be sensible.
+Replace &lt;MYREADS&gt; with an informative name, so if you are dealing with sample 2638 and have subsampled 10000 reads then perhaps `2638_10000_1.fastq` would be sensible.
 
 You can read more about seqtk at C. Titus Brown's tutorial page here: <http://ged.msu.edu/angus/tutorials-2013/seqtk_tools.html>
 

@@ -98,6 +98,7 @@ Q3. How long did each file take to run? (hint prepend time to your command)
 Q4. What are the relative proportions of the most abundant phyla?  What about species?
 
 Update the Google Docs spreadsheet here with your results:
+<http://tinyurl.com/metaphlanresults>
 
 Q5. How many different genera were detected at each sampling level?
 

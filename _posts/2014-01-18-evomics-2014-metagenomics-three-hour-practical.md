@@ -76,6 +76,10 @@ The Metaphlan home page is here: <http://huttenhower.sph.harvard.edu/metaphlan>
 
 Metaphlan can use either BLAST or Bowtie2 for assignments. Bowtie2 is significantly faster, so we will use that. It should be already on your path.
 
+Metaphlan doesn't need paired-end information, so you can just join your two files together to make use of all the data:
+
+	cat subsampled_reads1.fastq subsampled_reads2.fastq > subsampled_reads.fastq
+
 	metaphlan.py subsampled_reads.fastq --bowtie2db ~/software/metaphlan/bowtie --bt2_ps sensitive-local --nproc 8
 	
 The output will be sent to *stdout*, so you need to redirect it to a file, remember you can do this with > e.g. metaphlan.py .. > outfile.

@@ -24,7 +24,7 @@ tags: []
 
 ##Datasets for this practical
 
-For this practical we will use some real clinical metagenomics data from the E. coli outbreak in 2011, published in this JAMA article: http://jama.jamanetwork.com/article.aspx?articleid=1677374
+For this practical we will use some real clinical metagenomics data from the E. coli outbreak in 2011, published in this JAMA article: <http://jama.jamanetwork.com/article.aspx?articleid=1677374>
 
 *List* the contents of the the ~/shotgun\_metagenomics/ directory (remember ~ is just a short-cut for your home directory, e.g. /home/ubuntu, so this is the same as /home\/ubuntu/shotgun_metagenomics).
 
@@ -63,8 +63,10 @@ Test it works:
 
 This command shows how to subsample 100,000 read pairs from two large paired FASTQ files (remember to use the same random seed to keep pairing). Seqtk is smart enough to understand whether a file is zipped or not, so you don't need to unzip them first, but it will always output uncompressed files.
 	
-	seqtk sample -s100 pair1.fastq.gz 100000 > subsampled_reads1.fastq
-	seqtk sample -s100 pair2.fastq.gz 100000 > subsampled_reads2.fastq
+	seqtk sample -s100 pair1.fastq.gz 100000 > <MYREADS>_1.fastq
+	seqtk sample -s100 pair2.fastq.gz 100000 > <MYREADS>_2.fastq
+
+Replace MYREADS with an informative name, so if you are dealing with sample 2638 and have subsampled 10000 reads then perhaps `2638_10000_1.fastq` would be sensible.
 
 You can read more about seqtk at C. Titus Brown's tutorial page here: <http://ged.msu.edu/angus/tutorials-2013/seqtk_tools.html>
 
@@ -78,15 +80,17 @@ Metaphlan can use either BLAST or Bowtie2 for assignments. Bowtie2 is significan
 
 Metaphlan doesn't need paired-end information, so you can just join your two files together to make use of all the data:
 
-	cat subsampled_reads1.fastq subsampled_reads2.fastq > subsampled_reads.fastq
+	cat <MYREADS>.fastq <MYREADS>_2.fastq > <MYREADS>.fastq
 
-	metaphlan.py subsampled_reads.fastq --bowtie2db ~/software/metaphlan/bowtie2db/mpa --bt2_ps sensitive-local --nproc 8
+	metaphlan.py <MYREADS>.fastq --bowtie2db ~/software/metaphlan/bowtie2db/mpa --bt2_ps sensitive-local --nproc 8
 	
 The output will be sent to *stdout*, so you need to redirect it to a file, remember you can do this:
 
-	metaphlan.py subsampled_reads.fastq --bowtie2db ~/software/metaphlan/bowtie2db/mpa --bt2_ps sensitive-local --nproc 8 > my_results.txt
+	metaphlan.py <MYREADS>.fastq --bowtie2db ~/software/metaphlan/bowtie2db/mpa --bt2_ps sensitive-local --nproc 8 > my_results.txt
 
 Run metaphlan for subsamplings of 1000, 10000, 100000 and 1000000 reads. 
+
+*Hint*: Each time you run Metaphlan it will produce an output file named according to the input file. Metaphlan will not run if that file already exists, so ensure you use a different input file each file, or delete the file it produces which ends in 
 
 ##Questions
 
@@ -95,6 +99,8 @@ How long did each file take to run? (hint prepend time to your command)
 What are the relative proportions of the most abundant phyla?  What about species?
 
 Update the Google Docs spreadsheet here with your results:
+
+<https://docs.google.com/spreadsheet/ccc?key=0AkNPpmDaw5GhdFlzRklCcXBKaVBGNFJwcWtzUVhWaEE#gid=0>
 
 How many different genera were detected at each sampling level?
 
@@ -141,7 +147,7 @@ Because generating the BLAST format files takes so long, we have precomputed the
 
 Start by downloading the results file for a random subsampling of 250,000 reads from the 2638-H dataset:
 
- - http://nick-evomics.s3.amazonaws.com/2638-H-STEC.rap.rma
+ - <http://nick-evomics.s3.amazonaws.com/2638-H-STEC.rap.rma>
 
 Load this file into MEGAN.
 
@@ -153,11 +159,13 @@ Which taxon has the most assignments made to it?
 
 What level does this taxon belong to?
 
-Why are reads being assigned at this level? Is it reasonable?
+Why are so many reads being assigned at this level? Is it reasonable?
+
+*Hint*: Inspect the read alignments by using right-mouse click (secondary click on Mac) on the nodes and chosing "Inspect reads".
 
 Are there species in there that are unexpected?
 
-What do the alignments look like?
+What do the alignments look like? Are they good quality? Are they full-length?
 
 Can you change the LCA parameters to make the results more specific?
 
@@ -173,7 +181,7 @@ Are there remaining species that don't make sense?
 
 Inspect some taxa. Are there any you feel confident calling as present? Are there any you don't feel confident about? Why?
 
-For more information on using MEGAN, see the user manual: <http://ab.inf.uni-tuebingen.de/data/software/megan4/download/manual.pdf>
+For more information on using MEGAN, see the user manual: <http://ab.inf.uni-tuebingen.de/data/software/megan5/download/manual.pdf>
 
 Try looking at the functional mode.
 
@@ -181,46 +189,46 @@ Does this sample have the Shiga-toxin detected (hint: look under Human Diseases 
 
 Now, download some more files, you can choose one, or several from this list! If you relate the file names to the original paper we published you could even put together a hypothesis to test (note the diagnosis is in the file name).
 
- - http://nick-evomics.s3.amazonaws.com/1122-H-Cdiff.rap.rma
- - http://nick-evomics.s3.amazonaws.com/1196-H-Salm.rap.rma
- - http://nick-evomics.s3.amazonaws.com/1196-N21-Salmonella.rap.rma
- - http://nick-evomics.s3.amazonaws.com/1253-H-Cdiff.rap.rma
- - http://nick-evomics.s3.amazonaws.com/2535-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/2535b-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/2638-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/2661-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/2668-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/2723-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/2741-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/2752-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/2758-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/2772-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/2828-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/2840-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/2848-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/2849-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/2878-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/2880-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/2896-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/2971-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/3014-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/3093-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/3132-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/3134-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/3135-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/3185-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/3303-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/3549-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/3587-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/3646-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/3751-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/3852-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/3958-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/4096-H-Salm.rap.rma
- - http://nick-evomics.s3.amazonaws.com/4096-N2-Salmonella.rap.rma
- - http://nick-evomics.s3.amazonaws.com/4112-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/4141-H-STEC.rap.rma
- - http://nick-evomics.s3.amazonaws.com/4168-H-STEC.rap.rma
+ - <http://nick-evomics.s3.amazonaws.com/1122-H-Cdiff.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/1196-H-Salm.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/1196-N21-Salmonella.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/1253-H-Cdiff.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/2535-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/2535b-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/2638-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/2661-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/2668-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/2723-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/2741-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/2752-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/2758-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/2772-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/2828-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/2840-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/2848-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/2849-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/2878-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/2880-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/2896-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/2971-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/3014-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/3093-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/3132-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/3134-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/3135-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/3185-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/3303-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/3549-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/3587-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/3646-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/3751-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/3852-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/3958-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/4096-H-Salm.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/4096-N2-Salmonella.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/4112-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/4141-H-STEC.rap.rma>
+ - <http://nick-evomics.s3.amazonaws.com/4168-H-STEC.rap.rma>
  
 Try the MEGAN comparison mode.
 
@@ -287,7 +295,7 @@ In this example, the clustering is performed with "average" linkage (default -m 
 | Metaphlan | Metaphlan lineage-specific  |  | |
 
 
-For more information about databases, see: http://camera.calit2.net/camdata.shtm
+For more information about databases, see: <http://camera.calit2.net/camdata.shtm
 
 #### Comparison of software for reference-based taxonomic classification
 

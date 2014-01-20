@@ -82,7 +82,9 @@ Metaphlan doesn't need paired-end information, so you can just join your two fil
 
 	metaphlan.py subsampled_reads.fastq --bowtie2db ~/software/metaphlan/bowtie --bt2_ps sensitive-local --nproc 8
 	
-The output will be sent to *stdout*, so you need to redirect it to a file, remember you can do this with > e.g. metaphlan.py .. > outfile.
+The output will be sent to *stdout*, so you need to redirect it to a file, remember you can do this:
+
+	metaphlan.py subsampled_reads.fastq --bowtie2db ~/software/metaphlan/bowtie --bt2_ps sensitive-local --nproc 8 > my_results.txt
 
 Run metaphlan for subsamplings of 1000, 10000, 100000 and 1000000 reads. 
 

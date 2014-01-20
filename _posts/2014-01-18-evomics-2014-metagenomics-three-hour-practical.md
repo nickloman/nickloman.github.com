@@ -28,10 +28,9 @@ For this practical we will use some real clinical metagenomics data from the E. 
 
 *List* the contents of the the ~/shotgun\_metagenomics/ directory (remember ~ is just a short-cut for your home directory, e.g. /home/ubuntu, so this is the same as /home\/ubuntu/shotgun_metagenomics).
 
-What format are the reads, and what can you deduce about the sequencing from them?
-A: They are *paired-end reads* in FASTQ format, 150 bases long.
+Q1. What format are the reads, and what can you deduce about the sequencing from them?
 
-How many reads are in the biggest and the smallest files? A:
+Q2. How many reads are in the biggest and the smallest files?
 
 Initially, perform your work on the 2638-N12-STEC dataset.
 
@@ -94,16 +93,16 @@ Run metaphlan for subsamplings of 1000, 10000, 100000 and 1000000 reads.
 
 ##Questions
 
-How long did each file take to run? (hint prepend time to your command)
+Q3. How long did each file take to run? (hint prepend time to your command)
 
-What are the relative proportions of the most abundant phyla?  What about species?
+Q4. What are the relative proportions of the most abundant phyla?  What about species?
 
 Update the Google Docs spreadsheet here with your results:
 <https://docs.google.com/spreadsheet/ccc?key=0AkNPpmDaw5GhdFlzRklCcXBKaVBGNFJwcWtzUVhWaEE&amp;usp=sharing>
 
-How many different genera were detected at each sampling level?
+Q5. How many different genera were detected at each sampling level?
 
-How long did this take to run? (Hint: prepend `time` to your command).
+Q6. How long did this take to run? (Hint: prepend `time` to your command).
 
 ##Advanced usage
 There are other useful values of `-t` you can use other than `rel_ab`, the default:
@@ -149,23 +148,23 @@ Start by downloading the results file for a random subsampling of 250,000 reads 
 
  - <http://nick-evomics.s3.amazonaws.com/2638-H-STEC.rap.rma>
 
-Load this file into MEGAN.
+Load this file into MEGAN (MEGAN is available under the "Other" menu on the desktop).
 
 Have a look at the assignments.
 
-How do they compare to your Metaphlan results? Are more taxa predicted or fewer?
+Q7. How do they compare to your Metaphlan results? Are more taxa predicted or fewer?
 
-Which taxon has the most assignments made to it?
+Q8. Which taxon has the most assignments made to it?
 
-What level does this taxon belong to?
+Q9. What taxonomic level does this taxon belong to?
 
-Why are so many reads being assigned at this level? Is it reasonable?
+Q10. Why are so many reads being assigned at this level? Is it reasonable?
 
 *Hint*: Inspect the read alignments by using right-mouse click (secondary click on Mac) on the nodes and chosing "Inspect reads".
 
-Are there species in there that are unexpected?
+Q11. Are there species in there that are unexpected?
 
-What do the alignments look like? Are they good quality? Are they full-length?
+Q12. What do the alignments look like? Are they good quality? Are they full-length?
 
 Can you change the LCA parameters to make the results more specific?
 
@@ -177,15 +176,15 @@ Experiment more.
 
 How about now?
 
-Are there remaining species that don't make sense?
+Q13. Are there remaining species that don't make sense?
 
-Inspect some taxa. Are there any you feel confident calling as present? Are there any you don't feel confident about? Why?
+Q14. Inspect some taxa. Are there any you feel confident calling as present? Are there any you don't feel confident about? Why?
 
 For more information on using MEGAN, see the user manual: <http://ab.inf.uni-tuebingen.de/data/software/megan5/download/manual.pdf>
 
-Try looking at the functional mode.
+Try looking at the functional mode by clicking on the KEGG icon.
 
-Does this sample have the Shiga-toxin detected (hint: look under Human Diseases category) ?
+Q15. Does this sample have the Shiga-toxin genes in it? (hint: look under Human Diseases category) ?
 
 Now, download some more files, you can choose one, or several from this list! If you relate the file names to the original paper we published you could even put together a hypothesis to test (note the diagnosis is in the file name).
 
@@ -230,9 +229,11 @@ Now, download some more files, you can choose one, or several from this list! If
  - <http://nick-evomics.s3.amazonaws.com/4141-H-STEC.rap.rma>
  - <http://nick-evomics.s3.amazonaws.com/4168-H-STEC.rap.rma>
  
-Try the MEGAN comparison mode.
+Try out the MEGAN comparison mode by opening a few files.
 
+Q16. Which sample (of the ones you picked) has the most *Escherichia* ?
 
+If you get this far before the recap, try assembling one of the files with Velvet or one of the other assemblers you use last week.
 
 ##Advanced
 
@@ -268,15 +269,7 @@ Here the settings mean:
 
 In this example, the clustering is performed with "average" linkage (default -m average), using "Bray-Curtis" distance for clades (default -d braycurtis) and "correlation" for samples (default -f correlation).
 
-
-###MEGAN with assembled data
-
-Get the assembly RMA file from here
-
-Steps to generate this:
-
-
-##Advanced reference material
+##Reference material
 
 
 #### Reference databases used for taxonomy
@@ -329,9 +322,15 @@ Now we need to concatenate them all together:
 
 #Rapsearch2
 
-/mnt/phatso/nick/CICRA/bin/RAPSearch2.15_64bits/bin/prerapsearch -d /mnt/fast/blast/ncbi/nr-06052012/nr -n nr
+Download NR <ftp://ftp.ncbi.nih.gov/blast/db/FASTA/nr.gz>. Rapsearch2 takes FASTA as input, so convert using seqtk:
 
-/mnt/phatso/nick/CICRA/bin/RAPSearch2.15_64bits/bin/rapsearch -q 2638-H.fasta -d ~/metagenomics_databases/nr -z 16 -o 2638.rap -b 50 -v 50 -a t
+	seqtk seq -A <MYREADS>.fastq > <MYREADS>.fasta
+
+	gunzip nr.gz
+		
+	prerapsearch -d nr -n nr
+
+	rapsearch -q <MYREADS>.fasta -d ~/metagenomics_databases/nr -z 16 -o 2638.rap -b 50 -v 50 -a t
 
 ### Taxonomic assignments with LAST
 
@@ -350,8 +349,6 @@ Woops! We need to provide -p option to tell LAST we are indexing a protein datab
 	$ bin/last-291/src/lastdb -p microbial.lastdb <(zcat refs/microbial\*)
 
 This process takes an hour or two on a fast server, and consumes quite a lot of memory. 
-
-
 
 #### Assigning reads with LAST
 

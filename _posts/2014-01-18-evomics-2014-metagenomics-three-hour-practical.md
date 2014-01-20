@@ -90,7 +90,7 @@ The output will be sent to *stdout*, so you need to redirect it to a file, remem
 
 Run metaphlan for subsamplings of 1000, 10000, 100000 and 1000000 reads. 
 
-*Hint*: Each time you run Metaphlan it will produce an output file named according to the input file. Metaphlan will not run if that file already exists, so ensure you use a different input file each file, or delete the file it produces which ends in 
+*Hint*: Each time you run Metaphlan it will produce an output file named according to the input file. Metaphlan will not run if that file already exists, so ensure you use a different input file each file, or delete the file it produces which is named `<MYREADS>.bowtie2out.txt`.
 
 ##Questions
 
@@ -100,7 +100,7 @@ What are the relative proportions of the most abundant phyla?  What about specie
 
 Update the Google Docs spreadsheet here with your results:
 
-<https://docs.google.com/spreadsheet/ccc?key=0AkNPpmDaw5GhdFlzRklCcXBKaVBGNFJwcWtzUVhWaEE#gid=0>
+<https://docs.google.com/spreadsheet/ccc?key=0AkNPpmDaw5GhdFlzRklCcXBKaVBGNFJwcWtzUVhWaEE>
 
 How many different genera were detected at each sampling level?
 
@@ -116,6 +116,7 @@ There are other useful values of `-t` you can use other than `rel_ab`, the defau
 * `marker_pres_table`: list of markers present in the sample (threshold at 1.0 if not differently specified with --pres_th
 
 Now, go back to the beginning, choosing a new sample.
+If you finish this before the recap, then try yet another sample and then go on to the heatmap generation exercise under the *Advanced* section.
 
 ## Visualizing results
 
@@ -236,28 +237,21 @@ Try the MEGAN comparison mode.
 
 ##Advanced
 
-###MEGAN with assembled data
-
-Get the assembly RMA file from here
-
-Steps to generate this:
-
-
-
 ### Metaphlan
 
 #### Heatmaps of multiple samples
 
 Metaphlan comes with some plotting scripts which permit the generation of heatmaps.
 
-You need to merge the results from Metaphlan:
+You need to merge the results you generated from Metaphlan each sample:
 
-    merge_metaphlan_tables.py <table1> <table2> <table3> … > merged_table.txt
+    ~/software/metaphlan/utils/merge_metaphlan_tables.py <table1> <table2> <table3> <tableN..> > merged_table.txt
     
 Top 10 genera:
 
-	/home/ubuntu/software/metaphlan/plotting_scriptsmetaphlan_hclust_heatmap.pymetaphlan_hclust_heatmap.py --in merged_table.txt --out test.png
---tax_lev g --top 10
+	~/software/metaphlan/plotting_scripts/metaphlan_hclust_heatmap.py --in merged_table.txt --out test.png --tax_lev g --top 10
+
+Open the `test.png` file after you have created it.
 
 A more complex example (from the Metaphlan tutorial <https://bitbucket.org/nsegata/metaphlan/wiki/MetaPhlAn_Pipelines_Tutorial>)
 
@@ -276,6 +270,11 @@ Here the settings mean:
 In this example, the clustering is performed with "average" linkage (default -m average), using "Bray-Curtis" distance for clades (default -d braycurtis) and "correlation" for samples (default -f correlation).
 
 
+###MEGAN with assembled data
+
+Get the assembly RMA file from here
+
+Steps to generate this:
 
 
 ##Advanced reference material

@@ -65,7 +65,7 @@ This command shows how to subsample 100,000 read pairs from two large paired FAS
 	seqtk sample -s100 pair1.fastq.gz 100000 > <MYREADS>_1.fastq
 	seqtk sample -s100 pair2.fastq.gz 100000 > <MYREADS>_2.fastq
 
-Replace &lt;MYREADS&gt; with an informative name, so if you are dealing with sample 2638 and have subsampled 10000 reads then perhaps `2638_10000_1.fastq` would be sensible.
+Replace <MYREADS> with an informative name, so if you are dealing with sample 2638 and have subsampled 10000 reads then perhaps `2638_10000_1.fastq` would be sensible.
 
 You can read more about seqtk at C. Titus Brown's tutorial page here: <http://ged.msu.edu/angus/tutorials-2013/seqtk_tools.html>
 
@@ -98,7 +98,6 @@ Q3. How long did each file take to run? (hint prepend time to your command)
 Q4. What are the relative proportions of the most abundant phyla?  What about species?
 
 Update the Google Docs spreadsheet here with your results:
-<https://docs.google.com/spreadsheet/ccc?key=0AkNPpmDaw5GhdFlzRklCcXBKaVBGNFJwcWtzUVhWaEE&amp;usp=sharing>
 
 Q5. How many different genera were detected at each sampling level?
 

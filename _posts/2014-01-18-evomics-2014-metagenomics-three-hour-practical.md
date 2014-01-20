@@ -99,6 +99,7 @@ How long did each file take to run? (hint prepend time to your command)
 What are the relative proportions of the most abundant phyla?  What about species?
 
 Update the Google Docs spreadsheet here with your results:
+<https://docs.google.com/spreadsheet/ccc?key=0AkNPpmDaw5GhdFlzRklCcXBKaVBGNFJwcWtzUVhWaEE&amp;usp=sharing>
 
 How many different genera were detected at each sampling level?
 

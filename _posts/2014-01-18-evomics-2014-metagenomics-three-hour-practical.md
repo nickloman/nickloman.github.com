@@ -47,7 +47,7 @@ Test it works:
 	Usage:   seqtk <command> <arguments>
 
 	Command: seq       common transformation of FASTA/Q
-    	     comp      get the nucleotide composition of FASTA/Q
+             comp      get the nucleotide composition of FASTA/Q
          	 sample    subsample sequences
         	 subseq    extract subsequences from FASTA/Q
          	 trimfq    trim FASTQ using the Phred algorithm
@@ -65,7 +65,7 @@ This command shows how to subsample 100,000 read pairs from two large paired FAS
 	seqtk sample -s100 pair1.fastq.gz 100000 > <MYREADS>_1.fastq
 	seqtk sample -s100 pair2.fastq.gz 100000 > <MYREADS>_2.fastq
 
-Replace MYREADS with an informative name, so if you are dealing with sample 2638 and have subsampled 10000 reads then perhaps `2638_10000_1.fastq` would be sensible.
+Replace \<MYREADS\> with an informative name, so if you are dealing with sample 2638 and have subsampled 10000 reads then perhaps `2638_10000_1.fastq` would be sensible.
 
 You can read more about seqtk at C. Titus Brown's tutorial page here: <http://ged.msu.edu/angus/tutorials-2013/seqtk_tools.html>
 
@@ -269,142 +269,11 @@ Here the settings mean:
 
 In this example, the clustering is performed with "average" linkage (default -m average), using "Bray-Curtis" distance for clades (default -d braycurtis) and "correlation" for samples (default -f correlation).
 
-##Reference material
+### Creating BLAST files for MEGAN
+
+If you are interested in creating BLAST files for MEGAN so you can run it yourself, please see the reference material on my blog at:
+
+<http://pathogenomics.bham.ac.uk/blog/2013/08/methods-for-taxonomic-assignment-of-shotgun-whole-genome-metagenomics-reads/>
 
 
-#### Reference databases used for taxonomy
-
-| Source | Database                       | Notes                     | Link  |
-|--------|--------------------------------|---------------------------|-------|
-| NCBI   | Non-redundant proteins (nr)    | Pre-built BLAST database  | <ftp://ftp.ncbi.nlm.nih.gov/blast/db/> |
-| NCBI   | Non-redundant nucleotides (nt) | Pre-built BLAST database  | <ftp://ftp.ncbi.nlm.nih.gov/blast/db/> |
-| NCBI   | Microbial RefSeq genomes       |                           | <ftp://ftp.ncbi.nlm.nih.gov/refseq/release/microbial/> |
-| NCBI   | Microbial RefSeq proteins      | \*.faa files               | <ftp://ftp.ncbi.nlm.nih.gov/refseq/release/microbial/> |
-| NCBI   | RefSeq genomes                 | Huge                      | <ftp://ftp.ncbi.nlm.nih.gov/refseq/release/complete/>  |
-| NCBI   | RefSeq proteins                | Huge                      | <ftp://ftp.ncbi.nlm.nih.gov/refseq/release/complete/>  |
-| HMPDACC| HMPREFG                        | Human body-site specific                          | <http://www.hmpdacc.org/HMREFG/> |
-| Metaphlan | Metaphlan lineage-specific  |  | |
-
-
-For more information about databases, see: <http://camera.calit2.net/camdata.shtm>
-
-#### Comparison of software for reference-based taxonomic classification
-
-| Programme | Input            | Space         | Sensitivity   | Speed |
-|-----------|------------------|---------------|---------------|-------|
-| BLASTN    | Contigs or reads | nuc           |    -          | Slow  |
-| BLASTX    | Contigs or reads | prot          |    ++         | Slow  |
-| BLAT      | Contigs or reads | nuc/prot      |    -/+        | Medium|
-| PAUDA     | Reads            | prot (pseudo) |    +          | Fast  |    
-| LAST      | Contigs or reads | nuc/prot      |    -/+        | Fast  |
-| Metaphlan | Reads            | nuc           |    ?          | V.fast|
-| BWA       | Reads            | nuc           |    -          | V.fast|
-| Bowtie2   | Reads            | nuc           |    -          | V.fast|
-
-Others: BLASTZ, mpiBLAST (@yokofakun), USEARCH (@guyleonard), RAPsearch2
-
-####How to fetch Microbial Protein Sequences
-
-The easiest and fastest way is to use the rsync protocol which is supported by NCBI:
-
-    rsync -avz rsync://ftp.ncbi.nlm.nih.gov/refseq/release/microbial/ \
-       --include "*/" --include "*.faa.gz" --exclude "\*" .
-
-    rsync -avz rsync://ftp.ncbi.nlm.nih.gov/refseq/release/microbial/ \
-       --include "*/" --include "*.genomic.gz" --exclude "\*" .
-   
-ftp://ftp.ncbi.nlm.nih.gov/refseq/release/microbial/microbial.10.1.genomic.fna.gz    
-This command will download all files matching the pattern '\*.faa.gz', i.e. microbial protein sequences.
-
-Now we need to concatenate them all together:
-
-    zcat \*.gz > microbial_refseq.faa
-
-#Rapsearch2
-
-Download NR <ftp://ftp.ncbi.nih.gov/blast/db/FASTA/nr.gz>. Rapsearch2 takes FASTA as input, so convert using seqtk:
-
-	seqtk seq -A <MYREADS>.fastq > <MYREADS>.fasta
-
-	gunzip nr.gz
-		
-	prerapsearch -d nr -n nr
-
-	rapsearch -q <MYREADS>.fasta -d ~/metagenomics_databases/nr -z 16 -o 2638.rap -b 50 -v 50 -a t
-
-### Taxonomic assignments with LAST
-
-####Creating the LAST database 
-
-Before we can search our reads, we need to build the database.
-
-	$ bin/last-291/src/lastdb microbial.lastdb <(zcat refs/microbial\*)
-
-This is an example of _redirection_: we are redirecting the output of the command 'zcat refs/microbial\*' as the FASTA input. This saves us having to decompress and concatenate the file.
-
-	lastdb: that's some funny-lookin DNA
-
-Woops! We need to provide -p option to tell LAST we are indexing a protein database.
-
-	$ bin/last-291/src/lastdb -p microbial.lastdb <(zcat refs/microbial\*)
-
-This process takes an hour or two on a fast server, and consumes quite a lot of memory. 
-
-#### Assigning reads with LAST
-
-LAST will take FASTQ files, but only for nucleotide databases. We are going to use the six-frame translated mode, as indicated by the `-F15` option. In this mode, LAST requires FASTA output!
- 
-Here's the l33t way to do it:
-
-	time lastal -F15 microbial.last \
-		<(seqtk seq -A datasets/ecoli/subsample/1122-H_1.fastq) \
-		>1122_H_1.maf
-
-	real	3m25.313s
-	user	3m15.316s
-	sys	    0m10.028s
-
-This is the same as:
-
-	seqtk seq -A datasets/ecoli/subsample/1122-H_1.fastq > 1122_H_1.fasta
-	lastal -F15 microbial.last 1122_H_1.fasta > 1122_H_1.maf
-	
-But you save having to create an intermediate FASTA file.
-
-Questions: How long did it take to assign 100,000 reads with LAST?
-
-#### Convert LAST results to BLAST format
-
-Unfortunately, LAST outputs MAF format which cannot be easily read by MEGAN, which we will use later.
-
-	maf-convert.py blast 1122-H.maf > 1122-H.blast.txt
-
-### Taxonomic assignments with PAUDA (BLASTX-like)
-
-#### Creating the PAUDA database
-
-If you have plenty of memory on the server (e.g. >32Gb):
-
-	PAUDA_TMP_DIR=/dev/shm pauda-build microbia_refseq.faa pauda_index
-
-otherwise:
-
-	pauda-build refs/all.faa pauda_index
-
-
-One of the most notable features of MEGAN is its implementation of the 'Least Common Ancestor' algorithm:
-
-![Megan LCA method](http://static.xbase.ac.uk/files/results/nick/metagenomicscourse/figs/megan-lca.png)
-
-LCA is a very useful method, but it is not infalliable.
-
-![LCA not infalliable](http://static.xbase.ac.uk/files/results/nick/metagenomicscourse/figs/lca-imperfect.jpg)
-
-
-<http://ab.inf.uni-tuebingen.de/data/software/megan4/download/welcome.html>
-
-Get the gi\_taxid\_prot file.
-
-Helpful guide to MEGAN command-line mode:
-http://altimit.wikispaces.com/MEGAN
 

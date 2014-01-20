@@ -26,7 +26,7 @@ tags: []
 
 For this practical we will use some real clinical metagenomics data from the E. coli outbreak in 2011, published in this JAMA article: http://jama.jamanetwork.com/article.aspx?articleid=1677374
 
-*List* the contents of the the ~/shotgun_metagenomics/ directory.
+*List* the contents of the the ~/shotgun\_metagenomics/ directory (remember ~ is just a short-cut for your home directory, e.g. /home/ubuntu, so this is the same as /home\/ubuntu/shotgun_metagenomics).
 
 What format are the reads, and what can you deduce about the sequencing from them?
 A: They are *paired-end reads* in FASTQ format, 150 bases long.
@@ -63,8 +63,8 @@ Test it works:
 
 This command shows how to subsample 100,000 read pairs from two large paired FASTQ files (remember to use the same random seed to keep pairing). Seqtk is smart enough to understand whether a file is zipped or not, so you don't need to unzip them first, but it will always output uncompressed files.
 	
-	seqtk sample -s100 pair1.fastq.gz 100000 > subsampled_reads.fastq
-	seqtk sample -s100 pair1.fastq.gz 100000 > subsampled_reads.fastq
+	seqtk sample -s100 pair1.fastq.gz 100000 > subsampled_reads1.fastq
+	seqtk sample -s100 pair2.fastq.gz 100000 > subsampled_reads2.fastq
 
 You can read more about seqtk at C. Titus Brown's tutorial page here: <http://ged.msu.edu/angus/tutorials-2013/seqtk_tools.html>
 
@@ -109,21 +109,45 @@ Now, go back to the beginning, choosing a new sample.
 
 ### MEGAN
 
-MEGAN is both an analysis software, and a visualization tool. It is very helpful when 'mining' your dataset.
+MEGAN is both a taxonomic analysis software, and a visualization tool. It is very helpful when 'mining' your dataset.
 
-MEGAN takes alignment information as input. This alignment information typically comes from BLAST-format files, but can also come from SAM files produced by short-read aligners such as Bowtie2 and BWA.
+####MEGAN Memory Requirement
 
-Because generating the BLAST format files takes so long, we have precomputed them for you:
+By default, MEGAN uses 2Gb of RAM on 64-bit Linux. This isn't quite enough sometimes, we will make it use 6Gb instead. To do this you need to edit the `/opt/megan/MEGAN.vmoptions` file and change the content from:
 
-Start by downloading the results file for the entire 2638-H dataset, this is about 5.3Gb:
+	-Xmx2000m
+	
+to 
 
-http://nick-evomics.s3.amazonaws.com/2638.rap.rma
+	-Xmx6000m
+
+This needs to be done as sudo. If you are lazy, just run:
+
+	sudo bash -c 'echo "-Xmx6000m" > /opt/megan/MEGAN.vmoptions'
+	
+Check it's  nowright by `cat`ing the file:
+
+	cat /opt/megan/MEGAN.vmoptions
+
+MEGAN takes the results of read alignments as input. This alignment information typically comes from BLAST-format files, but can also come from SAM files produced by short-read aligners such as Bowtie2 and BWA, or the `aln` format from RAPSearch2.
+
+Because generating the BLAST format files takes so long, we have precomputed them for you and generated MEGAN5-compatible files, but see at the bottom :
+
+Start by downloading the results file for a random subsampling of 250,000 reads from the 2638-H dataset:
+
+ - http://nick-evomics.s3.amazonaws.com/2638-H-STEC.rap.rma
+
+Load this file into MEGAN.
 
 Have a look at the assignments.
 
-Are they reasonable?
+How do they compare to your Metaphlan results? Are more taxa predicted or fewer?
 
-How do they compare to the Metaphlan results?
+Which taxon has the most assignments made to it?
+
+What level does this taxon belong to?
+
+Why are reads being assigned at this level? Is it reasonable?
 
 Are there species in there that are unexpected?
 
@@ -145,15 +169,66 @@ Inspect some taxa. Are there any you feel confident calling as present? Are ther
 
 For more information on using MEGAN, see the user manual: <http://ab.inf.uni-tuebingen.de/data/software/megan4/download/manual.pdf>
 
-Now, download some more files.
-
-Try the MEGAN comparison mode.
-
 Try looking at the functional mode.
+
+Does this sample have the Shiga-toxin detected (hint: look under Human Diseases category) ?
+
+Now, download some more files, you can choose one, or several from this list! If you relate the file names to the original paper we published you could even put together a hypothesis to test (note the diagnosis is in the file name).
+
+ - http://nick-evomics.s3.amazonaws.com/1122-H-Cdiff.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/1196-H-Salm.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/1196-N21-Salmonella.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/1253-H-Cdiff.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/2535-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/2535b-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/2638-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/2661-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/2668-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/2723-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/2741-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/2752-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/2758-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/2772-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/2828-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/2840-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/2848-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/2849-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/2878-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/2880-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/2896-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/2971-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/3014-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/3093-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/3132-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/3134-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/3135-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/3185-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/3303-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/3549-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/3587-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/3646-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/3751-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/3852-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/3958-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/4096-H-Salm.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/4096-N2-Salmonella.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/4112-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/4141-H-STEC.rap.rma
+ - http://nick-evomics.s3.amazonaws.com/4168-H-STEC.rap.rma
+ 
+Try the MEGAN comparison mode.
 
 
 
 ##Advanced
+
+###MEGAN with assembled data
+
+Get the assembly RMA file from here
+
+Steps to generate this:
+
+
 
 ### Metaphlan
 
@@ -320,4 +395,7 @@ LCA is a very useful method, but it is not infalliable.
 <http://ab.inf.uni-tuebingen.de/data/software/megan4/download/welcome.html>
 
 Get the gi\_taxid\_prot file.
+
+Helpful guide to MEGAN command-line mode:
+http://altimit.wikispaces.com/MEGAN
 

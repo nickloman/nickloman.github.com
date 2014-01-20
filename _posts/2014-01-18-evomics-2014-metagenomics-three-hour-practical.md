@@ -63,8 +63,8 @@ Test it works:
 
 This command shows how to subsample 100,000 read pairs from two large paired FASTQ files (remember to use the same random seed to keep pairing). Seqtk is smart enough to understand whether a file is zipped or not, so you don't need to unzip them first, but it will always output uncompressed files.
 	
-	seqtk sample -s100 pair1.fastq.gz 100000 > <MYREADS>_1.fastq
-	seqtk sample -s100 pair2.fastq.gz 100000 > <MYREADS>_2.fastq
+	seqtk sample -s100 pair1.fastq.gz 100000 > \<MYREADS\>_1.fastq
+	seqtk sample -s100 pair2.fastq.gz 100000 > \<MYREADS\>_2.fastq
 
 Replace MYREADS with an informative name, so if you are dealing with sample 2638 and have subsampled 10000 reads then perhaps `2638_10000_1.fastq` would be sensible.
 
@@ -80,17 +80,17 @@ Metaphlan can use either BLAST or Bowtie2 for assignments. Bowtie2 is significan
 
 Metaphlan doesn't need paired-end information, so you can just join your two files together to make use of all the data:
 
-	cat <MYREADS>.fastq <MYREADS>_2.fastq > <MYREADS>.fastq
+	cat \<MYREADS\>.fastq \<MYREADS\>_2.fastq > \<MYREADS\>.fastq
 
-	metaphlan.py <MYREADS>.fastq --bowtie2db ~/software/metaphlan/bowtie2db/mpa --bt2_ps sensitive-local --nproc 8
+	metaphlan.py \<MYREADS\>.fastq --bowtie2db ~/software/metaphlan/bowtie2db/mpa --bt2_ps sensitive-local --nproc 8
 	
 The output will be sent to *stdout*, so you need to redirect it to a file, remember you can do this:
 
-	metaphlan.py <MYREADS>.fastq --bowtie2db ~/software/metaphlan/bowtie2db/mpa --bt2_ps sensitive-local --nproc 8 > my_results.txt
+	metaphlan.py \<MYREADS\>.fastq --bowtie2db ~/software/metaphlan/bowtie2db/mpa --bt2_ps sensitive-local --nproc 8 > my_results.txt
 
 Run metaphlan for subsamplings of 1000, 10000, 100000 and 1000000 reads. 
 
-*Hint*: Each time you run Metaphlan it will produce an output file named according to the input file. Metaphlan will not run if that file already exists, so ensure you use a different input file each file, or delete the file it produces which is named `<MYREADS>.bowtie2out.txt`.
+*Hint*: Each time you run Metaphlan it will produce an output file named according to the input file. Metaphlan will not run if that file already exists, so ensure you use a different input file each file, or delete the file it produces which is named `\<MYREADS\>.bowtie2out.txt`.
 
 ##Questions
 

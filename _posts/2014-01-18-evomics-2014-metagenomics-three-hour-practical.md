@@ -87,7 +87,7 @@ The output will be sent to *stdout*, so you need to redirect it to a file, remem
 
 	metaphlan.py <MYREADS>.fastq --bowtie2db ~/software/metaphlan/bowtie2db/mpa --bt2_ps sensitive-local --nproc 8 > <MYREADS>_results.txt
 
-*Hint*: Each time you run Metaphlan it will produce an output file named according to the input file. Metaphlan will not run if that file already exists, so ensure you use a different input file each file, or delete the file it produces first: it is is named `<MYREADS>.bowtie2out.txt`.
+*Hint*: Each time you run Metaphlan it will produce an output file named according to the input file. Metaphlan will not run if that file already exists, so ensure you use a different input file each time, or simply delete the file it produces first: it is is named `<MYREADS>.bowtie2out.txt`.
 
 Run metaphlan for subsamplings of 1000, 10000, 100000 and 1000000 reads. 
 

@@ -71,7 +71,7 @@ You can read more about seqtk at C. Titus Brown's tutorial page here: <http://ge
 
 ### Taxonomic assignments with Metaphlan
 
-The Metaphlan home page is here: <http://huttenhower.sph.harvard.edu/metaphlan>
+The Metaphlan home page is here: <http://huttenhower.sph.harvard.edu/metaphlan>. Metaphlan is already installed on the Amazon Machine Image.
 	
 ###Running Metaphlan
 
@@ -79,21 +79,23 @@ Metaphlan can use either BLAST or Bowtie2 for assignments. Bowtie2 is significan
 
 Metaphlan doesn't need paired-end information, so you can just join your two files together to make use of all the data:
 
-	cat <MYREADS>.fastq <MYREADS>_2.fastq > <MYREADS>.fastq
+	cat <MYREADS>_1.fastq <MYREADS>_2.fastq > <MYREADS>.fastq
 
 	metaphlan.py <MYREADS>.fastq --bowtie2db ~/software/metaphlan/bowtie2db/mpa --bt2_ps sensitive-local --nproc 8
 	
 The output will be sent to *stdout*, so you need to redirect it to a file, remember you can do this:
 
-	metaphlan.py <MYREADS>.fastq --bowtie2db ~/software/metaphlan/bowtie2db/mpa --bt2_ps sensitive-local --nproc 8 > my_results.txt
+	metaphlan.py <MYREADS>.fastq --bowtie2db ~/software/metaphlan/bowtie2db/mpa --bt2_ps sensitive-local --nproc 8 > <MYREADS>_results.txt
+
+*Hint*: Each time you run Metaphlan it will produce an output file named according to the input file. Metaphlan will not run if that file already exists, so ensure you use a different input file each file, or delete the file it produces first: it is is named `<MYREADS>.bowtie2out.txt`.
 
 Run metaphlan for subsamplings of 1000, 10000, 100000 and 1000000 reads. 
 
-*Hint*: Each time you run Metaphlan it will produce an output file named according to the input file. Metaphlan will not run if that file already exists, so ensure you use a different input file each file, or delete the file it produces which is named `<MYREADS>.bowtie2out.txt`.
-
 ##Questions
 
-Q3. How long did each file take to run? (hint prepend time to your command)
+Q3. How long did each file take to run? (hint prepend `time` to your command)
+
+Examine the output of metaphlan (i.e. <MYREADS>_results.txt).
 
 Q4. What are the relative proportions of the most abundant phyla?  What about species?
 
@@ -101,8 +103,6 @@ Update the Google Docs spreadsheet here with your results:
 <http://tinyurl.com/metaphlanresults>
 
 Q5. How many different genera were detected at each sampling level?
-
-Q6. How long did this take to run? (Hint: prepend `time` to your command).
 
 ##Advanced usage
 There are other useful values of `-t` you can use other than `rel_ab`, the default:
@@ -113,7 +113,8 @@ There are other useful values of `-t` you can use other than `rel_ab`, the defau
 * `marker_ab_table`: normalized marker counts (only when > 0.0 and normalized by metagenome size if --nreads is specified)
 * `marker_pres_table`: list of markers present in the sample (threshold at 1.0 if not differently specified with --pres_th
 
-Now, go back to the beginning, choosing a new sample.
+Now, go back to the beginning, choosing a new, uncharacterised sample. Add the results to the Google Docs file.
+
 If you finish this before the recap, then try yet another sample and then go on to the heatmap generation exercise under the *Advanced* section.
 
 ## Visualizing results
@@ -124,7 +125,7 @@ MEGAN is both a taxonomic analysis software, and a visualization tool. It is ver
 
 ####MEGAN Memory Requirement
 
-By default, MEGAN uses 2Gb of RAM on 64-bit Linux. This isn't quite enough sometimes, we will make it use 6Gb instead. To do this you need to edit the `/opt/megan/MEGAN.vmoptions` file and change the content from:
+By default, MEGAN uses 2Gb of RAM on 64-bit Linux. This isn't quite enough sometimes, we will make it use 6Gb instead (you could use more, but never more than the physical memory available on the machine). To do this you need to edit the `/opt/megan/MEGAN.vmoptions` file and change the content from:
 
 	-Xmx2000m
 	
@@ -136,35 +137,41 @@ This needs to be done as sudo. If you are lazy, just run:
 
 	sudo bash -c 'echo "-Xmx6000m" > /opt/megan/MEGAN.vmoptions'
 	
-Check it's  nowright by `cat`ing the file:
+Check it is correct by `cat`ing the file:
 
 	cat /opt/megan/MEGAN.vmoptions
 
 MEGAN takes the results of read alignments as input. This alignment information typically comes from BLAST-format files, but can also come from SAM files produced by short-read aligners such as Bowtie2 and BWA, or the `aln` format from RAPSearch2.
 
-Because generating the BLAST format files takes so long, we have precomputed them for you and generated MEGAN5-compatible files, but see at the bottom :
+Because generating the BLAST format files takes so long, we have precomputed them for you and generated MEGAN5-compatible files, but see at the bottom of the exercise for details on how to generate your own files for your data:
 
 Start by downloading the results file for a random subsampling of 250,000 reads from the 2638-H dataset:
 
  - <http://nick-evomics.s3.amazonaws.com/2638-H-STEC.rap.rma>
 
-Load this file into MEGAN (MEGAN is available under the "Other" menu on the desktop).
+Load this file into MEGAN (MEGAN is available under the "Other" menu on the Amazon Machine Image desktop).
+
+For more information on using the various functionality in MEGAN, see the user manual: <http://ab.inf.uni-tuebingen.de/data/software/megan5/download/manual.pdf>
+
+Please see this videocast for a recap of the MEGAN functionality:
+
+<http://www.youtube.com/watch?v=R8dpD_lj6Ts&amp;feature=em-upload_owner>
 
 Have a look at the assignments.
 
-Q7. How do they compare to your Metaphlan results? Are more taxa predicted or fewer?
+Q6. How do they compare to your Metaphlan results? Are more taxa predicted or fewer?
 
-Q8. Which taxon has the most assignments made to it?
+Q7. Which taxon has the most assignments made to it?
 
-Q9. What taxonomic level does this taxon belong to?
+Q8. What taxonomic level does this taxon belong to?
 
-Q10. Why are so many reads being assigned at this level? Is it reasonable?
+Q9. Why are so many reads being assigned at this level? Is it reasonable?
 
 *Hint*: Inspect the read alignments by using right-mouse click (secondary click on Mac) on the nodes and chosing "Inspect reads".
 
-Q11. Are there species in there that are unexpected?
+Q10. Are there species in there that are unexpected?
 
-Q12. What do the alignments look like? Are they good quality? Are they full-length?
+Q11. What do the alignments look like? Are they good quality? Are they full-length?
 
 Can you change the LCA parameters to make the results more specific?
 
@@ -176,15 +183,13 @@ Experiment more.
 
 How about now?
 
-Q13. Are there remaining species that don't make sense?
+Q12. Are there remaining species that don't make sense?
 
-Q14. Inspect some taxa. Are there any you feel confident calling as present? Are there any you don't feel confident about? Why?
+Q13. Inspect some taxa. Are there any you feel confident calling as present? Are there any you don't feel confident about? Why?
 
-For more information on using MEGAN, see the user manual: <http://ab.inf.uni-tuebingen.de/data/software/megan5/download/manual.pdf>
+Try looking at the functional mode by clicking on the KEGG icon. Explore the different pathways and their presence/absence.
 
-Try looking at the functional mode by clicking on the KEGG icon.
-
-Q15. Does this sample have the Shiga-toxin genes in it? (hint: look under Human Diseases category) ?
+Q14. Does this sample have the Shiga-toxin genes in it? (hint: look under Human Diseases category) ?
 
 Now, download some more files, you can choose one, or several from this list! If you relate the file names to the original paper we published you could even put together a hypothesis to test (note the diagnosis is in the file name).
 
@@ -231,9 +236,9 @@ Now, download some more files, you can choose one, or several from this list! If
  
 Try out the MEGAN comparison mode by opening a few files.
 
-Q16. Which sample (of the ones you picked) has the most *Escherichia* ?
+Q15. Which sample (of the ones you picked) has the most *Escherichia* ?
 
-If you get this far before the recap, try assembling one of the files with Velvet or one of the other assemblers you use last week.
+If you get this far before the recap (or in your spare time), try assembling one of the files with Velvet or one of the other assemblers you use last week.
 
 ##Advanced
 

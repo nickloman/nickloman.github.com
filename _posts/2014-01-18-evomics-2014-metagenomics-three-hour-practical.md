@@ -100,7 +100,7 @@ Examine the output of metaphlan (i.e. &lt;MYREADS&gt;\_results.txt).
 Q4. What are the relative proportions of the most abundant phyla?  What about species?
 
 Update the Google Docs spreadsheet here with your results:
-<http://tinyurl.com/metaphlanresults>
+<http://tinyurl.com/evomics-metaphlan>
 
 Q5. How many different genera were detected at each sampling level?
 

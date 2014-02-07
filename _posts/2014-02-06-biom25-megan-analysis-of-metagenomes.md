@@ -9,7 +9,6 @@ tags: []
 
 ##Whole-genome shotgun metagenomics learning objectives
 
-- Assess the impact sampling has on discovery of taxa (20 minutes)
 - Know how to use MEGAN to visualise taxonomic information (30 minutes)
 - Understand how the Least Common Ancestor parameters affect sensitivity and specificity of taxonomic assignments (20 minutes)
 - Know how to use MEGAN to visualise functional information (30 minutes)
@@ -83,13 +82,19 @@ Q5. Look in more detail about the alignments for some taxa. Are there any you fe
 
 Try looking at the functional mode by clicking on the KEGG icon. Explore the different pathways and their presence/absence.
 
-Q6. Does this sample have the Shiga-toxin genes in it? (hint: look under Human Diseases category) ?
+Q6. Which metabolic pathways does this sample definitely contain? 
+
+Q7. Are all the genes present in essential metabolic pathways, i.e. glycolysis? Is this expected? Why?
+
+Q8. Does this sample contain Shiga-toxin genes in it? (hint: look under Human Diseases category) ? Is it missing expected virulence factors?
+
+## Comparative analysis
 
 Now, download another file:
 
  - <http://pathogenomics.bham.ac.uk/filedist/ecoli/1122-H-Cdiff.rap.rma>
 
-Q7. How does this sample differ from the first? 
+Q9. How does this sample differ from the first in terms of composition? 
 
 Now, choose one of the following samples:
 
@@ -98,12 +103,16 @@ Now, choose one of the following samples:
  - Patient with E. coli, but a twist! <http://pathogenomics.bham.ac.uk/filedist/ecoli/2535-H-STEC.rap.rma>
  - Patient with C. jejuni, but with a twist! <http://pathogenomics.bham.ac.uk/filedist/ecoli/4961-H-Campy.rap.rma>
 
-Q8. What are the most abundant taxa?
+Q10. What are the most abundant taxa?
 
-Q9. Is the Shiga toxin present?
+Q11. Is the Shiga toxin present in this sample?
 
-Q10. Is there anything notable about this sample?
+Q12. Is there anything notable about this sample?
 
-You can try out the MEGAN comparison mode by opening a few files.
+If you have time, try another sample!
 
-Q11. Which sample (of the ones you picked) has the most *Escherichia* present?
+Once several windows are open, you can try out the MEGAN comparison mode.
+
+Q13. Which sample (of the ones you picked) has the most *Escherichia* present?
+
+

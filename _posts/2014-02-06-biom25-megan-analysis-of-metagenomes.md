@@ -25,7 +25,7 @@ MEGAN is both a taxonomic analysis software, and a visualization tool. It is ver
 
 MEGAN takes the results of read alignments as input. This alignment information typically comes from BLAST-format files, but can also come from SAM files produced by short-read aligners such as Bowtie2 and BWA, or the `aln` format from RAPSearch2.
 
-Because generating the BLAST format files takes so long, we have precomputed them for you and generated MEGAN5-compatible files, but see at the bottom of the exercise for details on how to generate your own files for your data:
+Because generating the BLAST format files takes so long, we have precomputed them for you and generated MEGAN5-compatible files.
 
 Start by downloading the results file for a random subsampling of 250,000 reads from the 2638-H dataset:
 
@@ -37,11 +37,13 @@ Download MEGAN from this link:
 
  - <http://ab.inf.uni-tuebingen.de/data/software/megan5/download/MEGAN_windows-x64_5_1_4.exe>
 
-Also download the MEGAN license file:
+Also download the MEGAN license file (right-click on link to Save link as...):
 
  - <http://pathogenomics.bham.ac.uk/filedist/ecoli/MEGAN-academic-license.txt>
 
 Install MEGAN into your `Z:` drive.
+
+When asked, choose 3,000 megabytes for MEGAN max memory usage.
 
 Run MEGAN.
 
@@ -63,73 +65,43 @@ Q3. Why are so many reads being assigned at this level? Is it reasonable?
 
 *Hint*: Inspect the read alignments by using right-mouse click (secondary click on Mac) on the nodes and chosing "Inspect reads".
 
-Q4. Are there species in there that are unexpected?
+Q4. Are there species in there that are thought to be pathogens? Any that are unexpected?
 
-Q5. What do the alignments look like? Are they good quality? Are they full-length?
-
-Can you change the LCA parameters to make the results more specific?
+Can you change the Last Common Ancestor parameters to make the results more specific?
 
 Try it.
 
 Does that make the results "better" or "worse" ?
 
-Experiment more.
+Experiment more.  How about now?
 
-How about now?
+Q5. Look in more detail about the alignments for some taxa. Are there any you feel confident calling as present? Are there any you don't feel confident about? Why?
 
-Q12. Are there remaining species that don't make sense?
-
-Q13. Inspect some taxa. Are there any you feel confident calling as present? Are there any you don't feel confident about? Why?
+## Functional analysis
 
 Try looking at the functional mode by clicking on the KEGG icon. Explore the different pathways and their presence/absence.
 
-Q14. Does this sample have the Shiga-toxin genes in it? (hint: look under Human Diseases category) ?
+Q6. Does this sample have the Shiga-toxin genes in it? (hint: look under Human Diseases category) ?
 
-Now, download some more files, you can choose one, or several from this list! If you relate the file names to the original paper we published you could even put together a hypothesis to test (note the diagnosis is in the file name).
+Now, download another file:
 
  - <http://pathogenomics.bham.ac.uk/filedist/ecoli/1122-H-Cdiff.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/1196-H-Salm.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/1196-N21-Salmonella.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/1253-H-Cdiff.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/2535-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/2535b-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/2638-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/2661-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/2668-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/2723-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/2741-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/2752-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/2758-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/2772-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/2828-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/2840-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/2848-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/2849-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/2878-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/2880-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/2896-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/2971-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/3014-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/3093-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/3132-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/3134-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/3135-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/3185-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/3303-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/3549-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/3587-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/3646-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/3751-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/3852-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/3958-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/4096-H-Salm.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/4096-N2-Salmonella.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/4112-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/4141-H-STEC.rap.rma>
- - <http://pathogenomics.bham.ac.uk/filedist/ecoli/4168-H-STEC.rap.rma>
- 
-Try out the MEGAN comparison mode by opening a few files.
 
-Q15. Which sample (of the ones you picked) has the most *Escherichia* ?
+Q7. How does this sample differ from the first? 
 
-If you get this far before the recap (or in your spare time), try assembling one of the files with Velvet or one of the other assemblers you use last week.
+Now, choose one of the following samples:
+
+ - Patient with C. difficile: <http://pathogenomics.bham.ac.uk/filedist/ecoli/1122-H-Cdiff.rap.rma>
+ - Patient with S. enteriditis: <http://pathogenomics.bham.ac.uk/filedist/ecoli/1196-H-Salm.rap.rma>
+ - Patient with E. coli, but a twist! <http://pathogenomics.bham.ac.uk/filedist/ecoli/2535-H-STEC.rap.rma>
+ - Patient with C. jejuni, but with a twist! <http://pathogenomics.bham.ac.uk/filedist/ecoli/4961-H-Campy.rap.rma>
+
+Q8. What are the most abundant taxa?
+
+Q9. Is the Shiga toxin present?
+
+Q10. Is there anything notable about this sample?
+
+You can try out the MEGAN comparison mode by opening a few files.
+
+Q11. Which sample (of the ones you picked) has the most *Escherichia* present?

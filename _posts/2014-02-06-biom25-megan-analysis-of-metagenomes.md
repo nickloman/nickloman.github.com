@@ -31,7 +31,21 @@ Start by downloading the results file for a random subsampling of 250,000 reads 
 
  - <http://pathogenomics.bham.ac.uk/filedist/ecoli/2638-H-STEC.rap.rma>
 
-Load this file into MEGAN (MEGAN is available under the "Other" menu on the Amazon Machine Image desktop).
+#### Installing MEGAN
+
+Download MEGAN from this link:
+
+ - <http://ab.inf.uni-tuebingen.de/data/software/megan5/download/MEGAN_windows-x64_5_1_4.exe>
+
+Also download the MEGAN license file:
+
+ - <http://http://pathogenomics.bham.ac.uk/filedist/ecoli/MEGAN-academic-license.txt>
+
+Install MEGAN into your `Z:` drive.
+
+Run MEGAN.
+
+Load the file you downloaded into MEGAN (MEGAN is available under the "Other" menu on the Amazon Machine Image desktop).
 
 For more information on using the various functionality in MEGAN, see the user manual: <http://ab.inf.uni-tuebingen.de/data/software/megan5/download/manual.pdf>
 

@@ -39,7 +39,7 @@ Download MEGAN from this link:
 
 Also download the MEGAN license file:
 
- - <http://http://pathogenomics.bham.ac.uk/filedist/ecoli/MEGAN-academic-license.txt>
+ - <http://pathogenomics.bham.ac.uk/filedist/ecoli/MEGAN-academic-license.txt>
 
 Install MEGAN into your `Z:` drive.
 

@@ -47,6 +47,8 @@ When asked, choose 3,000 megabytes for MEGAN max memory usage.
 
 Run MEGAN.
 
+Tell MEGAN the location of the MEGAN academic license file.
+
 Load the file you downloaded into MEGAN (MEGAN is available under the "Other" menu on the Amazon Machine Image desktop).
 
 For more information on using the various functionality in MEGAN, see the user manual: <http://ab.inf.uni-tuebingen.de/data/software/megan5/download/manual.pdf>

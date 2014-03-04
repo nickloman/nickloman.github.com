@@ -295,7 +295,6 @@ Generate PCoA output:
 Generate PCoA plots with EMPeror:
 
 	make_emperor.py -i betadiv/bray_curtis_real_data.pc -m qiime_metadata.tsv -o pca	
-	
 
 ### High-throughput functional assignments with KEGG
 
@@ -312,12 +311,24 @@ Install RAPSearch2 and add the binaries to your path.
 
 ### Analysis with HUMANn
 
-Installing HUMANn
+#### Installing HUMANn
 
-	wget 
-	tar
+	wget https://bitbucket.org/biobakery/humann/downloads/humann-v0.99.tar.gz
+	tar xvfz humann-v.0.99.tar.gz
 	sudo apt-get install scons
+	
+#### Configuring HUMANn
 
+By default, HUMANn looks for BLAST files which end in '.txt' (or gzipped). So you need to copy the files ending in .m8 from RAPSearch2 into the input/ directory from the HUMANn installation and rename them to .txt.
+
+#### Running HUMANn
+
+	scons
+	
+#### Analysing HUMANn output
+
+The relevant files are the pathway files which start with `04` in the `output` directory.
+	
 ### Creating BLAST files for MEGAN
 
 If you are interested in creating BLAST files for MEGAN so you can run it yourself, please see the reference material on my blog at:

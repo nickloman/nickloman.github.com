@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NERC Metagenomics Workshop: Four hour practical"
+title: "NERC Exeter: Metagenomics three hour practical"
 description: ""
 category: 
 tags: []
@@ -21,6 +21,23 @@ tags: []
 - Know how to generate a heatmap of taxa from Metaphlan results (20 minutes)
 - Assemble a metagenome with Velvet (30 minutes)
 - Know how to perform basic taxonomic and functional assignment using a sequence similarity method: BLAST/RapSearch2 (10 minutes)
+
+##Part I: Multivariate statistics tutorial
+
+- Login to Amazon cloud and start a new Terminal
+- Get the tutorial from my Dropbox:
+
+	wget https://dl.dropboxusercontent.com/u/7163977/MultivariateStats.tar.gz
+
+- Go into Tutorials, untar the archive and cd into it:
+
+	tar xvfz MultivariateStats.tar.gz
+	cd MultivariateStats
+	
+- Follow the practical slides at:
+
+
+
 
 ##Datasets for this practical
 
@@ -295,7 +312,11 @@ Install RAPSearch2 and add the binaries to your path.
 
 ### Analysis with HUMANn
 
+Installing HUMANn
 
+	wget 
+	tar
+	sudo apt-get install scons
 
 ### Creating BLAST files for MEGAN
 

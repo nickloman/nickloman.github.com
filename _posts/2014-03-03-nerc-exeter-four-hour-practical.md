@@ -28,7 +28,7 @@ Login to Amazon cloud and start a new Terminal
 
 Download the tutorial archive onto your instance:
 
-	wget <http://nickloman.github.io/static/MultivariateStats.tar.gz>
+	wget http://nickloman.github.io/static/MultivariateStats.tar.gz
 
 Go into Tutorials, untar the archive and cd into it:
 

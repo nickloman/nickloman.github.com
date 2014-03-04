@@ -32,6 +32,7 @@ tags: []
 - Go into Tutorials, untar the archive and cd into it:
 
 	tar xvfz MultivariateStats.tar.gz
+	
 	cd MultivariateStats
 	
 - Download the tutorial slides from and follow the steps:

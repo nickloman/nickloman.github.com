@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Evomics 2014: Metagenomics three hour practical"
+title: "NERC Metagenomics Workshop: Four hour practical"
 description: ""
 category: 
 tags: []

@@ -22,7 +22,7 @@ tags: []
 - Assemble a metagenome with Velvet (30 minutes)
 - Know how to perform basic taxonomic and functional assignment using a sequence similarity method: BLAST/RapSearch2 (10 minutes)
 
-##Part I: Multivariate statistics tutorial
+#Part I: Multivariate statistics tutorial
 
 - Login to Amazon cloud and start a new Terminal
 - Get the tutorial from my Dropbox:
@@ -34,11 +34,11 @@ tags: []
 	tar xvfz MultivariateStats.tar.gz
 	cd MultivariateStats
 	
-- Follow the practical slides at:
+- Download the tutorial slides from and follow the steps:
 
+    http://nickloman.github.io/static/MultivariateStatsTutorial.pdf
 
-
-
+# Part II: Taxonomic assignments from metagenomics data
 ##Datasets for this practical
 
 For this practical we will use some real clinical metagenomics data from the E. coli outbreak in 2011, published in this JAMA article: <http://jama.jamanetwork.com/article.aspx?articleid=1677374>

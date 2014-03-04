@@ -27,7 +27,7 @@ tags: []
 - Login to Amazon cloud and start a new Terminal
 - Get the tutorial from my Dropbox:
 
-	wget <https://dl.dropboxusercontent.com/u/7163977/MultivariateStats.tar.gz>
+	wget <http://nickloman.github.io/static/MultivariateStats.tar.gz>
 
 - Go into Tutorials, untar the archive and cd into it:
 

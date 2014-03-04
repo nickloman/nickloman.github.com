@@ -24,20 +24,19 @@ tags: []
 
 #Part I: Multivariate statistics tutorial
 
-- Login to Amazon cloud and start a new Terminal
-- Get the tutorial from my Dropbox:
+Login to Amazon cloud and start a new Terminal
+
+Download the tutorial archive onto your instance:
 
 	wget <http://nickloman.github.io/static/MultivariateStats.tar.gz>
 
-- Go into Tutorials, untar the archive and cd into it:
+Go into Tutorials, untar the archive and cd into it:
 
 	tar xvfz MultivariateStats.tar.gz
 	
 	cd MultivariateStats
 	
-- Download the tutorial slides from and follow the steps:
-
-    <http://nickloman.github.io/static/MultivariateStatsTutorial.pdf>
+Download the tutorial slides from <http://nickloman.github.io/static/MultivariateStatsTutorial.pdf> and follow the steps 
 
 # Part II: Taxonomic assignments from metagenomics data
 ##Datasets for this practical

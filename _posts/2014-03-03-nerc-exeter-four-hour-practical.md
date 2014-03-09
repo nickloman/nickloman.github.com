@@ -78,6 +78,8 @@ Test it works:
 ####Subsampling reads
 
 This command shows how to subsample 100,000 read pairs from two large paired FASTQ files (remember to use the same random seed to keep pairing). Seqtk is smart enough to understand whether a file is zipped or not, so you don't need to unzip them first, but it will always output uncompressed files.
+
+For two hypothetical files, pair1.fastq.gz and pair2.fastq.gz:
 	
 	seqtk sample -s100 pair1.fastq.gz 100000 > <MYREADS>_1.fastq
 	seqtk sample -s100 pair2.fastq.gz 100000 > <MYREADS>_2.fastq

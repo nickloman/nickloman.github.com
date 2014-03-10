@@ -18,11 +18,15 @@ The datasets we have are:
 *  The Human Microbiome in Space and Time.
 *  Development of the infant gut microbiome.
 
+## General questions
+
+Q: What is the difference between alpha- and beta-diversity?
+
 ##CSI: Microbiome
 
 Original paper: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/keyboard/keyboard_paper.pdf>
 
-Results: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/keyboard/core/>
+Results: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/keyboard/core2/>
 
 Hint: M1, M2 and M9 are the three participants referred to in the paper.
 
@@ -75,6 +79,11 @@ Paper: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/infant_time_series/
 Results: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/infant_time_series/core/>
 
 Q: Is there any evidence of a gradient? (Key: SampleID)
+
+Q: Which samples do the maternal stool look like?
+
+Q: How does diversity change over time?
+
 
 
 

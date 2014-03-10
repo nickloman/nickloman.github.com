@@ -70,7 +70,7 @@ Alpha diversity: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/spacetime
 
 Bar plots: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/spacetime/core/taxa_plots/taxa_summary_plots/bar_charts.html>
 
-Bar plots by sample site: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/spacetime/core/taxa_plots_COMMON_SAMPLE_SITE/taxa_summary_plots/>
+Bar plots by sample site: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/spacetime/core/taxa_plots_COMMON_SAMPLE_SITE/taxa_summary_plots/bar_charts.html>
 
 PCoA analysis: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/spacetime/core/bdiv_even500/unweighted_unifrac_emperor_pcoa_plot/index.html>
 
@@ -80,7 +80,7 @@ Q: Is there evidence of natural clusters?
 
 Q: Do samples cluster by individual?
 
-Q: What are the most dominant taxa in stool, skin, urine?
+Q: What are the most dominant taxa in stool, skin, urine? How do they differ?
 
 ## Infant gut metagenome
 

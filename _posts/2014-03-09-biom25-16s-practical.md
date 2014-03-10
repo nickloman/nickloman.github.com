@@ -7,14 +7,17 @@ tags: []
 ---
 {% include JB/setup %}
 
+# 16S Lecture Slides #
+
+<http://nickloman.github.io/static/BIOM25 16S Lecture.pptx>
 
 # 16S Practical #
 	
 In this practical we will analyse datasets from several studies, some very important, others perhaps just a little silly.
 
 The datasets we have are:
-*  CSI: Microbiome. Can you determine who has been using a keyboard from the microbiome that is left behind?
-*  Restroom (toilet!) surfaces.
+*  CSI: Microbiome. Can you determine who has been using a keyboard from the microbiome that is left behind? Do keyboards have a core microbiome??
+*  The microbiome of restroom surfaces (toilets!)
 *  The Human Microbiome in Space and Time.
 *  Development of the infant gut microbiome.
 
@@ -27,6 +30,10 @@ Q: What is the difference between alpha- and beta-diversity?
 Original paper: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/keyboard/keyboard_paper.pdf>
 
 Results: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/keyboard/core2/>
+
+Important metadata fields for this project:
+*  Description_duplicate - the key from any keyboard
+*  HOST_SUBJECT_ID - the person each keyboard belongs to
 
 Hint: M1, M2 and M9 are the three participants referred to in the paper.
 
@@ -46,6 +53,8 @@ Paper: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/restrooms/pone.0028
 
 Results: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/restrooms/core/>
 
+Fields of importance: Floor, Level, SURFACE, BUILDING
+
 Q: What surfaces have the greatest amount of diversity? Is this expected?
 
 Q: What do the profiles of stool, etc. look like?
@@ -63,6 +72,8 @@ Q: Which surfaces have the most diversity? Least?
 ## Human microbiome in space and time
 
 Paper: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/spacetime/nihms245011.pdf>
+
+Fields of importance: HOST_INDIVIDUAL, SEX, Description_duplicate, COMMON_NAME
 
 Results: 
 
@@ -88,7 +99,16 @@ Paper: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/infant_time_series/
 
 Results: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/infant_time_series/core/>
 
-Q: Is there any evidence of a gradient? (Key: SampleID)
+Fields of importance:
+*  SampleID  - age in days of infant
+*  SOLIDFOOD
+*  FORMULA
+*  COWMILK
+*  BREASTMILK
+*  COLORDESCRIPTION
+*  HOST_SUBJECT_ID
+
+Q: Is there any evidence of a gradient? (Key: use SampleID and turn gradient colours on)
 
 Q: How do the taxa change over time?
 
@@ -97,11 +117,7 @@ Q: Which infant samples do the maternal stool most look like?
 Q: How does diversity change over time?
 
 
-
-
-
-
-##Notes on building this tutorial
+##Instructor notes on building this tutorial
 
 * Download from QIIME db site or the BEAST
 * Get greengenes tree file

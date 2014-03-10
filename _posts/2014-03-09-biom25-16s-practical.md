@@ -64,7 +64,17 @@ Q: Which surfaces have the most diversity? Least?
 
 Paper: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/spacetime/nihms245011.pdf>
 
-Results: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/spacetime/core/>
+Results: 
+
+Alpha diversity: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/spacetime/core/arare_max500/alpha_rarefaction_plots/rarefaction_plots.html>
+
+Bar plots: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/spacetime/core/taxa_plots/taxa_summary_plots/bar_charts.html>
+
+Bar plots by sample site: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/spacetime/core/taxa_plots_COMMON_SAMPLE_SITE/taxa_summary_plots/>
+
+PCoA analysis: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/spacetime/core/bdiv_even500/unweighted_unifrac_emperor_pcoa_plot/index.html>
+
+<http://pathogenomics.bham.ac.uk/filedist/16stutorial/spacetime/core/>
 
 Q: Is there evidence of natural clusters?
 
@@ -80,7 +90,9 @@ Results: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/infant_time_serie
 
 Q: Is there any evidence of a gradient? (Key: SampleID)
 
-Q: Which samples do the maternal stool look like?
+Q: How do the taxa change over time?
+
+Q: Which infant samples do the maternal stool most look like?
 
 Q: How does diversity change over time?
 

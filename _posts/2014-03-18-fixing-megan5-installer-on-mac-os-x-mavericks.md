@@ -7,9 +7,10 @@ tags: []
 ---
 {% include JB/setup %}
 
-I couldn't install MEGAN5 on my Mac running OS X Mavericks.
+I couldn't install MEGAN5 on my Mac running OS X Mavericks, as it
+was complaning that the installer was damaged.
 
-The solution was to remove the apple quarantine attribute.
+The solution was to remove the `com.apple.quarantine` attribute.
 
 Mount the .dmg file and then copy it to your local hard drive:
 

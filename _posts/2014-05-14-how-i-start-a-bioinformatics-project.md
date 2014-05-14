@@ -7,12 +7,12 @@ tags: []
 ---
 {% include JB/setup %}
 
-Phil Ashton tweeted a link to this nice paper from 2009 about how to set up a bioinformatics project file hierarchy: http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1000424
+Phil Ashton tweeted a link to this nice paper from 2009 about how to set up a bioinformatics project file hierarchy: <http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1000424>
 
 Thought I would contribute what I do now as a matter of course.
 
 I have an initial template in Github, which has some basic scripts
-and dependencies like BWA, samtools. These are slightly customised by branch according to whether it's a variant calling project, a de novo project or a metagenomics project e.g. https://github.com/nickloman/bioinf_project/tree/variant-calling
+and dependencies like BWA, samtools. These are slightly customised by branch according to whether it's a variant calling project, a de novo project or a metagenomics project e.g. <https://github.com/nickloman/bioinf_project/tree/variant-calling>
 
 If this is a completely new and unprecedented project I clone this repository.
 

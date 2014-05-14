@@ -32,9 +32,9 @@ E.g. here is a script to run the SPAdes assembler according to my usual recipe:
 
 Metadata file:
 
-Sample	Description
-Sample1	Parrot
-Sample2	Dead Parrot
+	Sample	Description
+	Sample1	Parrot
+	Sample2	Dead Parrot
 
 Drive it single-threaded:
 

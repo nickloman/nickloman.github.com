@@ -42,5 +42,8 @@ Drive it single-threaded:
 
 Drive it with everything we have:
 
-	cat metadata.txt | parallel -j1 -colsep '\t' --header : ./gospades {Sample}
+	cat metadata.txt | parallel -colsep '\t' --header : ./gospades {Sample} {Sample}_1_trimmed.fastq.gz {Sample}_2_trimmed.fastq.gz
+
+GNU parallel can even execute across multiple hosts if you are so inclined via SSH logins <http://www.gnu.org/software/parallel/parallel_tutorial.html>
+
 

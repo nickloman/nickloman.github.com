@@ -34,27 +34,21 @@ Read the methods section of the paper, and test the primer selection with SILVA 
 
 Q: What percentage of Bacteria are covered by the primers in this paper?
 
-Now, look at the output of QIIME:
-
-<http://pathogenomics.bham.ac.uk/filedist/16stutorial/spacetime/core/>
-
-Fields of importance: HOST_INDIVIDUAL, SEX, Description_duplicate, COMMON_NAME
+Fields of importance: HOST_INDIVIDUAL, SEX, BODY_HABITAT, BODY_SITE, COMMON_NAME
 
 Results: 
 
 Alpha diversity: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/spacetime/core/arare_max500/alpha_rarefaction_plots/rarefaction_plots.html>
 
-Bar plots: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/spacetime/core/taxa_plots/taxa_summary_plots/bar_charts.html>
-
 Bar plots by sample site: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/spacetime/core/taxa_plots_COMMON_SAMPLE_SITE/taxa_summary_plots/bar_charts.html>
 
 PCoA analysis: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/spacetime/core/bdiv_even500/unweighted_unifrac_emperor_pcoa_plot/index.html>
 
-Q: Is there evidence of natural clusters?
+Q: Is there evidence of natural clusters being formed?
 
-Q: Do samples cluster by individual?
+Q: Do samples cluster by individual? If not, how do they cluster?
 
-Q: What are the most dominant taxa in stool, skin, urine? How do they differ?
+Q: What are the most dominant taxa in stool, skin, urine? What are the major differences in profile between these three sites?
 
 ##CSI: Microbiome
 
@@ -143,7 +137,7 @@ Q: How do the taxa change over time?
 
 Q: Which infant samples do the maternal stool most look like?
 
-Q: How does diversity change over time?
+Q: Is the colour of stools associated with their bacterial diversity?
 
 Q: Now, read the paper in more detail and prepare a short summary to present to the whole group. Consider: the context for the study, the methods that were employed and the results found. What did you think? What are the limitations of the study?
 

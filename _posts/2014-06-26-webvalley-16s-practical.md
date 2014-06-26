@@ -28,11 +28,9 @@ Q: What is the difference between alpha- and beta-diversity?
 
 Paper: <http://pathogenomics.bham.ac.uk/filedist/16stutorial/spacetime/nihms245011.pdf>
 
-Read the methods section of the paper, and test the primer selection with SILVA TestPrime:
+Supplementary material: <http://www.sciencemag.org/cgi/content/full/1177486/DC1>
 
-<http://www.arb-silva.de/search/testprime>
-
-Q: What percentage of Bacteria are covered by the primers in this paper?
+Let's have a look at the results.
 
 Fields of importance: HOST_INDIVIDUAL, SEX, BODY_HABITAT, BODY_SITE, COMMON_NAME
 
@@ -48,7 +46,9 @@ Q: Is there evidence of natural clusters being formed?
 
 Q: Do samples cluster by individual? If not, how do they cluster?
 
-Q: What are the most dominant taxa in stool, skin, urine? What are the major differences in profile between these three sites?
+Q: What are the most dominant taxa in stool, skin, urine? Look at different taxonomic levels down to genus.
+
+Q: Are these sites similar or different? What are the major differences in taxonomic profile between these three sites?
 
 ##CSI: Microbiome
 

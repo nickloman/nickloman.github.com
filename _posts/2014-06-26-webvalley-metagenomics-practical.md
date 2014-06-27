@@ -52,7 +52,7 @@ Use the MEGAN inspection mode to compare the samples. Compare at phylum and spec
 
 Put your results in the Google Docs file:
 
-<http://tinyurl.com/evomics-metaphlan>
+<http://tinyurl.com/webvalley>
 
 Inspect the KEGG functional assignments, paying particular attention to the categories under "Human Diseases" e.g. "Pathogenic E. coli infection"
 

@@ -7,14 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-##Whole-genome shotgun metagenomics learning objectives
-
-- Know how to use MEGAN to visualise taxonomic information (30 minutes)
-- Understand how the Lowest Common Ancestor parameters affect sensitivity and specificity of taxonomic assignments (20 minutes)
-- Know how to use MEGAN to visualise functional information (30 minutes)
-- Understand how to compare multiple samples in MEGAN (30 minutes)
-
-The E. coli outbreak paper is here:
+The E. coli outbreak metagenomics paper is here:
 
 <http://jama.jamanetwork.com/article.aspx?articleid=1677374>
 

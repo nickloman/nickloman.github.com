@@ -41,12 +41,12 @@ I have assigned each team four samples to compare:
 
 Find the taxonomic assignments for these samples:
 
-Team 1. Samples 2638, 2741, 1122, 1196
-Team 2. Samples 2638, 2535, 1122, 1196
-Team 3. Samples 2638, 4961, 1122, 1196
-Team 4. Samples 2638, 2741, 1122, 1196
-Team 5. Samples 2638, 2896, 1122, 1196
-Team 6. Samples 2638, 2840, 1122, 1196
+	Team 1. Samples 2638, 2741, 1122, 1196
+	Team 2. Samples 2638, 2535, 1122, 1196
+	Team 3. Samples 2638, 4961, 1122, 1196
+	Team 4. Samples 2638, 2741, 1122, 1196
+	Team 5. Samples 2638, 2896, 1122, 1196
+	Team 6. Samples 2638, 2840, 1122, 1196
 
 Use the MEGAN inspection mode to compare the samples. Compare at phylum and species order. How do the samples compare? Which samples look abnormal?
 

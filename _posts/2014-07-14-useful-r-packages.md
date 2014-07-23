@@ -15,3 +15,4 @@ A placeholder page for useful R packages/functions I have used:
 
 *  descr/freq() - frequency tables
 
+*  dplyr - useful for grouping and summarising dataframes

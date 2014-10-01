@@ -7,7 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-We have released Oxford Nanopore MinION(tm) data for E. coli K-12 MG1655 with two chemistries (R7 and R8).
+We have released Oxford Nanopore MinION(tm) data for E. coli K-12 MG1655 with two chemistries (R7 and R7.3).
 
 Preprint describing them, see Fig 2 for a guide to read types and associated error rates:
 <http://biorxiv.org/content/early/2014/09/26/009613>

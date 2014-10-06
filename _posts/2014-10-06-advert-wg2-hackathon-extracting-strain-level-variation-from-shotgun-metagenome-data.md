@@ -16,6 +16,7 @@ tags: []
 **Special Guest**:  Dr Jared Simpson - Ontario Institute for Cancer Research, co-author of ABYSS and the SGA assembler.
 
 **Objectives**: The objective of the workshop is to build on the success of the earlier COST ES1103 funded hackathon in Lisbon that developed the CONCOCT algorithm for contig clustering (<http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.3103.html>). CONCOCT uses co-occurrence information to cluster contigs into genome bins in an unsupervised fashion. In this follow-up hackathon we will explore three further avenues of research:
+
 - *Extension to strain-level variation*: CONCOCT is very successful at extracting species level bins but it does not fully resolve individual strains. We will develop algorithms to extract strains possibly by    incorporating co-occurrence information directly into assemblers or through machine-learning based decomposition techniques.
 - *Long-reads*: We will explore the role of long-read data in strain-aware metagenomics assembly by analysis of data produced by new technologies such as Oxford Nanopore, Illumina Synthetic Long Reads        (Moleculo) and Pacific Biosciences.
 - *Integration into metagenomics analysis pipeline*: CONCOCT could form the first step in an unsupervised contig-based metagenome analysis pipeline. We will integrate CONCOCT into a complete pipeline for phylogeny, annotation, metabolic reconstruction and visualisation of metagenome bins.

@@ -7,7 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-In reply to an email I was sent about whether Nextera or Nextera XT a better choice for a whole-genome shotgun metagenomics project:
+My reply to an email I was sent about whether Nextera or Nextera XT a better choice for a whole-genome shotgun metagenomics project:
 
 > The theoretical reason you might use Nextera over Nextera XT is that as the starting amount of DNA is higher, the library might have increased diversity and this might impact the sequencing.
 >

@@ -7,8 +7,6 @@ tags: []
 ---
 {% include JB/setup %}
 
-# WG2 hackathon: Extracting strain level variation from shotgun metagenome data
-
 **Location**:       Cambridge at the Isaac Newton Institute November 7th -11th 2014
 
 **Organisers**:     Dr Christopher Quince - University of Warwick (c.quince@warwick.ac.uk) and Dr Nick Loman - University of Birmingham (n.j.loman@bham.ac.uk)

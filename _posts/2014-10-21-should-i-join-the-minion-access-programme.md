@@ -22,7 +22,7 @@ What kind of person are you? If you like things to be nice and stable and sorted
 
 If you like to obsessively practice things until you an expert, this may be a frustration.
 
-What is your level of bioinformatics savvy? Right now there is very little software provided for handling nanopore data, which is characterised by a high error rate (improving, but still [not much better than 85% on average](http://www.gigasciencejournal.com/content/3/1/22/abstract)).  The community is grasping its way to solutions for certain tasks (e.g.  LAST for alignment to a reference) and SPAdes for scaffolding and repeat resolution along with Illumina data, but right now there is no definitive variant calling pipeline, there is no nanopore-only assembly pipeline and there is no _de novo_ amplicon correction pipeline.
+What is your level of bioinformatics savvy? Right now there is very little software provided for handling nanopore data, which is characterised by a high error rate (improving, but still [not much better than 85% read accuracy on average](http://www.gigasciencejournal.com/content/3/1/22/abstract)).  The community is grasping its way to solutions for certain tasks (e.g.  LAST for alignment to a reference) and SPAdes for scaffolding and repeat resolution along with Illumina data, but right now there is no definitive variant calling pipeline, there is no nanopore-only assembly pipeline and there is no _de novo_ amplicon correction pipeline.
 
 What do you want to do with your data?
 

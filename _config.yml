@@ -9,9 +9,9 @@ relative_permalinks: true
 # Setup
 title:            Loman Labz
 tagline:          'Tagline'
-description:      'Research group at the University of Birmingham, fusing cutting-edge sequencing with evolutionary genomics and clinical microbiology.'
-url:              http://pathogenomics.bham.ac.uk
-baseurl:          http://pathogenomics.bham.ac.uk/newsite/
+description:      'Research group at the University of Birmingham, fusing cutting-edge sequencing with microbial genomics.'
+url:              http://nickloman.github.io/
+baseurl:          /
 
 author:
   name:           'Nick Loman'

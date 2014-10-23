@@ -2,10 +2,10 @@
 layout: post
 title: "Circular genome image generators"
 description: ""
-category: 
+category: notebook 
 tags: []
 ---
-{% include JB/setup %}
+
 
 *	CGView
 *	CGView Comparison Tool (http://stothard.afns.ualberta.ca/downloads/CCT/)

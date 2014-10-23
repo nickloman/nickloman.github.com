@@ -2,10 +2,10 @@
 layout: post
 title: "How to get snpEff working with bacterial genomes from NCBI"
 description: ""
-category: 
+category: notebook 
 tags: []
 ---
-{% include JB/setup %}
+
 
 You can do this from GFF files. You need the GFF file and corresponding FNA file. 
 

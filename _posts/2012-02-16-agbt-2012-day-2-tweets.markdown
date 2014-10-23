@@ -1,0 +1,869 @@
+---
+layout: post
+status: publish
+published: true
+title: AGBT 2012 Day 2 Tweets
+author:
+  display_name: Nick Loman
+  login: nick
+  email: n.j.loman@bham.ac.uk
+  url: http://xbase.bham.ac.uk
+author_login: nick
+author_email: n.j.loman@bham.ac.uk
+author_url: http://xbase.bham.ac.uk
+wordpress_id: 1020
+wordpress_url: http://pathogenomics.bham.ac.uk/blog/?p=1020
+date: '2012-02-16 14:14:36 +0000'
+date_gmt: '2012-02-16 14:14:36 +0000'
+categories:
+- Genomics
+tags:
+- agbt
+comments:
+- id: 59818
+  author: AGBT 2012 Day 1 Tweets
+  author_email: ''
+  author_url: http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2012-day-1-tweets/
+  date: '2012-02-16 14:45:26 +0000'
+  date_gmt: '2012-02-16 14:45:26 +0000'
+  content: '[...] AGBT day 1 tweets! (Day 2) [...]'
+- id: 59821
+  author: AGBT 2012 Blog Post Round-up
+  author_email: ''
+  author_url: http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2012-blog-post-round-up/
+  date: '2012-02-17 10:01:02 +0000'
+  date_gmt: '2012-02-17 10:01:02 +0000'
+  content: '[...] AGBT 2012 day 2 tweets [...]'
+- id: 59828
+  author: AGBT 2012 Tweets Day 3
+  author_email: ''
+  author_url: http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2012-tweets-day-3/
+  date: '2012-02-17 11:48:35 +0000'
+  date_gmt: '2012-02-17 11:48:35 +0000'
+  content: '[...] 1, Day 2, Day 3, Day [...]'
+- id: 59852
+  author: AGBT 2012 Day 4 Tweets
+  author_email: ''
+  author_url: http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2012-day-4-tweets/
+  date: '2012-02-18 18:27:49 +0000'
+  date_gmt: '2012-02-18 18:27:49 +0000'
+  content: '[...] 1, Day 2, Day 3, Day [...]'
+---
+<p>(<a href="http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2012-day-1-tweets/">Day 1</a>, Day 2, <a href="http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2013-tweets-day-3/">Day 3</a>, <a href="http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2012-day-4-tweets/">Day 4</a>)</p>
+<p>Well not much in the way of huge announcements <a href="http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2012-day-1-tweets/">yesterday at AGBT</a>. The biggest announcement was probably the information that Illumina are testing 400bp single-end reads in R&D on the MiSeq, with the longest achieved overlapping paired-read of 678bp. Pretty impressive stuff.</p>
+<p>The other news was of course the announcement of the incredible sounding <a href="http://pathogenomics.bham.ac.uk/blog/2012/02/a-new-sequencing-technology-enters-the-ring-shtseqtm/">SHTseq(TM) from CrapBio</a> which can produce 100Mb reads at 25% accuracy. This was announced at the parallel <a href="https://twitter.com/#!/search/notAGBT">#notAGBT </a>conference being held on Toll Island near Winson Green prison in Birmingham. But rumour has it a patent suit may be winging it's way to CrapBio already!!</p>
+<p>Oh I should say, if you are at AGBT go and have a word with <a href="http://core-genomics.blogspot.com/2012/02/my-agbt-poster.html">James Hadfield</a> about our sequencer map in the afternoon poster session!</p>
+<p>Right, so .. on with the show. Tweets will update automatically every couple of minutes but you'll have to refresh the page to see them.</p>
+<p>Scientific agenda:</p>
+<p><strong>Plenary Session:  Clinical Translation of Genomics, (Chad Nusbaum, Broad Institute of MIT and Harvard, Chair)<br />
+</strong>9:00-9:10    Opening Remarks<br />
+9:10-9:45    Keynote Speaker: Lynn Jorde, University of Utah School of Medicine, “Whole-genome Sequencing, Mutation Rates, and Disease-gene Detection.”<br />
+9:45-10:15    Heidi Rehm, Partners Healthcare Center for Personalized Genetic Medicine, “Supporting Large Scale Sequencing in a Clinical Environment”<br />
+10:15-10:45    Lisa Shaffer, Perkin Elmer, Inc., “A Genotype First Approach to the Identification of New Chromosomal Syndromes”<br />
+11:10-11:40    * Darrell Dinwiddie, Children's Mercy Hospital, “Initial Clinical Experience with Molecular Testing for >600 Severe Childhood Diseases by Target Enrichment and Next-Generation Sequencing”<br />
+11:40 am-12:10    * Rong Chen, Personalis Inc., “Type 2 Diabetes Risk Alleles Demonstrate Extreme Directional Differentiation Among Human Populations, Compared to Other Diseases”<br />
+1:10-2:40    Poster Session with Coffee & Dessert - Collier Hall</p>
+<p><strong>Plenary Session:  Genomic Studies I (Len Pennacchio, Joint Genome Institute, Chair)<br />
+</strong>2:40-3:10    Goncalo Abecasis, University of Michigan “Sequencing Thousands of Human Genomes”<br />
+3:10-3:40    Ewan Birney, European Bioinformatics Institute, “ENCODE: Understanding Our Genome”<br />
+4:05-4:35    Charles Perou, The University of North Carolina at Chapel Hill, “Molecular Classification of Breast Tumors Using Gene Expression Profiling and Its Translation Into Clinical Practices”<br />
+4:35-5:05    * Arend Sidow, Stanford University, “Breast Cancer Progression From Earliest Lesions to Clinically Relevant Carcinoma Revealed by Deep Whole Genome Sequencing”<br />
+5:05-7:00    Pacific Biosciences Roundtable Discussion/Dinner</p>
+<p><REPLACE></REPLACE><br />
+<strong>Most popular tweets</strong><br />
+(35) <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Jorde: Male mutation rate is about 5X the female mutation rate. We males are responsible for most of the havoc in the human genome. #AGBT<br />
+(7) <a href="https://twitter.com/#!/bffo">bffo</a>: LJ: VAAST is a lot better than SIFT and ANNOVAR  re: table 1 in VAAST paper: <a rel="nofollow" href="http://t.co/fkD51HzS">http://t.co/fkD51HzS</a> #AGBT<br />
+(6) <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Lynn Jorde on to mutation rate estimation by sequencing and mass-spec. Each gamete contributes about 35 new variants. #AGBT<br />
+(6) <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Jorde: As a longtime human geneticist, I am especially happy to see that we are going back to families. Word. #AGBT<br />
+(5) <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: Ion's first Human AmpliSeq Paired End (bi-directional) run on Ion Community. Corrected raw mean accuracy of 99.4% <a rel="nofollow" href="http://t.co/QA8CRt9u">http://t.co/QA8CRt9u</a> #agbt<br />
+(5) <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Dinwiddie: 7043 mendialian diseases, 3328 with known molecular basis #AGBT<br />
+(5) <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Summary of first day at #AGBT: <a rel="nofollow" href="http://t.co/IDALVCxP">http://t.co/IDALVCxP</a><br />
+(4) <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Rehm: shes's been told Myriad still detects 10-20 new missense variants in BRCA1/2 each week, even after testing 100's of 1000's ppl. #AGBT<br />
+(4) <a href="https://twitter.com/#!/illumina">illumina</a>: Real data from HiSeq 2500. Read the newest application note #AGBT #keepingitreal  <a rel="nofollow" href="http://t.co/Dd5cvpU1">http://t.co/Dd5cvpU1</a><br />
+(4) <a href="https://twitter.com/#!/nanopore">nanopore</a>: Curious about how to use nanopores to analyse proteins or miRNA?  Go to our poster, Dr Dan Turner will tell all - poster 360 #AGBT<br />
+(3) <a href="https://twitter.com/#!/CompleteGenomic">CompleteGenomic</a>: Today at #AGBT we announced our Biological Discovery Software Partners Program . Read more: <a rel="nofollow" href="http://t.co/nhsNsiDa">http://t.co/nhsNsiDa</a><br />
+(3) <a href="https://twitter.com/#!/schnablep">schnablep</a>: #AGBT Heidi Rehm,Supporting Large Scale Sequencing in a Clinical Environment genetic tests now available for ~2,500 diseases;<br />
+(3) <a href="https://twitter.com/#!/MishaAngrist">MishaAngrist</a>: MT @girlscientist: Rehm: Myriad still detects 10-20 new missense variants in BRCA each week, even after testing 100's of 1000's ppl. #AGBT<br />
+(3) <a href="https://twitter.com/#!/genomeresearch">genomeresearch</a>: H Rehm: integrate vast amt of genetic info into patient care by storing millions of variants in electronic health records #AGBT<br />
+(3) <a href="https://twitter.com/#!/illumina">illumina</a>: Shaffer, Perkin Elmer. Many syndromes caused by chromosomal abnormalities cannot be IDd by NGS, instead need arrays. #AGBT<br />
+(3) <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Dinwiddie: Sanger sequencing costs ~$10k testing for 1-10 diseases, ~$1k for 600 diseases using NGS #AGBT<br />
+(3) <a href="https://twitter.com/#!/illumina">illumina</a>: Dinwiddie: ~7k known mendelian diseases, 3k with known molecular basis. Together affect about 3-4% of children. #AGBT<br />
+(3) <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: #AGBT Rong Chen, genetic risk map of the world <a rel="nofollow" href="http://t.co/XDad805M">http://t.co/XDad805M</a><br />
+(3) <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: AG: Making the important point that the entire genome is not accessible to current sequencing technology. #AGBT<br />
+(3) <a href="https://twitter.com/#!/gabecasis">gabecasis</a>: Let's tweet about the design of Birney slides. Some look crowded. #AGBT #NoScience #TopSecret<br />
+(3) <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Ewan Birney: scoop: promoters exist and they are important<br />
+(3) <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: #AGBT Update #1 via @dgaalaas <a rel="nofollow" href="http://t.co/JdhzqtiF">http://t.co/JdhzqtiF</a><br />
+(3) <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Shameless plug FTW! RT @genomeresearch: Breast cancer genomics now at #AGBT. For more, see special issue  <a rel="nofollow" href="http://t.co/VRX3QPn0">http://t.co/VRX3QPn0</a><br />
+(2) <a href="https://twitter.com/#!/Personal_RX_WI">Personal_RX_WI</a>: #AGBT. Look into the future of @Illumina.  They have sequenced to 678 bp in house on MiSeq.  Very interesting....<br />
+(2) <a href="https://twitter.com/#!/illumina">illumina</a>: New blog post from Abizar Lakdawalla with exclusive highlights of yesterday's Illumina User Group Meeting at #AGBT <a rel="nofollow" href="http://t.co/isP5PzDn">http://t.co/isP5PzDn</a><br />
+(2) <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Jorde found X-linked mutation <a rel="nofollow" href="http://t.co/VV034xOE">http://t.co/VV034xOE</a> while mother pregnant again, but couldn't comm. result since in non-CLIA lab. Sad. #AGBT<br />
+(2) <a href="https://twitter.com/#!/bffo">bffo</a>: Li  "Males  mostly responsible for mutation havoc" in human genome #agbt<br />
+(2) <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: Heidi Rehm from Harvard Partners up next to talk about the sequencing in the clinical environment. #AGBT<br />
+(2) <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: Average time to assess a novel variant - 21.5 to 119.6 min depending on other data/publications available for gene. Heidi Rehm #AGBT<br />
+(2) <a href="https://twitter.com/#!/schnablep">schnablep</a>: #AGBT Heidi Rehm, 60-80% of clinically significant variants are found in only one family.</p>
+<p><strong>7 - 8am EST</strong><br />
++41m <a href="https://twitter.com/#!/Personal_RX_WI">Personal_RX_WI</a>: Day 2 of #agbt about to get started. First up @illumina talks followed by clinical genomics.<br />
++58m <a href="https://twitter.com/#!/stuka">stuka</a>: I slept to the relaxing sounds of the ocean. No I didn't go to #AGBT, my people bought me a sound machine to helps w/ my not sleeping</p>
+<p><strong>8 - 9am EST</strong><br />
++3m <a href="https://twitter.com/#!/CompleteGenomic">CompleteGenomic</a>: Today at #AGBT we announced our Biological Discovery Software Partners Program . Read more: <a rel="nofollow" href="http://t.co/nhsNsiDa">http://t.co/nhsNsiDa</a><br />
++15m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Up first, more on the upgrades to the HiSeq and MiSeq from Illumina #AGBT<br />
++17m <a href="https://twitter.com/#!/westr">westr</a>: RT @CompleteGenomic: Today at #AGBT we announced our Biological Discovery Software Partners Program . Read more: <a rel="nofollow" href="http://t.co/XWAsGO9J">http://t.co/XWAsGO9J</a> #pm101<br />
++19m <a href="https://twitter.com/#!/ING_SYS">ING_SYS</a>: Ingenuity will be part of IGN for new Illumina Cancer Analysis Service <a rel="nofollow" href="http://t.co/ZZxzu8wb">http://t.co/ZZxzu8wb</a> learn more #AGBT Lanai 179<br />
++22m <a href="https://twitter.com/#!/ING_SYS">ING_SYS</a>: Ingenuity to work with Complete Genomics for new Genomics Discovery Program <a rel="nofollow" href="http://t.co/UTb7mfHc">http://t.co/UTb7mfHc</a> learn more #AGBT Lanai 179<br />
++23m <a href="https://twitter.com/#!/ezequiel_coelho">ezequiel_coelho</a>: Thanks guys at #AGBT, for all your postings. For all of us who cannot be there, this is really helpfull<br />
++23m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: HiSeq 1500 is same as 2500 with single lane flow cell. #AGBT - what's the point?<br />
++25m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Breakfast at AGBT. First session will be "Clinical Translation of Genomics" chaired by Chad Nusbaum of the Broad Institute.<br />
++25m <a href="https://twitter.com/#!/maureen_mack">maureen_mack</a>: @Personal_RX_WI tweeting latest and greatest from world of #agbt have fun Jaime and Mike!<br />
++25m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: HiSeq 1500 will be fully upgradeable to 2500 #AGBT<br />
++29m <a href="https://twitter.com/#!/jacquimiller">jacquimiller</a>: @pathogenomenick super useful wrap up of #AGBT tweets. thanks! <a rel="nofollow" href="http://t.co/8L9ZzJtm">http://t.co/8L9ZzJtm</a><br />
++30m <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: Ion's first Human AmpliSeq Paired End (bi-directional) run on Ion Community. Corrected raw mean accuracy of 99.4% <a rel="nofollow" href="http://t.co/QA8CRt9u">http://t.co/QA8CRt9u</a> #agbt<br />
++37m <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: Be the first to see the Ion Proton Sequencer at AGBT. Drop Life Genetic Analysis Showcase, Lanai Suite 185 at AGBT <a rel="nofollow" href="http://t.co/7l6VxwDZ">http://t.co/7l6VxwDZ</a><br />
++45m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: MiSeq improvements will require hardware upgrades for dual surface imaging and faster PC, no cost to existing MiSeq owners #AGBT<br />
++45m <a href="https://twitter.com/#!/ING_SYS">ING_SYS</a>: Accurate biological interpretation is critical to efficiently identify causal variants <a rel="nofollow" href="http://t.co/UTb7mfHc">http://t.co/UTb7mfHc</a> learn more #AGBT Lanai 179<br />
++51m <a href="https://twitter.com/#!/ING_SYS">ING_SYS</a>: #AGBT the place to be: Complete Suite in the Everglades Room from 5-7 p.m. tonight! <a rel="nofollow" href="http://t.co/UTb7mfHc">http://t.co/UTb7mfHc</a><br />
++54m <a href="https://twitter.com/#!/salisburymw">salisburymw</a>: Whatever happened to easing in to #agbt? Late parties 1st night, hangovers start early!<br />
++54m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Awaiting the start of #AGBT 2012. Don't forget the tweetup Fri night at the hotel bar!<br />
++58m <a href="https://twitter.com/#!/Single_Molecule">Single_Molecule</a>: I will be at my AGBT poster (#352) today, 1-240 PM.  "Detection of Structural Variations Using Nanodetector Positional Sequencing" @nabsys<br />
++59m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: RT @agxp: Are you at AGBT#? Learn about our partnership with @EdgeBio during today poster session!</p>
+<p><strong>9 - 10am EST</strong><br />
++2m <a href="https://twitter.com/#!/Personal_RX_WI">Personal_RX_WI</a>: #AGBT. Look into the future of @Illumina.  They have sequenced to 678 bp in house on MiSeq.  Very interesting....<br />
++4m <a href="https://twitter.com/#!/bioinfophd">bioinfophd</a>: Excited to be at #AGBT<br />
++5m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: Getting ready for Lynn Jorde opening up the first #AGBT session on whole genome sequencing and finding disease causing mutations.<br />
++5m <a href="https://twitter.com/#!/bioinfophd">bioinfophd</a>: Be sure to check out #AGBT poster 38 to learn more about using RNA-seq to identify alternative splicing associated with chronic lung disease<br />
++7m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lynn Jorde: WGS and disease causing mutations<br />
++8m <a href="https://twitter.com/#!/genomeresearch">genomeresearch</a>: #genomeresearch at #AGBT 2012 Lynn Jorde using whole genome sequence data to estimate mutation rate<br />
++9m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: what is the human mutation rate ?<br />
++9m <a href="https://twitter.com/#!/bffo">bffo</a>: good tweet policy at #AGBT <a rel="nofollow" href="http://t.co/m0T5YsLp">http://t.co/m0T5YsLp</a> (default == tweetable, just say "no tweet" if you don't want your talk tweeted #openess<br />
++11m <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: #AGBT Lynn Jorde estimating human mutation rate.  JBS Haldane, first recognized the importance of de novo mutation rates<br />
++11m <a href="https://twitter.com/#!/dgaalaas">dgaalaas</a>: Welcome to #AGBT . Conference starting now with Lynn Jorde of Univ Utah Sch of Med<br />
++11m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: studies Miller syndrome, 1 family of 4<br />
++11m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: craniofacial deformation, missing digits, short arms etc<br />
++12m <a href="https://twitter.com/#!/richardbadge">richardbadge</a>: Enjoying the anticipation of #AGBT meeting start, but must remember to go to BEER (Bioinformatics Expertise Enabling Research) meeting soon!<br />
++12m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: only 2 reccurrent Miller families in the world<br />
++13m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: 7 individuals = 25% of affected patients<br />
++13m <a href="https://twitter.com/#!/bioinfosm">bioinfosm</a>: @neilhall_uk of course, I was talking about sour grapes for the #agbt folks ;)<br />
++14m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: Miller family also had lung disease, gene not clear<br />
++15m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: Miller syndrome exome seq =&gt; mutations in DHODH<br />
++15m <a href="https://twitter.com/#!/pathogenomenick">pathogenomenick</a>: OK you guys, #AGBT tweets from day 2 being streamed to the blog <a rel="nofollow" href="http://t.co/SGK6XrBj">http://t.co/SGK6XrBj</a> including exciting "popular tweets" feature!<br />
++16m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: also mutation in DNAH5 which explain lung disease<br />
++16m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Lynne Jorde Miller Syn 2recurrent families in world. 1 family w recurrence had cousin w/CF, clue to gt cause?  But mat CFTR normal #AGBT<br />
++16m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: both chidren inhnerited 5 disease mutations !<br />
++18m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Lynne Jorde Miller Syn so did WGS on recurrent family & found at least 5 novel muts in each.  #AGBT<br />
++18m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: also estimated mutation rate from data ... needed to reseq all 34K Mendelian inheritance errors<br />
++18m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: only 28 were true by capture + reseq<br />
++19m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Lynn Jorde on to mutation rate estimation by sequencing and mass-spec. Each gamete contributes about 35 new variants. #AGBT<br />
++19m <a href="https://twitter.com/#!/illumina">illumina</a>: Good morning #AGBT! Kicking off the day with a session about HiSeq 2500 and MiSeq in our Illumina Lounge. <a rel="nofollow" href="http://t.co/uzdfUm54">http://t.co/uzdfUm54</a><br />
++20m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: 1.1 e-8 mutation rate<br />
++20m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Lynne Jorde Mutation Rate estimation estimated 35 new variants/gamete in his calculations.  1K genome Proj had similar estimates.  #AGBT<br />
++20m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: estimate agrees with 1000 genome estimates on trios<br />
++21m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: all in 1 tool to analyze variants: VAAST<br />
++21m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: LJ: Discussing using the VAAST software for variant analysis: <a rel="nofollow" href="http://t.co/shKTT16X">http://t.co/shKTT16X</a> #AGBT<br />
++22m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: VAAST compares variants to dbSNP, 1KG<br />
++22m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: gene by gene analysis, fewer tests<br />
++22m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: can incorporate pedigree data in latest version<br />
++22m <a href="https://twitter.com/#!/bioinfosm">bioinfosm</a>: #agbt Lynn Jorde talks about vaast that identifies disease-causing variants on a gene-by-gene basis; and could use pedigree info #ngs<br />
++23m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: uses composite likelihood ratio test, null= variant does not cause disease<br />
++23m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Lynne Jorde developed VAAST Variant Anotation Analysis & Selection Tool. Compare patient seq w/variant seq & freq in multiple db. #AGBT<br />
++23m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: exome published in Ng et al 2010 (DHODH)<br />
++24m <a href="https://twitter.com/#!/bffo">bffo</a>: #AGBT VAAST <a rel="nofollow" href="http://t.co/kyql87hi">http://t.co/kyql87hi</a> from the Yandell lab : Variant Annotation, Analysis and Search Tool #bioinformatics<br />
++24m <a href="https://twitter.com/#!/bioinfosm">bioinfosm</a>: #agbt tweeps; there is an #ngs twibe = <a rel="nofollow" href="http://t.co/kLjN2XXG">http://t.co/kLjN2XXG</a> for next-gen seq discussions;<br />
++24m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: VAAST identified ONLY 2 causal variants from WGS<br />
++24m <a href="https://twitter.com/#!/schnablep">schnablep</a>: #AGBT Lynn Jorde: Mutation detection via WGS using #VAAST (Yandell et al., Genome Res 2011); exploits pedigree data thereby improving calls<br />
++24m <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: #AGBT LJ on VAAST, shows statistical model, but says too early in the morning to be tortured with math<br />
++24m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Lynne Jorde VAAST simplified results fr Millet Syn WGS to 2 candidate genes #AGBT<br />
++25m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: used VAAST on unknown lethal X linked condition, 1 family<br />
++25m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: progeria like features<br />
++25m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: VAAST identified disease causing locus in 20 mins, on X chrom<br />
++26m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: brand new genetic disease, named Ogden syndrome<br />
++26m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: mutation in NAA10 N-acetyltransferase<br />
++26m <a href="https://twitter.com/#!/illumina">illumina</a>: New blog post from Abizar Lakdawalla with exclusive highlights of yesterday's Illumina User Group Meeting at #AGBT <a rel="nofollow" href="http://t.co/isP5PzDn">http://t.co/isP5PzDn</a><br />
++27m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Lynne Jorde VAAST analysis of novel x-linked.  Exome-Seq & VAAST in 20 min identified mut in NAA10 cause of new gt disease Ogden Syn #AGBT<br />
++27m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: mother was 5 mo pregnant when diagnostic came up<br />
++27m <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: Mutation in NAA10 causes a new genetic disease: "Ogden syndrome". Lynn Jorde #VAAST #AGBT<br />
++27m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ:  could not tell her because not CLIA and child died<br />
++28m <a href="https://twitter.com/#!/genomeresearch">genomeresearch</a>: L Jorde discusses VAAST, which identifies disease-causing variants #AGBT <a rel="nofollow" href="http://t.co/ee8MrtR4">http://t.co/ee8MrtR4</a><br />
++28m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Lynne Jordan Discovered mother was pregnant with Ogden-affected fetus but couldn't inform her of result b/c test not done in CLIA lab #AGBT<br />
++28m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: NAA10 in second family<br />
++28m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: independent mutations, families unrelated<br />
++29m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: VAAST increases power to detect NOD2 mutation in Crohn cohort<br />
++30m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: increased power due to additional information used (BLOSUM etc)<br />
++30m <a href="https://twitter.com/#!/fluidigm">fluidigm</a>: For Targeted Resequencing and Single Cell Studies stop by Suite 285 at #AGBT, let us show you what we got!<br />
++30m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Lynne Jorde Used VAAST to detect NOD2 mut in Crohns disease cohort of 300 cases & ctrls.  Example of VAAST in common complex disease #AGBT<br />
++30m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Jorde found X-linked mutation <a rel="nofollow" href="http://t.co/VV034xOE">http://t.co/VV034xOE</a> while mother pregnant again, but couldn't comm. result since in non-CLIA lab. Sad. #AGBT<br />
++30m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: another condition with cardiac septal defects, identified GATA4 using VAAST<br />
++31m <a href="https://twitter.com/#!/MishaAngrist">MishaAngrist</a>: MT @girlscientist: Jorde found X-linked mutation <a rel="nofollow" href="http://t.co/O0MDstRR">http://t.co/O0MDstRR</a> but couldn't comm. result since in non-CLIA lab. Sad. #AGBT<br />
++31m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ:  VAAST adds pedigree term to LOD<br />
++32m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Lynne Jorde VAAST in single muti-generational family w dilated cardiomyopathy by adding LOD scores in new 'pedigree VAAST' #AGBT<br />
++32m <a href="https://twitter.com/#!/bioinfosm">bioinfosm</a>: #agbt LJ: power of vaast increases by more than an order of magnitude on using more control genomes #ngs #bioinformatics<br />
++32m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: esimated male specific mutation rate<br />
++33m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: 2.0e-8 per base pr generation<br />
++33m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Lynne Jorde Power of pedigree #VAAST increases as more control genome assembled.  #AGBT<br />
++33m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: twice as high as average mutation rate, 5 times female<br />
++34m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: males are responsible for most havoc in human genome (joke)<br />
++34m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Jorde: Male mutation rate is about 5X the female mutation rate. We males are responsible for most of the havoc in the human genome. #AGBT<br />
++34m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Lynne Jorde 'Males responsible for most of havoc in human genome' b/c mut rate 5x that of female rate #AGBT<br />
++35m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: Haldane was pretty close with not seq tools, two-fold difference only<br />
++35m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: Haldane also found male rate 10 times higher than female<br />
++35m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Jorde goes old-skool and points out Haldane in 1947 suggested male mut rate was up to 10X higher; now supported by data. #AGBT<br />
++36m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: how do you explain variation in mutation rates is question that can be addressed<br />
++36m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Lynn Jorde new q? Direct effect of paternal age on male mutation rate #AGBT<br />
++36m <a href="https://twitter.com/#!/bffo">bffo</a>: Li  "Males  mostly responsible for mutation havoc" in human genome #agbt<br />
++37m <a href="https://twitter.com/#!/bioinfosm">bioinfosm</a>: is the hashtag case sensitive!! #agbt is not same as #AGBT ?<br />
++37m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Jorde: As a longtime human geneticist, I am especially happy to see that we are going back to families. Word. #AGBT<br />
++38m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: question: structural variation rate ?<br />
++38m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: deletions might be more common in female transmission<br />
++39m <a href="https://twitter.com/#!/GenomeBiology">GenomeBiology</a>: Lynn Jorde discusses VAAST. A powerful tool for detecting mutations #agbt<br />
++39m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Lynn Jorde gave very inspiring talk on identification of causative variants in WGS data. Very cool. #AGBT #VAAST<br />
++39m <a href="https://twitter.com/#!/geniachip">geniachip</a>: Lynne Jorde, Univ of Utah: WGS providing consistent estimates of the human mutation rate. WGS / VAAST id's disease causing mutations; #AGBT<br />
++40m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Heidi Rehm from Partners Healthcare up next to talk about large scale sequencing in a clinical lab #agbt<br />
++40m <a href="https://twitter.com/#!/MishaAngrist">MishaAngrist</a>: kinda wish i were at #agbt<br />
++41m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LJ: male gametes have undergone more meioses which explains higher mutation rate<br />
++41m <a href="https://twitter.com/#!/eperlste">eperlste</a>: Kudos to all tweeting from #AGBT! This is what good conference tweeting looks like. Non-genetics biologists please watch and learn.<br />
++42m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: Heidi Rehm from Harvard Partners up next to talk about the sequencing in the clinical environment. #AGBT<br />
++42m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Heidi Rehm: CLIA lab prospective for using seq in clinical applications<br />
++43m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: well here you go, Heidi Rehm starts off with "I was asked to give the CLIA lab perspective on testing." #AGBT<br />
++43m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Lynn Jorde males have higher mut rate b/c spermatogonia contly undergoing spermatogensis, so 50 year old male has had 800 divisions #AGBT<br />
++43m <a href="https://twitter.com/#!/illumina">illumina</a>: Lynne Jorde: #VAAST for funct impact of amino acid changes, disease causing variants, pedigree info. Uses comp likelihood ratio test #AGBT<br />
++43m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT HR: her lab offers &gt; 150 tests, testing in large multigene panels<br />
++44m <a href="https://twitter.com/#!/bffo">bffo</a>: LJ: VAAST is a lot better than SIFT and ANNOVAR  re: table 1 in VAAST paper: <a rel="nofollow" href="http://t.co/fkD51HzS">http://t.co/fkD51HzS</a> #AGBT<br />
++44m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Quick look at nanopore abstracts from Oxford Nano & Gundlach confirms my suspicion that polymerase will be used to ratchet DNA. #AGBT<br />
++44m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Heidi Rehm shows graph from GeneTests showing how fast clinical sequencing tests are being developed over the past decade #agbt<br />
++45m <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: #AGBT Heidi Rehm, NGS in a CLIA lab. 2500 diseases being testes. Striking feature is the increase in content / test<br />
++45m <a href="https://twitter.com/#!/schnablep">schnablep</a>: #AGBT Heidi Rehm,Supporting Large Scale Sequencing in a Clinical Environment genetic tests now available for ~2,500 diseases;<br />
++46m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT HR: 5 years ago launched HCM cardiochip panel<br />
++46m <a href="https://twitter.com/#!/omespeak">omespeak</a>: RT @finchtalk: #AGBT Heidi Rehm, NGS in a CLIA lab. 2500 diseases being testes. Striking feature is the increase in content / test<br />
++47m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT HR: GLA variant is actionable (Fabri disease? did not get the name)<br />
++48m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: @Affymetrix Heidi Rehm discussing gene tests on Affy arrays @ #AGBT<br />
++48m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT HR: 1 chip multiple genes, test for many genes, diagnose unexpected conditions<br />
++48m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT HR: example with Hearing Loss and Usher syndrome; would not have tested both together without chip<br />
++49m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Heidi Rehm says very few families opt for prenatal genetic testing for hearing loss #AGBT - I'm surprised that it's even offered<br />
++49m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: HR: Clinical labs still have to confirm variants identified by NGS- by Sanger. #AGBT<br />
++50m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT HR: they need 95% coverage of gene regions<br />
++50m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Heidi Rehm accepted standard for clinical labs is to confirm NGS b/c of possibility of mixed samples & to fully cover missing info #AGBT<br />
++50m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT HR: 80% not enough<br />
++50m <a href="https://twitter.com/#!/bioinfosm">bioinfosm</a>: #agbt Rehm talks about sample mixup possibilities with ngs (many manual steps) so sanger validation for all cases<br />
++51m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT HR: 20X coverage is their cutoff<br />
++51m <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: #AGBT HR still Sanger sequence to confirm results from NGS. Variant DB integrated into the workflow in real time.<br />
++51m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT HR: converted OtoChip to OtoGenome<br />
++52m <a href="https://twitter.com/#!/schnablep">schnablep</a>: #AGBT Heidi Rehm, Multi-gene tests now widely available (e.g., OtoChip for hearing loss); they Sanger confirm positive NGS results<br />
++52m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Heidi Rehm mostly use Sanger Seq for confirmation of novel variants #AGBT<br />
++52m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT HR: confirmatory Sanger seq assays bottleneck<br />
++52m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Rehm: moved their OtoChip array test to OtoGenome test. Bottleneck = Sanger confirmation for 1000+ potential muts ID'd by test. #AGBT<br />
++53m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT HR: 99.5% sensitivity for OtoGenome w SNVs, indels not as good<br />
++53m <a href="https://twitter.com/#!/bioinfosm">bioinfosm</a>: @Massgenomics Dan good to see you on twitter.. will try to catch you at #agbt<br />
++54m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Rehm: other bottleneck is novel variant assessment. When they launched pan-cariomyopathy NGS test, they started drowning in this. #AGBT<br />
++54m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT HR: continuously need to add novel variants in database<br />
++54m <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: Average time to assess a novel variant - 21.5 to 119.6 min depending on other data/publications available for gene. Heidi Rehm #AGBT<br />
++55m <a href="https://twitter.com/#!/schnablep">schnablep</a>: #AGBT Challenge of novel variant assessment in targeted clinical assays (lots of manual searches, 21-120 min/variant)<br />
++55m <a href="https://twitter.com/#!/bioinfosm">bioinfosm</a>: #agbt HR: Novel Variant Assessment is 21 to 120mins given a single post-doc or phd person looking at that variant!!<br />
++55m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Opening talk at #AGBT: Lynn Jorde speaks on direct estimates human mutation rate using whole genome seq data<br />
++56m <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: #AGBT HR board certification requires measure the time it takes to assess novel variants, about 2-3 hrs.<br />
++56m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Heidi Rehm - 17% of variants they detect are novel #AGBT<br />
++56m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT HR: 10-20 BRCA1 new variants each week ... keeping up w novel variants is a challenge<br />
++56m <a href="https://twitter.com/#!/bioinfosm">bioinfosm</a>: #agbt HR: HCM mutations from 2000 cases tested, &gt;60% are unique to a family<br />
++57m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Rehm: shes's been told Myriad still detects 10-20 new missense variants in BRCA1/2 each week, even after testing 100's of 1000's ppl. #AGBT<br />
++57m <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: #AGBT HR now showing the huge number of novel variants that are unique to families.<br />
++57m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT HR: dbSNP is mostly unannotated; problem is small control pop which leads to biased frequencies<br />
++58m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Heidi Rehm 66 to 88% of clinically significant variants seen only in 1 family, depending on disease (88% of hearing loss for example) #AGBT<br />
++58m <a href="https://twitter.com/#!/genomeresearch">genomeresearch</a>: "game's not over yet for most genes" still so many unique muts MT @girlscientist: Rehm: other bottleneck is novel variant assessment. #AGBT<br />
++58m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT HR: wants to create a universal human genomic mutation database<br />
++58m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Most annotated genomic data in public domain is mostly wrong! Heidi Rehm. #AGBT<br />
++58m <a href="https://twitter.com/#!/schnablep">schnablep</a>: #AGBT Heidi Rehm, 60-80% of clinically significant variants are found in only one family.<br />
++58m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: HR: Need to get more clinical annotation on variation in the public domain- not much data is there and some of what is there is wrong. #AGBT<br />
++59m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Heidi Rehm speaks on sequencing in clinical environment at #AGBT<br />
++59m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT HR: can be hard to discriminate clinical grade variants from non clinical grade</p>
+<p><strong>10 - 11am EST</strong><br />
++0m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Heidi Rehm proposing one variant database with varying levels of annotation #AGBT - great idea<br />
++0m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Heidi Rehm has grant to create universal human mutation db so can lower mistake in public db that lead to overestimates of effects #AGBT<br />
++0m <a href="https://twitter.com/#!/bongopondit">bongopondit</a>: This will be a huge undertaking, but very useful. RT @ElementoLab: #AGBT HR: wants to create a universal human genomic mutation database<br />
++0m <a href="https://twitter.com/#!/fluidigm">fluidigm</a>: PREPARE amplicons for sequencing on all major next-generation sequencing systems. Learn more in Suite 285. #AGBT<br />
++0m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Rehm: debate on creating databases for clinical genetic data. She favors putting all into one database and marking w/curation level. #AGBT<br />
++0m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT HR: many labs have agreed to share their curated variant data<br />
++1m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Initially 9 different disease areas will be the focus of the curated variant data being developed by Rehm. #AGBT<br />
++1m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT HR: GeneInsight Suite to provide genetic reports, published in Human Mutation<br />
++1m <a href="https://twitter.com/#!/geniachip">geniachip</a>: Heidi Rehm: dbSNP contains lots of data, but most unannotated.  Need curated data in public domain! #AGBT<br />
++2m <a href="https://twitter.com/#!/MishaAngrist">MishaAngrist</a>: MT @girlscientist: Rehm: Myriad still detects 10-20 new missense variants in BRCA each week, even after testing 100's of 1000's ppl. #AGBT<br />
++2m <a href="https://twitter.com/#!/spurim">spurim</a>: Don't miss! Agilent's Luncheon session today as 12:10pm @ Palms Ballroom. Amazing speakers from OICR, Hubrecht, Erasmus MC! #AGBT<br />
++2m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Variant classification changes - ~300 category changes overs the last few years. #AGBT<br />
++2m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT HR: has a paper  acceped about changse in variant clinical annotation in Genetics in Medicine<br />
++3m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Rehm: discusses creating single database for clinical data, with tiered levels of curation #AGBT<br />
++3m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT HR: shows a GeneInsight report screenshot<br />
++3m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Heidi Rehm new universal human mutation db entries have levels of curation from expert 2 uncurated 2 reflect confidence in each entry #AGBT<br />
++3m <a href="https://twitter.com/#!/geniachip">geniachip</a>: Heidi Rehm:  Solution is one variant database with various levels of annotation. Has already signed up various labs to share data. #AGBT<br />
++4m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Heidi Rehm - database interface (GeneInsight) will inform physicians about changes in variant classification.  #AGBT<br />
++4m <a href="https://twitter.com/#!/illumina">illumina</a>: Heidi Rehm, Seq from CLIA perspective U41 Grant for clinical data, not easily accessible, into public domain as clin grade variant db #AGBT<br />
++4m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT HR: software FDA registered<br />
++5m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Heidi Rehm future:patient genome variants stored & proactive warnings generated as new clinically actionable info is learned #AGBT<br />
++5m <a href="https://twitter.com/#!/genomeresearch">genomeresearch</a>: H Rehm: integrate vast amt of genetic info into patient care by storing millions of variants in electronic health records #AGBT<br />
++6m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT HR: GeneInsight would be hub in network between labs, databases, etc<br />
++6m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Best way to leverage WGS to patient care will be by integrating into electronic database. Heidi Rehm. #AGBT<br />
++7m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Also, there needs to be networking between sequence providers, academic labs, hospitals all integrated into a central hub. Heidi Rehm. #AGBT<br />
++7m <a href="https://twitter.com/#!/illumina">illumina</a>: Rehm: dbSNP data mostly un-annot'd for clinical sig, most annots wrong due to small ctrl pops. Clinical lab data not in public domain #AGBT<br />
++7m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT HR: GeneInsight allows sharing data, including deidentified case history<br />
++7m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Partners Healthcare is doing some incredible work bringing NGS to the clinic #AGBT<br />
++8m <a href="https://twitter.com/#!/GenomeBiology">GenomeBiology</a>: Labs need to share clinical data more. Rehm's new infrastructure will allow this in real time #agbt<br />
++8m <a href="https://twitter.com/#!/illumina">illumina</a>: Rehm: Avg time to asses a novel variant from NGS is approx 21-119 min (dbSNP, publications, etc., plus in silico assessments #AGBT<br />
++8m <a href="https://twitter.com/#!/mgollery">mgollery</a>: I wish I was at #AGBT to check out the latest in sequencing technology- <a rel="nofollow" href="http://t.co/V5kBRegM">http://t.co/V5kBRegM</a><br />
++9m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Amazing presentation by Heidi Rehm. Glimpse into the future of genome-sequencing applications in clinics and patient healthcare #AGBT<br />
++11m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Last two talks by Heidi Rehm & Lynn Jorde shows using WGS information to treat/prevent disease is challenging but bound to happen. #AGBT<br />
++12m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lisa Shaffer:  genotype first approach to id of new chromosomal syndromes<br />
++12m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Lisa Shaffer from Perkin Elmer talking about using genotyping to identify new chromosomal syndromes #AGBT<br />
++12m <a href="https://twitter.com/#!/MishaAngrist">MishaAngrist</a>: RT @omespeak: Last two talks  show using WGS information to treat/prevent disease is challenging but bound to happen. #AGBT<br />
++13m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: #AGBT next up Lisa Shaffer from Perkin Elmer. New chromosomal syndrome IDs by genotype approach<br />
++13m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Lisa Shaffer: Im probably giving the only non-sequencing talk at the meeting" but chromosomes still relevant! Word again. #AGBT<br />
++13m <a href="https://twitter.com/#!/_Gugaa_pimentel">_Gugaa_pimentel</a>: Hoje foi engra dmaais agbt conversando na aula de mat e a prof "quietos, se nao chamo o Davyd" UAHSAHSHHAHS<br />
++13m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lisa Shaffer:  took 100 years to link Down syndrome to chr21<br />
++13m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Lisa Shaffer 1866 Down's first described as a syndrome but genetic etiology not described until 1950s #AGBT<br />
++14m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lisa Shaffer:  several syndromes due to 10Mb+ deletions<br />
++15m <a href="https://twitter.com/#!/westr">westr</a>: Second that! RT @geniachip: Heidi Rehm: dbSNP contains lots of data, but most unannotated.  Need curated data in public domain! #AGBT<br />
++16m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lisa Shaffer:  talking about Potocki-Shaffer syndrome<br />
++16m <a href="https://twitter.com/#!/eperlste">eperlste</a>: Clinical application of WGS to human disease is awesome but let's not forget to bring model organism genetics into 21 century, too. #AGBT<br />
++16m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lisa Shaffer:  27 individuals from 17 families reported, visible 11p deletions<br />
++17m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Lisa Shaffer in 80 & 90s syndromes began to be recognized as caused contigous gene deletions.  #AGBT<br />
++19m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lisa Shaffer:  was using genetic mapping, now uses microarray to characterize microdeletions<br />
++19m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Lisa Shaffer 'back in the 90s we had to build our own maps'. Taking us back to the pre-genome era....ahh memories :) #AGBT<br />
++20m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lisa Shaffer:  has database of abnormal cases and deletions (Genoglyphix)<br />
++20m <a href="https://twitter.com/#!/GMiadydiz">GMiadydiz</a>: @_CaiioSilva kkkkkkk qualque dia agbt tira amr *-*<br />
++21m <a href="https://twitter.com/#!/illumina">illumina</a>: Shaffer, Perkin Elmer. Many syndromes caused by chromosomal abnormalities cannot be IDd by NGS, instead need arrays. #AGBT<br />
++21m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lisa Shaffer:  can query by deletion region, will show you cases and syndroms in which it was previously found<br />
++22m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: #AGBT LS: Genoglyphix is a searchable database of abnormal cases<br />
++23m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lisa Shaffer:  example: 50 cases of del(1)q43q44, overlapping clinical features<br />
++23m <a href="https://twitter.com/#!/illumina">illumina</a>: Shaffer: microarray analysis to id deletions. Database with 16k cases run on arrays, avail to researchers (Genoglyphix) #AGBT<br />
++24m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lisa Shaffer:  sometimes phenotypic features not obviously similar, but share same deletion<br />
++25m <a href="https://twitter.com/#!/schnablep">schnablep</a>: #AGBT Software (ERSA) mentioned by Lynn Jorde for estimating recent shared ancestry from sequence data: <a rel="nofollow" href="http://t.co/UqVtM76t">http://t.co/UqVtM76t</a><br />
++25m <a href="https://twitter.com/#!/Gavin_Oliver">Gavin_Oliver</a>: Wondering how much tweaking VAAST would require to be useful for drug-response association and if this is planned future functionality #AGBT<br />
++26m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lisa Shaffer:  was not clear whether AKT3 involved in microcephaly<br />
++26m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lisa Shaffer:  her analysis of deletions in 22 microcephaly cases shows that AKT3 is the common gene<br />
++27m <a href="https://twitter.com/#!/westr">westr</a>: RT @GenomeBiology: Labs need to share clinical data more. Rehm's new infrastructure will allow this in real time #agbt #pm101<br />
++27m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Lisa Shaffer has built db of 'gene deletion syndromes'. New patient presents - search db 2 find others w/similar phenotypes.  #AGBT<br />
++29m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lisa Shaffer:  for agegenesis of corpus callosum phenotype, she found ZNF238 in minimal region of the del q43q44<br />
++29m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Lisa Shaffer after identifying overlapping deletions b/w different patients can narrow candidate genes 4 follow up & confirmation #AGBT<br />
++29m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lisa Shaffer:  3 genes in minimal region q43q44 for seizure phenotype<br />
++30m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lisa Shaffer:  1 in 3 genes in critical region is HNRPU, predicted to be haploinsufficient<br />
++32m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: #AGBT LS: phenotypic characteristics may be subtle and variable so genotype might be only way to group and identify syndrome<br />
++33m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lisa Shaffer:  array based genotyping faster than NGS<br />
++36m <a href="https://twitter.com/#!/illumina">illumina</a>: Shaffer, Whole genome arrays, small deletions can be ID'd in many patients, and overlap to find critical regions for phenotype #AGBT<br />
++36m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lisa Shaffer:  can go down to &lt;1kb resolution by packing oligos<br />
++39m <a href="https://twitter.com/#!/SpunkyScientist">SpunkyScientist</a>: RT @illumina Shaffer, Perkin Elmer. Many syndromes caused by chromosomal abnormalities cannot be IDd by NGS, instead need arrays. #AGBT<br />
++42m <a href="https://twitter.com/#!/assemblathon">assemblathon</a>: RT @djschlesinger: HiSeq 1500 will be fully upgradeable to 2500 #AGBT<br />
++42m <a href="https://twitter.com/#!/SpunkyScientist">SpunkyScientist</a>: RT @ElementoLab #AGBT Lisa Shaffer:  array based genotyping faster than NGS<br />
++58m <a href="https://twitter.com/#!/zerojinx">zerojinx</a>: All this talk of genotyping for new syndromes takes me back to DECIPHER <a rel="nofollow" href="https://t.co/r9FTY3T3">https://t.co/r9FTY3T3</a> . Take that and add NGS. (See also DDD) #agbt</p>
+<p><strong>11 - 12pm EST</strong><br />
++0m <a href="https://twitter.com/#!/AgilentLife">AgilentLife</a>: Edwin Cuppen- Hubrecht Institute and Willem van IJcken- Erasmus MC will speak at our Featured Luncheon today at 12:10 Palms Ballroom. #AGBT<br />
++2m <a href="https://twitter.com/#!/bkmacy">bkmacy</a>: @illumina + @ING_SYS working together to deliver the most accurate data, analysis and interpretation for cancer studies, #AGBT<br />
++11m <a href="https://twitter.com/#!/bkmacy">bkmacy</a>: Dr. van der Spek's work with @CompleteGenomic and @ING_SYS resulted in the ID of a novel causal variant for craniosynostosis, #AGBT<br />
++16m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: #AGBT Darrell Dinwiddie, Children's Mercy talks about clinical testing of severe childhood diseases with target enrichment and NGS<br />
++17m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Darrell Dinwiddie discussing a 600 gene panel at Children's Mercy Hospital #AGBT<br />
++17m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: Darren Dinwiddie talking about clinical seq for &gt;600 childhood diseases. #AGBT<br />
++19m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Children's Mercy Hospital, Pediatric Genomic Medicine, in Kansas City is hiring. See/contact Darrell Dinwiddie. #AGBT<br />
++19m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Darrell Dinwiddie: there are 7K Mendelian diseases<br />
++20m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Dinwiddie: 7043 mendialian diseases, 3328 with known molecular basis #AGBT<br />
++22m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Darrell Dinwiddie: testing &gt;600 disease at a time, $1000 per patient, 30K patients annually, turnaround 4 wks, 90% get diagnosis<br />
++22m <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: #AGBT Darrell Dinwiddie on pediatric medical sequencing.  Diseases related to rare mutations are a reason many kids visit children's hosps.<br />
++22m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Dinwiddie: Sanger sequencing costs ~$10k testing for 1-10 diseases, ~$1k for 600 diseases using NGS #AGBT<br />
++23m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Darrell Dinwiddie: semi automated 96 samples testing platform<br />
++24m <a href="https://twitter.com/#!/bongopondit">bongopondit</a>: Dinwiddie - expecting that genomic medicine will reduce cost by 10x, look at 60x more diseases, 10x increase in patients tested. #AGBT<br />
++24m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Dinwiddie advocating testing for all recessive diseases (in kids) to save $, time and help get right treatment @ right time. #AGBT<br />
++24m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Darrell Dinwiddie: testing 8K genomic regions, 526 genes<br />
++24m <a href="https://twitter.com/#!/cheyennexo3">cheyennexo3</a>: AGBT<br />
++24m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Darrell Dinwiddie: 97.5% of targets have &gt;16X coverage<br />
++24m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Dinwiddie - expecting that genomic medicine will reduce cost by 10x, look at 60x more diseases, 10x increase in patients tested. #AGBT<br />
++25m <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: #AGBT DD current approaches cost $10k, sample few genes, have 50% success. Genome potential: sample 600 genes, $1000 cost, 90% success<br />
++25m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Also, shorter turnaround time and almost 2-fold increase in diagnosis using genomic medicine vs traditional testing. Darrell Dinwiddie #AGBT<br />
++25m <a href="https://twitter.com/#!/genomeresearch">genomeresearch</a>: Estimation of recent shared ancestry (ERSA) also from L Jorde <a rel="nofollow" href="http://t.co/AzC6Plgf">http://t.co/AzC6Plgf</a> #AGBT<br />
++25m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Darrell Dinwiddie: for ethical reasons, they need to limit what they discover and report<br />
++26m <a href="https://twitter.com/#!/bongopondit">bongopondit</a>: RT @ElementoLab: #AGBT Darrell Dinwiddie: for ethical reasons, they need to limit what they discover and report<br />
++26m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Dinwiddie: need to limit what we look at in the genomes of children, don't look at carrier status #AGBT<br />
++26m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Dinwiddie going over ethics of genetic testing for children. They have created "orderly interface" to manage. Hmmm. #AGBT<br />
++26m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: #AGBT DD: test &gt;600 diseases at once with a turnaround of 4 weeks and a diagnosis rate of 90%<br />
++26m <a href="https://twitter.com/#!/omespeak">omespeak</a>: RT @ElementoLab: #AGBT Darrell Dinwiddie: for ethical reasons, they need to limit what they discover and report<br />
++26m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Dinwiddie test for over 600 diseases but do not report on adult onset carrier status as no benefit to child #AGBT<br />
++27m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Darrell Dinwiddie: showing screenshot of interface for ordering test<br />
++27m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: whoops sorry that should have been "ordering interface" from Dinwiddie, based on phenotype /clinical findings. My typo! #AGBT<br />
++27m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Darrell Dinwiddie: need to enter clinical symptoms<br />
++27m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Darrell Dinwiddie: systems comes up with genes to test based on clinical features<br />
++28m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Darrell Dinwiddie: gene-feature matching based on SNOMED terms<br />
++28m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: #AGBT DD: target 526 genes + mt genome with Illumina TruSeq enrichment. Generate 4Gb of data per sample<br />
++29m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Darrell Dinwiddie: correct gene nominated in 286/290 test cases<br />
++30m <a href="https://twitter.com/#!/fluidigm">fluidigm</a>: MULTIPLEX 96 different samples in a single sequencing run. Learn more in Suite 285. #AGBT<br />
++30m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Darrell Dinwiddie: align reads with GSNAP, can detect up to 10kb deletions, 60pb insertions<br />
++30m <a href="https://twitter.com/#!/CompleteGenomic">CompleteGenomic</a>: Catch our own Jason Laramie presenting on family-based studies, today in the #AGBT Complete Suite at 12:45 pm<br />
++31m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Darrell Dinwiddie: there are 6 ACMG categories of variants<br />
++31m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Dinwiddie looked @ 290 patients who were referred to gene testing based on SNOMED and 286 got correct gene test based on symptoms #AGBT<br />
++31m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Darrell Dinwiddie: cat 1-4 presented in prioritized manner according to number of symptoms matched<br />
++32m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Darrell Dinwiddie: insertions and CNV account for 5-20% of disease causing variants<br />
++33m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Darrell Dinwiddie: looks for deletions by looking at local reduction in normalized aligned reads<br />
++33m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Darrell Dinwiddie: found a 966bp hets deletion in CLN3 this way<br />
++33m <a href="https://twitter.com/#!/illumina">illumina</a>: Now #AGBT Darren Dinwiddie, Childrens Mercy Hospital, non-profit, 15k in-patient admiss, 335k outpatient visits, 144k urgent care visits<br />
++33m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Dinwiddie 5-20% of disease caused by CNV but analysis pipelines have difficulty detecting #AGBT<br />
++34m <a href="https://twitter.com/#!/spurim">spurim</a>: #AGBT Don't miss! Agilent's Luncheon session today as 12:10pm @ Palms Ballroom. Amazing speakers from OICR, Hubrecht, Erasmus MC!<br />
++34m <a href="https://twitter.com/#!/kimwhit">kimwhit</a>: Advances in #Genome Biology and Technology(AGBT) day 1 tweets at <a rel="nofollow" href="http://t.co/bR8rDybi">http://t.co/bR8rDybi</a>  Thx @pathogenomenick @lexnederbragt<br />
+#genomics #in<br />
++35m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Darrell Dinwiddie: validation of 700 samples nearly complete<br />
++35m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Darrell Dinwiddie: validating 700 samples, including ethnic diversity (very important IMO). #AGBT<br />
++36m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Darrell Dinwiddie: his first 2 patients, 5 years no molecular diagnosis, &gt;$23K<br />
++36m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Dinwiddie in midst of 3 phase clinical validation of their testing pipeline w/ 700 samples of varying ethnicities & disease status #AGBT<br />
++36m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Darrell Dinwiddie:  found causal gene in APTX<br />
++37m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Darrell Dinwiddie: APTX is actionable, treatment with CoQ10 started<br />
++37m <a href="https://twitter.com/#!/bioinfosm">bioinfosm</a>: #agbt Dinwiddie from CMH: a patient for 5yr and &gt;$23k tests with no diagnostic .. sanger confirmed APTX mutation found using #NGS<br />
++39m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Dinwiddie Ex of where diagnosis has changed treatment (APTX caused coQ10 deficiency) & lead to child regaining mobility.  Yay! #AGBT<br />
++39m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Darrell Dinwiddie: good question, how do you deal with genes with IP issues ?<br />
++39m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Darrell Dinwiddie: did not deal with that type of situation yet<br />
++39m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Chad Nusbaum asks Dinwiddie how they deal with gene testing in genes that have IP. Unfortunately, no clear answer. #AGBT<br />
++40m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: #AGBT DD on power of genomic medicine: first 2 patients that came to them had gone through $23K in testing over 5 yrs with no Dx...<br />
++40m <a href="https://twitter.com/#!/omespeak">omespeak</a>: They haven't dealt with it yet. RT @ElementoLab: #AGBT Darrell Dinwiddie: did not deal with that type of situation yet<br />
++40m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rong Chen: published clinical assessment of Steve Quake's genome a few years ago<br />
++40m <a href="https://twitter.com/#!/bongopondit">bongopondit</a>: They haven't dealt with it yet.  RT @ElementoLab: #AGBT Darrell Dinwiddie: good question, how do you deal with genes with IP issues ?<br />
++40m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: #AGBT DD: Genomic Med was able to provide Dx and were able to start treatment<br />
++41m <a href="https://twitter.com/#!/MishaAngrist">MishaAngrist</a>: RT @girlscientist: Chad Nusbaum asks Dinwiddie how they deal with gene testing in genes that have IP. Unfortunately, no clear answer. #AGBT<br />
++41m <a href="https://twitter.com/#!/illumina">illumina</a>: Dinwiddie: Example, 2 patients, hospital for 5 yr spent $20K+ on neg genetic tests. NGS found a mut in APTX, conf w/ sanger. #AGBT<br />
++42m <a href="https://twitter.com/#!/omespeak">omespeak</a>: #AGBT Rong Chen: how to calculate genetic risk of a particular disease across populations through the world.<br />
++42m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rong Chen: now working in type 2 diabetes<br />
++42m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Rong Chen T2D genetic risk decreased as people migrated out of Africa till lowest risk in SE Asia and America #AGBT<br />
++42m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Rong Chen: showed graph from Eric Corona at Stanford with claim that T2D genetic risk decreased as human migrated over time. #AGBT<br />
++43m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rong Chen: used Hapmap3, HGDP, Complete Genomics to find T2D risks<br />
++44m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rong Chen: manually curated all disease associated SNPs from literature<br />
++45m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: Were excited to be at #AGBT w/ our partner @AGXP. Learn about this #genomics competition at todays poster session.<br />
++45m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rong Chen: each SNP was annotated along 100+ features<br />
++45m <a href="https://twitter.com/#!/illumina">illumina</a>: Dinwiddie: ~7k known mendelian diseases, 3k with known molecular basis. Together affect about 3-4% of children. #AGBT<br />
++45m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rong Chen: &gt;100,00 SNPs for 2400 diseases<br />
++45m <a href="https://twitter.com/#!/illumina">illumina</a>: Dinwiddie: Why test for all recessive diseases? Timely Dx rules out diseases & avoid unnecessary treatments #AGBT<br />
++45m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rong Chen: published in PLoS ONE 2 years ago<br />
++46m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rong Chen: 12 replicated and haplotype independent SNPs for T2D<br />
++46m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: RongChen 2 interpret gt disease risk need 2 know risk alleles, pops studied, gt freq case:control & strand dir where risk alleles rep #AGBT<br />
++46m <a href="https://twitter.com/#!/omespeak">omespeak</a>: 12 independent SNPs for T2D replicated over five ethnic groups  #Rong Chen #AGBT<br />
++46m <a href="https://twitter.com/#!/surt_lab">surt_lab</a>: Thanks mom and dad :) MT @girlscientist Lynn Jorde : Each (human) gamete contributes about 35 new variants. #AGBT<br />
++47m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rong Chen: several SNPs causal across several ethnic groups<br />
++47m <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: Check out the Ion Proton Sequencer at AGBT: <a rel="nofollow" href="http://t.co/wjGqu6cy">http://t.co/wjGqu6cy</a> via @youtube<br />
++47m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Rong Chen describing Personalis and their work on manual curation of SNPs as in this paper <a rel="nofollow" href="http://t.co/hjXtfkib">http://t.co/hjXtfkib</a> #AGBT<br />
++47m <a href="https://twitter.com/#!/omespeak">omespeak</a>: T2D risk allele - highest frequency in African (inlc African-Amercans), lowest in Asian. Rong Chen #AGBT<br />
++48m <a href="https://twitter.com/#!/DNAsizing">DNAsizing</a>: Sweets in the suite.  Covaris Candy Shop Now Open! Sage Science lanai 286 until 5 pm #AGBT<br />
++49m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rong Chen: T2D risk allele frequencies decrease with igration<br />
++49m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rong Chen: finding coming in plos genetics<br />
++50m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rong Chen: T2D risk alleles show higher freq in SubSaharan Africa<br />
++51m <a href="https://twitter.com/#!/surt_lab">surt_lab</a>: So JBS Haldane almost got it right #standingontheshouldersofgiants RT @ElementoLab: #AGBT LJ: 2.0e-8 per base pr generation<br />
++51m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rong Chen: in prev tweet, igration -&gt; migration<br />
++52m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rong Chen: why would T2D risk freq decrease when humans migrate ?<br />
++52m <a href="https://twitter.com/#!/illumina">illumina</a>: Rong Chen, Personalis, Manual curation of disease assoc SNPs from 800 pubs- Varimed (VARiants Informing Medicine) database #AGBT<br />
++53m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rong Chen: mismatch bet genetic and environment upon migration ?<br />
++53m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rong Chen: energy storage needs change ?<br />
++53m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rong Chen: just hypotheses<br />
++54m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rong Chen: calc a likelihood ratio of disease for personal genome from multiple allele risks<br />
++55m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: RongChen why T2D risk allele freq change w/human mig?  Thrifty gene hypo:diff energy req when migrating OR mismatch b/w gene&enviro #AGBT<br />
++57m <a href="https://twitter.com/#!/CRIgenomics">CRIgenomics</a>: James is now at #AGBT. The next four days should be fun.<br />
++57m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rong Chen: genetic risk prediction consistent with known ethnic group different risks<br />
++57m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rong Chen: have  a Genetic Risk World Map web application<br />
++58m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Mapping genetic risk of disease across the world: <a rel="nofollow" href="http://t.co/CSa06ZrX">http://t.co/CSa06ZrX</a> Rong Chen. #AGBT<br />
++59m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: The map from Rong Chen et al. was covered as news in Science magazine here: <a rel="nofollow" href="http://t.co/WuhWZpsE">http://t.co/WuhWZpsE</a> #AGBT<br />
++59m <a href="https://twitter.com/#!/GenomeBiology">GenomeBiology</a>: Genetic risk of T2D decreased as humans migrated from africa #agbt<br />
++59m <a href="https://twitter.com/#!/illumina">illumina</a>: Rong Chen: T2D risk SNP, rs1196205_C-TCF7L2 highest in African pop. Why do daibetes risk alleles decrease when humans migrate? #AGBT<br />
++59m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: RongChen 'More GWAS in Africans and Indian Asians urgently needed.' #AGBT<br />
++59m <a href="https://twitter.com/#!/CRIgenomics">CRIgenomics</a>: #AGBT Clinical Translation of Genomics session: Panels for targeted sequencing, pipelines for analysis of mutations, Sanger validation.<br />
++59m <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: #AGBT Rong Chen, genetic risk map of the world <a rel="nofollow" href="http://t.co/XDad805M">http://t.co/XDad805M</a><br />
++59m <a href="https://twitter.com/#!/omespeak">omespeak</a>: "More GWAS in diverse populations especially African and Indian Asian are *uregently* needed". Rong Chen (emphasis mine). #AGBT</p>
+<p><strong>12 - 1pm EST</strong><br />
++0m <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: "More GWAS in diverse populations, especially African & Indian Asian are urgently needed" to accurately predict genetic risk Rong Chen #AGBT<br />
++0m <a href="https://twitter.com/#!/illumina">illumina</a>: Rong Chen: More GWAS urgently needed in African and Indian asian populations. #AGBT<br />
++1m <a href="https://twitter.com/#!/Symbionticism">Symbionticism</a>: #AGBT pic. Ion Torrent has a well crafted presence. Not only a beach bus but coffee holders too. Well done. <a rel="nofollow" href="http://t.co/uB2ml7ua">http://t.co/uB2ml7ua</a><br />
++3m <a href="https://twitter.com/#!/bffo">bffo</a>: Rong Chen is .@rongchenbioinfo  #agbt<br />
++10m <a href="https://twitter.com/#!/intrepidbio">intrepidbio</a>: "Non- and Synonymous Coding SNPs" <a rel="nofollow" href="http://t.co/ljEltFH1">http://t.co/ljEltFH1</a> by @RongChenBioinfo. We take both SNP & NGS data, @PersonalisInc. @ElementoLab #AGBT<br />
++10m <a href="https://twitter.com/#!/intrepidbio">intrepidbio</a>: "Non- and Synonymous Coding SNPs" <a rel="nofollow" href="http://t.co/ikdhHhei">http://t.co/ikdhHhei</a> by @RongChenBioinfo. We take both SNP & NGS data, @PersonalisInc. @ElementoLab #AGBT<br />
++12m <a href="https://twitter.com/#!/westr">westr</a>: RT @illumina: Dinwiddie: ~7k known mendelian diseases, 3k with known molecular basis. Together affect about 3-4% of children. #AGBT #pm101<br />
++13m <a href="https://twitter.com/#!/westr">westr</a>: MT @ElementoLab: #AGBT Rong Chen: &gt;100,000 SNPs for 2400 diseases #pm101<br />
++14m <a href="https://twitter.com/#!/westr">westr</a>: RT @illumina: Dinwiddie: Why test for all recessive diseases? Timely Dx rules out diseases & avoid unnecessary treatments #AGBT #pm101<br />
++16m <a href="https://twitter.com/#!/westr">westr</a>: RT @girlscientist Rong Chen describing Personalis & their work on manual curation of SNPs as in this paper <a rel="nofollow" href="http://t.co/7c83OUx0">http://t.co/7c83OUx0</a> #AGBT #pm101<br />
++25m <a href="https://twitter.com/#!/illumina">illumina</a>: #AGBT poster 48 Enhanced RiboZero tech: Removal of rRNA & Improved RNA-Seq lib quality<br />
++28m <a href="https://twitter.com/#!/westr">westr</a>: RT @ElementoLab: #AGBT Rong Chen: calc a likelihood ratio of disease for personal genome from multiple allele risks #pm101 causal/protective<br />
++30m <a href="https://twitter.com/#!/illumina">illumina</a>: #AGBT poster 119 PvuRts1I, MspI, & T4-betaGT: Tools for bisulfite-free ID of epigenetic cytosine modifications<br />
++30m <a href="https://twitter.com/#!/fluidigm">fluidigm</a>: RT @EdgeBio Check out Views From Edge Blog: #AGBT  Marco Island Never Gets Old @dgaalaas <a rel="nofollow" href="http://t.co/HgcXgIT2">http://t.co/HgcXgIT2</a> &gt;Nice synopsis of conference<br />
++30m <a href="https://twitter.com/#!/AgilentLife">AgilentLife</a>: Stop by to see Posters: 70, 108, 161 and 266 at the 1pm #AGBT Poster Session. Learn about #HaloPlex #Methyl-Seq & more <a rel="nofollow" href="http://t.co/ec5AzqGt">http://t.co/ec5AzqGt</a><br />
++35m <a href="https://twitter.com/#!/westr">westr</a>: RT @omespeak: Mapping genetic risk of disease across the world: <a rel="nofollow" href="http://t.co/B2qiCGeE">http://t.co/B2qiCGeE</a> Rong Chen. #AGBT #pm101<br />
++37m <a href="https://twitter.com/#!/westr">westr</a>: RT @girlscientist: The map from Rong Chen et al. was covered as news in Science magazine here: <a rel="nofollow" href="http://t.co/FpknbiUw">http://t.co/FpknbiUw</a> #AGBT #pm101<br />
++41m <a href="https://twitter.com/#!/agxp">agxp</a>: Dont forget to learn more about our #genomics competition during todays poster session at #AGBT! 1:10 pm EST; poster 170.<br />
++46m <a href="https://twitter.com/#!/Medco">Medco</a>: Are you attending #AGBT? Stop by the poster session today and tomorrow to learn more about Medco's sponsorship of the @AGXP!<br />
++46m <a href="https://twitter.com/#!/nygenome">nygenome</a>: For those at #AGBT, our first #nygenome poster session is about to begin. Find us in Collier Hall #173. <a rel="nofollow" href="http://t.co/95pn6py8">http://t.co/95pn6py8</a><br />
++49m <a href="https://twitter.com/#!/nygenome">nygenome</a>: Gearing up for our #AGBT Feinstein Institute announcement & reception with @Ilumina at 5pm -- read more about it at <a rel="nofollow" href="http://t.co/0RWEkWlg">http://t.co/0RWEkWlg</a><br />
++50m <a href="https://twitter.com/#!/LucigenCorp">LucigenCorp</a>: Low bias, reduce chimera activity with NxSeq Technology. See Lucigen poster <a rel="nofollow" href="http://t.co/6l6KINCM">http://t.co/6l6KINCM</a> @ #AGBT.<br />
++53m <a href="https://twitter.com/#!/intrepidbio">intrepidbio</a>: The map from @RongChenBioinfo etal. was covered as news in @sciencemagazine magazine here: <a rel="nofollow" href="http://t.co/cXjgv4KA">http://t.co/cXjgv4KA</a> #AGBT via @girlscientist.<br />
++54m <a href="https://twitter.com/#!/rtginvestigator">rtginvestigator</a>: Emerging case evidence of clinical sequencing and genomic medicine #AGBT @Erika_Check @NatureNews <a rel="nofollow" href="http://t.co/4YDYgpvC">http://t.co/4YDYgpvC</a><br />
++58m <a href="https://twitter.com/#!/ING_SYS">ING_SYS</a>: Don't be left out, see what everyone at #AGBT is talking about. Lanai Suite 179 Variant Analysis Demo. <a rel="nofollow" href="http://t.co/uF9DtjHI">http://t.co/uF9DtjHI</a></p>
+<p><strong>1 - 2pm EST</strong><br />
++0m <a href="https://twitter.com/#!/agxp">agxp</a>: RT @completegenomic: Safe travels to everyone heading to #AGBT, we'll see you there!<br />
++5m <a href="https://twitter.com/#!/RainDanceTech">RainDanceTech</a>: At #AGBT? Come by Lanai Suite #287 to see our new ThunderStorm System; the new standard in targeted sequencing. <a rel="nofollow" href="http://t.co/ObAtbF8l">http://t.co/ObAtbF8l</a><br />
++11m <a href="https://twitter.com/#!/illumina">illumina</a>: Real data from HiSeq 2500. Read the newest application note #AGBT #keepingitreal  <a rel="nofollow" href="http://t.co/Dd5cvpU1">http://t.co/Dd5cvpU1</a><br />
++16m <a href="https://twitter.com/#!/NEBiolabs">NEBiolabs</a>: Come check out a few posters by NEB scientists at the #AGBT poster sessions starting now in Collier Hall! <a rel="nofollow" href="http://t.co/sEdSZFDF">http://t.co/sEdSZFDF</a><br />
++17m <a href="https://twitter.com/#!/GoldenHelixInc">GoldenHelixInc</a>: #AGBT Hope to see you @CompleteGenomic reception with Dr. Christensen from Golden Helix at 5 pm tonight!<br />
++20m <a href="https://twitter.com/#!/EpicentreBio">EpicentreBio</a>: Perspectives from the @Illumina User Group Meeting #AGBT <a rel="nofollow" href="http://t.co/4v1Gjzvv">http://t.co/4v1Gjzvv</a><br />
++20m <a href="https://twitter.com/#!/SEQanswers">SEQanswers</a>: Wow. Only 2 lanes/FC...and 39h for 2x151 run MT @illumina: Real data from HiSeq 2500. Read the newest app note #AGBT <a rel="nofollow" href="http://t.co/faj1P7Gq">http://t.co/faj1P7Gq</a><br />
++22m <a href="https://twitter.com/#!/dnanexus">dnanexus</a>: Come and join DNAnexus in the Complete Genomics Suite tonight 5-7 p.m. at #AGBT in the Everglades suite <a rel="nofollow" href="http://t.co/US5fPsFu">http://t.co/US5fPsFu</a><br />
++24m <a href="https://twitter.com/#!/EpicentreBio">EpicentreBio</a>: MT @illumina: Real data from HiSeq 2500. Read the newest application note #AGBT  <a rel="nofollow" href="http://t.co/umXEbRS9">http://t.co/umXEbRS9</a><br />
++46m <a href="https://twitter.com/#!/agxp">agxp</a>: At AGBT conf.? Meet @XPRIZE Sr. Dir. Grant Campany @ poster location #170 now!  #AGBT more at: <a rel="nofollow" href="http://t.co/UV2rUBaq">http://t.co/UV2rUBaq</a> <a rel="nofollow" href="http://t.co/iDcpE1TI">http://t.co/iDcpE1TI</a><br />
++46m <a href="https://twitter.com/#!/nanopore">nanopore</a>: Curious about how to use nanopores to analyse proteins or miRNA?  Go to our poster, Dr Dan Turner will tell all - poster 360 #AGBT<br />
++54m <a href="https://twitter.com/#!/pathogenomenick">pathogenomenick</a>: @massgenomics Hey Dan, welcome to Twitter. Don't forget to use the AGBT hashtag in your tweets so people can find them easily!</p>
+<p><strong>2 - 3pm EST</strong><br />
++0m <a href="https://twitter.com/#!/fluidigm">fluidigm</a>: OBTAIN reads from both ends with single-read sequencing.  Learn more in Suite 285.  #AGBT<br />
++2m <a href="https://twitter.com/#!/CompleteGenomic">CompleteGenomic</a>: Dont miss Srinka Ghosh presenting on our Cancer Sequencing Service today in the #AGBT Complete Suite at 3:45 pm<br />
++4m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: If you want to see software we are developing for exploring variant data, see me at #AGBT (in lower lobby near posters now).<br />
++5m <a href="https://twitter.com/#!/notSoJunkDNA">notSoJunkDNA</a>: @girlscientist @nparmalee Check this out: <a rel="nofollow" href="http://t.co/b5uBCa0d">http://t.co/b5uBCa0d</a> #nygenome #AGBT<br />
++18m <a href="https://twitter.com/#!/lipscombe1">lipscombe1</a>: Seems to be quite a bit of platform sparring coming out #AGBT  #DNA #Sequencing<br />
++42m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: #AGBT afternoon session about to kick off with Goncalo Abecasis from U of Mich talking about sequencing 1000s of human genomes.<br />
++43m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Goncalo Abecasis: sequencing to study complex traits<br />
++43m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Goncalo Abecasis: will use LDL genetics to illustrate quantitative trait genetics<br />
++43m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: Annnnnnndddddd we're back: Goncalo Abecasis talking about sequencing 1000s of people. #AGBT<br />
++44m <a href="https://twitter.com/#!/Personal_RX_WI">Personal_RX_WI</a>: #AGBT We just had lunch with the fine people at @Roche_com.  Afternoon session of Genomic studies.  Right now " Sequencing 1000s of Genomes"<br />
++44m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Goncalo Abecasis: several variants linked to low or high LDL levels<br />
++46m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Goncalo Abecasis: found GALNT2 in GWAS, not clear what link to HDL was initially<br />
++47m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Goncalo Abecasis: mouse studies show strong effect on HDL<br />
++47m <a href="https://twitter.com/#!/bioinfosm">bioinfosm</a>: #agbt Abecasis from UMich: found an older set of slides on sequencing 1000s of genomes = <a rel="nofollow" href="http://t.co/1AmtCB55">http://t.co/1AmtCB55</a> #ngs<br />
++48m <a href="https://twitter.com/#!/schnablep">schnablep</a>: #AGBT Goncalo Abecasis: Sequencing to decipher complex traits. Rare variants have on average larger effects than common variants.<br />
++49m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Goncalo Abecasis: talks about the amount of rare variation in human genome<br />
++49m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Goncalo Abecasis: 400K nonynonymous variants in NHLBI seq project, 57% found in 1 individual only<br />
++50m <a href="https://twitter.com/#!/westr">westr</a>: Gr8 choice! RT @ElementoLab: #AGBT Goncalo Abecasis: will use LDL genetics to illustrate quantitative trait genetics #pm101<br />
++50m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Goncalo Abecasis: early results from large exome seq project = 57% of variants seen are singletons. #AGBT<br />
++52m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Goncalo Abecasis: because there are so many rare variants, could explain a very large fraction of phenotypic variation<br />
++53m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Goncalo Abecasis: early results from NHLBI exome study<br />
++53m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Goncalo Abecasis: selected 400 individuals with extreme LDL levels<br />
++55m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Goncalo Abecasis: tally up all variants with max MAF in a given gene ... basically one test per gene<br />
++56m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Goncalo Abecasis: found a few potential associations this way<br />
++56m <a href="https://twitter.com/#!/illumina">illumina</a>: Abecasis. Why study rare variants? From exome seq 12K individs, many rare functional vars.discovered. Non-syn muts at higher freq. #AGBT<br />
++56m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Goncalo Abecasis: SardiNIA WGS study<br />
++56m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Goncalo Abecasis on sequencing from ESP and Sardinia at #AGBT<br />
++57m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Goncalo Abecasis: seq 1700+ individuals at &gt;3.7X coverage<br />
++58m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Goncalo Abecasis: key is to select the individuals to sequence, e.g grandparents in families<br />
++58m <a href="https://twitter.com/#!/froggleston">froggleston</a>: Like cameraphones at gigs, I keep finding myself reading tweets about the talk I'm actually in. Sardinian rare variants! #agbt</p>
+<p><strong>3 - 4pm EST</strong><br />
++0m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Goncalo Abecasis: draft genome of key individuals, genotype relatives, then association study<br />
++1m <a href="https://twitter.com/#!/illumina">illumina</a>: Join us for a cocktail now through 7pm in the Illumina Lounge (Capri Ballroom 2/3), and chat with our experts. #AGBT<br />
++1m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Goncalo Abecasis: 1 locus was only found by sequencing Q39X in HBB<br />
++2m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Goncalo Abecasis: Q39X HBB protects from malaria in Sardinia<br />
++2m <a href="https://twitter.com/#!/lykkebak">lykkebak</a>: Goncalo Abecasis talks about Sardinia sequence studies, whole genome sequencing #AGBT <a rel="nofollow" href="http://t.co/g5XJ5kFQ">http://t.co/g5XJ5kFQ</a><br />
++2m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Goncalo Abecasis: other genes like APOE, APOB, SIRT1 etc previously found<br />
++3m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Goncalo Abecasis: HBB was missed on GWAS because in a region hard to impute, end of chromosome and very population specific<br />
++4m <a href="https://twitter.com/#!/lykkebak">lykkebak</a>: Abecasis: How is sequencing progressing... #AGBT <a rel="nofollow" href="http://t.co/ZzYGAHuc">http://t.co/ZzYGAHuc</a><br />
++4m <a href="https://twitter.com/#!/nygenome">nygenome</a>: Thanks to all who attended our #AGBT poster session. We'll be back at Collier #173 Fri 4:30-6:00. <a rel="nofollow" href="http://t.co/95pn6py8">http://t.co/95pn6py8</a> <a rel="nofollow" href="http://t.co/i6YhvRCv">http://t.co/i6YhvRCv</a><br />
++4m <a href="https://twitter.com/#!/CompleteGenomic">CompleteGenomic</a>: Food, drink, demos and cheer -- tonight at the #AGBT Complete Suite from 5-7!<br />
++4m <a href="https://twitter.com/#!/pathogenomenick">pathogenomenick</a>: Who are we expecting announcements from at #AGBT this year apart from @nanopore ?<br />
++5m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Goncalo Abecasis: benchmarked methods to call SNPs<br />
++5m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Goncalo Abecasis: each SNP calling method good at something, all methods good on average<br />
++6m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Goncalo Abecasis: consensus of 3 SNP calling methods worked bes, errors decreased by 40%<br />
++6m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: GA: three calls sets on data, hard to say which was best (depends on metric) but taking the consensus set was the best. #AGBT<br />
++7m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Goncalo Abecasis: designed SVM-based classifiers to filter variants<br />
++8m <a href="https://twitter.com/#!/IanGoodhead">IanGoodhead</a>: @pathogenomenick: What ever came of that ABI 3rd gen company? Was it Visigen? #AGBT<br />
++8m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: AG: Making the important point that the entire genome is not accessible to current sequencing technology. #AGBT<br />
++9m <a href="https://twitter.com/#!/omespeak">omespeak</a>: RT @deannachurch: AG: Making the important point that the entire genome is not accessible to current sequencing technology. #AGBT<br />
++9m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Abecasis: how much of the genome are we reaching with whole genome sequencing?  #AGBT<br />
++9m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Goncalo Abecasis: now talking about 1000 Genomes, build integrated maps with SNPs, indels, dels<br />
++9m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Goncalo Abecasis: 98.5% SNPs validate, indels not as good<br />
++9m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: AG: 1000genomes data, can validate 98.5% of SNPs but only 70% of indels. #AGBT<br />
++10m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Goncalo Abecasis: 10 samples account for 200K indel errors<br />
++10m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Abecasis: estimate accessible 80-85%, in 2011 94-95% of reference #AGBT<br />
++11m <a href="https://twitter.com/#!/froggleston">froggleston</a>: Mediterranean low cholesterol down to genetics. Flora spread share price plummets.  #agbt<br />
++12m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Abecasis: Variant calling accuracy improves with more samples and when consensus of multiple callers is taken. #AGBT<br />
++12m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Abecasis: the challenge of indels in 1KG.. .10 samples account for 5% of indels, very high indel error rate #AGBT<br />
++13m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: Up next @ewanbirney to talk about the ENCODE project. #AGBT<br />
++13m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Ewan Birney: ENCODE project to annotate functional elements in human genome<br />
++14m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Ewan Birney: tweets not allowed<br />
++14m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: @ewanbirney paper under review so can't tweet about science. #AGBT<br />
++15m <a href="https://twitter.com/#!/illumina">illumina</a>: Abecasis, low pass sequencing of Sardinian population.By selecting 3 out of a family, can inform more thanks to inheritance. #AGBT<br />
++15m <a href="https://twitter.com/#!/nygenome">nygenome</a>: Thanks to all who attended our #AGBT poster session. We'll be back at Collier #173 Fri 4:30-6:00.... <a rel="nofollow" href="http://t.co/FUQJ2YIB">http://t.co/FUQJ2YIB</a><br />
++15m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Poor @ewanbirney has just told us that we can tweet his talk except not any science as paper is under review. #AGBT<br />
++15m <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: #AGBT Ewan Birney on super secrete encode project, no tweeting on the science.<br />
++18m <a href="https://twitter.com/#!/lykkebak">lykkebak</a>: Nice to see a #DTU poster at #AGBT: The future of epidemiology is genomic... <a rel="nofollow" href="http://t.co/bwuqoD6M">http://t.co/bwuqoD6M</a><br />
++18m <a href="https://twitter.com/#!/lykkebak">lykkebak</a>: Ewan Birney: you can tweet, but please don't tweet any of the science... ;) ENCODE: Understanding Our Genome #AGBT <a rel="nofollow" href="http://t.co/r8w7h2eg">http://t.co/r8w7h2eg</a><br />
++18m <a href="https://twitter.com/#!/PacBio">PacBio</a>: At #AGBT ?  Come to Palms Ballroom at 5 PM for Tasty Dinner & Provocative Panel Chat led by Eric Schadt on Infectious Disease in 2030<br />
++19m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Can tweet that Flo Pauli of @hudsonalpha was one of the six data wizards given a shout out by Ewan for making ENCODE happen. #AGBT<br />
++20m <a href="https://twitter.com/#!/illumina">illumina</a>: #AGBT Workshop: Introducing the HiSeq 2500 & Latest MiSeq Improvements -- starts in 10 min, Illumina Lounge (Capri Ballroom 2/3)<br />
++20m <a href="https://twitter.com/#!/gabecasis">gabecasis</a>: Let's tweet about the design of Birney slides. Some look crowded. #AGBT #NoScience #TopSecret<br />
++21m <a href="https://twitter.com/#!/schnablep">schnablep</a>: #AGBT Speaker has no science spoiler tweet policy. Perhaps spkrs shouldn't present topics @ lg conferences they don't want people 2 discuss?<br />
++21m <a href="https://twitter.com/#!/EpicentreBio">EpicentreBio</a>: RT @deannachurch: AG: 1000genomes data, can validate 98.5% of SNPs but only 70% of indels. #AGBT<br />
++21m <a href="https://twitter.com/#!/gabecasis">gabecasis</a>: Encode is "bloody"! Details top secret. #AGBT #TopSecret<br />
++23m <a href="https://twitter.com/#!/GenomeBiology">GenomeBiology</a>: Can't tweet about science of ENCODE. EB: genome is a big place #agbt<br />
++25m <a href="https://twitter.com/#!/malachigriffith">malachigriffith</a>: MindMap for: "large scale sequencing in a clinical environment" <a rel="nofollow" href="http://t.co/lJMx2kQ7">http://t.co/lJMx2kQ7</a> #AGBT<br />
++25m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Look like broccoli to me. With some dessert. RT @gabecasis: Let's tweet about the design of Birney slides. Some look crowded. #AGBT<br />
++26m <a href="https://twitter.com/#!/ljthomps4214">ljthomps4214</a>: Ewan Birney says sequencing technology cost to analyze 1% of ENCODE regions in 2007 dropped enough to cover 100% of genome about 4X. #AGBT<br />
++28m <a href="https://twitter.com/#!/malachigriffith">malachigriffith</a>: If you don't use MindMaps yet, check out FreeMind. <a rel="nofollow" href="http://t.co/zRxm1Dpq">http://t.co/zRxm1Dpq</a> #AGBT<br />
++30m <a href="https://twitter.com/#!/fluidigm">fluidigm</a>: ELIMINATE the need for paired-end read sequencing.  Learn more in Suite 285.  #AGBT<br />
++32m <a href="https://twitter.com/#!/froggleston">froggleston</a>: No tweets eh? Well I can confirm for those in the blackout that EBs talk on ENCODE is chock full of stuff about some bits and bobs. #agbt<br />
++33m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: And now @michaelhoffman getting a shoutout from @ewanbirney! But I can't tell you why. #AGBT<br />
++34m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Ewan Birney: scoop: promoters exist and they are important<br />
++35m <a href="https://twitter.com/#!/CrapBio">CrapBio</a>: are we alowed to skypechat about Ewan Birney #agbt ? are we alowed to talk about it in the bar later?<br />
++36m <a href="https://twitter.com/#!/assemblathon">assemblathon</a>: RT @SEQanswers: Wow. Only 2 lanes/FC...and 39h for 2x151 run MT @illumina: Real data from HiSeq 2500. #AGBT <a rel="nofollow" href="http://t.co/nTjv1ADN">http://t.co/nTjv1ADN</a><br />
++40m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: If you're interested in #AGBT and not following @CrapBio: do. But I sure wish they hadn't given me visual image of group skinny-dipping.<br />
++43m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: All you UCSC users of ENCODE data, @ewanbirney encourages you to "fly European" every so often and use Ensembl too! #AGBT<br />
++46m <a href="https://twitter.com/#!/maureen_mack">maureen_mack</a>: @medicalcollege team from @Personal_RX_WI hanging with top genomics experts at #agbt<br />
++50m <a href="https://twitter.com/#!/NextBio">NextBio</a>: At #AGBT? Stop by our poster #370 on identifying potential tumor biomarker in TCGA glioblastoma data!<br />
++59m <a href="https://twitter.com/#!/CRGenomica">CRGenomica</a>: @CompleteGenomic: Today at #AGBT we announced our Biological Discovery Software Partners Program . Read more: <a rel="nofollow" href="http://t.co/jiKHkxkN">http://t.co/jiKHkxkN</a></p>
+<p><strong>4 - 5pm EST</strong><br />
++0m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: #AGBT Update #1 via @dgaalaas <a rel="nofollow" href="http://t.co/JdhzqtiF">http://t.co/JdhzqtiF</a><br />
++2m <a href="https://twitter.com/#!/CompleteGenomic">CompleteGenomic</a>: Great interactive presentations today in the #AGBT Complete Suite! <a rel="nofollow" href="http://t.co/KkCD3gs7">http://t.co/KkCD3gs7</a><br />
++9m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: Chuck Perou up to discuss gene expression profiling and molecular classification of breast cancer. #AGBT<br />
++12m <a href="https://twitter.com/#!/carolzanholo">carolzanholo</a>: @thaynaismael  como protesto cansa agbt passa no mc depois pra come um lanchinho eioheioheioheih<br />
++13m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Charles Perou: works on breast cancer<br />
++14m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Charles Perou: FFPE has short degraded mRNA fragments (&lt;150nt), not compatible with Agilent array<br />
++17m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Charles Perou: developed a qPCR assay based on 50 genes to predict breast cancer subtype<br />
++17m <a href="https://twitter.com/#!/illumina">illumina</a>: Charles Perou, Univ North Carolina Chapel Hill. Molec classification of breast tumors using gene expression profiling. #AGBT<br />
++19m <a href="https://twitter.com/#!/illumina">illumina</a>: Perou: Started with homemade cDNA arrays ~10 y ago to develop prognostic markers for breast ca, moved to Agilent arrays #AGBT<br />
++19m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Charles Perou: prognostic tests use both old biomarkers (eg tumor size) and genomic ones (qPCR profile distance)<br />
++21m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Charles Perou: low predicted risk patient do not necessarily need chemo<br />
++22m <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: Ion Torrent Sequencing seminar at 5:20, Hilton Grand Ballroom: Jonathan Rothberg, Sean Grimmond, Marilyn Li, Tim Triche, Niall Lennon #agbt<br />
++22m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Charles Perou: use the c-index to select models that best predict patient outcome<br />
++23m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Chuck Perou says that genomics is adding to ability to predict prognosis in breast cancer, but no surprise: more data = better models. #AGBT<br />
++24m <a href="https://twitter.com/#!/irondiet">irondiet</a>: OpGen | Whole Genome Chromosome Mapping, AGBT: Gaithersburg, Md.February 14, 2012 OpGen, Inc., a whole-genome ... <a rel="nofollow" href="http://t.co/dfEFXe7W">http://t.co/dfEFXe7W</a><br />
++24m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Charles Perou: FFPE great because do not need to wait for outcome of clinical trial - 10 years follow up for patients with diag FFPE<br />
++25m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Charles Perou: found set of patients with extremely good survival when given tamoxifen alone<br />
++26m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Charles Perou: qPCR great but laborious<br />
++26m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Charles Perou: used Nanostring nCounter<br />
++28m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Charles Perou: nCounter counting individual RNA molecules, no ampification, 1 tube hyb, up to 100 genes, 100-200ng total RNA<br />
++29m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Charles Perou: used qPCR, Nanostring, microarray on 28 samples; concordant in 24/28 cases<br />
++29m <a href="https://twitter.com/#!/morinryan">morinryan</a>: Don't forget #AGBT attendees: @apfejes will post your talk summaries on his blog (fejes.ca) if you provide them to him<br />
++30m <a href="https://twitter.com/#!/froggleston">froggleston</a>: I am both heartened and strangely disappointed that I haven't found the usual conference singleton poster comprising 100% Comic Sans #agbt<br />
++30m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Charles Perou: PAM50 panel (50 genes) tested by independent group, worked well<br />
++31m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Charles Perou: 850 breast tumors assayed by RNAseq for TCGA<br />
++32m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Chuck Perou: qPCR, of FFPE, Nanostring of FFPE,  and Agilent array of fresh frozen all concordant for 50-gene expression profile. #AGBT<br />
++33m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Charles Perou: conventional rDNA depletion does not work on FFPE<br />
++34m <a href="https://twitter.com/#!/illumina">illumina</a>: Perou: Moved to RNA-Seq on #HiSeq. 850 breast tumors, 2 x 50 bp part of TCGA #AGBT<br />
++34m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Charles Perou: DSN normalization depletes highly abundant species, works on 150nt size FFPE RNA<br />
++34m <a href="https://twitter.com/#!/lykkebak">lykkebak</a>: Charles Perou: Molecular classif of breast tumors using gene expression profiling.. into clinical practices #AGBT <a rel="nofollow" href="http://t.co/4T9tAcSi">http://t.co/4T9tAcSi</a><br />
++35m <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: "Every tumor is an individual" -Chuck Perou's excellent breast cancer gene expression profiling talk #AGBT<br />
++36m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Charles Perou: mRNA-seq fresh vs DSN RNA-seq FFPE, r=0.89<br />
++36m <a href="https://twitter.com/#!/genomeresearch">genomeresearch</a>: Breast cancer genomics now at #AGBT. For more, see special issue @genomeresearch <a rel="nofollow" href="http://t.co/xLW14lWc">http://t.co/xLW14lWc</a><br />
++37m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Shameless plug FTW! RT @genomeresearch: Breast cancer genomics now at #AGBT. For more, see special issue  <a rel="nofollow" href="http://t.co/VRX3QPn0">http://t.co/VRX3QPn0</a><br />
++37m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Charles Perou: did mRNA-seq on &gt;2000 tumors for TCGA ! not only breast cancer<br />
++39m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Chuck Perou: UNC has RNA-seq data for 2000+ TCGA tumors. Come and get it! #AGBT<br />
++39m <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: Gene expression data together with standard pathology parameters is best. Will need to combine various mol assay types -Chuck Perou #AGBT<br />
++39m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Perou: the development of distributed clinical assays requires commitment from researcher and their technology provider. #AGBT<br />
++40m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: RT @morinryan: Don't forget #AGBT attendees: @apfejes will post your talk summaries on his blog (fejes.ca) if you provide them to him<br />
++40m <a href="https://twitter.com/#!/illumina">illumina</a>: Perou, rRNA in FFPE samples degraded so ribo capture may not work- but you do get to skip fragmentation... #AGBT<br />
++42m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: Don't forget the tweetup tomorrow night in the lobby bar after the last evening session! @girlscientist will be there! and @bffo too! #AGBT<br />
++44m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: Arend Sidow is up next to talk about breast cancer progression but no tweeting. #AGBT<br />
++44m <a href="https://twitter.com/#!/lykkebak">lykkebak</a>: Arend SIdow: No tweeting... #AGBT<br />
++49m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: RT @deannachurch: Don't forget the tweetup tomorrow night in the lobby bar after the last evening session! #AGBT<br />
++50m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Skipping parties tonight #AGBT to finish my talk. Y'all have fun without me and keep an eye on the crazy journal editors who are here.<br />
++54m <a href="https://twitter.com/#!/nygenome">nygenome</a>: Want to hear the latest from #nygenome & @Illumina at #AGBT? Join us in Capri Ballroom 2/3 at 5pm! Signature cocktails await! :-)<br />
++56m <a href="https://twitter.com/#!/schip">schip</a>: Given multiple somatic changes in a tumor should be "Every tumor is multiple individuals" @iontorrent: "Every tumor is an individual"  #AGBT<br />
++59m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Ion Torrent or PacBio - which dinner are you attending? (wishing I could do both, but headed for the Ion Proton sighting) #AGBT</p>
+<p><strong>5 - 6pm EST</strong><br />
++2m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Young scientists at #AGBT: getting to know journal eds is one of the best ways to learn publishing tips. At least seven are here. Say hi!<br />
++8m <a href="https://twitter.com/#!/NBlow">NBlow</a>: Missing AGBT this year - but wonderful the volume of Tweets coming out of the conference!<br />
++9m <a href="https://twitter.com/#!/CompleteGenomic">CompleteGenomic</a>: Another interesting presentation today in the #AGBT Complete Suite, if you missed out see you on Friday! <a rel="nofollow" href="http://t.co/ORyecHeW">http://t.co/ORyecHeW</a><br />
++11m <a href="https://twitter.com/#!/obahcall">obahcall</a>: @girlscientist young (in any sense) scientists please do say hi :)  at #AGBT<br />
++15m <a href="https://twitter.com/#!/malachigriffith">malachigriffith</a>: Classification of Breast Tumors Using Gene Expression Profiling And its Translation Into Clinical Practice <a rel="nofollow" href="http://t.co/Eqq1EUIk">http://t.co/Eqq1EUIk</a> #AGBT<br />
++23m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Sighting people with Twitter open on their browsers at the Ion Torrent seminar. #AGBT<br />
++27m <a href="https://twitter.com/#!/agxp">agxp</a>: Can @IonTorrent's sequencer win the Archon Genomics X PRIZE presented by Medco #agbt? <a rel="nofollow" href="http://t.co/RWIbpZxD">http://t.co/RWIbpZxD</a><br />
++28m <a href="https://twitter.com/#!/CompleteGenomic">CompleteGenomic</a>: See our Partners DNAnexus, Golden Helix & Ingenuity perform demos @ #AGBT Complete Suite tonight at happy hour from 5-7 <a rel="nofollow" href="http://t.co/0v0nJXr4">http://t.co/0v0nJXr4</a><br />
++35m <a href="https://twitter.com/#!/fluidigm">fluidigm</a>: Wine, Cheese & Targeted Resequencing in suite 285 at #AGBT , stop by!<br />
++37m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: PacBio just showed us the trailer for the movie Contagion #AGBT - why?<br />
++38m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: PacBio panel on managing infectious diseases starts with trailer for movie Contagion, while all are eating. #hooboy #AGBT<br />
++45m <a href="https://twitter.com/#!/mike_schatz">mike_schatz</a>: Adam Phillippy articulates the need for mobile distributed genome sequencing to monitor and respond to infectious disease outbreaks. #AGBT<br />
++47m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Breakthrough technology AmpliSeq to be announced at Ion Torrent seminar. Also, they are going into clinical swequencing (big surprise) #AGBT<br />
++48m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: How can we predict what will happen in 15-20 years, did we predict today's advances 15-20 years ago? #AGBT<br />
++50m <a href="https://twitter.com/#!/omespeak">omespeak</a>: With Proton Sequencer you are supposed to get 6 genomes in a week. Maneesh Jain, Ion Torrent. #AGBT<br />
++52m <a href="https://twitter.com/#!/omespeak">omespeak</a>: HiSeq and SOLiD owners get a $50K discount on the Ion Proton sequencer. #cheeky #AGBT<br />
++52m <a href="https://twitter.com/#!/lauribe">lauribe</a>: @agxp: Can @IonTorrent's sequencer win the Archon Genomics X PRIZE presented by Medco #agbt? <a rel="nofollow" href="http://t.co/3Per98mY">http://t.co/3Per98mY</a>/ sounds like THE winner<br />
++54m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Maneesh Jain: 'two-decades leap frogging of Moore's Law' with Ion Proton. #AGBT<br />
++56m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: PacBio discussing real time surveillance sequencing networks for infectious disease epidemiology. #AGBT - Practical discussion?</p>
+<p><strong>6 - 7pm EST</strong><br />
++0m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: We have 2 more winners for our scratch off cards! Congrats to James Schiemer and Petri Auvinen for winning Gift Cards! #WhereisAB #AGBT<br />
++4m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Is PacBio's vision of a "disease weather map" feasible? attainable? practical? Is that where epidemiology is headed? #AGBT<br />
++7m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Even if the "disease weather map" is attainable, how will governments use this info? Will bureaucracies prohibit such advancements? #AGBT<br />
++8m <a href="https://twitter.com/#!/bgilbertABR">bgilbertABR</a>: How accurate is ion torrent? Really most used in world? #agbt<br />
++10m <a href="https://twitter.com/#!/EvgenyGlazov">EvgenyGlazov</a>: RT @mike_schatz: A Phillippy articulates the need for mobile genome sequencing to monitor & respond to disease outbreaks #AGBT @iontorrent<br />
++11m <a href="https://twitter.com/#!/Gavin_Oliver">Gavin_Oliver</a>: Rothberg: More experiments run on Ion than any other platform and Ion also more accurate on homopolymers than 'older tech'. Eh? #AGBT<br />
++13m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Ion AmpliSeq - '3000 amplicons at a time in single tube' .  Better than hybridization....hmm.  #AGBT<br />
++20m <a href="https://twitter.com/#!/illumina">illumina</a>: Explore real HiSeq 2500 data on BaseSpace - info in our latest #AGBT blog post: <a rel="nofollow" href="http://t.co/icjWUTyd">http://t.co/icjWUTyd</a><br />
++23m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Rothberg takes a dig at a company that is currently trying to take over the company he's mainly trying to  compete against. #AGBT<br />
++25m <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: We can sequence in your parking lot. Is your idea good enough for a NY Times piece? Email me! -Jonathan Rothberg #AGBT #ionbus<br />
++25m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Good q at PacBio event: who's going to pay for the storage of all of these data we all want to generate? #AGBT<br />
++26m <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: J. Rothberg @ ion torrent workshop: The Proton offers the most gigabases per day at lowest cost #claim #AGBT<br />
++33m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Australian IRB insists that if any useful comes from cancer genome studies, data has to be sent back to clinic. #AGBT<br />
++35m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Extrapolating from PacBio discussion: we'll have sequenced every single DNA strand on the planet within the next 20 years. #AGBT<br />
++37m <a href="https://twitter.com/#!/fluidigm">fluidigm</a>: Suite 285 is THE place to be! Wine & cheese mixer at #AGBT. Stop by for a drink & chance to win $100 Amazon gift card<br />
++40m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Marc Allard asks you to please wash your hands after visiting beach bc flocks of birds are out there and "birds are out to get us." #AGBT<br />
++44m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: PacBio?? No cool swag after the round table discussion?? #AGBT<br />
++48m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: @PacBio, what?? No cool swag after the roundtable discussion??  I'm totally going to buy an Ion Proton instead #AGBT - lol :p<br />
++51m <a href="https://twitter.com/#!/likesky3">likesky3</a>: Good but HOW? RT @genomeresearch: H Rehm: integrate vast amt of genetic info into patient care by storing millions of variants in EHR #AGBT</p>
+<p><strong>7 - 8pm EST</strong><br />
++4m <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: If you really want to study cancer you have to look at functionality, and looking at RNA is a great start.  -Tim Triche #AGBT<br />
++15m <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: Looking at transcriptional complexity provides challenges to most sequence alignment software -Tim Triche #AGBT<br />
++19m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Heading to "Genome Technology" concurrent session. Michael Ross from Broad will tell us about sequence bias across platforms #AGBT<br />
++19m <a href="https://twitter.com/#!/BiotechMarketer">BiotechMarketer</a>: @Copenhagenomics Really?! HiSeq produces 55Gb/day today (unattended). What exactly did Rothberg promise the Proton could do? #AGBT<br />
++19m <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: Saw chimeric long range RNA splicing covering &gt;1 Mb of genome. Simple view of nice protein-coding gene is out the window -Tim Triche #AGBT<br />
++22m <a href="https://twitter.com/#!/RongChenBioinfo">RongChenBioinfo</a>: Thank you for all the tweets on my talk at @agbt. I am eager to hear talks in the medical sequencing session organized by Elaine Mardis.<br />
++32m <a href="https://twitter.com/#!/CompleteGenomic">CompleteGenomic</a>: We had a great time tonight with our partners and customers at the #AGBT Complete Suite, see you tomorrow! <a rel="nofollow" href="http://t.co/0JYukNxx">http://t.co/0JYukNxx</a><br />
++32m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: In the medical sequencing and variation session- starting with Scott Devine talking about longevity. #AGBT<br />
++33m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Scott Devine: identify genetic variants associated with longevity and good health<br />
++34m <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: More than 1200 PGM runs so far at Broad! Niall Lennon #AGBT<br />
++34m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Scott Devine: seq 10 full centenarian genomes 30-50X cov and 50 low pass centenarian genomes 4X<br />
++36m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: SD: Sequencing 10 full (30-50X) and 50 low coveraage (4x) centarians. More females than males b/c those are the samples they have. #AGBT<br />
++36m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Caliper/PerkinElmer dinner, sunset terrace of pres. suite. They just acquired Geospiza and want to help with "reporting to doctors." #AGBT<br />
++36m <a href="https://twitter.com/#!/salisburymw">salisburymw</a>: Yay! Time for the cool tech session at #agbt. Lots of great talks coming our way.<br />
++36m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Ross: bias has always existed, hides biologically important regions, breaks assemblies and increases costs #AGBT<br />
++37m <a href="https://twitter.com/#!/bioinfosm">bioinfosm</a>: #agbt It is not too many drinks, but the projector screens are vibrating slightly :P<br />
++38m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Scott Devine: looked at DNA repair genes, no clear differences overall with 1000 genomes<br />
++39m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: SD: Looking at DNA repair genes-variant profile is not significantly different. #AGBT<br />
++39m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Ross: GC content is a good indicator of bias. #AGBT<br />
++40m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: SD: 279 rare SNPs shared by 8/8 centarians- not seen in dbSNP or phase 1 1000G. #AGBT<br />
++40m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Ross: compared MiSeq, Ion, and PacBio using E. coli, all performed very well #AGBT<br />
++40m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Scott Devine: looked for rare variants in centenarians, found 279 rare SNPs shared by 8/8 high cov centenarians, not seen in 1KG/dbSNP<br />
++41m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Ross: comparing a more extreme genome (P. falciparum 19% GC), PacBio provided better coverage below 20% GC #AGBT<br />
++41m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Scott Devine: 279 SNPs -&gt; 69 genes, enriched for cell proliferation genes, hematopoiesis, T cell receptors<br />
++41m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: SD:  Using Ingenuity to analyze the 69 genes tagged by the SNPs- top category: Cell growth and proliferation and hematological genes. #AGBT<br />
++42m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Ross: opposite end (R. sphaeroides 69% GC), PacBio coverage was clearly better #AGBT<br />
++43m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: SD: Testing the idea that centenarians have a better genome to start out with- and also starting to look at Structural Variation. #AGBT<br />
++43m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Ross: now looking at error bias at high GC, where PacBio's quality begins to slip. 10% I sections at higher GC #AGBT<br />
++44m <a href="https://twitter.com/#!/schnablep">schnablep</a>: #AGBT Scott Devine: "Natural Genetic Variation for Human Longevity"  IDed rare SNPs found only in 1/10,000 who make it to &gt;=100.<br />
++44m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Ross: homopolymer bias, MiSeq and Ion show increased error rates with longer homopolymer, however the increase is relative #AGBT<br />
++46m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Ross: coverage bias, HiSeq performs better at high GC ranges, but Complete Genomics does better with homopolymer regions #AGBT<br />
++47m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Ross: Bias changes with changes to library prep #AGBT<br />
++48m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Ross asks how much uncategorized extreme bias remains? #AGBT<br />
++49m <a href="https://twitter.com/#!/agbt">agbt</a>: Abstracts are available online for registered attendees. Log in to post a comment or question for presenters. <a rel="nofollow" href="http://t.co/KPEvElhM">http://t.co/KPEvElhM</a> #AGBT<br />
++50m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: Anthony Griswold talking about sequencing variants in an autism case/control study. #AGBT<br />
++50m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Anthony Griswold: targeting next gen seq in autism cohort of 1K  cases and 1K controls<br />
++51m <a href="https://twitter.com/#!/notSoJunkDNA">notSoJunkDNA</a>: What??? @iontorrent: More than 1200 PGM runs so far at Broad! Niall Lennon #AGBT<br />
++51m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Anthony Griswold: heritability of autism is up to 90%<br />
++52m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Jerod Schwartz, Univ. of Washington talking about optical sequencing #AGBT<br />
++53m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Anthony Griswold: Targeted sequencing in autism cohort of 1k cases, 1k controls #AGBT<br />
++53m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Anthony Griswold: did GWAS, found many weak associations<br />
++54m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Schwartz: De novo assembly capabilities has not kept pace with increasing volumes of sequencing data #AGBT<br />
++55m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Anthony Griswold: used Agilent SureSelect to capture exons of 689 genes nominated by GWAS + conserved regions in these genes<br />
++55m <a href="https://twitter.com/#!/illumina">illumina</a>: Jerrod Schwartz, Univ Washington. Capturing natively long DNA directly in Illumina flow cells #AGBT<br />
++56m <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: Greg Buck, VCU indicated they are able to get to species level by sequencing V1-V3 of vaginal samples #AGBT<br />
++56m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Anthony Griswold: so far seq-ed 806 cases and 745 controls<br />
++57m <a href="https://twitter.com/#!/BiotechMarketer">BiotechMarketer</a>: @Copenhagenomics Yeah, I forget they're promising two generations out. Proton 2 might hit 200Gb/day (2 runs) #AGBT<br />
++57m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Anthony Griswold: many self-reported controls were incorrect about ethnicity<br />
++57m <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: If you didn't get tix for #AGBT  consider beautiful Copenhagen, June 14-15, for #CPHx 2012 instead. Exciting sessions and great speakers :)<br />
++58m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Schwartz: there's a need to capture sequence and contiguity. Their solution is Infinipair #AGBT<br />
++58m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Griswold on Autism: a lot of self-reported ethnicities were wrong and confounded the initial analysis. #AGBT</p>
+<p><strong>8 - 9pm EST</strong><br />
++0m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Schwartz: method starts with long molecular bridge (like bridge PCR) on Illumina flowcell and cleaving the molecule with tranposase #AGBT<br />
++1m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Schwartz: this creates two clusters close to each other, distance related to original insert size #AGBT<br />
++1m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Anthony Griswold: single variant association yielded a few hits, but do not pass cutoff after multiple hypothesis testing<br />
++2m <a href="https://twitter.com/#!/schnablep">schnablep</a>: #AGBT Griswold. Autism affects 1/110; &gt;100 genes implicated, none explains &gt;2% of cases; seeking rare variants. Targeted sequencing 1k cases<br />
++2m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Anthony Griswold: same story for genes and damaging variants<br />
++2m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Schwartz: this allows you to map adjacent clusters. Essentially like a mate pair. #AGBT<br />
++2m <a href="https://twitter.com/#!/fluidigm">fluidigm</a>: Thirsty? Stop by Suite 285 at #AGBT and we will help you quench your thirst.. we are waiting!&gt;o<br />
++3m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Schwartz's method is pretty cool, but difficult to describe 144 characters at a time #AGBT<br />
++4m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Griswold targeted sequencing in Autism: 689 gene regions on a 17 Mbp Agilent array. Caliper automation, 11 samples per HiSeq lane. #AGBT.<br />
++5m <a href="https://twitter.com/#!/illumina">illumina</a>: Infinipair details MT @djschlesinger Schwartz: long molecular bridge (like bridge PCR) on flowcell & cleaving molecule with tranposase #AGBT<br />
++6m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Anthony Griswold: overall no clear association unfortunately<br />
++7m <a href="https://twitter.com/#!/assemblathon">assemblathon</a>: RT @girlscientist: Good q at PacBio event: who's going to pay for the storage of all of these data we all want to generate? #AGBT<br />
++8m <a href="https://twitter.com/#!/illumina">illumina</a>: Schwartz: Electrophoretic stretching enables 5-8 kb libraries binding directly to flow cell! #AGBT<br />
++9m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Schwartz showed cool pick of clusters on a flow cell. Adjacent linear clusters (4-6) generated from same molecule. Very neat! #AGBT<br />
++10m <a href="https://twitter.com/#!/illumina">illumina</a>: Schwartz: image of lambda DNA stretched on flow cell, followed by in situ transposition. Impressive! #AGBT<br />
++10m <a href="https://twitter.com/#!/chloe46037">chloe46037</a>: Greg Buck talked on the vaginal microbiome but no right to twit. Very nice update on the vaginal microbiome #AGBT .<br />
++11m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: John Healy from GnuBio up next #AGBT - will talk live up to hype?<br />
++11m <a href="https://twitter.com/#!/beckforde9">beckforde9</a>: AGBT<br />
++12m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: Mait Metspalu on human and population structure and genome-wide signals of positive selection in South Asia. #AGBT<br />
++12m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Healy: shows a picture of GnuBio instrument with beta release mid-2012 and full commercial release at end of year #AGBT<br />
++12m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Healy: system has very small profile, weighs ~30 lbs #AGBT<br />
++13m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Mait Metspalu on population structure and selection signals in South Asia #AGBT<br />
++13m <a href="https://twitter.com/#!/bffo">bffo</a>: Note 2 all authors: Long titles 4 papers and 4 talks are hard/impossible to tweet!  Think &lt;140 characters when thinking of a title #agbt<br />
++13m <a href="https://twitter.com/#!/chloe46037">chloe46037</a>: Rob edwards did not make it to agbt, but Bas Dunthil will give the talk on identification of gene repertoires #AGBT<br />
++14m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Healy: machines can be stacked in a rack. Instrument itself is a dry machine, cartridge contains fluidics. #AGBT<br />
++14m <a href="https://twitter.com/#!/GoyaRodrigo">GoyaRodrigo</a>: GnuBio... Gnu's not Unix Bio? #agbt<br />
++15m <a href="https://twitter.com/#!/Symbionticism">Symbionticism</a>: Bas Dutilh from Rob Edwards lab (SDSU) sais Vibrio cholerae has caused seven pandemics in human history. Using genomes to study evol. #AGBT<br />
++15m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Healy: two libraries (PCR primer and sequencing probe) come preloaded on cartridge #AGBT<br />
++16m <a href="https://twitter.com/#!/Gavin_Oliver">Gavin_Oliver</a>: GnuBio to release cartridge based desktop sequencer in 2012. Read length up to 1000bp. Real time variant calling.   #AGBT<br />
++17m <a href="https://twitter.com/#!/robincoope">robincoope</a>: For reference a human hair is about 100 microns so call the gnubio channel 25. #agbt<br />
++17m <a href="https://twitter.com/#!/Symbionticism">Symbionticism</a>: Dutilh showes that new Ion Torrest chemistry is outstanding. Big improvement. High quality all the way through the 100bp reads. #AGBT<br />
++19m <a href="https://twitter.com/#!/froggleston">froggleston</a>: Gnubio clinical sequencer. Interesting tech. Looks like a SNES. Cartridges! Playing Duck Hunt in downtime is a great selling point #agbt<br />
++20m <a href="https://twitter.com/#!/illumina">illumina</a>: Illumina Talk: WG Analysis of Monozygotic Twins & Their Parents: Accurate Detection of Variants - starts in 10 min, Island Ballroom #AGBT<br />
++20m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Healy talking too fast, having trouble following #AGBT<br />
++21m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Edwards: Sequenced 210 cholera isolates collected since 1910 on IonTorrent system. 314 chip had big quality dropoff; 318 way better. #AGBT<br />
++22m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Healy: each base is interrogated 6 times #AGBT<br />
++23m <a href="https://twitter.com/#!/illumina">illumina</a>: Healy: Confusion over "dry machine" and talk of microfluidic & tiny droplets... #AGBT<br />
++24m <a href="https://twitter.com/#!/Gavin_Oliver">Gavin_Oliver</a>: GnuBio all runs to date Q50+ per base #AGBT<br />
++24m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Healy: all runs to date have been Q50+ per base. All targets covered to 10,000 x coverage. #AGBT<br />
++24m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Healy: accuracy Phred 70+, less than 1 minute prep time, cost per sample = $200 #AGBT<br />
++25m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Healy lost me to microbial track w/ "Keep this picture of a car in your mind as I talk" Cholera kills 80% of Oregon Trail players. #AGBT.<br />
++26m <a href="https://twitter.com/#!/Gavin_Oliver">Gavin_Oliver</a>: GnuBio &lt;1 minute sample prep time and 3.5 hr run time #AGBT<br />
++26m <a href="https://twitter.com/#!/lykkebak">lykkebak</a>: Healy: comparison vs leading desktop platform #AGBT <a rel="nofollow" href="http://t.co/JPKbR7L2">http://t.co/JPKbR7L2</a><br />
++26m <a href="https://twitter.com/#!/NJL_Broad">NJL_Broad</a>: If that's clear? ....... um.  #AGBT<br />
++27m <a href="https://twitter.com/#!/Symbionticism">Symbionticism</a>: Dutilh: once again phages responsible for global variation in bacteria, in this case in V. cholerae genomes across time and geography. #AGBT<br />
++27m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Healy: talking over my head, but the jist is that the system, as is, has tremendous room for growth in read length and data output #AGBT<br />
++27m <a href="https://twitter.com/#!/lykkebak">lykkebak</a>: Healy #gnubio on the future #AGBT <a rel="nofollow" href="http://t.co/5KSzCcVS">http://t.co/5KSzCcVS</a><br />
++28m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: Remember- photos are prohibited without the express consent of the presenter. True for talks and posters. #AGBT<br />
++29m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Healy: GnuBio interface: log into system, identify targets, oligos produced by 3rd party, validation at GnuBio, ships to customer #AGBT<br />
++30m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Healy: 20ng starting input, no shearing of DNA required #AGBT - amazing!<br />
++30m <a href="https://twitter.com/#!/froggleston">froggleston</a>: Did I miss the car analogy? I feel like I've just been in a car accident if that helps. #agbt<br />
++32m <a href="https://twitter.com/#!/omespeak">omespeak</a>: So I missed first part of the talk, but is the GnuBio technology for whole genome sequencing or just certain loci? #AGBT<br />
++33m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: Elliott Margulies: WGA of monozygotic twins and their parents for accurate detection of rare disease causing variants. #AGBT<br />
++33m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Elliott Margulies: studied family of 4, 2 parents and 2 twins concordant for a neurological disease<br />
++34m <a href="https://twitter.com/#!/Personal_RX_WI">Personal_RX_WI</a>: Fascinating technology jump by @gnubio at #AGBT. Possibility of 64kb read length and whole genome per couple hour run. Quite simple tech too<br />
++34m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Elliott Margulies: also wanted to assess germline mutation rate, genetic differences between identical twins<br />
++34m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: LaserGen, Inc up next #AGBT<br />
++35m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Margulies: WGS of a family quartet: monozygotic twins with an undiagnosed neurological phenotype. Illumina v3 chemistry HISeq #AGBT.<br />
++35m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Elliott Margulies: all 4 family members seq-ed at cov &gt;35X<br />
++37m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Elliott Margulies of Illumina now, but talking about work from his lab at NIH. Sequencing quartet of parents and identical twins. #AGBT<br />
++37m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Elliott Margulies: medium size indels sre hard to call<br />
++38m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Wrt to GnuBio...#agbt RT @djschlesinger @omespeak resequencing to start, but has a lot of room for growth to whole genome<br />
++39m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Elliott Margulies: used pindel to realign reads .. picked up things like 500b deletions<br />
++40m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: LaserGen's lightening terminators incorporate extremely fast and bind tighter than natural nucleotide #AGBT<br />
++42m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Margulies' filters: 93% of genome callable in family quartet, 1025 candidate de novo mutations; 58 with NO Q&gt;20 reads in parents. #AGBT.<br />
++43m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: LaserGen seems to have done a lot of engineering to these terminators, why not just sell them to Illumina?? #AGBT<br />
++44m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Elliott Margulies: several de novo mutations but no clear difference between twins<br />
++45m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: EM: false negative calls a bigger problem in their process than false positives. #AGBT<br />
++46m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: LaserGen's tech is cool, but will they be able to develop a physical machine that can compete with Illumina?  #AGBT<br />
++46m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Elliott Margulies: de novo indels and CNVs can be picked up manually<br />
++47m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Margulies: Important to filter your data, and small-indel calling still very difficult to do with accuracy. #AGBT.<br />
++47m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: EM: Important to know the proportion of the reference genome that you can call- this # as important as FP/FN rates. #AGBT<br />
++47m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Elliott Margulies: disease causing mutation not found<br />
++48m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: LaserGen, raw base call accuracy is 99.8% #AGBT<br />
++50m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: Wigaard Kloosterman: Mate-pair sequencing to look at mechanisms driving complex genomic rearrangements. #AGBT<br />
++51m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Andre Marziali from Boreal Genomics up next to discuss Multiplexed Enrichment of Rare Alleles #AGBT<br />
++51m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Elliott Margulies: Mardis believes that BreakDancer can find these medium size indels<br />
++54m <a href="https://twitter.com/#!/bgilbertABR">bgilbertABR</a>: Lasergen and gnubio launch by end 2012, thoughts? # agbt<br />
++55m <a href="https://twitter.com/#!/omespeak">omespeak</a>: So LaserGen wants to target 100bp reads with their higher accuracy 99.8%! Cost ~$99K for instrument & $1K per run. #AGBT<br />
++55m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Wigard Kloosterman: sequencing a patient with very complex rearrangements, with parents as control<br />
++58m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Andre Marziali,  Boreal Genomics discussing enrichment of rare alleles #AGBT<br />
++58m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Wigard Kloosterman: found 12 de novo breakpoints<br />
++58m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Wigard Kloosterman: very complex rearrangement indeed</p>
+<p><strong>9 - 10pm EST</strong><br />
++0m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Wigard Kloosterman: could be explained by chromothripsis as in Stephens et al, Cell, 2011<br />
++1m <a href="https://twitter.com/#!/bkmacy">bkmacy</a>: RT @djschlesinger: Schwartz: De novo assembly capabilities has not kept pace with increasing volumes of sequencing data #AGBT<br />
++2m <a href="https://twitter.com/#!/bkmacy">bkmacy</a>: RT @illumina: Geoff Smith, Illumina UK: Longest perfect overlapping read so far on #MiSeq 678 bp! #AGBT<br />
++3m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Wigard Kloosterman: larger cohorts of patients with complex rearrangements, found 130 breakpoints<br />
++4m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Wigard Kloosterman: found patterns of microhomology at breakpoints<br />
++5m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Wigard Kloosterman: what triggers chrom shattering ?<br />
++6m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Marziali showing some wild videos of fluorescently labeled alleles being separated w/ microfluidics, you can see the strands separate #AGBT<br />
++6m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Wigard Kloosterman: patternal chromosome more frequently involved<br />
++6m <a href="https://twitter.com/#!/illumina">illumina</a>: Andre Marziali: Enrichment of low conc of specific seq by capture onto oligos attached to electro gel & a circular electrical field #AGBT<br />
++8m <a href="https://twitter.com/#!/chloe46037">chloe46037</a>: Come an celebrate AGBT with Roche at lanai #290. #AGBT<br />
++8m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Wigard Kloosterman: some of the rearrangements create fusion genes, eg DPYD-ETV1<br />
++11m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: Shane McCarthy last speaker of the session- Family based WGS of schizophrenia. #AGBT<br />
++13m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT: Shane McCarthy: family based WGS of schizophrenia<br />
++15m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Technical problems galore at the Genomics Technology session. #AGBT<br />
++17m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Shane McCarthy: increased rate of de novo CNVs in schizophrenia<br />
++18m <a href="https://twitter.com/#!/swarmIQ">swarmIQ</a>: Celebrate HaloPlex tonight at a Swedish themed party. Come by the Caxambas Suite & learn about the tech. #AGBT #Agilent <a rel="nofollow" href="http://t.co/h6nD4nft">http://t.co/h6nD4nft</a><br />
++19m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: SM: Many of the CNVs associated with schizophrenia are also associated with Dev. Delay, ASD and other neurocognitive defects. #AGBT<br />
++19m <a href="https://twitter.com/#!/juselenas2">juselenas2</a>: gente eu fui no testaurante q almocei com a @Catch_Selena  ai eu fui na mesa q agbt tinha ficado e abracei a cadera q ela sentou anw!<br />
++19m <a href="https://twitter.com/#!/bkmacy">bkmacy</a>: New tech does take time RT @omespeak: Technical problems galore at the Genomics Technology session #AGBT<br />
++21m <a href="https://twitter.com/#!/iBAST">iBAST</a>: RT @bkmacy New tech does take time RT @omespeak: Technical problems galore at the Genomics Technology session #AGBT <a rel="nofollow" href="http://t.co/SgFgHpCM">http://t.co/SgFgHpCM</a><br />
++21m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Final question of the evening at #AGBT: which party?<br />
++22m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Shane McCarthy: case control studies might not work if number of causal variants very large, uses pedigrees instead<br />
++22m <a href="https://twitter.com/#!/iBAST">iBAST</a>: RT @bkmacy New tech does take time RT @omespeak: Technical problems galore at the Genomics Technology session #AGBT <a rel="nofollow" href="http://t.co/xVLETLEu">http://t.co/xVLETLEu</a><br />
++23m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: After extensive technical delays, Sunney Xie presenting, with dramatic pauses, what he says is true single molecule sequencing. #AGBT<br />
++25m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Shane McCarthy: seq-ed 2 pedigrees<br />
++26m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Shane McCarthy: Looked for variants in linked regions<br />
++30m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Shane McCarthy: 3 missense variants in linked region in 1 pedigree, gene function not clear<br />
++30m <a href="https://twitter.com/#!/dwmohr">dwmohr</a>: Good scotch at the Caliper suite, but none for you KNH #not agbt<br />
++33m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Shane McCarthy: no clear gene candidate overall<br />
++35m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Shane McCarthy: they have a mystery chrom 6 candidate, not in MHC<br />
++36m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Shane McCarthy: mystery region on chrom 6 conserved in zebrafish<br />
++45m <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: 300 people at Ion Sequencing Seminar!!! #agbt #ionbus <a rel="nofollow" href="http://t.co/jnGUwpKI">http://t.co/jnGUwpKI</a><br />
++58m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: RT @iontorrent: 300 people at Ion Sequencing Seminar!!! #agbt #ionbus <a rel="nofollow" href="http://t.co/RZFVpNWB">http://t.co/RZFVpNWB</a></p>
+<p><strong>10 - 11pm EST</strong><br />
++5m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Summary of first day at #AGBT: <a rel="nofollow" href="http://t.co/IDALVCxP">http://t.co/IDALVCxP</a><br />
++36m <a href="https://twitter.com/#!/DrugsandWhiskey">DrugsandWhiskey</a>: AGBT = PAUSE<br />
++39m <a href="https://twitter.com/#!/illumina">illumina</a>: Missed a session? Abizar Lakdawalla blogging #AGBT. New posts for all Day 2 sessions up soon. <a rel="nofollow" href="http://t.co/isP5PzDn">http://t.co/isP5PzDn</a><br />
++53m <a href="https://twitter.com/#!/BlueSEQ">BlueSEQ</a>: Good summary of #AGBT day 1 from @Massgenomics <a rel="nofollow" href="http://t.co/V4MADtAy">http://t.co/V4MADtAy</a><br />
++56m <a href="https://twitter.com/#!/BiotechMarketer">BiotechMarketer</a>: @omespeak What kind of output per run was LaserGen promising? #AGBT<br />
++7m <a href="https://twitter.com/#!/ribozyme">ribozyme</a>: Thanks all for the tweets on #AGBT - it's a for those who couldnt  make it this year. Keep them coming!<br />
++10m <a href="https://twitter.com/#!/wjgoode">wjgoode</a>: RT @Massgenomics: Summary of first day at #AGBT: <a rel="nofollow" href="http://t.co/RH5kVAXo">http://t.co/RH5kVAXo</a> #genomics<br />
++11m <a href="https://twitter.com/#!/ribozyme">ribozyme</a>: Thanks all for the tweets on #AGBT - its at least some solace for those who couldn't be there this year - Keep'em coming!<br />
++34m <a href="https://twitter.com/#!/corbishleyz5">corbishleyz5</a>: AGBT<br />
++53m <a href="https://twitter.com/#!/jenningswv3">jenningswv3</a>: AGBT<br />
++55m <a href="https://twitter.com/#!/herrerak4">herrerak4</a>: AGBT<br />
++8m <a href="https://twitter.com/#!/pittmanfh6">pittmanfh6</a>: AGBT<br />
++56m <a href="https://twitter.com/#!/pathogenomenick">pathogenomenick</a>: All of the #AGBT day 2 tweets are available at <a rel="nofollow" href="http://t.co/SGK6XrBj">http://t.co/SGK6XrBj</a><br />
++2m <a href="https://twitter.com/#!/crs4research">crs4research</a>: Genome Biology and Technology (#AGBT) meeting: from February 15-18, 2012 <a rel="nofollow" href="http://t.co/1QlW9T1c">http://t.co/1QlW9T1c</a> <a rel="nofollow" href="http://t.co/1QlW9T1c">http://t.co/1QlW9T1c</a></p>

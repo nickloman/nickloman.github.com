@@ -2,10 +2,10 @@
 layout: post
 title: "What are the potential sources of errors in sequencing datasets?"
 description: ""
-category: sequencing
+category: notebook sequencing
 tags: []
 ---
-{% include JB/setup %}
+
 
 From an e-mail discussion with C. Titus Brown.
 

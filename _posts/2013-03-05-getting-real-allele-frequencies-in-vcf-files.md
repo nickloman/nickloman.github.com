@@ -2,10 +2,10 @@
 layout: post
 title: "Getting real allele frequencies in VCF files"
 description: ""
-category: 
+category: notebook 
 tags: []
 ---
-{% include JB/setup %}
+
 
 Today's problem was getting real allele frequencies in VCF files produced by samtools mpileup/bcftools. I tend to use bwasw-mpileup-bcftools as my default SNP calling pipeline, for no other reason than I am familiar with it.
 

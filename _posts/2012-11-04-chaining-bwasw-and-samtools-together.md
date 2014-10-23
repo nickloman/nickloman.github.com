@@ -2,10 +2,10 @@
 layout: post
 title: "Chaining bwasw and samtools together"
 description: ""
-category: bioinformatics
+category: notebook bioinformatics
 tags: []
 ---
-{% include JB/setup %}
+
 
 For some reason - perhaps true of a previous version of samtools - I didn't think it was possible to chain samtools all the way to the mpileup stage. Turns out it is, ast least in samtools-0.1.17 (and presumably later). HT to Peter Cock for pointing this out.
 

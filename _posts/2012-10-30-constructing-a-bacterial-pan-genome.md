@@ -2,11 +2,9 @@
 layout: post
 title: "Constructing bacterial pan-genomes"
 description: ""
-category: clinical-metagenomics
+category: notebook clinical-metagenomics
 tags: [pangenome]
 ---
-{% include JB/setup %}
-
 # Pan-genome construction notebook
 
 ## 29/10/2012
@@ -19,9 +17,7 @@ Steps:
 
 Download all E. coli and Shigella from Genbank (https://gist.github.com/3974107) - 65 genomes. Place paths in inputfiles.
 
-{% assign gist_id = '3974107' %}
-{% assign gist_file = 'aaa' %}
-{% include JB/gist %}
+{% gist 3974107 %}
 
 Needed to edit Mugsy mugsyenv.sh file replace 'mapping' with 'MUMmer3.20'
 

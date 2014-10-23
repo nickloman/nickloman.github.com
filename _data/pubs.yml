@@ -1,0 +1,1634 @@
+- ArticleIds:
+    doi: 10.1038/nmeth.3103
+    eid: '25218180'
+    medline: []
+    pii: nmeth.3103
+    pubmed: ['25218180']
+    rid: '25218180'
+  AuthorList: [Alneberg J, Bjarnason BS, de Bruijn I, Schirmer M, Quick J, Ijaz UZ,
+    Lahti L, Loman NJ, Andersson AF, Quince C]
+  DOI: 10.1038/nmeth.3103
+  ELocationID: 'doi: 10.1038/nmeth.3103'
+  EPubDate: 2014 Sep 14
+  ESSN: 1548-7105
+  FullJournalName: Nature methods
+  HasAbstract: 1
+  History:
+    accepted: 2014/08/18 00:00
+    entrez: 2014/09/15 06:00
+    medline: ['2014/09/15 06:00']
+    pubmed: ['2014/09/15 06:00']
+    received: 2013/12/02 00:00
+  ISSN: 1548-7091
+  Id: '25218180'
+  Issue: ''
+  Item: []
+  LangList: [English]
+  LastAuthor: Quince C
+  NlmUniqueID: '101215604'
+  Pages: ''
+  PmcRefCount: 0
+  PubDate: 2014 Sep 14
+  PubStatus: aheadofprint
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - as supplied by publisher
+  References: []
+  SO: 2014 Sep 14;
+  Source: Nat Methods
+  Title: Binning metagenomic contigs by coverage and composition.
+  Volume: ''
+- ArticleIds:
+    doi: 10.1038/ncomms5780
+    eid: '25179232'
+    medline: []
+    pii: ncomms5780
+    pubmed: ['25179232']
+    rid: '25179232'
+  AuthorList: [Fothergill JL, Neill DR, Loman N, Winstanley C, Kadioglu A]
+  DOI: 10.1038/ncomms5780
+  ELocationID: 'doi: 10.1038/ncomms5780'
+  EPubDate: 2014 Sep 2
+  ESSN: 2041-1723
+  FullJournalName: Nature communications
+  HasAbstract: 1
+  History:
+    accepted: 2014/07/23 00:00
+    entrez: 2014/09/03 06:00
+    medline: ['2014/09/03 06:00']
+    pubmed: ['2014/09/03 06:00']
+    received: 2014/03/07 00:00
+  ISSN: ''
+  Id: '25179232'
+  Issue: ''
+  Item: []
+  LangList: [English]
+  LastAuthor: Kadioglu A
+  NlmUniqueID: '101528555'
+  Pages: '4780'
+  PmcRefCount: 0
+  PubDate: 2014 Sep 2
+  PubStatus: epublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - in process
+  References: []
+  SO: 2014 Sep 2;5:4780
+  Source: Nat Commun
+  Title: Pseudomonas aeruginosa adaptation in the nasopharyngeal reservoir leads to
+    migration and persistence in the lungs.
+  Volume: '5'
+- ArticleIds:
+    doi: 10.1093/bioinformatics/btu555
+    eid: '25143291'
+    medline: []
+    pii: btu555
+    pubmed: ['25143291']
+    rid: '25143291'
+  AuthorList: [Loman NJ, Quinlan AR]
+  DOI: 10.1093/bioinformatics/btu555
+  ELocationID: 'pii: btu555'
+  EPubDate: 2014 Aug 20
+  ESSN: 1367-4811
+  FullJournalName: Bioinformatics (Oxford, England)
+  HasAbstract: 1
+  History:
+    aheadofprint: 2014/08/20 00:00
+    entrez: 2014/08/22 06:00
+    medline: ['2014/08/22 06:00']
+    pubmed: ['2014/08/22 06:00']
+  ISSN: 1367-4803
+  Id: '25143291'
+  Issue: ''
+  Item: []
+  LangList: [English]
+  LastAuthor: Quinlan AR
+  NlmUniqueID: '9808944'
+  Pages: ''
+  PmcRefCount: 0
+  PubDate: 2014 Aug 20
+  PubStatus: aheadofprint
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - as supplied by publisher
+  References: []
+  SO: 2014 Aug 20;
+  Source: Bioinformatics
+  Title: 'Poretools: a toolkit for analyzing nanopore sequence data.'
+  Volume: ''
+- ArticleIds:
+    doi: 10.1111/mmi.12704
+    eid: '24995530'
+    medline: []
+    pubmed: ['24995530']
+    rid: '24995530'
+  AuthorList: [Johnson MD, Bell J, Clarke K, Chandler R, Pathak P, Xia Y, Marshall
+      RL, Weinstock GM, Loman NJ, Winn PJ, Lund PA]
+  DOI: 10.1111/mmi.12704
+  ELocationID: 'doi: 10.1111/mmi.12704'
+  EPubDate: 2014 Jul 24
+  ESSN: 1365-2958
+  FullJournalName: Molecular microbiology
+  HasAbstract: 1
+  History:
+    accepted: 2014/07/02 00:00
+    aheadofprint: 2014/07/24 00:00
+    entrez: 2014/07/05 06:00
+    medline: ['2014/07/06 06:00']
+    pubmed: ['2014/07/06 06:00']
+  ISSN: 0950-382X
+  Id: '24995530'
+  Issue: '5'
+  Item: []
+  LangList: [English]
+  LastAuthor: Lund PA
+  NlmUniqueID: '8712028'
+  Pages: 911-27
+  PmcRefCount: 0
+  PubDate: 2014 Sep
+  PubStatus: ppublish+epublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - in process
+  References: []
+  SO: 2014 Sep;93(5):911-27
+  Source: Mol Microbiol
+  Title: Characterization of mutations in the PAS domain of the EvgS sensor kinase
+    selected by laboratory evolution for acid resistance in Escherichia coli.
+  Volume: '93'
+- ArticleIds:
+    doi: 10.1097/MIB.0000000000000079
+    eid: '24859302'
+    medline: []
+    pubmed: ['24859302']
+    rid: '24859302'
+  AuthorList: [Gerasimidis K, Russell R, Hansen R, Quince C, Loman N, Bertz M, Hanske
+      L, Blaut M, McGrogan P, Edwards CA]
+  DOI: 10.1097/MIB.0000000000000079
+  ELocationID: 'doi: 10.1097/MIB.0000000000000079'
+  EPubDate: ''
+  ESSN: 1536-4844
+  FullJournalName: Inflammatory bowel diseases
+  HasAbstract: 0
+  History:
+    entrez: 2014/05/27 06:00
+    medline: ['2014/05/27 06:00']
+    pubmed: ['2014/05/27 06:00']
+  ISSN: 1078-0998
+  Id: '24859302'
+  Issue: '7'
+  Item: []
+  LangList: [English]
+  LastAuthor: Edwards CA
+  NlmUniqueID: '9508162'
+  Pages: E18-9
+  PmcRefCount: 0
+  PubDate: 2014 Jul
+  PubStatus: ppublish
+  PubTypeList: [Comment, Letter]
+  RecordStatus: PubMed - in process
+  References: ['Inflamm Bowel Dis. 2014 Jul;20(7):E18. PMID: 24859301', 'Inflamm Bowel
+      Dis. 2014 May;20(5):861-71. PMID: 24651582']
+  SO: 2014 Jul;20(7):E18-9
+  Source: Inflamm Bowel Dis
+  Title: 'Role of Faecalibacterium prausnitzii in Crohn''s Disease: friend, foe, or
+    does not really matter?'
+  Volume: '20'
+- ArticleIds:
+    doi: 10.1128/genomeA.00355-14
+    eid: '24812216'
+    medline: []
+    pii: 2/3/e00355-14
+    pmc: PMC4014684
+    pmcid: 'pmc-id: PMC4014684;'
+    pubmed: ['24812216']
+    rid: '24812216'
+  AuthorList: [Quick J, Constantinidou C, Pallen MJ, Oppenheim B, Loman NJ]
+  DOI: 10.1128/genomeA.00355-14
+  ELocationID: 'pii: e00355-14. doi: 10.1128/genomeA.00355-14'
+  EPubDate: 2014 May 8
+  ESSN: 2169-8287
+  FullJournalName: Genome announcements
+  HasAbstract: 1
+  History:
+    entrez: 2014/05/10 06:00
+    medline: ['2014/05/09 06:01']
+    pubmed: ['2014/05/09 06:00']
+  ISSN: ''
+  Id: '24812216'
+  Issue: '3'
+  Item: []
+  LangList: [English]
+  LastAuthor: Loman NJ
+  NlmUniqueID: '101595808'
+  Pages: ''
+  PmcRefCount: 0
+  PubDate: 2014 May 8
+  PubStatus: epublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed
+  References: []
+  SO: 2014 May 8;2(3)
+  Source: Genome Announc
+  Title: Draft Genome Sequence of Elizabethkingia meningoseptica Isolated from a Traumatic
+    Wound.
+  Volume: '2'
+- ArticleIds:
+    doi: 10.1371/journal.pone.0083158
+    eid: '24349448'
+    medline: []
+    pii: PONE-D-13-30835
+    pmc: PMC3862762
+    pmcid: 'pmc-id: PMC3862762;'
+    pubmed: ['24349448']
+    rid: '24349448'
+  AuthorList: [Davis IJ, Wallis C, Deusch O, Colyer A, Milella L, Loman N, Harris
+      S]
+  DOI: 10.1371/journal.pone.0083158
+  ELocationID: 'doi: 10.1371/journal.pone.0083158'
+  EPubDate: 2013 Dec 13
+  ESSN: 1932-6203
+  FullJournalName: PloS one
+  HasAbstract: 1
+  History:
+    accepted: 2013/10/30 00:00
+    entrez: 2013/12/19 06:00
+    epublish: 2013/12/13 00:00
+    medline: ['2013/12/19 06:00']
+    pubmed: ['2013/12/19 06:00']
+    received: 2013/07/25 00:00
+  ISSN: ''
+  Id: '24349448'
+  Issue: '12'
+  Item: []
+  LangList: [English]
+  LastAuthor: Harris S
+  NlmUniqueID: '101285081'
+  Pages: e83158
+  PmcRefCount: 0
+  PubDate: '2013'
+  PubStatus: ''
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - in process
+  References: []
+  SO: 2013;8(12):e83158
+  Source: PLoS One
+  Title: A cross-sectional survey of bacterial species in plaque from client owned
+    dogs with healthy gingiva, gingivitis or mild periodontitis.
+  Volume: '8'
+- ArticleIds:
+    doi: 10.1038/nbt.2740
+    eid: '24213777'
+    medline: []
+    pii: nbt.2740
+    pubmed: ['24213777']
+    rid: '24213777'
+  AuthorList: [Loman N, Watson M]
+  DOI: 10.1038/nbt.2740
+  ELocationID: 'doi: 10.1038/nbt.2740'
+  EPubDate: ''
+  ESSN: 1546-1696
+  FullJournalName: Nature biotechnology
+  HasAbstract: 0
+  History:
+    entrez: 2013/11/12 06:00
+    medline: ['2013/11/12 06:00']
+    pubmed: ['2013/11/12 06:00']
+  ISSN: 1087-0156
+  Id: '24213777'
+  Issue: '11'
+  Item: []
+  LangList: [English]
+  LastAuthor: Watson M
+  NlmUniqueID: '9604648'
+  Pages: 996-8
+  PmcRefCount: 1
+  PubDate: 2013 Nov
+  PubStatus: ppublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - in process
+  References: []
+  SO: 2013 Nov;31(11):996-8
+  Source: Nat Biotechnol
+  Title: So you want to be a computational biologist?
+  Volume: '31'
+- ArticleIds:
+    eid: '24176582'
+    medline: []
+    pubmed: ['24176582']
+    rid: '24176582'
+  AuthorList: [Snyder LA, Loman NJ, Faraj LA, Levi K, Weinstock G, Boswell TC, Pallen
+      MJ, Ala'Aldeen DA]
+  ELocationID: 'pii: 20611'
+  EPubDate: 2013 Oct 17
+  ESSN: 1560-7917
+  FullJournalName: 'Euro surveillance : bulletin Europeen sur les maladies transmissibles
+    = European communicable disease bulletin'
+  HasAbstract: 1
+  History:
+    entrez: 2013/11/02 06:00
+    medline: ['2014/01/08 06:00']
+    pubmed: ['2013/11/02 06:00']
+  ISSN: 1025-496X
+  Id: '24176582'
+  Issue: '42'
+  Item: []
+  LangList: [English]
+  LastAuthor: Ala'Aldeen DA
+  NlmUniqueID: '100887452'
+  Pages: ''
+  PmcRefCount: 1
+  PubDate: 2013 Oct 17
+  PubStatus: epublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2013 Oct 17;18(42)
+  Source: Euro Surveill
+  Title: Epidemiological investigation of Pseudomonas aeruginosa isolates from a six-year-long
+    hospital outbreak using high-throughput whole genome sequencing.
+  Volume: '18'
+- ArticleIds:
+    doi: 10.1371/journal.ppat.1003461
+    eid: '23818857'
+    medline: []
+    pii: PPATHOGENS-D-13-00154
+    pmc: PMC3688543
+    pmcid: 'pmc-id: PMC3688543;'
+    pubmed: ['23818857']
+    rid: '23818857'
+  AuthorList: [Rihn SJ, Wilson SJ, Loman NJ, Alim M, Bakker SE, Bhella D, Gifford
+      RJ, Rixon FJ, Bieniasz PD]
+  DOI: 10.1371/journal.ppat.1003461
+  ELocationID: 'doi: 10.1371/journal.ppat.1003461'
+  EPubDate: 2013 Jun 20
+  ESSN: 1553-7374
+  FullJournalName: PLoS pathogens
+  HasAbstract: 1
+  History:
+    accepted: 2013/05/11 00:00
+    entrez: 2013/07/03 06:00
+    epublish: 2013/06/20 00:00
+    medline: ['2014/01/18 06:00']
+    pubmed: ['2013/07/03 06:00']
+    received: 2013/01/15 00:00
+  ISSN: 1553-7366
+  Id: '23818857'
+  Issue: '6'
+  Item: []
+  LangList: [English]
+  LastAuthor: Bieniasz PD
+  NlmUniqueID: '101238921'
+  Pages: e1003461
+  PmcRefCount: 3
+  PubDate: '2013'
+  PubStatus: ppublish+epublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2013;9(6):e1003461
+  Source: PLoS Pathog
+  Title: Extreme genetic fragility of the HIV-1 capsid.
+  Volume: '9'
+- ArticleIds:
+    doi: 10.1371/journal.pone.0064731
+    eid: '23724086'
+    medline: []
+    pii: PONE-D-13-03113
+    pmc: PMC3665553
+    pmcid: 'pmc-id: PMC3665553;'
+    pubmed: ['23724086']
+    rid: '23724086'
+  AuthorList: [Loman NJ, Gladstone RA, Constantinidou C, Tocheva AS, Jefferies JM,
+    Faust SN, O'Connor L, Chan J, Pallen MJ, Clarke SC]
+  DOI: 10.1371/journal.pone.0064731
+  ELocationID: 'doi: 10.1371/journal.pone.0064731'
+  EPubDate: 2013 May 28
+  ESSN: 1932-6203
+  FullJournalName: PloS one
+  HasAbstract: 1
+  History:
+    accepted: 2013/04/17 00:00
+    entrez: 2013/06/01 06:00
+    epublish: 2013/05/28 00:00
+    medline: ['2014/01/11 06:00']
+    pubmed: ['2013/06/01 06:00']
+    received: 2013/01/17 00:00
+  ISSN: ''
+  Id: '23724086'
+  Issue: '5'
+  Item: []
+  LangList: [English]
+  LastAuthor: Clarke SC
+  NlmUniqueID: '101285081'
+  Pages: e64731
+  PmcRefCount: 1
+  PubDate: '2013'
+  PubStatus: epublish+ppublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2013;8(5):e64731
+  Source: PLoS One
+  Title: Clonal expansion within pneumococcal serotype 6C after use of seven-valent
+    vaccine.
+  Volume: '8'
+- ArticleIds:
+    doi: 10.1371/journal.pone.0060933
+    eid: '23613759'
+    medline: []
+    pii: PONE-D-12-40750
+    pmc: PMC3629081
+    pmcid: 'pmc-id: PMC3629081;'
+    pubmed: ['23613759']
+    rid: '23613759'
+  AuthorList: [Remuiñán MJ, Pérez-Herrán E, Rullás J, Alemparte C, Martínez-Hoyos
+      M, Dow DJ, Afari J, Mehta N, Esquivias J, Jiménez E, Ortega-Muro F, Fraile-Gabaldón
+      MT, Spivey VL, Loman NJ, Pallen MJ, Constantinidou C, Minick DJ, Cacho M, Rebollo-López
+      MJ, González C, Sousa V, Angulo-Barturen I, Mendoza-Losana A, Barros D, Besra
+      GS, Ballell L, Cammack N]
+  DOI: 10.1371/journal.pone.0060933
+  ELocationID: 'doi: 10.1371/journal.pone.0060933'
+  EPubDate: 2013 Apr 17
+  ESSN: 1932-6203
+  FullJournalName: PloS one
+  HasAbstract: 1
+  History:
+    accepted: 2013/03/04 00:00
+    entrez: 2013/04/25 06:00
+    epublish: 2013/04/17 00:00
+    medline: ['2013/11/12 06:00']
+    pubmed: ['2013/04/25 06:00']
+    received: 2012/12/21 00:00
+  ISSN: ''
+  Id: '23613759'
+  Issue: '4'
+  Item: []
+  LangList: [English]
+  LastAuthor: Cammack N
+  NlmUniqueID: '101285081'
+  Pages: e60933
+  PmcRefCount: 3
+  PubDate: '2013'
+  PubStatus: epublish+ppublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2013;8(4):e60933
+  Source: PLoS One
+  Title: Tetrahydropyrazolo[1,5-a]pyrimidine-3-carboxamide and N-benzyl-6',7'-dihydrospiro[piperidine-4,4'-thieno[3,2-c]pyran]
+    analogues with bactericidal efficacy against Mycobacterium tuberculosis targeting
+    MmpL3.
+  Volume: '8'
+- ArticleIds:
+    doi: 10.1001/jama.2013.3231
+    eid: '23571589'
+    medline: []
+    pii: '1677374'
+    pubmed: ['23571589']
+    rid: '23571589'
+  AuthorList: [Loman NJ, Constantinidou C, Christner M, Rohde H, Chan JZ, Quick J,
+    Weir JC, Quince C, Smith GP, Betley JR, Aepfelbacher M, Pallen MJ]
+  DOI: 10.1001/jama.2013.3231
+  ELocationID: 'doi: 10.1001/jama.2013.3231'
+  EPubDate: ''
+  ESSN: 1538-3598
+  FullJournalName: JAMA
+  HasAbstract: 1
+  History:
+    entrez: 2013/04/11 06:00
+    medline: ['2013/04/12 06:00']
+    pubmed: ['2013/04/11 06:00']
+  ISSN: 0098-7484
+  Id: '23571589'
+  Issue: '14'
+  Item: []
+  LangList: [English]
+  LastAuthor: Pallen MJ
+  NlmUniqueID: '7501160'
+  Pages: 1502-10
+  PmcRefCount: 18
+  PubDate: 2013 Apr 10
+  PubStatus: ppublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: ['JAMA. 2013 Apr 10;309(14):1531-2. PMID: 23571595']
+  SO: 2013 Apr 10;309(14):1502-10
+  Source: JAMA
+  Title: A culture-independent sequence-based metagenomics approach to the investigation
+    of an outbreak of Shiga-toxigenic Escherichia coli O104:H4.
+  Volume: '309'
+- ArticleIds:
+    doi: 10.1099/jmm.0.054841-0
+    eid: '23558134'
+    medline: []
+    pii: jmm.0.054841-0
+    pubmed: ['23558134']
+    rid: '23558134'
+  AuthorList: [Martin K, Baddal B, Mustafa N, Perry C, Underwood A, Constantidou C,
+    Loman N, Kenna DT, Turton JF]
+  DOI: 10.1099/jmm.0.054841-0
+  ELocationID: 'doi: 10.1099/jmm.0.054841-0'
+  EPubDate: 2013 Apr 4
+  ESSN: 1473-5644
+  FullJournalName: Journal of medical microbiology
+  HasAbstract: 1
+  History:
+    aheadofprint: 2013/04/04 00:00
+    entrez: 2013/04/06 06:00
+    medline: ['2013/08/21 06:00']
+    pubmed: ['2013/04/06 06:00']
+  ISSN: 0022-2615
+  Id: '23558134'
+  Issue: Pt 7
+  Item: []
+  LangList: [English]
+  LastAuthor: Turton JF
+  NlmUniqueID: '0224131'
+  Pages: 988-1000
+  PmcRefCount: 1
+  PubDate: 2013 Jul
+  PubStatus: ppublish+epublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2013 Jul;62(Pt 7):988-1000
+  Source: J Med Microbiol
+  Title: Clusters of genetically similar isolates of Pseudomonas aeruginosa from multiple
+    hospitals in the UK.
+  Volume: '62'
+- ArticleIds:
+    doi: 10.1186/1471-2180-12-302
+    eid: '23259572'
+    medline: []
+    pii: 1471-2180-12-302
+    pmc: PMC3556118
+    pmcid: 'pmc-id: PMC3556118;'
+    pubmed: ['23259572']
+    rid: '23259572'
+  AuthorList: [Chan JZ, Halachev MR, Loman NJ, Constantinidou C, Pallen MJ]
+  DOI: 10.1186/1471-2180-12-302
+  ELocationID: 'doi: 10.1186/1471-2180-12-302'
+  EPubDate: 2012 Dec 23
+  ESSN: 1471-2180
+  FullJournalName: BMC microbiology
+  HasAbstract: 1
+  History:
+    accepted: 2012/12/18 00:00
+    aheadofprint: 2012/12/23 00:00
+    entrez: 2012/12/25 06:00
+    medline: ['2013/06/12 06:00']
+    pubmed: ['2012/12/25 06:00']
+    received: 2012/07/31 00:00
+  ISSN: ''
+  Id: '23259572'
+  Issue: ''
+  Item: []
+  LangList: [English]
+  LastAuthor: Pallen MJ
+  NlmUniqueID: '100966981'
+  Pages: '302'
+  PmcRefCount: 7
+  PubDate: 2012 Dec 23
+  PubStatus: epublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2012 Dec 23;12:302
+  Source: BMC Microbiol
+  Title: 'Defining bacterial species in the genomic era: insights from the genus Acinetobacter.'
+  Volume: '12'
+- ArticleIds:
+    doi: 10.1038/nrmicro2850
+    eid: '22864262'
+    medline: []
+    pii: nrmicro2850
+    pubmed: ['22864262']
+    rid: '22864262'
+  AuthorList: [Loman NJ, Constantinidou C, Chan JZ, Halachev M, Sergeant M, Penn CW,
+    Robinson ER, Pallen MJ]
+  DOI: 10.1038/nrmicro2850
+  ELocationID: 'doi: 10.1038/nrmicro2850'
+  EPubDate: 2012 Aug 6
+  ESSN: 1740-1534
+  FullJournalName: Nature reviews. Microbiology
+  HasAbstract: 1
+  History:
+    aheadofprint: 2012/08/06 00:00
+    entrez: 2012/08/07 06:00
+    medline: ['2012/10/24 06:00']
+    pubmed: ['2012/08/07 06:00']
+  ISSN: 1740-1526
+  Id: '22864262'
+  Issue: '9'
+  Item: []
+  LangList: [English]
+  LastAuthor: Pallen MJ
+  NlmUniqueID: '101190261'
+  Pages: 599-606
+  PmcRefCount: 48
+  PubDate: 2012 Sep
+  PubStatus: ppublish+epublish
+  PubTypeList: [Journal Article, Review]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2012 Sep;10(9):599-606
+  Source: Nat Rev Microbiol
+  Title: 'High-throughput bacterial genome sequencing: an embarrassment of choice,
+    a world of opportunity.'
+  Volume: '10'
+- ArticleIds:
+    doi: 10.1038/nbt.2198
+    eid: '22522955'
+    medline: []
+    pii: nbt.2198
+    pubmed: ['22522955']
+    rid: '22522955'
+  AuthorList: [Loman NJ, Misra RV, Dallman TJ, Constantinidou C, Gharbia SE, Wain
+      J, Pallen MJ]
+  DOI: 10.1038/nbt.2198
+  ELocationID: 'doi: 10.1038/nbt.2198'
+  EPubDate: ''
+  ESSN: 1546-1696
+  FullJournalName: Nature biotechnology
+  HasAbstract: 1
+  History:
+    accepted: 2012/03/30 00:00
+    aheadofprint: 2012/04/22 00:00
+    entrez: 2012/04/24 06:00
+    medline: ['2012/09/06 06:00']
+    pubmed: ['2012/04/24 06:00']
+    received: 2011/12/19 00:00
+  ISSN: 1087-0156
+  Id: '22522955'
+  Issue: '5'
+  Item: []
+  LangList: [English]
+  LastAuthor: Pallen MJ
+  NlmUniqueID: '9604648'
+  Pages: 434-9
+  PmcRefCount: 120
+  PubDate: 2012 May
+  PubStatus: ppublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: ['Nat Biotechnol. 2013 Jul;31(7):592-4. PMID: 23839141', 'Nat Biotechnol.
+      2013 Apr;31(4):294-6. PMID: 23563421', 'Nat Biotechnol. 2013 Apr;31(4):296.
+      PMID: 23563422', 'Nat Biotechnol. 2012 Jun;30(6):562']
+  SO: 2012 May;30(5):434-9
+  Source: Nat Biotechnol
+  Title: Performance comparison of benchtop high-throughput sequencing platforms.
+  Volume: '30'
+- ArticleIds:
+    doi: 10.1093/jac/dkr515
+    eid: '22186876'
+    medline: []
+    pii: dkr515
+    pmc: PMC4125622
+    pmcid: 'pmc-id: PMC4125622;'
+    pubmed: ['22186876']
+    rid: '22186876'
+  AuthorList: [Ricci V, Loman N, Pallen M, Ivens A, Fookes M, Langridge GC, Wain J,
+    Piddock LJ]
+  DOI: 10.1093/jac/dkr515
+  ELocationID: 'doi: 10.1093/jac/dkr515'
+  EPubDate: 2011 Dec 20
+  ESSN: 1460-2091
+  FullJournalName: The Journal of antimicrobial chemotherapy
+  HasAbstract: 1
+  History:
+    aheadofprint: 2011/12/20 00:00
+    entrez: 2011/12/22 06:00
+    medline: ['2012/06/07 06:00']
+    pubmed: ['2011/12/22 06:00']
+  ISSN: 0305-7453
+  Id: '22186876'
+  Issue: '3'
+  Item: []
+  LangList: [English]
+  LastAuthor: Piddock LJ
+  NlmUniqueID: '7513617'
+  Pages: 589-99
+  PmcRefCount: 2
+  PubDate: 2012 Mar
+  PubStatus: ppublish+epublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2012 Mar;67(3):589-99
+  Source: J Antimicrob Chemother
+  Title: The TCA cycle is not required for selection or survival of multidrug-resistant
+    Salmonella.
+  Volume: '67'
+- ArticleIds:
+    doi: 10.1371/journal.pone.0052951
+    eid: '23300833'
+    medline: []
+    pii: PONE-D-12-28783
+    pmc: PMC3534098
+    pmcid: 'pmc-id: PMC3534098;'
+    pubmed: ['23300833']
+    rid: '23300833'
+  AuthorList: [Abrahams KA, Cox JA, Spivey VL, Loman NJ, Pallen MJ, Constantinidou
+      C, Fernández R, Alemparte C, Remuiñán MJ, Barros D, Ballell L, Besra GS]
+  DOI: 10.1371/journal.pone.0052951
+  ELocationID: 'doi: 10.1371/journal.pone.0052951'
+  EPubDate: 2012 Dec 31
+  ESSN: 1932-6203
+  FullJournalName: PloS one
+  HasAbstract: 1
+  History:
+    accepted: 2012/11/22 00:00
+    entrez: 2013/01/10 06:00
+    epublish: 2012/12/31 00:00
+    medline: ['2013/06/26 06:00']
+    pubmed: ['2013/01/10 06:00']
+    received: 2012/09/19 00:00
+  ISSN: ''
+  Id: '23300833'
+  Issue: '12'
+  Item: []
+  LangList: [English]
+  LastAuthor: Besra GS
+  NlmUniqueID: '101285081'
+  Pages: e52951
+  PmcRefCount: 3
+  PubDate: '2012'
+  PubStatus: ppublish+epublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2012;7(12):e52951
+  Source: PLoS One
+  Title: Identification of novel imidazo[1,2-a]pyridine inhibitors targeting M. tuberculosis
+    QcrB.
+  Volume: '7'
+- ArticleIds:
+    doi: 10.1371/journal.pone.0026742
+    eid: '23082106'
+    medline: []
+    pii: PONE-D-11-17002
+    pmc: PMC3474768
+    pmcid: 'pmc-id: PMC3474768;'
+    pubmed: ['23082106']
+    rid: '23082106'
+  AuthorList: [Williams TM, Loman NJ, Ebruke C, Musher DM, Adegbola RA, Pallen MJ,
+    Weinstock GM, Antonio M]
+  DOI: 10.1371/journal.pone.0026742
+  ELocationID: 'doi: 10.1371/journal.pone.0026742'
+  EPubDate: 2012 Oct 17
+  ESSN: 1932-6203
+  FullJournalName: PloS one
+  HasAbstract: 1
+  History:
+    accepted: 2011/10/02 00:00
+    entrez: 2012/10/20 06:00
+    epublish: 2012/10/17 00:00
+    medline: ['2013/04/10 06:00']
+    pubmed: ['2012/10/20 06:00']
+    received: 2011/08/31 00:00
+  ISSN: ''
+  Id: '23082106'
+  Issue: '10'
+  Item: []
+  LangList: [English]
+  LastAuthor: Antonio M
+  NlmUniqueID: '101285081'
+  Pages: e26742
+  PmcRefCount: 2
+  PubDate: '2012'
+  PubStatus: ppublish+epublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2012;7(10):e26742
+  Source: PLoS One
+  Title: Genome analysis of a highly virulent serotype 1 strain of Streptococcus pneumoniae
+    from West Africa.
+  Volume: '7'
+- ArticleIds:
+    doi: 10.1128/JB.05374-11
+    eid: '21705601'
+    medline: []
+    pii: JB.05374-11
+    pmc: PMC3165516
+    pmcid: 'pmc-id: PMC3165516;'
+    pubmed: ['21705601']
+    rid: '21705601'
+  AuthorList: [Clarke DJ, Chaudhuri RR, Martin HM, Campbell BJ, Rhodes JM, Constantinidou
+      C, Pallen MJ, Loman NJ, Cunningham AF, Browning DF, Henderson IR]
+  DOI: 10.1128/JB.05374-11
+  ELocationID: 'doi: 10.1128/JB.05374-11'
+  EPubDate: 2011 Jun 24
+  ESSN: 1098-5530
+  FullJournalName: Journal of bacteriology
+  HasAbstract: 1
+  History:
+    aheadofprint: 2011/06/24 00:00
+    entrez: 2011/06/28 06:00
+    medline: ['2011/10/07 06:00']
+    pubmed: ['2011/06/28 06:00']
+  ISSN: 0021-9193
+  Id: '21705601'
+  Issue: '17'
+  Item: []
+  LangList: [English]
+  LastAuthor: Henderson IR
+  NlmUniqueID: 2985120R
+  Pages: '4540'
+  PmcRefCount: 3
+  PubDate: 2011 Sep
+  PubStatus: ppublish+epublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2011 Sep;193(17):4540
+  Source: J Bacteriol
+  Title: Complete genome sequence of the Crohn's disease-associated adherent-invasive
+    Escherichia coli strain HM605.
+  Volume: '193'
+- ArticleIds:
+    doi: 10.1056/NEJMoa1107643
+    eid: '21793736'
+    medline: []
+    pubmed: ['21793736']
+    rid: '21793736'
+  AuthorList: [Rohde H, Qin J, Cui Y, Li D, Loman NJ, Hentschke M, Chen W, Pu F, Peng
+      Y, Li J, Xi F, Li S, Li Y, Zhang Z, Yang X, Zhao M, Wang P, Guan Y, Cen Z, Zhao
+      X, Christner M, Kobbe R, Loos S, Oh J, Yang L, Danchin A, Gao GF, Song Y, Li
+      Y, Yang H, Wang J, Xu J, Pallen MJ, Wang J, Aepfelbacher M, Yang R, 'E. coli
+      O104:H4 Genome Analysis Crowd-Sourcing Consortium']
+  DOI: 10.1056/NEJMoa1107643
+  ELocationID: 'doi: 10.1056/NEJMoa1107643'
+  EPubDate: 2011 Jul 27
+  ESSN: 1533-4406
+  FullJournalName: The New England journal of medicine
+  HasAbstract: 1
+  History:
+    aheadofprint: 2011/07/27 00:00
+    entrez: 2011/07/29 06:00
+    medline: ['2011/08/31 06:00']
+    pubmed: ['2011/07/29 06:00']
+  ISSN: 0028-4793
+  Id: '21793736'
+  Issue: '8'
+  Item: []
+  LangList: [English]
+  LastAuthor: Yang R
+  NlmUniqueID: '0255562'
+  Pages: 718-24
+  PmcRefCount: 91
+  PubDate: 2011 Aug 25
+  PubStatus: ppublish+epublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2011 Aug 25;365(8):718-24
+  Source: N Engl J Med
+  Title: Open-source genomic analysis of Shiga-toxin-producing E. coli O104:H4.
+  Volume: '365'
+- ArticleIds:
+    doi: 10.1186/gm269
+    eid: '21861847'
+    medline: []
+    pii: gm269
+    pmc: PMC3238179
+    pmcid: 'pmc-id: PMC3238179;'
+    pubmed: ['21861847']
+    rid: '21861847'
+  AuthorList: [Pallen MJ, Loman NJ]
+  DOI: 10.1186/gm269
+  ELocationID: 'doi: 10.1186/gm269'
+  EPubDate: 2011 Aug 23
+  ESSN: 1756-994X
+  FullJournalName: Genome medicine
+  HasAbstract: 1
+  History:
+    aheadofprint: 2011/08/23 00:00
+    entrez: 2011/08/25 06:00
+    medline: ['2011/08/25 06:01']
+    pubmed: ['2011/08/25 06:00']
+  ISSN: ''
+  Id: '21861847'
+  Issue: '8'
+  Item: []
+  LangList: [English]
+  LastAuthor: Loman NJ
+  NlmUniqueID: '101475844'
+  Pages: '53'
+  PmcRefCount: 6
+  PubDate: 2011 Aug 23
+  PubStatus: epublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed
+  References: []
+  SO: 2011 Aug 23;3(8):53
+  Source: Genome Med
+  Title: Are diagnostic and public health bacteriology ready to become branches of
+    genomic medicine?
+  Volume: '3'
+- ArticleIds:
+    doi: 10.1093/jac/dkr168
+    eid: '21565804'
+    medline: []
+    pii: dkr168
+    pubmed: ['21565804']
+    rid: '21565804'
+  AuthorList: [Hornsey M, Loman N, Wareham DW, Ellington MJ, Pallen MJ, Turton JF,
+    Underwood A, Gaulton T, Thomas CP, Doumith M, Livermore DM, Woodford N]
+  DOI: 10.1093/jac/dkr168
+  ELocationID: 'doi: 10.1093/jac/dkr168'
+  EPubDate: 2011 May 12
+  ESSN: 1460-2091
+  FullJournalName: The Journal of antimicrobial chemotherapy
+  HasAbstract: 1
+  History:
+    aheadofprint: 2011/05/12 00:00
+    entrez: 2011/05/14 06:00
+    medline: ['2011/09/29 06:00']
+    pubmed: ['2011/05/14 06:00']
+  ISSN: 0305-7453
+  Id: '21565804'
+  Issue: '7'
+  Item: []
+  LangList: [English]
+  LastAuthor: Woodford N
+  NlmUniqueID: '7513617'
+  Pages: 1499-503
+  PmcRefCount: 11
+  PubDate: 2011 Jul
+  PubStatus: ppublish+epublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2011 Jul;66(7):1499-503
+  Source: J Antimicrob Chemother
+  Title: Whole-genome comparison of two Acinetobacter baumannii isolates from a single
+    patient, where resistance developed during tigecycline therapy.
+  Volume: '66'
+- ArticleIds:
+    doi: 10.1128/JB.00245-11
+    eid: '21398548'
+    medline: []
+    pii: JB.00245-11
+    pmc: PMC3133085
+    pmcid: 'pmc-id: PMC3133085;'
+    pubmed: ['21398548']
+    rid: '21398548'
+  AuthorList: [Zarrilli R, Giannouli M, Rocco F, Loman NJ, Haines AS, Constantinidou
+      C, Pallen MJ, Triassi M, Di Nocera PP]
+  DOI: 10.1128/JB.00245-11
+  ELocationID: 'doi: 10.1128/JB.00245-11'
+  EPubDate: 2011 Mar 11
+  ESSN: 1098-5530
+  FullJournalName: Journal of bacteriology
+  HasAbstract: 1
+  History:
+    aheadofprint: 2011/03/11 00:00
+    entrez: 2011/03/15 06:00
+    medline: ['2011/07/13 06:00']
+    pubmed: ['2011/03/15 06:00']
+  ISSN: 0021-9193
+  Id: '21398548'
+  Issue: '9'
+  Item: []
+  LangList: [English]
+  LastAuthor: Di Nocera PP
+  NlmUniqueID: 2985120R
+  Pages: 2359-60
+  PmcRefCount: 3
+  PubDate: 2011 May
+  PubStatus: ppublish+epublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2011 May;193(9):2359-60
+  Source: J Bacteriol
+  Title: Genome sequences of three Acinetobacter baumannii strains assigned to the
+    multilocus sequence typing genotypes ST2, ST25, and ST78.
+  Volume: '193'
+- ArticleIds:
+    doi: 10.1371/journal.pone.0028388
+    eid: '22174796'
+    medline: []
+    pii: PONE-D-11-17551
+    pmc: PMC3236195
+    pmcid: 'pmc-id: PMC3236195;'
+    pubmed: ['22174796']
+    rid: '22174796'
+  AuthorList: [Halachev MR, Loman NJ, Pallen MJ]
+  DOI: 10.1371/journal.pone.0028388
+  ELocationID: 'doi: 10.1371/journal.pone.0028388'
+  EPubDate: 2011 Dec 12
+  ESSN: 1932-6203
+  FullJournalName: PloS one
+  HasAbstract: 1
+  History:
+    accepted: 2011/11/07 00:00
+    entrez: 2011/12/17 06:00
+    epublish: 2011/12/12 00:00
+    medline: ['2012/04/24 06:00']
+    pubmed: ['2011/12/17 06:00']
+    received: 2011/09/07 00:00
+  ISSN: ''
+  Id: '22174796'
+  Issue: '12'
+  Item: []
+  LangList: [English]
+  LastAuthor: Pallen MJ
+  NlmUniqueID: '101285081'
+  Pages: e28388
+  PmcRefCount: 3
+  PubDate: '2011'
+  PubStatus: ppublish+epublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2011;6(12):e28388
+  Source: PLoS One
+  Title: 'Calculating orthologs in bacteria and Archaea: a divide and conquer approach.'
+  Volume: '6'
+- ArticleIds:
+    doi: 10.1016/j.mib.2010.08.003
+    eid: '20843733'
+    medline: []
+    pii: S1369-5274(10)00117-7
+    pubmed: ['20843733']
+    rid: '20843733'
+  AuthorList: [Pallen MJ, Loman NJ, Penn CW]
+  DOI: 10.1016/j.mib.2010.08.003
+  ELocationID: 'doi: 10.1016/j.mib.2010.08.003'
+  EPubDate: 2010 Sep 16
+  ESSN: 1879-0364
+  FullJournalName: Current opinion in microbiology
+  HasAbstract: 1
+  History:
+    accepted: 2010/08/18 00:00
+    aheadofprint: 2010/09/16 00:00
+    entrez: 2010/09/17 06:00
+    medline: ['2010/12/31 06:00']
+    pubmed: ['2010/09/17 06:00']
+    received: 2010/06/17 00:00
+    revised: 2010/08/04 00:00
+  ISSN: 1369-5274
+  Id: '20843733'
+  Issue: '5'
+  Item: []
+  LangList: [English]
+  LastAuthor: Penn CW
+  NlmUniqueID: '9815056'
+  Pages: 625-31
+  PmcRefCount: 29
+  PubDate: 2010 Oct
+  PubStatus: ppublish+epublish
+  PubTypeList: [Journal Article, Review]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2010 Oct;13(5):625-31
+  Source: Curr Opin Microbiol
+  Title: 'High-throughput sequencing and clinical microbiology: progress, opportunities
+    and challenges.'
+  Volume: '13'
+- ArticleIds:
+    doi: 10.1186/1751-0473-5-6
+    eid: '20565938'
+    medline: []
+    pii: 1751-0473-5-6
+    pmc: PMC2904758
+    pmcid: 'pmc-id: PMC2904758;'
+    pubmed: ['20565938']
+    rid: '20565938'
+  AuthorList: [Loman NJ, Pallen MJ]
+  DOI: 10.1186/1751-0473-5-6
+  ELocationID: 'doi: 10.1186/1751-0473-5-6'
+  EPubDate: 2010 Jun 21
+  ESSN: 1751-0473
+  FullJournalName: Source code for biology and medicine
+  HasAbstract: 1
+  History:
+    accepted: 2010/06/21 00:00
+    aheadofprint: 2010/06/21 00:00
+    entrez: 2010/06/23 06:00
+    medline: ['2010/06/23 06:01']
+    pubmed: ['2010/06/23 06:00']
+    received: 2010/04/15 00:00
+  ISSN: ''
+  Id: '20565938'
+  Issue: ''
+  Item: []
+  LangList: [English]
+  LastAuthor: Pallen MJ
+  NlmUniqueID: '101276533'
+  Pages: '6'
+  PmcRefCount: 0
+  PubDate: 2010 Jun 21
+  PubStatus: epublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed
+  References: []
+  SO: 2010 Jun 21;5:6
+  Source: Source Code Biol Med
+  Title: 'EntrezAJAX: direct web browser access to the Entrez Programming Utilities.'
+  Volume: '5'
+- ArticleIds:
+    doi: 10.1016/j.jhin.2010.01.012
+    eid: '20299126'
+    medline: []
+    pii: S0195-6701(10)00028-9
+    pubmed: ['20299126']
+    rid: '20299126'
+  AuthorList: [Lewis T, Loman NJ, Bingle L, Jumaa P, Weinstock GM, Mortiboy D, Pallen
+      MJ]
+  DOI: 10.1016/j.jhin.2010.01.012
+  ELocationID: 'doi: 10.1016/j.jhin.2010.01.012'
+  EPubDate: 2010 Mar 17
+  ESSN: 1532-2939
+  FullJournalName: The Journal of hospital infection
+  HasAbstract: 1
+  History:
+    accepted: 2010/01/21 00:00
+    aheadofprint: 2010/03/17 00:00
+    entrez: 2010/03/20 06:00
+    medline: ['2010/06/30 06:00']
+    pubmed: ['2010/03/20 06:00']
+    received: 2009/11/13 00:00
+  ISSN: 0195-6701
+  Id: '20299126'
+  Issue: '1'
+  Item: []
+  LangList: [English]
+  LastAuthor: Pallen MJ
+  NlmUniqueID: '8007166'
+  Pages: 37-41
+  PmcRefCount: 22
+  PubDate: 2010 May
+  PubStatus: ppublish+epublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2010 May;75(1):37-41
+  Source: J Hosp Infect
+  Title: High-throughput whole-genome sequencing to dissect the epidemiology of Acinetobacter
+    baumannii isolates from a hospital outbreak.
+  Volume: '75'
+- ArticleIds:
+    doi: 10.1186/1471-2164-11-67
+    eid: '20105305'
+    medline: []
+    pii: 1471-2164-11-67
+    pmc: PMC2823697
+    pmcid: 'pmc-id: PMC2823697;'
+    pubmed: ['20105305']
+    rid: '20105305'
+  AuthorList: [Snyder LA, Loman NJ, Linton JD, Langdon RR, Weinstock GM, Wren BW,
+    Pallen MJ]
+  DOI: 10.1186/1471-2164-11-67
+  ELocationID: 'doi: 10.1186/1471-2164-11-67'
+  EPubDate: 2010 Jan 27
+  ESSN: 1471-2164
+  FullJournalName: BMC genomics
+  HasAbstract: 1
+  History:
+    accepted: 2010/01/27 00:00
+    aheadofprint: 2010/01/27 00:00
+    entrez: 2010/01/29 06:00
+    medline: ['2010/05/04 06:00']
+    pubmed: ['2010/01/29 06:00']
+    received: 2009/10/27 00:00
+  ISSN: ''
+  Id: '20105305'
+  Issue: ''
+  Item: []
+  LangList: [English]
+  LastAuthor: Pallen MJ
+  NlmUniqueID: '100965258'
+  Pages: '67'
+  PmcRefCount: 3
+  PubDate: 2010 Jan 27
+  PubStatus: epublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2010 Jan 27;11:67
+  Source: BMC Genomics
+  Title: Simple sequence repeats in Helicobacter canadensis and their role in phase
+    variable expression and C-terminal sequence switching.
+  Volume: '11'
+- ArticleIds:
+    doi: 10.1128/JB.00729-09
+    eid: '19542273'
+    medline: []
+    pii: JB.00729-09
+    pmc: PMC2725615
+    pmcid: 'pmc-id: PMC2725615;'
+    pubmed: ['19542273']
+    rid: '19542273'
+  AuthorList: [Loman NJ, Snyder LA, Linton JD, Langdon R, Lawson AJ, Weinstock GM,
+    Wren BW, Pallen MJ]
+  DOI: 10.1128/JB.00729-09
+  ELocationID: 'doi: 10.1128/JB.00729-09'
+  EPubDate: 2009 Jun 19
+  ESSN: 1098-5530
+  FullJournalName: Journal of bacteriology
+  HasAbstract: 1
+  History:
+    aheadofprint: 2009/06/19 00:00
+    entrez: 2009/06/23 09:00
+    medline: ['2009/08/29 09:00']
+    pubmed: ['2009/06/23 09:00']
+  ISSN: 0021-9193
+  Id: '19542273'
+  Issue: '17'
+  Item: []
+  LangList: [English]
+  LastAuthor: Pallen MJ
+  NlmUniqueID: 2985120R
+  Pages: 5566-7
+  PmcRefCount: 5
+  PubDate: 2009 Sep
+  PubStatus: ppublish+epublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2009 Sep;191(17):5566-7
+  Source: J Bacteriol
+  Title: Genome sequence of the emerging pathogen Helicobacter canadensis.
+  Volume: '191'
+- ArticleIds:
+    doi: 10.1016/j.tim.2009.06.005
+    eid: '19716705'
+    medline: []
+    pii: S0966-842X(09)00153-X
+    pubmed: ['19716705']
+    rid: '19716705'
+  AuthorList: [Spear AM, Loman NJ, Atkins HS, Pallen MJ]
+  DOI: 10.1016/j.tim.2009.06.005
+  ELocationID: 'doi: 10.1016/j.tim.2009.06.005'
+  EPubDate: 2009 Aug 28
+  ESSN: 1878-4380
+  FullJournalName: Trends in microbiology
+  HasAbstract: 1
+  History:
+    accepted: 2009/06/10 00:00
+    aheadofprint: 2009/08/28 00:00
+    entrez: 2009/09/01 09:00
+    medline: ['2009/11/05 06:00']
+    pubmed: ['2009/09/01 06:00']
+    received: 2009/02/01 00:00
+    revised: 2009/05/15 00:00
+  ISSN: 0966-842X
+  Id: '19716705'
+  Issue: '9'
+  Item: []
+  LangList: [English]
+  LastAuthor: Pallen MJ
+  NlmUniqueID: '9310916'
+  Pages: 393-8
+  PmcRefCount: 7
+  PubDate: 2009 Sep
+  PubStatus: ppublish+epublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2009 Sep;17(9):393-8
+  Source: Trends Microbiol
+  Title: 'Microbial TIR domains: not necessarily agents of subversion?'
+  Volume: '17'
+- ArticleIds:
+    doi: 10.1371/journal.pgen.1000416
+    eid: '19283063'
+    medline: []
+    pmc: PMC2652115
+    pmcid: 'pmc-id: PMC2652115;'
+    pubmed: ['19283063']
+    rid: '19283063'
+  AuthorList: [Woo PC, Lau SK, Tse H, Teng JL, Curreem SO, Tsang AK, Fan RY, Wong
+      GK, Huang Y, Loman NJ, Snyder LA, Cai JJ, Huang JD, Mak W, Pallen MJ, Lok S,
+    Yuen KY]
+  DOI: 10.1371/journal.pgen.1000416
+  ELocationID: 'doi: 10.1371/journal.pgen.1000416'
+  EPubDate: 2009 Mar 13
+  ESSN: 1553-7404
+  FullJournalName: PLoS genetics
+  HasAbstract: 1
+  History:
+    accepted: 2009/02/10 00:00
+    entrez: 2009/03/14 09:00
+    epublish: 2009/03/13 00:00
+    medline: ['2009/06/16 09:00']
+    pubmed: ['2009/03/14 09:00']
+    received: 2008/11/07 00:00
+  ISSN: 1553-7390
+  Id: '19283063'
+  Issue: '3'
+  Item: []
+  LangList: [English]
+  LastAuthor: Yuen KY
+  NlmUniqueID: '101239074'
+  Pages: e1000416
+  PmcRefCount: 17
+  PubDate: 2009 Mar
+  PubStatus: ppublish+epublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2009 Mar;5(3):e1000416
+  Source: PLoS Genet
+  Title: The complete genome and proteome of Laribacter hongkongensis reveal potential
+    mechanisms for adaptations to different temperatures and habitats.
+  Volume: '5'
+- ArticleIds:
+    doi: 10.1007/s00248-008-9465-9
+    eid: '19015912'
+    medline: []
+    pubmed: ['19015912']
+    rid: '19015912'
+  AuthorList: [Snyder LA, Loman N, Pallen MJ, Penn CW]
+  DOI: 10.1007/s00248-008-9465-9
+  ELocationID: 'doi: 10.1007/s00248-008-9465-9'
+  EPubDate: 2008 Nov 18
+  ESSN: 1432-184X
+  FullJournalName: Microbial ecology
+  HasAbstract: 0
+  History:
+    accepted: 2008/10/16 00:00
+    aheadofprint: 2008/11/18 00:00
+    entrez: 2008/11/19 09:00
+    medline: ['2009/03/11 09:00']
+    pubmed: ['2008/11/19 09:00']
+    received: 2008/09/29 00:00
+  ISSN: 0095-3628
+  Id: '19015912'
+  Issue: '1'
+  Item: []
+  LangList: [English]
+  LastAuthor: Penn CW
+  NlmUniqueID: '7500663'
+  Pages: 1-3
+  PmcRefCount: 4
+  PubDate: 2009 Jan
+  PubStatus: ppublish+epublish
+  PubTypeList: [Journal Article, Review]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2009 Jan;57(1):1-3
+  Source: Microb Ecol
+  Title: Next-generation sequencing--the promise and perils of charting the great
+    microbial unknown.
+  Volume: '57'
+- ArticleIds:
+    doi: 10.1016/j.tim.2008.10.002
+    eid: '19081724'
+    medline: []
+    pii: S0966-842X(08)00265-5
+    pubmed: ['19081724']
+    rid: '19081724'
+  AuthorList: [Snyder LA, Loman NJ, Fütterer K, Pallen MJ]
+  DOI: 10.1016/j.tim.2008.10.002
+  ELocationID: 'doi: 10.1016/j.tim.2008.10.002'
+  EPubDate: 2008 Dec 10
+  ESSN: 1878-4380
+  FullJournalName: Trends in microbiology
+  HasAbstract: 1
+  History:
+    accepted: 2008/10/16 00:00
+    aheadofprint: 2008/12/10 00:00
+    entrez: 2008/12/17 09:00
+    medline: ['2009/04/18 09:00']
+    pubmed: ['2008/12/17 09:00']
+    received: 2008/07/15 00:00
+    revised: 2008/10/16 00:00
+  ISSN: 0966-842X
+  Id: '19081724'
+  Issue: '1'
+  Item: []
+  LangList: [English]
+  LastAuthor: Pallen MJ
+  NlmUniqueID: '9310916'
+  Pages: 1-5
+  PmcRefCount: 10
+  PubDate: 2009 Jan
+  PubStatus: ppublish+epublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2009 Jan;17(1):1-5
+  Source: Trends Microbiol
+  Title: 'Bacterial flagellar diversity and evolution: seek simplicity and distrust
+    it?'
+  Volume: '17'
+- ArticleIds:
+    doi: 10.2217/17460913.3.2.111
+    eid: '18366328'
+    medline: []
+    pubmed: ['18366328']
+    rid: '18366328'
+  AuthorList: [Loman NJ, Pallen MJ]
+  DOI: 10.2217/17460913.3.2.111
+  ELocationID: 'doi: 10.2217/17460913.3.2.111'
+  EPubDate: ''
+  ESSN: 1746-0921
+  FullJournalName: Future microbiology
+  HasAbstract: 0
+  History:
+    entrez: 2008/03/28 09:00
+    medline: ['2008/08/05 09:00']
+    pubmed: ['2008/03/28 09:00']
+  ISSN: 1746-0913
+  Id: '18366328'
+  Issue: '2'
+  Item: []
+  LangList: [English]
+  LastAuthor: Pallen MJ
+  NlmUniqueID: '101278120'
+  Pages: 111-3
+  PmcRefCount: 3
+  PubDate: 2008 Apr
+  PubStatus: ppublish
+  PubTypeList: [Editorial]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2008 Apr;3(2):111-3
+  Source: Future Microbiol
+  Title: 'XDR-TB genome sequencing: a glimpse of the microbiology of the future.'
+  Volume: '3'
+- ArticleIds:
+    doi: 10.1093/nar/gkm928
+    eid: '17984072'
+    medline: []
+    pii: gkm928
+    pmc: PMC2238843
+    pmcid: 'pmc-id: PMC2238843;'
+    pubmed: ['17984072']
+    rid: '17984072'
+  AuthorList: [Chaudhuri RR, Loman NJ, Snyder LA, Bailey CM, Stekel DJ, Pallen MJ]
+  DOI: 10.1093/nar/gkm928
+  ELocationID: ''
+  EPubDate: 2007 Nov 5
+  ESSN: 1362-4962
+  FullJournalName: Nucleic acids research
+  HasAbstract: 1
+  History:
+    aheadofprint: 2007/11/05 00:00
+    entrez: 2007/11/07 09:00
+    medline: ['2008/03/18 09:00']
+    pubmed: ['2007/11/07 09:00']
+  ISSN: 0305-1048
+  Id: '17984072'
+  Issue: Database issue
+  Item: []
+  LangList: [English]
+  LastAuthor: Pallen MJ
+  NlmUniqueID: '0411011'
+  Pages: D543-6
+  PmcRefCount: 48
+  PubDate: 2008 Jan
+  PubStatus: ppublish+epublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2008 Jan;36(Database issue):D543-6
+  Source: Nucleic Acids Res
+  Title: 'xBASE2: a comprehensive resource for comparative bacterial genomics.'
+  Volume: '36'
+- ArticleIds:
+    eid: '11825690'
+    medline: []
+    pii: S0966-842X(01)02199-0
+    pubmed: ['11825690']
+    rid: '11825690'
+  AuthorList: [Pallen MJ, Lam AC, Loman N]
+  ELocationID: ''
+  EPubDate: ''
+  ESSN: 1878-4380
+  FullJournalName: Trends in microbiology
+  HasAbstract: 1
+  History:
+    entrez: 2002/02/05 10:00
+    medline: ['2002/05/15 10:01']
+    pubmed: ['2002/02/05 10:00']
+  ISSN: 0966-842X
+  Id: '11825690'
+  Issue: '11'
+  Item: []
+  LangList: [English]
+  LastAuthor: Loman N
+  NlmUniqueID: '9310916'
+  Pages: 518-21
+  PmcRefCount: 2
+  PubDate: 2001 Nov
+  PubStatus: ppublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2001 Nov;9(11):518-21
+  Source: Trends Microbiol
+  Title: Tricorn-like proteases in bacteria.
+  Volume: '9'
+- ArticleIds:
+    eid: '11435081'
+    medline: []
+    pii: S0966-842X(01)02074-1
+    pubmed: ['11435081']
+    rid: '11435081'
+  AuthorList: [Pallen MJ, Lam AC, Loman NJ, McBride A]
+  ELocationID: ''
+  EPubDate: ''
+  ESSN: 1878-4380
+  FullJournalName: Trends in microbiology
+  HasAbstract: 1
+  History:
+    entrez: 2001/07/04 10:00
+    medline: ['2001/09/28 10:01']
+    pubmed: ['2001/07/04 10:00']
+  ISSN: 0966-842X
+  Id: '11435081'
+  Issue: '7'
+  Item: []
+  LangList: [English]
+  LastAuthor: McBride A
+  NlmUniqueID: '9310916'
+  Pages: 302-7; discussion 308
+  PmcRefCount: 12
+  PubDate: 2001 Jul
+  PubStatus: ppublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2001 Jul;9(7):302-7; discussion 308
+  Source: Trends Microbiol
+  Title: An abundance of bacterial ADP-ribosyltransferases--implications for the origin
+    of exotoxins and their human homologues.
+  Volume: '9'
+- ArticleIds:
+    doi: 10.1089/10906590050145249
+    eid: '11011763'
+    medline: []
+    pubmed: ['11011763']
+    rid: '11011763'
+  AuthorList: [Karlsson J, Prior RG, Williams K, Lindler L, Brown KA, Chatwell N,
+    Hjalmarsson K, Loman N, Mack KA, Pallen M, Popek M, Sandström G, Sjöstedt A, Svensson
+      T, Tamas I, Andersson SG, Wren BW, Oyston PC, Titball RW]
+  DOI: 10.1089/10906590050145249
+  ELocationID: ''
+  EPubDate: ''
+  ESSN: ''
+  FullJournalName: Microbial & comparative genomics
+  HasAbstract: 1
+  History:
+    entrez: 2000/09/30 11:00
+    medline: ['2001/02/28 10:01']
+    pubmed: ['2000/09/30 11:00']
+  ISSN: 1090-6592
+  Id: '11011763'
+  Issue: '1'
+  Item: []
+  LangList: [English]
+  LastAuthor: Titball RW
+  NlmUniqueID: '9616596'
+  Pages: 25-39
+  PmcRefCount: 15
+  PubDate: '2000'
+  PubStatus: ppublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: []
+  SO: 2000;5(1):25-39
+  Source: Microb Comp Genomics
+  Title: Sequencing of the Francisella tularensis strain Schu 4 genome reveals the
+    shikimate and purine metabolic pathways, targets for the construction of a rationally
+    attenuated auxotrophic vaccine.
+  Volume: '5'
+- ArticleIds:
+    eid: '9831592'
+    medline: []
+    pmc: PMC1114350
+    pmcid: 'pmc-id: PMC1114350;'
+    pubmed: ['9831592']
+    rid: '9831592'
+  AuthorList: [Pallen M, Loman N]
+  ELocationID: ''
+  EPubDate: ''
+  ESSN: 1756-1833
+  FullJournalName: BMJ (Clinical research ed.)
+  HasAbstract: 0
+  History:
+    entrez: 1998/11/30 00:00
+    medline: ['1998/11/30 00:01']
+    pubmed: ['1998/11/30 00:00']
+  ISSN: 0959-8138
+  Id: '9831592'
+  Issue: '7171'
+  Item: []
+  LangList: [English]
+  LastAuthor: Loman N
+  NlmUniqueID: '8900488'
+  Pages: '1522'
+  PmcRefCount: 0
+  PubDate: 1998 Nov 28
+  PubStatus: ppublish
+  PubTypeList: [Comment, Letter]
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: ['BMJ. 1998 Mar 28;316(7136):1009-11. PMID: 9550967']
+  SO: 1998 Nov 28;317(7171):1522
+  Source: BMJ
+  Title: Videos, photographs, and patient consent. Medical educationalists can free
+    themselves from constraints of "real world" images.
+  Volume: '317'
+

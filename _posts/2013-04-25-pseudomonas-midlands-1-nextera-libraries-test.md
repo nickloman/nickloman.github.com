@@ -2,10 +2,10 @@
 layout: post
 title: "Pseudomonas midlands 1 Nextera libraries test"
 description: ""
-category: 
+category: notebook 
 tags: []
 ---
-{% include JB/setup %}
+
 
 *	Bead-based normalization as per protocol.
 

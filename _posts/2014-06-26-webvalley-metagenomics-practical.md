@@ -2,10 +2,10 @@
 layout: post
 title: "WebValley: Metagenomics practical"
 description: ""
-category: 
+category: notebook 
 tags: []
 ---
-{% include JB/setup %}
+
 
 The E. coli outbreak metagenomics paper is here:
 

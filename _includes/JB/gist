@@ -1,8 +1,0 @@
-<div id="gist">
-<script src="https://gist.github.com/{{ gist_id }}.js?file={{ gist_file }}">&nbsp;</script>
-<noscript>
-<pre>https://gist.github.com/{{gist_id}}.js?file={{gist_file}}</pre>
-</noscript>
-</div> 
-{% assign gist_id = nil %}
-{% assign gist_file = nil %}

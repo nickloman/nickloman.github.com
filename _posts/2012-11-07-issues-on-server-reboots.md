@@ -2,10 +2,10 @@
 layout: post
 title: "Issues on server reboots"
 description: ""
-category: 
+category: notebook 
 tags: []
 ---
-{% include JB/setup %}
+
 
 Total campus power fail today meaning all the servers rebooted.
 

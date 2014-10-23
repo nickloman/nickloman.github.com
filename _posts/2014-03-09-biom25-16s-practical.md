@@ -2,10 +2,10 @@
 layout: post
 title: "BIOM25: 16S Practical"
 description: ""
-category: 
+category: notebook 
 tags: []
 ---
-{% include JB/setup %}
+
 
 # 16S Lecture Slides #
 

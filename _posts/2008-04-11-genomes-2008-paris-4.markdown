@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Genomes 2008, Paris #4'
+author:
+  display_name: Nick Loman
+  login: nick
+  email: n.j.loman@bham.ac.uk
+  url: http://xbase.bham.ac.uk
+author_login: nick
+author_email: n.j.loman@bham.ac.uk
+author_url: http://xbase.bham.ac.uk
+wordpress_id: 28
+wordpress_url: http://pathogenomics.bham.ac.uk/blog/?p=28
+date: '2008-04-11 14:12:47 +0100'
+date_gmt: '2008-04-11 13:12:47 +0100'
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p>Yesterday, George Weinstock treated us to his vision for the <a href="http://nihroadmap.nih.gov/hmp/">Human Microbiome Project</a> and outlined some of the major problems which need to be solved. The approach is quite exhaustive: 100 volunteers have samples collected from many different environments offered by the human body: different sites in the mouth, stomach, small and large bowel, but also the skin and the vagina. New sequencing technologies such as 454 and Solexa will be used across a number of sequencing centres in the US. To validate the technologies each centre has sequenced the same strains of <em>E. coli</em>, <em>Staphylococcus aureus </em>and <em>Rhodobacter </em>in order to get a feel for the accuracy of the reads and assemblies produced, and to gauge any inter-centre variation. The results looked generally positive, with a very low error rate being seen particularly for the 454 assemblies, better in fact than traditional 'Sanger' sequencing. Sequencing depth was important for contig length, as was important, but it was difficult to assemble <em>Rhodobacter </em>into tractable numbers of contigs, even with 20x coverage. This was presumably due to long repet regions.</p>
+<p>Another interesting facet of the project was the nature of the sequencing. Unlike previous metagenome projects, the individual species (or more accurately, Operational Taxonomic Unit, defined as &gt;3% difference in 16S sequence) will be sequenced as separate individual genome projects. The aim will be to end up with a representative list of human commensals which future metagenome samples can then be aligned against in their entireity. This seems like a better plan than trying to sequence an entire environment in one go and then struggling to make sense of the data.</p>
+<p>Blood samples will be taken at the same time from each volunteer, and the hope is that one day the genome of the volunteer can be correlated with their "personal metagenome".</p>

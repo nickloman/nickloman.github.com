@@ -2,10 +2,10 @@
 layout: post
 title: "Coffee notebook"
 description: ""
-category: 
+category: notebook 
 tags: []
 ---
-{% include JB/setup %}
+
 
 A place to record experiments with different types of coffee and different parameters for pour-over brewing.
 

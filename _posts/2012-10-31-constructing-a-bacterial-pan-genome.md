@@ -2,10 +2,10 @@
 layout: post
 title: "Constructing bacterial pan-genomes"
 description: ""
-category: clinical-metagenomics
+category: notebook clinical-metagenomics
 tags: [pangenome]
 ---
-{% include JB/setup %}
+
 
 # Pan-genome construction notebook
 

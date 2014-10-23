@@ -2,11 +2,9 @@
 layout: post
 title: "A simple guide to variant calling with BWA, samtools, VarScan2"
 description: ""
-category: 
+category: notebook 
 tags: []
 ---
-{% include JB/setup %}
-
 # Mapping and variant calling
  
 Just as soon as we have got on top of this outbreak, cases are being reported in France which are also of the same sequence type. By now, a reference genome for the German outbreak strain has been nearly completed and is available at reference_genomes/280_flxplus.fna

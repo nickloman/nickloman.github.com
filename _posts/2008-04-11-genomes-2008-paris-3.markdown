@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Genomes 2008, Paris #3'
+author:
+  display_name: Nick Loman
+  login: nick
+  email: n.j.loman@bham.ac.uk
+  url: http://xbase.bham.ac.uk
+author_login: nick
+author_email: n.j.loman@bham.ac.uk
+author_url: http://xbase.bham.ac.uk
+wordpress_id: 27
+wordpress_url: http://pathogenomics.bham.ac.uk/blog/?p=27
+date: '2008-04-11 11:38:20 +0100'
+date_gmt: '2008-04-11 10:38:20 +0100'
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p>Yesterday highlights included Julian Parkhill's highly anticipated reveal of how the <a href="http://www.sanger.ac.uk">Wellcome Trust Sanger Institute</a> are making use of the next-generation sequencing technology.</p>
+<p>His talk, entitled "<span class="texte12"><span class="texte121">Variation detection in highly monomorphic  bacteria using new sequencing technologies" demonstrated the use of 454 and Solexa sequencing on <em>Salmonella enterica </em>serovar Typhi. The use of the term "monomorphic" is well-justified, the 20 strains sequenced were virtually indistinguishable using standard typing techniques such as MLST. Fortunately, over 2000 SNPs were identified by sequencing, and much interesting information was demonstrated by a population structure diagram and whole genome tree. One interesting idea was the use of nurses with GPS machines recording the co-ordinates where each sample was taken. It is clear that these techniques will become more widespread as the next-generation sequencing machines become more available.<br />
+</span></span></p>
+<p><span class="texte12"><span class="texte121">Interestingly, the technique used was to sequence each strain with both 454 and Solexa technologies, and only using SNPs which agreed with both techniques. </span></span>Julian even admitted to finding a few small errors in the original <em>S. typhi</em> sequence through the use of this technique.</p>

@@ -2,10 +2,10 @@
 layout: post
 title: "Where can I get Oxford Nanopore MinION(tm) data from?"
 description: ""
-category: 
+category: notebook 
 tags: []
 ---
-{% include JB/setup %}
+
 
 We have released Oxford Nanopore MinION(tm) data for E. coli K-12 MG1655 with two chemistries (R7 and R7.3).
 

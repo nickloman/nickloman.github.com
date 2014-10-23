@@ -2,10 +2,10 @@
 layout: post
 title: "CF metagenomics literature review"
 description: ""
-category: 
+category: notebook 
 tags: []
 ---
-{% include JB/setup %}
+
 
 Folkesson et al, doi:10.1038/nrmicro2907
 

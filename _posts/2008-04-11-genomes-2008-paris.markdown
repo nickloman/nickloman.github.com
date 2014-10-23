@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: Genomes 2008, Paris
+author:
+  display_name: Nick Loman
+  login: nick
+  email: n.j.loman@bham.ac.uk
+  url: http://xbase.bham.ac.uk
+author_login: nick
+author_email: n.j.loman@bham.ac.uk
+author_url: http://xbase.bham.ac.uk
+wordpress_id: 25
+wordpress_url: http://pathogenomics.bham.ac.uk/blog/?p=25
+date: '2008-04-11 11:14:43 +0100'
+date_gmt: '2008-04-11 10:14:43 +0100'
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p>Greetings from the 'Genomes 2008' conference, this year being held at the <a href="http://www.pasteur.fr">Institut Pasteur</a>, Paris.</p>
+<p>The conference so far has had an interesting mix of talks, covering a wide range of bugs, from human and plant pathogens to insect endosymbionts, and even a talk on viral photosynthesis! Genomics has been covered in the forms of whole genome sequencing, with particular reference to next-generation platforms such as 454 and Solexa, plus metagenomics, comparative genomics, plus many talks on functional genomics.</p>
+<p>A highlight of the first day was Martin Glaser's talk on the interactions between<span style="font-style: italic"> Helicobacter pylori </span>and the human stomach. He presented some fascinating associations betweeen Helicobacter negative, and particularly <span style="font-style: italic">cag<span style="font-style: italic">A </span></span>negative popluations and the increasing incidence of non-cardia malignancies such as oesophageal cancer. He went on to suggest that the decreasing incidence of Helicobacter infection-- which he suggested was becoming extinct in the developed world-- may not all be good news. He presented an additional association with early-onset asthma with cag negative populations, which raised some interesting questions about the nature of the relationship between humans and Helicobacter, a relationship which has been going 50,000 years and might be coming to an end.</p>
+<p>Look out here for more posts on Genomes 2008.</p>
+<p>Today we are looking forward to seeing George Weinstock talk about the human metagenome project. Earlier, Julian Parkhill presented some interesting results on <em>Salmonella typhi</em> sequencing with next-generation sequencing technology.</p>
+<p>Today Mark Pallen, of xBASE will be talking on <em>E. coli</em> genomics and we will be announcing a new developing for the xBASE project entitled 'My xBASE', aimed at exploiting next-generation sequencing data in a fast and user-friendly manner.</p>

@@ -2,10 +2,10 @@
 layout: post
 title: "A few notes on 16S analysis"
 description: ""
-category: 
+category: notebook 
 tags: []
 ---
-{% include JB/setup %}
+
 
 *   You can use MEGAN to import TAB files exported by USEARCH, but only if you use USEARCH in local mode, as otherwise you don't get e-values which MEGAN doesn't like, e.g.:
 

@@ -2,10 +2,10 @@
 layout: post
 title: "Applications for my Mac"
 description: ""
-category: computing
+category: notebook computing
 tags: [mac]
 ---
-{% include JB/setup %}
+
 
 Thought I'd keep a track of apps for my Mac:
 

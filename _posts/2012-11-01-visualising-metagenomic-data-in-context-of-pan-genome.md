@@ -2,10 +2,10 @@
 layout: post
 title: "Visualising metagenomic data in context of pan genome"
 description: ""
-category: clinical-metagenomics
+category: notebook clinical-metagenomics
 tags: [pangenomes]
 ---
-{% include JB/setup %}
+
 
 Basic attempt at a heatmap seems to neatly reveal the pathogen "barcode", as well as possible mixtures:
 

@@ -2,10 +2,10 @@
 layout: post
 title: "Issues with Metaphlan analysis"
 description: ""
-category: 
+category: notebook 
 tags: []
 ---
-{% include JB/setup %}
+
 
 The basic problem is that you can get false taxonomic assignments to species-- when you then inpect the reads that resulted in that assignment and BLAST them back, they hit something different.
 

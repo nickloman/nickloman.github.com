@@ -2,10 +2,10 @@
 layout: post
 title: "Understanding insert size calculations from various software"
 description: ""
-category: 
+category: notebook 
 tags: []
 ---
-{% include JB/setup %}
+
 
 Debugging some weird insert size distributions on recent MiSeq / Nextera sequencing runs which don't seem to relate to the BioAnalyzer plots:
 
@@ -27,9 +27,7 @@ A quick test:
 
 ## Extract 10kb of E. coli for test reference sequence
 
-{% assign gist_id = '4118522' %}
-{% assign gist_file = 'aaa' %}
-{% include JB/gist %}
+{% gist 4118522 %}
 
 	rsync -av rsync://ftp.ncbi.nlm.nih.gov/genomes/Bacteria/Escherichia_coli_O157_H7_EDL933_uid57831/NC_002655.fna .
 	python extractseq.py NC_002655.fna 10000 > ecoli_10k.fa
@@ -40,9 +38,7 @@ A quick test:
 
 Just a little script to pull out perfect reads from the reference file, with defined distance apart:
 
-{% assign gist_id = '4118536' %}
-{% assign gist_file = 'aab' %}
-{% include JB/gist %}
+{% gist 4118536 %}
 
 	python extractpairs.py ecoli_10k.fa 500 100 1000 ec500
 	bwa bwasw ecoli_10k.fa ec500_1.fastq ec500_2.fastq

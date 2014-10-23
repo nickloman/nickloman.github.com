@@ -2,10 +2,10 @@
 layout: post
 title: "Workplan for STEC paper results generation"
 description: ""
-category: clinical-metagenomics
+category: notebook clinical-metagenomics
 tags: [stec]
 ---
-{% include JB/setup %}
+
 
 Have 46 samples from two HiSeq 2500 flowcells to analyse, with the aim of producing a bunch of publication-ready figures and tables over the next few days.
 

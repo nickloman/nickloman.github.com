@@ -1,0 +1,310 @@
+---
+layout: post
+status: publish
+published: true
+title: AGBT 2012 Day 1 Tweets
+author:
+  display_name: Nick Loman
+  login: nick
+  email: n.j.loman@bham.ac.uk
+  url: http://xbase.bham.ac.uk
+author_login: nick
+author_email: n.j.loman@bham.ac.uk
+author_url: http://xbase.bham.ac.uk
+wordpress_id: 986
+wordpress_url: http://pathogenomics.bham.ac.uk/blog/?p=986
+date: '2012-02-15 16:07:02 +0000'
+date_gmt: '2012-02-15 16:07:02 +0000'
+categories:
+- Genomics
+tags:
+- agbt
+comments:
+- id: 59815
+  author: AGBT 2012 Day 2 Tweets
+  author_email: ''
+  author_url: http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2012-day-2-tweets/
+  date: '2012-02-16 14:14:41 +0000'
+  date_gmt: '2012-02-16 14:14:41 +0000'
+  content: '[...] not much in the way of huge announcements yesterday at AGBT. The
+    biggest announcement was probably the information that Illumina are testing 400bp
+    single-end [...]'
+- id: 59819
+  author: AGBT 2012 Blog Post Round-up
+  author_email: ''
+  author_url: http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2012-blog-post-round-up/
+  date: '2012-02-17 09:57:39 +0000'
+  date_gmt: '2012-02-17 09:57:39 +0000'
+  content: '[...] AGBT 2012 day 1 tweets [...]'
+- id: 59823
+  author: AGBT 2013 Tweets Day 3
+  author_email: ''
+  author_url: http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2013-tweets-day-3/
+  date: '2012-02-17 10:52:19 +0000'
+  date_gmt: '2012-02-17 10:52:19 +0000'
+  content: '[...] (Day 1, Day 2, Day 3, Day 4) [...]'
+- id: 59825
+  author: AGBT 2012 Tweets Day 3
+  author_email: ''
+  author_url: http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2012-tweets-day-3/
+  date: '2012-02-17 10:57:54 +0000'
+  date_gmt: '2012-02-17 10:57:54 +0000'
+  content: '[...] (Day 1, Day 2, Day 3, Day 4) [...]'
+- id: 59850
+  author: AGBT 2012 Day 4 Tweets
+  author_email: ''
+  author_url: http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2012-day-4-tweets/
+  date: '2012-02-18 18:21:42 +0000'
+  date_gmt: '2012-02-18 18:21:42 +0000'
+  content: '[...] (Day 1, Day 2, Day 3, Day 4) [...]'
+---
+<p>AGBT day 1 tweets! (<a href="http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2012-day-2-tweets/">Day 2</a>, <a href="http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2013-tweets-day-3/">Day 3</a>, <a href="http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2012-day-4-tweets/">Day 4</a>)</p>
+<p>Great weather, beautiful beaches, palm trees, copious free alcohol ... why would you want to go to AGBT when you can keep track via Twitter? I've hooked up a little script to monitor all the #AGBT tweets so you can get all the goodness of the conference without the sun-burn, alligator bites, inappropriate liaisons etc.</p>
+<p>On the scientific agenda today:</p>
+<p>1:30-1:35 pm, Opening remarks, Ken Dewar, McGill University and Génome Québec Innovation Centre<br />
+1:35-2:05 pm, Next-Generation Sequencing Technologies and Resources, Mark Adams, J. Craig Venter Institute<br />
+2:10-2:30 pm  High Throughput Process Development in the Broad Institute Genome Sequencing Platform, Danielle Perrin, Broad Institute of MIT and Harvard<br />
+2:35-2:55 pm  Resequencing: Approaches & Challenges, Thomas Keane, The Wellcome Trust Sanger Institute<br />
+3:30-3:50 pm De Novo Assembly: From Single Cells to Metagenomes Matt Blow, Joint Genome Institute<br />
+3:55-4:15 pm Transcriptomics Shawn Levy, HudsonAlpha Institute for Biotechnology<br />
+4:20-4:40 pm Epigenomics Olivier Elemento, Weill Cornell Medical College<br />
+4:45-5:05 pm Sequencing as an Assay Lisa White, Baylor College of Medicine<br />
+5:10-5:30 pm Genotyping by Sequencing Eric Johnson, University of Oregon</p>
+<p>All times are local Florida. This page will update every couple of minutes (but you'll have to refresh the page).</p>
+<p><REPLACE></REPLACE><br />
+<strong>Most popular tweets</strong><br />
+(9) <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: JGI is using longer PacBio reads to close gaps in Illumina shorter read assemblies. Able to close 75% of gaps in microbial genomes. #AGBT<br />
+(8) <a href="https://twitter.com/#!/dgmacarthur">dgmacarthur</a>: Tweets from #AGBT are now streaming in. Be sure to also follow the hilarious snark-stream over at #notAGBT.<br />
+(8) <a href="https://twitter.com/#!/illumina">illumina</a>: Geoff Smith, Illumina UK: Longest perfect overlapping read so far on #MiSeq 678 bp! #AGBT<br />
+(7) <a href="https://twitter.com/#!/omespeak">omespeak</a>: Scaling up of next gen sequencing is producing so much data it's sarurating local power grids in rural UK! (Thomas Keane of Sanger) #AGBT<br />
+(7) <a href="https://twitter.com/#!/omespeak">omespeak</a>: Only three talks into #AGBT and already two of them underlining the sequencing data deluge.<br />
+(6) <a href="https://twitter.com/#!/zerojinx">zerojinx</a>: Lah de dah. Sequencing data deluge: Get over it. #AGBT<br />
+(4) <a href="https://twitter.com/#!/illumina">illumina</a>: HiSeq 2500 "Genome in a Day" data viewable in BaseSpace: <a rel="nofollow" href="http://t.co/ijERyA0X">http://t.co/ijERyA0X</a>  #AGBT<br />
+(4) <a href="https://twitter.com/#!/illumina">illumina</a>: 4 whole human genomes on 1 USB drive, w/family trio & Genome in a Day datasets gift to all at our User Group mtg #AGBT <a rel="nofollow" href="http://t.co/AubRVWjy">http://t.co/AubRVWjy</a><br />
+(3) <a href="https://twitter.com/#!/neilhall_uk">neilhall_uk</a>: Stop what you are doing at #AGBT nanopore has been superseded already  <a rel="nofollow" href="http://t.co/6WTuzBMC">http://t.co/6WTuzBMC</a><br />
+(3) <a href="https://twitter.com/#!/neilhall_uk">neilhall_uk</a>: #agbt follow #notAGBT if you want a chance to win a CrapBip ShtSeq.  <a rel="nofollow" href="http://t.co/6WTuzBMC">http://t.co/6WTuzBMC</a><br />
+(3) <a href="https://twitter.com/#!/BiotechMarketer">BiotechMarketer</a>: Strong start from @illumina on the social media front <a rel="nofollow" href="http://t.co/M8LpoJgt">http://t.co/M8LpoJgt</a> #AGBT Nice job!<br />
+(3) <a href="https://twitter.com/#!/illumina">illumina</a>: Danielle Perrin @broadinstitute : 51 HiSeq systems, only 6 staff needed to run them #AGBT<br />
+(3) <a href="https://twitter.com/#!/NJL_Broad">NJL_Broad</a>: Geoff Smith reporting on paired 400 base reads in R&D on MiSeq. #AGBT.<br />
+(3) <a href="https://twitter.com/#!/CrapBio">CrapBio</a>: #AGBT Don't go to Yoga at 7:15 in the Agilent suite. join CrapBIO for skinny dipping on the beach at 7am #notAGBT<br />
+(3) <a href="https://twitter.com/#!/assemblathon">assemblathon</a>: RT @illumina: HiSeq 2500 "Genome in a Day" data viewable in BaseSpace: <a rel="nofollow" href="http://t.co/wJ8zvZ99">http://t.co/wJ8zvZ99</a>  #AGBT<br />
+(3) <a href="https://twitter.com/#!/dgmacarthur">dgmacarthur</a>: ! RT @SEQanswers Confirmed that @Illumina is offering full trade in value for PGMs against MiSeq or HiSeq2500. #agbt<br />
+(2) <a href="https://twitter.com/#!/pathogenomenick">pathogenomenick</a>: I'm being organised this year and am logging the #AGBT tweets for posterity. Day 1 tweets here: <a rel="nofollow" href="http://t.co/DUTXJBqY">http://t.co/DUTXJBqY</a><br />
+(2) <a href="https://twitter.com/#!/iGenomics">iGenomics</a>: Abizar Lakdawalla's blog on #AGBT abstracts. 17% on sample prep, 15% on targeted seq  (exomes & amplicons) & 15% on informatics + others.<br />
+(2) <a href="https://twitter.com/#!/BiotechMarketer">BiotechMarketer</a>: #notAGBT is neck and neck with #AGBT (and beating the snot out of #AGBT2012)<br />
+(2) <a href="https://twitter.com/#!/lykkebak">lykkebak</a>: Mark Adams, #JCVI,  mentions #CLCbio as great software in his talk on NGS Technologies and Resources #AGBT2012 #AGBT <a rel="nofollow" href="http://t.co/aNhEUumt">http://t.co/aNhEUumt</a><br />
+(2) <a href="https://twitter.com/#!/illumina">illumina</a>: Danielle Perrin @broadinstitute : Hybrid selection, 15K whole exomes, ~3K whole genomes, and 12K custom pull-downs last year. #AGBT<br />
+(2) <a href="https://twitter.com/#!/neilhall_uk">neilhall_uk</a>: @illumina: @broadinstitute : 51 HiSeq systems, only 6 staff needed to run them #AGBT you can run 100 crapbio systems with 1 monkey.<br />
+(2) <a href="https://twitter.com/#!/omespeak">omespeak</a>: But 13 people for sample prep! RT @illumina Danielle Perrin @broadinstitute : 51 HiSeq systems, only 6 staff needed to run them #AGBT<br />
+(2) <a href="https://twitter.com/#!/omespeak">omespeak</a>: To explore function of unculturable microbes, JGI plans to sequence 300 novel bacterial genomes from single cells #AGBT<br />
+(2) <a href="https://twitter.com/#!/LIFECorporation">LIFECorporation</a>: Beach party at the Ion Bus!!!! <a rel="nofollow" href="http://t.co/lIgLhSTv">http://t.co/lIgLhSTv</a> #AGBT<br />
+(2) <a href="https://twitter.com/#!/BGI_Events">BGI_Events</a>: Following the interesting tweets coming from #AGBT (and the wild speculation about our investment in SHTseqtechnology from #notAGBT).<br />
+(1) <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: Win a free Ion PGM sequencer at AGBT! Collect Ion symbols at each Ion event, w/ four symbols you can register for PGM at Ion Lounge #agbt<br />
+(1) <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Tentative #AGBT tweetup: in hotel bar after Friday evening sessions. Look for me, @deannachurch, and @bffo.<br />
+(1) <a href="https://twitter.com/#!/DNAgame">DNAgame</a>: Beautiful day for DNA!!! #agbt <a rel="nofollow" href="http://t.co/9AKCYlwk">http://t.co/9AKCYlwk</a><br />
+(1) <a href="https://twitter.com/#!/StrandLife">StrandLife</a>: Everyone at #AGBT should chat with our friends at Agilent to get the scoop on the exciting new updates in GeneSpring 12 - Integrated Biology</p>
+<p><strong>10 - 11am EST</strong><br />
++12m <a href="https://twitter.com/#!/EpicentreBio">EpicentreBio</a>: Live blogging from #AGBT by @Illumina scientists: <a rel="nofollow" href="http://t.co/HQ4Akx61">http://t.co/HQ4Akx61</a><br />
++20m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Have just realized there is not yet a plan for #AGBT tweetup. Where and when, people? @deannachurch?<br />
++30m <a href="https://twitter.com/#!/stuka">stuka</a>: Yep, all PIs & other such people at #AGBT, time to just slack off and do nothing for the rest of the week<br />
++31m <a href="https://twitter.com/#!/chloe46037">chloe46037</a>: On the way to #AGBT, @girlscientist will have everything ready by the time I get there, right?... :)<br />
++32m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: @girlscientist maybe after Friday evening sessions? #tweetup #agbt<br />
++32m <a href="https://twitter.com/#!/vitcarey">vitcarey</a>: OpGen Demonstrates Whole Human Chromosome Mapping Capabilities at 2012 AGBT ...: ... for whole human chromosome ... <a rel="nofollow" href="http://t.co/juyO73hS">http://t.co/juyO73hS</a><br />
++35m <a href="https://twitter.com/#!/Verbal_SeduXion">Verbal_SeduXion</a>: @bongopondit FL? AGBT conf is it?<br />
++35m <a href="https://twitter.com/#!/notSoJunkDNA">notSoJunkDNA</a>: @girlscientist Isn't #agbt a giant tweetup in itself? You'd better make a workshop session for attendees who are not yet on Twitter.<br />
++42m <a href="https://twitter.com/#!/GloriaAnderson2">GloriaAnderson2</a>: OpGen Demonstrates Whole Human Chromosome Mapping Capabilities at 2012 AGBT ...: Structural variations in human ... <a rel="nofollow" href="http://t.co/asIMfKGw">http://t.co/asIMfKGw</a><br />
++48m <a href="https://twitter.com/#!/bongopondit">bongopondit</a>: @Verbal_SeduXion ah ok. If you want even more updates from agbt, will be tweeting stuff from my other a/c. Can send you link if interested..<br />
++51m <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: Win a free Ion PGM sequencer at AGBT! Collect Ion symbols at each Ion event, w/ four symbols you can register for PGM at Ion Lounge #agbt</p>
+<p><strong>11 - 12pm EST</strong><br />
++0m <a href="https://twitter.com/#!/fluidigm">fluidigm</a>: BYPASS library preparation? Learn more in Suite 285. #AGBT<br />
++3m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Tentative #AGBT tweetup: in hotel bar after Friday evening sessions. Look for me, @deannachurch, and @bffo.<br />
++7m <a href="https://twitter.com/#!/fluidigm">fluidigm</a>: Prepare yourself for #AGBT with one of these, stop by Suite 285 to get one.  <a rel="nofollow" href="http://t.co/iYXRh6XQ">http://t.co/iYXRh6XQ</a><br />
++8m <a href="https://twitter.com/#!/pathogenomenick">pathogenomenick</a>: I'm being organised this year and am logging the #AGBT tweets for posterity. Day 1 tweets here: <a rel="nofollow" href="http://t.co/DUTXJBqY">http://t.co/DUTXJBqY</a><br />
++14m <a href="https://twitter.com/#!/illumina">illumina</a>: Blog post by Abizar Lakdawalla on Anticipating #AGBT: <a rel="nofollow" href="http://t.co/py652hSN">http://t.co/py652hSN</a><br />
++26m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Hadn't evermore checked imo yet when got the first swag at #agbt<br />
++27m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Hadn't even checked imo yet when got the first swags from Illumina at #agbt<br />
++30m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: @pathogenomenick #AGBT view.  Weather sucks - can't you tell :) <a rel="nofollow" href="http://t.co/JZoQf7yL">http://t.co/JZoQf7yL</a><br />
++30m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: Are you at #AGBT? Dont forget to check out @AGXP during the poster session on 2/16 & 2/17! #WhereisAB<br />
++34m <a href="https://twitter.com/#!/BlueSEQ">BlueSEQ</a>: CrapBio, an exciting nth gen sequencing company from @neilhall_uk! <a rel="nofollow" href="http://t.co/qCeHZJwH">http://t.co/qCeHZJwH</a> (should we add this to <a rel="nofollow" href="http://t.co/nZzAM0nS">http://t.co/nZzAM0nS</a>?) #AGBT<br />
++37m <a href="https://twitter.com/#!/neilhall_uk">neilhall_uk</a>: Stop what you are doing at #AGBT nanopore has been superseded already  <a rel="nofollow" href="http://t.co/6WTuzBMC">http://t.co/6WTuzBMC</a><br />
++42m <a href="https://twitter.com/#!/RainDanceTech">RainDanceTech</a>: RDT customers showcase cancer research at #AGBT. More info @ <a rel="nofollow" href="http://t.co/FE3NlLQr">http://t.co/FE3NlLQr</a>. Also, visit Lanai #287 to see new ThunderStorm System.<br />
++46m <a href="https://twitter.com/#!/DNAgame">DNAgame</a>: Beautiful day for DNA!!! #agbt <a rel="nofollow" href="http://t.co/9AKCYlwk">http://t.co/9AKCYlwk</a><br />
++47m <a href="https://twitter.com/#!/neilhall_uk">neilhall_uk</a>: #agbt follow #notAGBT if you want a chance to win a CrapBip ShtSeq.  <a rel="nofollow" href="http://t.co/6WTuzBMC">http://t.co/6WTuzBMC</a><br />
++47m <a href="https://twitter.com/#!/BlueSEQ">BlueSEQ</a>: CrapBio, exciting nth gen seq from @neilhall_uk! <a rel="nofollow" href="http://t.co/43QqIwkd">http://t.co/43QqIwkd</a> (should we add this to <a rel="nofollow" href="http://t.co/nZzAM0nS">http://t.co/nZzAM0nS</a> ?) #AGBT<br />
++49m <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: It's nice to see #AGBT adopting a new open media policy, similar to our 'sharing is caring' from #CPHx last year. Let the tweeting begin! :)<br />
++55m <a href="https://twitter.com/#!/StrandLife">StrandLife</a>: Everyone at #AGBT should chat with our friends at Agilent to get the scoop on the exciting new updates in GeneSpring 12 - Integrated Biology<br />
++58m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Laughing on plane to #agbt at #notAGBT track. Nice.</p>
+<p><strong>12 - 1pm EST</strong><br />
++0m <a href="https://twitter.com/#!/fluidigm">fluidigm</a>: INCREASE the number of amplicons per sample by 10X. Learn more in Suite 285. #AGBT<br />
++5m <a href="https://twitter.com/#!/thinkgenome">thinkgenome</a>: OpGen Demonstrates Whole Human Chromosome Mapping Capabilities at 2012 AGBT ...: GAITHERSBURG, Md., Feb 15, 2012... <a rel="nofollow" href="http://t.co/ajyvlyXS">http://t.co/ajyvlyXS</a><br />
++7m <a href="https://twitter.com/#!/pathogenomenick">pathogenomenick</a>: woop de woop, #AGBT tweets streaming live (ish) to my blog now <a rel="nofollow" href="http://t.co/DUTXJBqY">http://t.co/DUTXJBqY</a><br />
++8m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: The Flight in blog from #AGBT: Marco Island Never Gets Old via @dgaalaas <a rel="nofollow" href="http://t.co/RBMg7ExE">http://t.co/RBMg7ExE</a><br />
++11m <a href="https://twitter.com/#!/dgaalaas">dgaalaas</a>: On a packed bus to #agbt. Feels like a combo of a TED conference and a Dead show. Miracle tix found at #notagbt.<br />
++13m <a href="https://twitter.com/#!/iGenomics">iGenomics</a>: Abizar Lakdawalla's blog on #AGBT abstracts. 17% on sample prep, 15% on targeted seq  (exomes & amplicons) & 15% on informatics + others.<br />
++18m <a href="https://twitter.com/#!/CLCbio">CLCbio</a>: Looking forward to this year's #AGBT and meeting with a lot of interesting people!<br />
++19m <a href="https://twitter.com/#!/daweonline">daweonline</a>: Awesome! @neilhall_uk: #agbt follow #notAGBT if you want a chance to win a CrapBip ShtSeq.  <a rel="nofollow" href="http://t.co/ojdO4Nvr">http://t.co/ojdO4Nvr</a><br />
++22m <a href="https://twitter.com/#!/BiotechMarketer">BiotechMarketer</a>: #notAGBT is neck and neck with #AGBT (and beating the snot out of #AGBT2012)<br />
++33m <a href="https://twitter.com/#!/Gavin_Oliver">Gavin_Oliver</a>: Under 800 people at #AGBT according to the attendee list.  Surely they could have let a few more in?<br />
++38m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: We have our first winner of our scratch off cards at #AGBT. James Han has won a $50 Amazon Gift Card! Congrats! #WhereisAB<br />
++38m <a href="https://twitter.com/#!/BioTeam">BioTeam</a>: MiniLIMS for Ion Torrent PGM Sequencer Launched - <a rel="nofollow" href="http://t.co/THSGMk2S">http://t.co/THSGMk2S</a> #AGBT<br />
++40m <a href="https://twitter.com/#!/dgaalaas">dgaalaas</a>: Nothing says #agbt like passing a Waffle House on the way in! <a rel="nofollow" href="http://t.co/V5XG6asZ">http://t.co/V5XG6asZ</a><br />
++56m <a href="https://twitter.com/#!/geneiam">geneiam</a>: Wish I was at #AGBT maybe next year. Dr. Peter Meintjes is there to answer all of your #Biomatters #Geneious questions! #genomics</p>
+<p><strong>1 - 2pm EST</strong><br />
++0m <a href="https://twitter.com/#!/fluidigm">fluidigm</a>: 480 AMPLICONS per sample for targeted resequencing? Learn more in Suite 285. #AGBT<br />
++14m <a href="https://twitter.com/#!/GenomeBiology">GenomeBiology</a>: Name badge on the beach or round pool, between or before sessions:uncool. #agbt<br />
++17m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: #AGBT on my way to opening remarks<br />
++24m <a href="https://twitter.com/#!/neilhall_uk">neilhall_uk</a>: CrapBio launch SHTstorm bench top sequencer <a rel="nofollow" href="http://t.co/6WTuzBMC">http://t.co/6WTuzBMC</a> #AGBT #notAGBT<br />
++29m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Off to the pre-conference workshop. And this is what we scientists are giving up in pursuit of knowledge <a rel="nofollow" href="http://t.co/YgcVzS7Q">http://t.co/YgcVzS7Q</a> #AGBT<br />
++31m <a href="https://twitter.com/#!/ShellPear14">ShellPear14</a>: Ready for AGBT Ion/QuantStudio simulcast<br />
++32m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: Just arrived at #AGBT, looking forward to a great week! #whereisAB<br />
++33m <a href="https://twitter.com/#!/UK_Biomek">UK_Biomek</a>: Heard #AGBT described as the 'Glastonbury' of scientific meetings. I hope the toilets are nicer!<br />
++41m <a href="https://twitter.com/#!/lykkebak">lykkebak</a>: #JCVI Mark Adams 'Drowning in NGS data'. First talk at #agbt #AGBT2012 <a rel="nofollow" href="http://t.co/LDd1Awh9">http://t.co/LDd1Awh9</a><br />
++45m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Mark Adams, JGVI - giving us an intro to NGS and WGS. #AGBT<br />
++51m <a href="https://twitter.com/#!/omespeak">omespeak</a>: "there is now a considerable nomenclature drift in nextgen sequencing...." Mark Adams of JCVI :) #AGBT<br />
++53m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Mark is reviewing Lam paper comparing Illumina and Complete Genomics WGS. says 88% concordance is pretty good. Will we ever see 100%. #AGBT</p>
+<p><strong>2 - 3pm EST</strong><br />
++0m <a href="https://twitter.com/#!/dwmohr">dwmohr</a>: #agbt full marketing mode<br />
++3m <a href="https://twitter.com/#!/lykkebak">lykkebak</a>: Mark Adams, #JCVI,  mentions #CLCbio as great software in his talk on NGS Technologies and Resources #AGBT2012 #AGBT <a rel="nofollow" href="http://t.co/aNhEUumt">http://t.co/aNhEUumt</a><br />
++11m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Danielle Perrin is discussing NGS workflow at Broad. #AGBT<br />
++18m <a href="https://twitter.com/#!/intrepidbio">intrepidbio</a>: MT "@djschlesinger: NGS equipment at the @broadinstitute. <a rel="nofollow" href="http://t.co/YivTMUKy">http://t.co/YivTMUKy</a>" Our system can handle NGS and SNP data. #AGBT<br />
++20m <a href="https://twitter.com/#!/illumina">illumina</a>: Danielle Perrin @broadinstitute : Hybrid selection, 15K whole exomes, ~3K whole genomes, and 12K custom pull-downs last year. #AGBT<br />
++21m <a href="https://twitter.com/#!/AppliedBio">AppliedBio</a>: And we are live from Marco Island at #AGBT. Keep the questions coming. <a rel="nofollow" href="http://t.co/3hQ3IknR">http://t.co/3hQ3IknR</a><br />
++21m <a href="https://twitter.com/#!/neilhall_uk">neilhall_uk</a>: @phylogenomics: Completely brilliant: A new sequencing technology enters the ring: SHTseq(TM)  <a rel="nofollow" href="http://t.co/wnsfWc6K">http://t.co/wnsfWc6K</a> #AGBT #notAGBT<br />
++27m <a href="https://twitter.com/#!/SicOnlineCoach">SicOnlineCoach</a>: OpGen Demonstrates Whole Human Chromosome Mapping Capabilities at 2012 AGBT ... <a rel="nofollow" href="http://t.co/mRso6FVf">http://t.co/mRso6FVf</a><br />
++27m <a href="https://twitter.com/#!/illumina">illumina</a>: Danielle Perrin @broadinstitute : 51 HiSeq systems, only 6 staff needed to run them #AGBT<br />
++28m <a href="https://twitter.com/#!/NJL_Broad">NJL_Broad</a>: Great talk by Danielle Perrin of @broadinstitute at #AGBT<br />
++30m <a href="https://twitter.com/#!/fluidigm">fluidigm</a>: MULTIPLEX up to 384 unique samples per sequencing run.  Learn more in Suite 285.  #AGBT<br />
++31m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Thomas Keane from Sanger discussing approaches and challenges of resequencing #AGBT<br />
++34m <a href="https://twitter.com/#!/caddymob">caddymob</a>: AGBT<br />
++35m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Keane says storage and computing power are the biggest challenge. Wasn't that the same story last year. Where are the solutions? #AGBT<br />
++36m <a href="https://twitter.com/#!/Symbionticism">Symbionticism</a>: #AGBT pic. Nice set up. <a rel="nofollow" href="http://t.co/GmwAKovY">http://t.co/GmwAKovY</a><br />
++37m <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: Ion Sequencing Seminar at AGBT Thurs, 5:20 pm, Hilton : Sean Grimmond, Marilyn Li, Tim Triche, Niall Lennon and Jonathan Rothberg #agbt<br />
++37m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Scaling up of next gen sequencing is producing so much data it's sarurating local power grids in rural UK! (Thomas Keane of Sanger) #AGBT<br />
++37m <a href="https://twitter.com/#!/neilhall_uk">neilhall_uk</a>: @illumina: @broadinstitute : 51 HiSeq systems, only 6 staff needed to run them #AGBT you can run 100 crapbio systems with 1 monkey.<br />
++40m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Only three talks into #AGBT and already two of them underlining the sequencing data deluge.<br />
++42m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Keane says 10 bytes of storage per bp, adds up to 200 terabytes by end of year. #AGBT<br />
++43m <a href="https://twitter.com/#!/GenomeBiology">GenomeBiology</a>: Uk10k project, uses 10bytes data per bp (Thomas Keane) #agbt<br />
++49m <a href="https://twitter.com/#!/nygenome">nygenome</a>: Just in time for AGBT, our new website is live! Check us out at <a rel="nofollow" href="http://t.co/RvU3J2xy">http://t.co/RvU3J2xy</a>, and let us know what you... <a rel="nofollow" href="http://t.co/bKmZrjor">http://t.co/bKmZrjor</a><br />
++50m <a href="https://twitter.com/#!/nygenome">nygenome</a>: NYGC just arrived in Marco Island for AGBT 2012. If you are here, we'd love to meet you. Check out our online... <a rel="nofollow" href="http://t.co/MtinC6Xt">http://t.co/MtinC6Xt</a><br />
++51m <a href="https://twitter.com/#!/AppliedBio">AppliedBio</a>: @iontorrent Sequencing on the beach... Nice! #IonBus #AGBT<br />
++52m <a href="https://twitter.com/#!/nygenome">nygenome</a>: Just in time for AGBT, our new website is live! Check us out at <a rel="nofollow" href="http://t.co/RvU3J2xy">http://t.co/RvU3J2xy</a>, and let us know what you think.<br />
++54m <a href="https://twitter.com/#!/omespeak">omespeak</a>: First mention of fast (one day) high-depth genome data: from Illumina HiSeq 2500 (Thomas Keane outlining future challenges of data) #AGBT<br />
++54m <a href="https://twitter.com/#!/nygenome">nygenome</a>: Speaking of AGBT, NYGC just arrived in Marco Island. Drop by our suite! Our presentation schedule is online: <a rel="nofollow" href="http://t.co/95pn6py8">http://t.co/95pn6py8</a><br />
++54m <a href="https://twitter.com/#!/steinpal">steinpal</a>: If you wanna know just how nerdy biotech can be, search #notAGBT. #AGBT<br />
++57m <a href="https://twitter.com/#!/EmilyGreger">EmilyGreger</a>: TRADE NEWS: Agilent Technologies Extends Target-Enrichment Platform to Desktop ...: (BUSINESS WIRE)--(AGBT)--Agi... <a rel="nofollow" href="http://t.co/xSDZjqIs">http://t.co/xSDZjqIs</a></p>
+<p><strong>3 - 4pm EST</strong><br />
++10m <a href="https://twitter.com/#!/maitrehipster">maitrehipster</a>: Why cost of sequencing is not a real metric @djschlesinger: Keane says storage-computing biggest challenge. Same story as last year. #AGBT<br />
++14m <a href="https://twitter.com/#!/illumina">illumina</a>: Thomas Keane @sangerinstitute :UK10k, 4k WG, 600 exomes, 2K twins. 100 Tbp total, 40 Tbp from BGI. Complete by first half 2012!  #AGBT<br />
++29m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Matthew Blow from JGI up next to talk about De Novo assembly, #AGBT<br />
++44m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Matt is now talking about microbial metagenomes using single cell sequencing. Very neat. #AGBT<br />
++45m <a href="https://twitter.com/#!/illumina">illumina</a>: Keane @sangerinstitute : #NGS storage challenges, expect 2K Tb sequence in 2012. New file formats needed - CRAM. #AGBT<br />
++48m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Joint Genome Institute (JGI) plans to sequence 300 novel single cell bacterial genomes to explore function of unculturable microbes. #AGBT<br />
++48m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: JGI has sequenced the genomes of 20 "unculturable" microbes. I wish I had this technology in grad school! #AGBT<br />
++49m <a href="https://twitter.com/#!/bongopondit">bongopondit</a>: To explore function of unculturable microbes, JGI plans to sequence 300 novel bacterial genomes from single cells  #AGBT<br />
++50m <a href="https://twitter.com/#!/Personal_RX_WI">Personal_RX_WI</a>: #agbt 3 hours in. JGI using PacBio  to fill gaps in genome assemblies. MCW to do the same.<br />
++50m <a href="https://twitter.com/#!/omespeak">omespeak</a>: To explore function of unculturable microbes, JGI plans to sequence 300 novel bacterial genomes from single cells #AGBT<br />
++54m <a href="https://twitter.com/#!/Symbionticism">Symbionticism</a>: #AGBT Matt Blow from jgi shows that pacbio + Illumina improves assemblies vs just illumina, but did not show pacbio data alone as control.<br />
++55m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Thank you to @pathogenomenick for already logging the #AGBT tweets! <a rel="nofollow" href="http://t.co/lFfSXrxJ">http://t.co/lFfSXrxJ</a><br />
++56m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Shawn Levy from Hudson/Alpha inst. for Biotech up next to talk about transcriptomics #AGBT<br />
++56m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: @NuGENInc also has chocolate covered strawberries for #AGBT In the Sanibel Suite.  Come on by.<br />
++57m <a href="https://twitter.com/#!/illumina">illumina</a>: Matt Blow @doe_jgi ~1,150 microb, ~78 fungi, ~5 plant, 483 metagenomes & 300 single cell microbes to be seq'd in 2012. #AGBT<br />
++59m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: @NuGENInc Chocolate covered strawberries for #AGBT. Come by Sanibel Suite to get yours <a rel="nofollow" href="http://t.co/M5VUU1wj">http://t.co/M5VUU1wj</a></p>
+<p><strong>4 - 5pm EST</strong><br />
++0m <a href="https://twitter.com/#!/fluidigm">fluidigm</a>: ANALYZE large sample sets across focused genomic regions. Learn more in Suite 285. #AGBT<br />
++1m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Finally a speaker who has his own Tweeter feed, Shaw Levy (@genomicslab) from @hudsonalpha. #AGBT<br />
++3m <a href="https://twitter.com/#!/UK_Biomek">UK_Biomek</a>: If you are at #AGBT then feel free to say hello to our colleagues from BC Genomics. There to answer all your SPRIworks questions!<br />
++4m <a href="https://twitter.com/#!/zerojinx">zerojinx</a>: Lah de dah. Sequencing data deluge: Get over it. #AGBT<br />
++7m <a href="https://twitter.com/#!/CompleteGenomic">CompleteGenomic</a>: Attending #AGBT? Visit us in the Complete Suite (Everglades Room) for customer presentations, demos & interactive tech talks.<br />
++7m <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: informal yoga session tonight @5-6PM on the Palms Lawn in front of the Palms Terrace on the N. side of the Marriott. #AGBT<br />
++11m <a href="https://twitter.com/#!/bioinfosm">bioinfosm</a>: #agbt or #notAGBT : it's about sweet or sour grapes :p<br />
++11m <a href="https://twitter.com/#!/Symbionticism">Symbionticism</a>: #AGBT Shawn Levy at hudson alpha talks about transcriptomics work with Vanderbilt's Andy Link. Cool.<br />
++14m <a href="https://twitter.com/#!/nabsys">nabsys</a>: Come see our posters at #AGBT: 36, 265, and 352.<br />
++15m <a href="https://twitter.com/#!/Symbionticism">Symbionticism</a>: #AGBT  Shawn Levy asks do u really want single cell rna data? Much more variability. Bulk data gives better consistency. Still need reps.<br />
++15m <a href="https://twitter.com/#!/CocoaTresbelle">CocoaTresbelle</a>: TRADE NEWS: Agilent Technologies Extends Target-Enrichment Platform to Desktop ...: (BUSINESS WIRE)--(AGBT)--Agi... <a rel="nofollow" href="http://t.co/Iroo19UF">http://t.co/Iroo19UF</a><br />
++17m <a href="https://twitter.com/#!/neilhall_uk">neilhall_uk</a>: @bioinfosm: #agbt or #notAGBT : it's about sweet or sour grapes :p SOUR GRAPES! ours is a better meeting. without the hype!<br />
++19m <a href="https://twitter.com/#!/illumina">illumina</a>: For all your #AGBT news, tweets & events, check out Live at AGBT, featuring real scientists & real commentary: <a rel="nofollow" href="http://t.co/py652hSN">http://t.co/py652hSN</a><br />
++22m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Olivier Elemento from Weill Cornell Medical College discussing Epigenomics #AGBT<br />
++43m <a href="https://twitter.com/#!/GenomeBiology">GenomeBiology</a>: Olivier Elemento discusses HiC viewer #agbt<br />
++43m <a href="https://twitter.com/#!/dbetel">dbetel</a>: Excellent epigenomics tour de force from @ElementoLab at #AGBT.<br />
++44m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: "Sequencing as an Assay", Lisa White from Baylor up next. #AGBT<br />
++53m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: White says that doctors only care about tests that are clinically actionable. #AGBT - how is exome or WGS clinically actionable?<br />
++57m <a href="https://twitter.com/#!/mendelspod">mendelspod</a>: Positional Sequencing: Barrett Bready of @NABsys | <a rel="nofollow" href="http://t.co/AA6jwSZt">http://t.co/AA6jwSZt</a> <a rel="nofollow" href="http://t.co/bULjboGB">http://t.co/bULjboGB</a> #AGBT</p>
+<p><strong>5 - 6pm EST</strong><br />
++1m <a href="https://twitter.com/#!/mendelspod">mendelspod</a>: Sequencing: An Overview with Shawn Baker, @BlueSEQ | <a rel="nofollow" href="http://t.co/AA6jwSZt">http://t.co/AA6jwSZt</a> <a rel="nofollow" href="http://t.co/bULjboGB">http://t.co/bULjboGB</a> #AGBT<br />
++1m <a href="https://twitter.com/#!/froggleston">froggleston</a>: Good afternoon session on experiences with PacBio data. Enjoyed application of GATK for variation discovery. More #agbt action imminent.<br />
++6m <a href="https://twitter.com/#!/KamounLab">KamounLab</a>: @neilhall_uk @bioinfosm Forget about #agbt #notAGBT conference to follow is #LGD2012 Lausanne Genomics Days 2012 <a rel="nofollow" href="http://t.co/zFitLSBu">http://t.co/zFitLSBu</a><br />
++6m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: White gave an example of a clinical exome test result: 1000+ variants that need review #AGBT - how long does that take?<br />
++9m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT LW: it takes 6-7 months to get an operational CLIA lab ... having  to  CLIA compliance officer in house key<br />
++10m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Eric Johnson from the Univ. of Oregon up next to talk about "Genotyping by Sequencing" #AGBT<br />
++11m <a href="https://twitter.com/#!/Personal_RX_WI">Personal_RX_WI</a>: #agbt  Very interesting talk from Lisa White from Baylor. Sequencing in CLIA environment.<br />
++13m <a href="https://twitter.com/#!/NJL_Broad">NJL_Broad</a>: So far I've seen PacBio room keys, and Ion torrent coffee cup sleeves #AGBT #productplacement<br />
++13m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Eric Johnson: genotyping by sequencing<br />
++15m <a href="https://twitter.com/#!/neilhall_uk">neilhall_uk</a>: CrapBio early access customers @jgskenny @Christi_Fowler  at #AGBT  see them to find out about our technology <a rel="nofollow" href="http://t.co/MH080gUt">http://t.co/MH080gUt</a> #notAGBT<br />
++16m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT EJ talking about his RAD protocol<br />
++17m <a href="https://twitter.com/#!/illumina">illumina</a>: Interesting talk from Lisa White about #NGS in CLIA lab. A complex circle from patient sample back to patient destiny #AGBT<br />
++19m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Eric Johnson UofO GBS=geno by seq DNA quality&quantity, mutiplexity, NGS error rates & under-sampling.  All contribute to errors w/GBS #AGBT<br />
++20m <a href="https://twitter.com/#!/TheRealDrT">TheRealDrT</a>: To everyone who is attending #AGBT, be sure to stop by @nygenome!  #nygenome <a rel="nofollow" href="http://t.co/zL9cXfGE">http://t.co/zL9cXfGE</a><br />
++20m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT used RAD to identify mutations in C elegans<br />
++20m <a href="https://twitter.com/#!/BioTeam">BioTeam</a>: @nygenome reception at 5:30 in suite 183 #AGBT<br />
++21m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT EJ: C elegans study was to map genotype to phenotype in large collection of segregants<br />
++22m <a href="https://twitter.com/#!/GloriaAnderson2">GloriaAnderson2</a>: OpGen Demonstrates Whole Human Chromosome Mapping Capabilities at 2012 AGBT ...: Structuralvariations in human c... <a rel="nofollow" href="http://t.co/mKq4J3DP">http://t.co/mKq4J3DP</a><br />
++23m <a href="https://twitter.com/#!/illumina">illumina</a>: Eric Johnson, Univ Oregon: Reproducibly sequencing subset of the genome IDs novel changes. Reduced cost, but lower throughput. #AGBT<br />
++23m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT EJ: in fish RAD could interrogate 8406 markers<br />
++23m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT EJ: few in gene regions though<br />
++24m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT EJ: did local assembly of RAD fragments -&gt; contigs<br />
++24m <a href="https://twitter.com/#!/notSoJunkDNA">notSoJunkDNA</a>: Very cool High School student summer project! <a rel="nofollow" href="http://t.co/ZmnCeOsN">http://t.co/ZmnCeOsN</a> @GenomeBiology: Olivier Elemento discusses HiC viewer #agbt<br />
++24m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT EJ: 729bp average size of contigs<br />
++25m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT EJ: fish is a teleost btw<br />
++26m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT EJ:  some contigs identified genes in this non sequenced genome<br />
++27m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT EJ: stickeback application: find genetic signature of adaptation to lakes<br />
++28m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT EJ: can interrogate genetic basis of complex phenotypes like predation<br />
++29m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT EJ: his local assembly approach can work on repeat regions<br />
++29m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT EJ: RAD combines nicely with RNA-seq for exotic genomes<br />
++30m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT EJ: work is published, can check it out, open to collaboration (exotic genome anybody?)<br />
++31m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT final session remarks by Ken Dewar ... last year was small room, this year 100+ people attended tutorial session<br />
++37m <a href="https://twitter.com/#!/maitrehipster">maitrehipster</a>: @djschlesinger: White gave an example of a clinical exome test result: 1000+ variants that need review #AGBT - how long does that take?<br />
++39m <a href="https://twitter.com/#!/maitrehipster">maitrehipster</a>: More crap from sweatshops... @NJL_Broad: So far I've seen PacBio room keys, and Ion torrent coffee cup sleeves #AGBT #productplacement<br />
++45m <a href="https://twitter.com/#!/ING_SYS">ING_SYS</a>: @maitrehipster @djschlesinger -it takes just minutes to ID relevant variants from thousands.   Stop by Lanai 179 right now for a demo #AGBT<br />
++46m <a href="https://twitter.com/#!/ING_SYS">ING_SYS</a>: @maitrehipster @djschlesinger - we also have beer and wine in Lanai 179 #AGBT<br />
++55m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Jay Flatley making some bold (and valid) comments about Life and their marketing tactics. #AGBT</p>
+<p><strong>6 - 7pm EST</strong><br />
++4m <a href="https://twitter.com/#!/illumina">illumina</a>: Jay Flatley: Broad Institute now in the Illumina Genome Network, enables FFPE and low input samples. #AGBT<br />
++8m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Off to see the #IonBus. #AGBT<br />
++9m <a href="https://twitter.com/#!/illumina">illumina</a>: Full house at the Illumina User Group Meeting!  #AGBT <a rel="nofollow" href="http://t.co/bDMEEy7n">http://t.co/bDMEEy7n</a><br />
++9m <a href="https://twitter.com/#!/dgmacarthur">dgmacarthur</a>: Tweets from #AGBT are now streaming in. Be sure to also follow the hilarious snark-stream over at #notAGBT.<br />
++12m <a href="https://twitter.com/#!/vitcarey">vitcarey</a>: OpGen Demonstrates Whole Human Chromosome Mapping Capabilities at 2012 AGBT ...: This novelapplication will allo... <a rel="nofollow" href="http://t.co/S7GHJpKd">http://t.co/S7GHJpKd</a><br />
++13m <a href="https://twitter.com/#!/mishimahryk">mishimahryk</a>: #AGBT#notAGBTw<br />
++16m <a href="https://twitter.com/#!/CrapBio">CrapBio</a>: #AGBT Don't go to Yoga at 7:15 in the Agilent suite. join CrapBIO for skinny dipping on the beach at 7am #notAGBT<br />
++38m <a href="https://twitter.com/#!/schnablep">schnablep</a>: At #AGBT meeting on Marco Island.  Here's the agenda: <a rel="nofollow" href="http://t.co/1K2yOKse">http://t.co/1K2yOKse</a><br />
++42m <a href="https://twitter.com/#!/illumina">illumina</a>: HiSeq 2500 "Genome in a Day" data viewable in BaseSpace: <a rel="nofollow" href="http://t.co/ijERyA0X">http://t.co/ijERyA0X</a>  #AGBT<br />
++44m <a href="https://twitter.com/#!/bio_insilico">bio_insilico</a>: OpGen Demonstrates Whole Human Chromosome Mapping Capabilities at 2012 AGBT ... - Business Wi... <a rel="nofollow" href="http://t.co/UzImdKkD">http://t.co/UzImdKkD</a> #biotech #genomics<br />
++45m <a href="https://twitter.com/#!/Personal_RX_WI">Personal_RX_WI</a>: #agbt  Penn State using MiSeq to genotype by sequencing polar bears. Very cool.<br />
++46m <a href="https://twitter.com/#!/illumina">illumina</a>: Geoff Smith, Illumina UK: Longest perfect overlapping read so far on #MiSeq 678 bp! #AGBT<br />
++54m <a href="https://twitter.com/#!/illumina">illumina</a>: 4 whole human genomes on 1 USB drive, w/family trio & Genome in a Day datasets gift to all at our User Group mtg #AGBT <a rel="nofollow" href="http://t.co/AubRVWjy">http://t.co/AubRVWjy</a></p>
+<p><strong>7 - 8pm EST</strong><br />
++1m <a href="https://twitter.com/#!/neilhall_uk">neilhall_uk</a>: @jennifergardy there is still time for a keynote keynote at the #notAGBT meeting which is more prestigious than  #AGBT<br />
++9m <a href="https://twitter.com/#!/drnaveedaziz">drnaveedaziz</a>: #AGBT<br />
++19m <a href="https://twitter.com/#!/sclancyphd">sclancyphd</a>: #Genome #Sequencing on beach @Marco Island, Fla #AGBT. Sea life from #Gulf aboard #Ion Torrent bus from @LifeCorp. <a rel="nofollow" href="http://t.co/5ZMJZMjL">http://t.co/5ZMJZMjL</a><br />
++57m <a href="https://twitter.com/#!/agxp">agxp</a>: Join us tomorrow at @AGBT poster 170 at 1:10 pm EST for a cup of coffee, and to learn about the Archon Genomics X PRIZE.<br />
++57m <a href="https://twitter.com/#!/Symbionticism">Symbionticism</a>: #AGBT pic. Evening reception is very nice. Agilent sponsored. Can u hear the acoustic guitar players too? <a rel="nofollow" href="http://t.co/FSykf36l">http://t.co/FSykf36l</a></p>
+<p><strong>8 - 9pm EST</strong><br />
++17m <a href="https://twitter.com/#!/NorthernAutumn">NorthernAutumn</a>: Warm evening with lights and music #AGBT <a rel="nofollow" href="http://t.co/NiuqWPfn">http://t.co/NiuqWPfn</a><br />
++24m <a href="https://twitter.com/#!/ofedrigo">ofedrigo</a>: AGBT: Not sure if MiSeq kicks ass or if Illumina speakers are better than Ion Torrent speakers...<br />
++27m <a href="https://twitter.com/#!/jgreid">jgreid</a>: At AGBT visiting the Ion bus <a rel="nofollow" href="http://t.co/ek9EvjLV">http://t.co/ek9EvjLV</a><br />
++55m <a href="https://twitter.com/#!/BGI_Events">BGI_Events</a>: Following the interesting tweets coming from #AGBT (and the wild speculation about our investment in SHTseqtechnology from #notAGBT).</p>
+<p><strong>9 - 10pm EST</strong><br />
++43m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: On the beach looking at the stars with a margarita. Working hard for science. #AGBT</p>
+<p><strong>10 - 11pm EST</strong><br />
++10m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: Don't forget to check out Views From Edge Blog: #AGBT  Marco Island Never Gets Old via @dgaalaas <a rel="nofollow" href="http://t.co/l6gZE3J1">http://t.co/l6gZE3J1</a><br />
++28m <a href="https://twitter.com/#!/froggleston">froggleston</a>: Future is sequence data piped directly into a proprietary cloud. Not convinced. Musing this over a peculiarly named 'Cigar City' beer #agbt<br />
++30m <a href="https://twitter.com/#!/SEQanswers">SEQanswers</a>: Was hoping for real snark, lets hope not four more days of bad #SHTseq puns. #notAGBT #AGBT #pooisfunny<br />
++35m <a href="https://twitter.com/#!/SEQanswers">SEQanswers</a>: Question of the conference: workflow for desktop sequencers. #AGBT<br />
++40m <a href="https://twitter.com/#!/spiremk">spiremk</a>: @SEQanswers as in simplified or standardized? Pls elaborate #AGBT<br />
++45m <a href="https://twitter.com/#!/SEQanswers">SEQanswers</a>: Open this system, please. #drool @illumina: Geoff Smith, Illumina UK: Longest perfect overlapping read so far on #MiSeq 678 bp! #AGBT<br />
++57m <a href="https://twitter.com/#!/drio">drio</a>: if any of my followers is at #AGBT let me know so we can hang out. cheers.</p>
+<p><strong>11 - 12pm EST</strong><br />
++25m <a href="https://twitter.com/#!/PacBio">PacBio</a>: @Tao_zt Yes, we will post some on our website (after AGBT) - those where we get permission<br />
++30m <a href="https://twitter.com/#!/PacBio">PacBio</a>: At #AGBT ? RSVP for Thurs 2/16 Dinner & Panel discussion led by Eric Schadt on fighting infectious disease in year 2030 <a rel="nofollow" href="http://t.co/hS3WJP40">http://t.co/hS3WJP40</a><br />
++32m <a href="https://twitter.com/#!/PacBio">PacBio</a>: #AGBT RSVP to 2/16 Dinner & Panel Talk with Marc Allard (FDA), Adam Phillippy(Battelle), Matt Waldor (Harvard), Eric Schadt (PACB/Mt. Sinai)<br />
++1m <a href="https://twitter.com/#!/apfejes">apfejes</a>: I miss #agbt...  Hope everyone is having a great time - and thanks to all who are attending for the great tweets!<br />
++1m <a href="https://twitter.com/#!/druvus">druvus</a>: Catching up by reading the first day tweets #AGBT</p>

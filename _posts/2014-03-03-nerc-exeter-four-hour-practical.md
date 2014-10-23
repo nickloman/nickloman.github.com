@@ -2,10 +2,10 @@
 layout: post
 title: "NERC Exeter: Metagenomics three hour practical"
 description: ""
-category: 
+category: notebook 
 tags: []
 ---
-{% include JB/setup %}
+
 
 ##Whole-genome shotgun metagenomics learning objectives
 

@@ -2,10 +2,10 @@
 layout: post
 title: "BIOM25: MEGAN analysis of metagenomes"
 description: ""
-category: 
+category: notebook 
 tags: []
 ---
-{% include JB/setup %}
+
 
 ##Whole-genome shotgun metagenomics learning objectives
 

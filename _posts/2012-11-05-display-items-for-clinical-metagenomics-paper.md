@@ -2,10 +2,10 @@
 layout: post
 title: "Display items for clinical metagenomics paper"
 description: ""
-category: 
+category: notebook 
 tags: []
 ---
-{% include JB/setup %}
+
 
 1.	Figure: Stx2 coverage plots per positive sample, panelled with coverage barplots and/or ratios (DONE)
 2.	Figure: For each texture/CFU as facets, plot E. coli / Bacteroides / Firmicutes % on a per sample basis

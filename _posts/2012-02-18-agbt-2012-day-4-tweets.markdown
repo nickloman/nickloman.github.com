@@ -1,0 +1,460 @@
+---
+layout: post
+status: publish
+published: true
+title: AGBT 2012 Day 4 Tweets
+author:
+  display_name: Nick Loman
+  login: nick
+  email: n.j.loman@bham.ac.uk
+  url: http://xbase.bham.ac.uk
+author_login: nick
+author_email: n.j.loman@bham.ac.uk
+author_url: http://xbase.bham.ac.uk
+wordpress_id: 1135
+wordpress_url: http://pathogenomics.bham.ac.uk/blog/?p=1135
+date: '2012-02-18 10:25:49 +0000'
+date_gmt: '2012-02-18 10:25:49 +0000'
+categories:
+- Genomics
+tags:
+- agbt
+comments:
+- id: 59848
+  author: AGBT 2012 Tweets Day 3
+  author_email: ''
+  author_url: http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2012-tweets-day-3/
+  date: '2012-02-18 18:19:43 +0000'
+  date_gmt: '2012-02-18 18:19:43 +0000'
+  content: '[...] (Day 1, Day 2, Day 3, Day 4) [...]'
+- id: 59849
+  author: AGBT 2012 Day 2 Tweets
+  author_email: ''
+  author_url: http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2012-day-2-tweets/
+  date: '2012-02-18 18:20:41 +0000'
+  date_gmt: '2012-02-18 18:20:41 +0000'
+  content: '[...] (Day 1, Day 2, Day 3, Day 4) [...]'
+- id: 59851
+  author: AGBT 2012 Day 1 Tweets
+  author_email: ''
+  author_url: http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2012-day-1-tweets/
+  date: '2012-02-18 18:25:44 +0000'
+  date_gmt: '2012-02-18 18:25:44 +0000'
+  content: '[...] AGBT day 1 tweets! (Day 2, Day 3, Day 4) [...]'
+- id: 59880
+  author: AGBT 2012 Blog Post Round-up
+  author_email: ''
+  author_url: http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2012-blog-post-round-up/
+  date: '2012-03-21 18:09:10 +0000'
+  date_gmt: '2012-03-21 18:09:10 +0000'
+  content: '[...] AGBT 2012 day 4 tweets [...]'
+---
+<p>(<a href="http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2012-day-1-tweets/">Day 1</a>, <a href="http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2012-day-2-tweets/">Day 2</a>, <a href="http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2013-tweets-day-3/">Day 3</a>, Day 4)</p>
+<p>Well, yesterday's <a href="http://pathogenomics.bham.ac.uk/blog/2012/02/oxford-nanopore-megaton-announcement-why-do-you-need-a-machine-exclusive-interview-for-this-blog/">megaton announcement from Oxford Nanopore</a> certainly made up for what had been a slightly subdued AGBT 2012, at least in the way of new technology. I'd definitely recommend checking out this <a href="http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2012-blog-post-round-up/">list of excellent blog posts</a> covering the scientific sessions, which I will continue to update for the next few days. And so here are the day 4 tweets, streaming live into the blog. Refresh to see updates.</p>
+<p>Scientific agenda</p>
+<p>Plenary Session: Genomic Studies II (Deanna Church, NCBI, Chair)</p>
+<p>9:00-9:35 am Keynote Speaker: Michel Georges, University of Liege<br />
+9:35-10:05 am Jesse Gray, Harvard Medical School, “An RNA-Seq Snapshot Reveals Genome-Wide, in vivo mRNA Dynamics From Unperturbed Cells at Steady-State”<br />
+10:05-10:35 am Patrick Schnable, Iowa State University, “Gene Loss During a Domestication Bottleneck: Identification, Characterization and Genetic Mapping of Teosinte Genes That are Absent From the Maize Genome”<br />
+11:10-11:40 am Emily Hodges, Howard Hughes Medical Institute & Cold Spring Harbor Laboratory, “Directional Changes and Poised DNA Methylation Characterize Epigenetic Patterns That Underlie Lineage Identity of Human Blood Cell Methylomes”<br />
+11:40 am-12:10 pm James Galagan, Boston University, “Discovering the Regulatory Network of TB: Dissecting the Regulation of the Hypoxic Response”</p>
+<p>Plenary Session: Genomic Studies III (Elaine Mardis, Washington University School of Medicine, Chair)</p>
+<p>2:30-3:00 pm Vivian Cheung, University of Pennsylvania, “RNA and DNA Sequence Differences in the Human Genome”<br />
+3:00-3:30 pm Lior Pachter, University of California, Berkeley, “Streaming Algorithms for Analyzing and Maintaining RNA-Seq Data”<br />
+3:30-4:00 pm Gerald Tuskan, Oak Ridge National Laboratory “Integrating Population-Scale Resequencing and Shotgun Proteomics Within the Populus Common Garden Experiment”<br />
+4:00-4:30 pm Steve Benner, Foundation for Applied Molecular Evolution, “Reagent Innovations for Sensitive, Clean, and Highly Multiplexed Analysis of DNA”</p>
+<p><REPLACE></REPLACE><br />
+<strong>Most popular tweets</strong><br />
+(10) <a href="https://twitter.com/#!/pathogenomenick">pathogenomenick</a>: I think wordles are often a bit lame, but this one from #AGBT tells a good story <a rel="nofollow" href="http://t.co/6gGV6Bbs">http://t.co/6gGV6Bbs</a><br />
+(10) <a href="https://twitter.com/#!/mbeisen">mbeisen</a>: b/c nobody knows about overhyped and not ready for prime time sequencing tech like jonathan rothberg <a rel="nofollow" href="http://t.co/boqzG4uv">http://t.co/boqzG4uv</a> #AGBT @nanopore<br />
+(9) <a href="https://twitter.com/#!/bioitworld">bioitworld</a>: A bit harsh! Ion Torrent's Jonathan Rothberg compares @nanopore technology to cold fusion! #AGBT #nanopore Forbes  <a rel="nofollow" href="http://t.co/HCcEgmIk">http://t.co/HCcEgmIk</a><br />
+(8) <a href="https://twitter.com/#!/omespeak">omespeak</a>: As expected, the New York Times picks up on the Oxford Nanopore story: <a rel="nofollow" href="http://t.co/FFOo7EdS">http://t.co/FFOo7EdS</a> #AGBT<br />
+(8) <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: In case you have been under a rock, Cheung's lab found much larger than expected numbers of sequence diff's bn RNA/DNA of same person. #AGBT<br />
+(7) <a href="https://twitter.com/#!/bffo">bffo</a>: Jesse Gray: next: "after yesterday's talk, you may be disappointed, but all I have on my USB stick is my talk" #agbt<br />
+(5) <a href="https://twitter.com/#!/SEQanswers">SEQanswers</a>: Spy pic of next gen @PacBio just arrived in my inbox.... #AGBT <a rel="nofollow" href="http://t.co/950CcUBg">http://t.co/950CcUBg</a><br />
+(3) <a href="https://twitter.com/#!/neilhall_uk">neilhall_uk</a>: Rothberg does not believe it. <a rel="nofollow" href="http://t.co/bAPfYKXJ">http://t.co/bAPfYKXJ</a> Who would have thunk? #agbt #nanopore<br />
+(3) <a href="https://twitter.com/#!/bffo">bffo</a>: JG  introns have negative  slope 1st principles: transcription, splicing & degraded steady state #agbt  cool to go back to 1st principles!<br />
+(3) <a href="https://twitter.com/#!/CRIgenomics">CRIgenomics</a>: Knock knock, can we come in? There are 1000 attendees at #AGBT that want a new sequencer. <a rel="nofollow" href="http://t.co/Un5TZO3n">http://t.co/Un5TZO3n</a><br />
+(3) <a href="https://twitter.com/#!/obahcall">obahcall</a>: Schnable: yes... 1ks of expressed genes in teosinte are missing from B73 ref #AGBT<br />
+(3) <a href="https://twitter.com/#!/WeigelWorld">WeigelWorld</a>: Oxford Nanopore @pathogenomenick: I think wordles are often a bit lame, but this one from #AGBT tells a good story <a rel="nofollow" href="http://t.co/v4krjrI8">http://t.co/v4krjrI8</a><br />
+(3) <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: #AGBT VC, question about sequencing and cell purity. Are DNA and RNA sampling different sub-populations?<br />
+(3) <a href="https://twitter.com/#!/nanopore">nanopore</a>: Thank you all the amazing speakers at #AGBT and safe travels home!  ps did you spot the clue in our Xmas card? <a rel="nofollow" href="http://t.co/csnL08oc">http://t.co/csnL08oc</a><br />
+(3) <a href="https://twitter.com/#!/Personal_RX_WI">Personal_RX_WI</a>: #AGBT February 20-23 2013.  New registration process will be in place.<br />
+(2) <a href="https://twitter.com/#!/nanopore">nanopore</a>: RT @genomesunzipped: Making sequencing simpler with nanopores: Our take on the new Oxford @Nanopore machines #AGBT <a rel="nofollow" href="http://t.co/pqWhsQYp">http://t.co/pqWhsQYp</a><br />
+(2) <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Gray: some transcripts are longer than diameter of the nucleus, how then do splice sites find each other? #AGBT<br />
+(2) <a href="https://twitter.com/#!/bffo">bffo</a>: Birney also urges JG to look at encode data  <a rel="nofollow" href="http://t.co/PNEDOtZI">http://t.co/PNEDOtZI</a>  #AGBT<br />
+(2) <a href="https://twitter.com/#!/bffo">bffo</a>: RT @pathogenomenick: I think wordles are often a bit lame, but this one from #AGBT tells a good story <a rel="nofollow" href="http://t.co/RPfETLOG">http://t.co/RPfETLOG</a><br />
+(2) <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Hodges: no surprise, hypomethylated regions mostly at promoters. But strong subclass outside genes. Every tissue has unique set HMRs. #AGBT<br />
+(2) <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Vivian Cheung of Penn kicking off last session. RNA:DNA differences. #AGBT<br />
+(2) <a href="https://twitter.com/#!/joe_pickrell">joe_pickrell</a>: For background on Cheung RNA-DNA differences talk, see <a rel="nofollow" href="http://t.co/g65UAGHA">http://t.co/g65UAGHA</a> <a rel="nofollow" href="http://t.co/oRzySH0q">http://t.co/oRzySH0q</a> #AGBT<br />
+(2) <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Vivian Cheung at #AGBT: found 10,210 RNA-DNA differences in 4,741 genes, of which 8,163 sites seen in &gt;50% of samples examined.<br />
+(2) <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Original paper Cheung is describing with RNA:DNA differences: <a rel="nofollow" href="http://t.co/vWyBwCbY">http://t.co/vWyBwCbY</a> ($) #AGBT<br />
+(1) <a href="https://twitter.com/#!/kevinltweets">kevinltweets</a>: diluting rabbit's blood in water = your sample prep I.M.P.R.E.S.S.E.D. Oxford @Nanopore machines #AGBT <a rel="nofollow" href="http://t.co/RoarVw4d">http://t.co/RoarVw4d</a><br />
+(1) <a href="https://twitter.com/#!/pathogenomenick">pathogenomenick</a>: Well here you go, #AGBT day 4 tweets <a rel="nofollow" href="http://t.co/gedbgq8q">http://t.co/gedbgq8q</a> - I guess we're not expecting announcements today.<br />
+(1) <a href="https://twitter.com/#!/accelmed">accelmed</a>: Unveiled: 1 of coolest inventions @ Wyss/HMS: DNA Nanobot 4 Immune Programming <a rel="nofollow" href="http://t.co/LeEYghZ1">http://t.co/LeEYghZ1</a>  #tedmed #futuremed @hackmedmit #agbt<br />
+(1) <a href="https://twitter.com/#!/pathogenomenick">pathogenomenick</a>: sounds rattled! RT @neilhall_uk: Rothberg does not believe it. <a rel="nofollow" href="http://t.co/P29C99Aq">http://t.co/P29C99Aq</a> Who would have thunk? #agbt #nanopore<br />
+(1) <a href="https://twitter.com/#!/omespeak">omespeak</a>: I can see the joke about 'it is only a USB stick not a sequence' getting old pretty quick here. Jesse Gray does the first one. #AGBT<br />
+(1) <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Gray: RNA-Seq densities across introns have negative slopes, why? #AGBT</p>
+<p><strong>11 - 12pm EST</strong><br />
++20m <a href="https://twitter.com/#!/favenmarg">favenmarg</a>: Next gen sequencing scientists are better-than-average scientist dancers. Seriously. #AGBT<br />
++37m <a href="https://twitter.com/#!/alansariim6">alansariim6</a>: AGBT<br />
++42m <a href="https://twitter.com/#!/darissambaya">darissambaya</a>: Nanopore is about to release a $900 #sequencing platform <a rel="nofollow" href="http://t.co/w20rylRb">http://t.co/w20rylRb</a><br />
++8m <a href="https://twitter.com/#!/takkah">takkah</a>: Oxford Nanopore to Begin Selling Two Low-Cost DNA Strand Sequencing Instruments this Year <a rel="nofollow" href="http://t.co/saNVe7dj">http://t.co/saNVe7dj</a><br />
++4m <a href="https://twitter.com/#!/hiro_h">hiro_h</a>: @takkah togetterAGBT<br />
++18m <a href="https://twitter.com/#!/hiro_h">hiro_h</a>: AGBT tweets 2012 (3) <a rel="nofollow" href="http://t.co/7KHmVFxg">http://t.co/7KHmVFxg</a><br />
++25m <a href="https://twitter.com/#!/hiro_h">hiro_h</a>: `not` AGBT tweets 2012 <a rel="nofollow" href="http://t.co/SjW8BOb3">http://t.co/SjW8BOb3</a><br />
++26m <a href="https://twitter.com/#!/hiro_h">hiro_h</a>: tweets aggregations for AGBT are available at <a rel="nofollow" href="http://t.co/5azXoai6">http://t.co/5azXoai6</a> #nonAGBT<br />
++0m <a href="https://twitter.com/#!/fyallpwiq9">fyallpwiq9</a>: GnuBio all runs to date Q50  per base AGBT<br />
++18m <a href="https://twitter.com/#!/carolineqvcu0">carolineqvcu0</a>: AGBT Anthony Griswold: single variant association yielded a few hits, but do not pass cutoff after m<br />
++22m <a href="https://twitter.com/#!/UniverseAwake">UniverseAwake</a>: Which technology won AGBT? <a rel="nofollow" href="http://t.co/NzsjJGcb">http://t.co/NzsjJGcb</a><br />
++37m <a href="https://twitter.com/#!/djwhelan">djwhelan</a>: Checking out. I went to bed at this time the other night.... #AGBT <a rel="nofollow" href="http://t.co/0xTja16U">http://t.co/0xTja16U</a><br />
++0m <a href="https://twitter.com/#!/steffenss3">steffenss3</a>: AGBT<br />
++24m <a href="https://twitter.com/#!/sjcockell">sjcockell</a>: No big surprises here :) "Which technology won AGBT?" <a rel="nofollow" href="http://t.co/ePMMMtAs">http://t.co/ePMMMtAs</a> #greader</p>
+<p><strong>10 - 11pm EST</strong><br />
++33m <a href="https://twitter.com/#!/suemiuehara_">suemiuehara_</a>: Vo sai, agbt vai ouvi musica aqui vish tres retardadas dancando kkk<br />
++43m <a href="https://twitter.com/#!/MTomasson">MTomasson</a>: @eugeneday Thanks for card in advance. On twitter crack--first conference in absentia #AGBT what t was made for.</p>
+<p><strong>9 - 10pm EST</strong><br />
++10m <a href="https://twitter.com/#!/mbcf">mbcf</a>: #agbt star wars party getting hot <a rel="nofollow" href="http://t.co/UYwfgMUf">http://t.co/UYwfgMUf</a><br />
++11m <a href="https://twitter.com/#!/cla8208">cla8208</a>: So happy to join the Dark side at #agbt  <a rel="nofollow" href="http://t.co/cW2H5Kc5">http://t.co/cW2H5Kc5</a><br />
++27m <a href="https://twitter.com/#!/mbcf">mbcf</a>: #agbt star wars sand people. Cheating on the duck <a rel="nofollow" href="http://t.co/2qsjVXE7">http://t.co/2qsjVXE7</a><br />
++42m <a href="https://twitter.com/#!/mbcf">mbcf</a>: #agbt no comment. <a rel="nofollow" href="http://t.co/Y9f8Q4Is">http://t.co/Y9f8Q4Is</a><br />
++48m <a href="https://twitter.com/#!/amythewilliams">amythewilliams</a>: @cla8208 hope you're enjoying #AGBT!</p>
+<p><strong>8 - 9pm EST</strong><br />
++1m <a href="https://twitter.com/#!/jgreid">jgreid</a>: Love the SW party theme at #AGBT<br />
++6m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Based on main buzz of this meeting, people at the party should be saying 'may the nanopores be with you'd #AGBT<br />
++17m <a href="https://twitter.com/#!/marialy0">marialy0</a>: agbt<br />
++26m <a href="https://twitter.com/#!/sprytron">sprytron</a>: Storm trooper representing U of Washington @ #AGBT<br />
++32m <a href="https://twitter.com/#!/jgreid">jgreid</a>: Obi-Wan cupcake?  Hell yeah. #AGBT <a rel="nofollow" href="http://t.co/9MXSWmFE">http://t.co/9MXSWmFE</a><br />
++40m <a href="https://twitter.com/#!/Personal_RX_WI">Personal_RX_WI</a>: #AGBT Star Wars Dinner. Chewbacca cupcake anyone? Mike's dessert. <a rel="nofollow" href="http://t.co/81LSUfJM">http://t.co/81LSUfJM</a></p>
+<p><strong>7 - 8pm EST</strong><br />
++15m <a href="https://twitter.com/#!/Black_Badger">Black_Badger</a>: Many thanks to everyone tweeting from #agbt. It was great to follow and experience the (vicarious) excitement.<br />
++28m <a href="https://twitter.com/#!/Symbionticism">Symbionticism</a>: Back home from the exciting #AGBT mtg with 1 final thought - in an age of tight govnmt budgets, imo we should downsize from Marco. Thoughts?<br />
++28m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Ready for the Star Wars party at #AGBT <a rel="nofollow" href="http://t.co/RPsYRVo3">http://t.co/RPsYRVo3</a><br />
++51m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: My new friend at #AGBT! <a rel="nofollow" href="http://t.co/Axm64l4i">http://t.co/Axm64l4i</a><br />
++52m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Wish I would have known about the Star Wars dinner theme before I got here. I would have brought my slave-Leia costume #AGBT<br />
++55m <a href="https://twitter.com/#!/nygenome">nygenome</a>: The Force is with #nygenome at #AGBT! <a rel="nofollow" href="http://t.co/69LpLJs8">http://t.co/69LpLJs8</a></p>
+<p><strong>6 - 7pm EST</strong><br />
++23m <a href="https://twitter.com/#!/Greeicy_PJL">Greeicy_PJL</a>: ta tteno churras aq novamente rs ;)) . . daq a poco agbt vai la na praia nos shows q ta teno por la rs ..<br />
++45m <a href="https://twitter.com/#!/vervecoaching">vervecoaching</a>: Blending in with Next Gen Sequencing crowd at #AGBT in Marco Island.<br />
++50m <a href="https://twitter.com/#!/bffo">bffo</a>: thank you all for the tweets & RT/MT ... It has been a great tweetfest, and a great meeting, I enjoyed the insightful comments #agbt</p>
+<p><strong>5 - 6pm EST</strong><br />
++10m <a href="https://twitter.com/#!/SEQanswers">SEQanswers</a>: Spy pic of next gen @PacBio just arrived in my inbox.... #AGBT <a rel="nofollow" href="http://t.co/950CcUBg">http://t.co/950CcUBg</a><br />
++19m <a href="https://twitter.com/#!/chloe46037">chloe46037</a>: Final starwars reception #AGBT . Done with tweeter until #ABRF.<br />
++25m <a href="https://twitter.com/#!/jobsyo2">jobsyo2</a>: AGBT<br />
++53m <a href="https://twitter.com/#!/RainDanceTech">RainDanceTech</a>: Congratulations to James Hadfield (Head of Genomics at CRUK) our #AGBT iPad 2 contest winner! <a rel="nofollow" href="http://t.co/DtaH8Mr8">http://t.co/DtaH8Mr8</a></p>
+<p><strong>4 - 5pm EST</strong><br />
++0m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Steven Bennet from the Foundation for Applied Molecular Evolution giving last talk of #AGBT - reagent innovations for DNA analysis<br />
++1m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Ethanol powered, carbon fiber-based car as the door prize for next year's #AGBT?<br />
++3m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Gerald Tuskan: currently performing functional assays to find out lignin function of genes where 42 SNPs were found<br />
++3m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Last talk: Steve Benner on "Reagent innovations for sensitive, clean, and highly multiplexed analysis of DNA" #AGBT<br />
++8m <a href="https://twitter.com/#!/CRIgenomics">CRIgenomics</a>: "China is a third world country", so says Steve Benner at #AGBT. Expect apologies later on!<br />
++8m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Not next-generation sequencing but 'next-generation DNA':Steve Benner (famous for his reasoned  arguments against the Arsenic-bacteria)#AGBT<br />
++11m <a href="https://twitter.com/#!/froggleston">froggleston</a>: Benner: "China is a third world country". Oops. #agbt<br />
++15m <a href="https://twitter.com/#!/dauserftk7">dauserftk7</a>: medicalcollege team from Personal_RX_WI hanging with top genomics experts at agbt<br />
++19m <a href="https://twitter.com/#!/CRIgenomics">CRIgenomics</a>: @Agilent just left me in charge of 2 Apple TVs and an iPad 2, their prizes for #AGBT. See you all next year...<br />
++22m <a href="https://twitter.com/#!/illumina">illumina</a>: Cheers 2 great #AGBT tweeters @djschlesinger @girlscientist @ElementoLab @omespeak @deannachurch @finchtalk @Massgenomics & many more!<br />
++25m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Benner's use of bright blue and red in his slides reminds me of 3D movies from the 1980s #AGBT<br />
++28m <a href="https://twitter.com/#!/ribozyme">ribozyme</a>: More like an iPad 5 with a nanopore in the home button! USB gone by then I hope :-) RT @ribozyme: @lexnederbragt: GATTACA #AGBT<br />
++30m <a href="https://twitter.com/#!/froggleston">froggleston</a>: @djschlesinger I find it more like a Geocities website circa 1997. #agbt<br />
++34m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Yes, registration frustrations! #AGBT<br />
++34m <a href="https://twitter.com/#!/lykkebak">lykkebak</a>: Dates for #AGBT 2013 - February 20-23<br />
++35m <a href="https://twitter.com/#!/Personal_RX_WI">Personal_RX_WI</a>: #AGBT February 20-23 2013.  New registration process will be in place.<br />
++36m <a href="https://twitter.com/#!/omespeak">omespeak</a>: RT @Personal_RX_WI: #AGBT February 20-23 2013.  New registration process will be in place.<br />
++37m <a href="https://twitter.com/#!/Personal_RX_WI">Personal_RX_WI</a>: #AGBT Coming to a close. Farewell dinner tonight. Jaime & Mike heading back to MCW tomorrow AM. Thanks for following our adventure!<br />
++39m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Great #AGBT meeting. Thanks to the organizers and sponsors. Now to write up some of my thoughts. But Star Wars part first!<br />
++55m <a href="https://twitter.com/#!/Gavin_Oliver">Gavin_Oliver</a>: Can anyone recommend a Marco Island company who does half day Everglades tours? Want to squeeze one in before 4pm flight tomorrow #AGBT</p>
+<p><strong>3 - 4pm EST</strong><br />
++0m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Vivian Cheung: audience member: single molecule seq showed that in population of cells, some genomes might be different<br />
++0m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: ...your results be explained by mismatch repair in some cells and not in others yet? A: we would be v happy to look at single cells! #AGBT<br />
++1m <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: #AGBT VC, question about sequencing and cell purity. Are DNA and RNA sampling different sub-populations?<br />
++3m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Lior Pachter now on "Streaming algorithms for analyzing and maintaining RNA-seq data" #AGBT<br />
++5m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lior Pachter: streaming algorithms for analyzing and maintaining RNA-seq data<br />
++6m <a href="https://twitter.com/#!/genomeresearch">genomeresearch</a>: Means piecemeal RT @genome_gov: Lior Pachter now on "Streaming algorithms for analyzing and maintaining RNA-seq data" #AGBT<br />
++6m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Pachter: will argue that batch algorithms are scalable #AGBT<br />
++6m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lior Pachter: Nanopore talk yesterday highlighted a streaming approach to sequencing<br />
++7m <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: #AGBT Lior Pachter on streaming algorithms. Genomics is batch orientated, that's a problem.  Need to stream the data. Right on!<br />
++8m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Correction - Pachter aregues that batch algorithms are NOT scalable #AGBT<br />
++10m <a href="https://twitter.com/#!/Wagnerizer">Wagnerizer</a>: Are DNA sequencers really going to be in the same family as my USB coffee cup warmer?  #AGBT #Nanopore <a rel="nofollow" href="http://t.co/Squ0aZ2g">http://t.co/Squ0aZ2g</a><br />
++10m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lior Pachter: what Cufflinks do is to assign reads to transcripts using statistical modeling<br />
++11m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lior Pachter: showed an RNA-seq map of the world based on Cufflinks download IP addresses<br />
++12m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Pachter: "My worst nightmare: the curse of deep sequencing" aka too much data. #AGBT<br />
++13m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lior Pachter: curse of deep sequencing: the reliability of some algorithms (eg assembly) decreases when you use them on too much data<br />
++15m <a href="https://twitter.com/#!/Verbal_SeduXion">Verbal_SeduXion</a>: @bongopondit Hahaha why doesn't that surprise me! Also the Illumina summary of AGBT was a nice read, thanks :)<br />
++16m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Pachter: not a big believer in the cloud #AGBT<br />
++18m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Pachter: eXpress &gt;&gt; streaming algorithm &gt;&gt; process one read at a time #AGBT<br />
++21m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lior Pachter: eXpress algorithm processes reads as they come from machine, assigns them probabilistically to transcripts on the fly<br />
++23m <a href="https://twitter.com/#!/westr">westr</a>: @MTomasson "10 Mistakes... " by @TrishaTorrey - Mistake 9: Thinking Medical Research Is Searching for Cures <a rel="nofollow" href="http://t.co/qLq184Pr">http://t.co/qLq184Pr</a> #AGBT<br />
++23m <a href="https://twitter.com/#!/illumina">illumina</a>: Speaking of cloud-based genomic analysis...check out HiSeq2500 data on BaseSpace #AGBT <a rel="nofollow" href="http://t.co/icjWUTyd">http://t.co/icjWUTyd</a><br />
++24m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lior Pachter: online algorithm for assigning reads converges towards optimal solution as more and more reads are processed<br />
++26m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Lior Pachter is making a relatively tough subject really easy to follow. Love the zooming into various parts of the slide. Great talk #AGBT<br />
++26m <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: @genome_gov: Pachter: not a big believer in the cloud #AGBT but not make a compelling case one way or another<br />
++28m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lior Pachter: eXpress memory needs very low and do not change w read numbers; much much faster than Cufflinks<br />
++30m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lior Pachter: eXpress only needs 1M reads to find biases in an RNA-seq experiment<br />
++30m <a href="https://twitter.com/#!/nanopore">nanopore</a>: Thank you all the amazing speakers at #AGBT and safe travels home!  ps did you spot the clue in our Xmas card? <a rel="nofollow" href="http://t.co/csnL08oc">http://t.co/csnL08oc</a><br />
++31m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Pachter: algorithm removes the need to store the alignment files #AGBT<br />
++32m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Lior Pachter: eXpress removes need to store alignment files; can also stop analysis when desired experimental accuracy is reached<br />
++34m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Hmmm. Cheeky :) #AGBT MT @nanopore: ps did you spot the clue in our Xmas card? <a rel="nofollow" href="http://t.co/mknVpjKC">http://t.co/mknVpjKC</a><br />
++35m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Gerald Tuskan now on "Integrating population-scale resequencing and shotgun proteomics w/i the Populus Common Garden Experiment" #AGBT<br />
++35m <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: Kevin McKernan from Courtagen Life Sciences will talk about the cannabis genome at #CPHx 2012 :) Video from #AGBT: <a rel="nofollow" href="http://t.co/PcsX3PFv">http://t.co/PcsX3PFv</a><br />
++37m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Gerald Tuskan: cellulose and lignocellulose most abundant polymers on planet<br />
++47m <a href="https://twitter.com/#!/bffo">bffo</a>: GT: a SNP every 30 bp in Populus ... you thought you had variation challenge! #agbt<br />
++48m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Tuskan: GWAS to identify genes associated with lignin formation #AGBT<br />
++49m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Gerald Tuskan: performed GWAS in Populus; found 42 SNPs associated with lignin content, 3-13% phenotypic variance explained in total<br />
++54m <a href="https://twitter.com/#!/notSoJunkDNA">notSoJunkDNA</a>: same here. Thanks for the reports #agbt @nparmalee: @girlscientist This story boggles my mind.<br />
++54m <a href="https://twitter.com/#!/Perpilocution">Perpilocution</a>: Excitement hangover from yesterday's chaos following #nanopore's announcements at #AGBT<br />
++56m <a href="https://twitter.com/#!/lykkebak">lykkebak</a>: Some people are sleeping during the last session (front row). Guess they partied to much last night.... :) #AGBT</p>
+<p><strong>2 - 3pm EST</strong><br />
++7m <a href="https://twitter.com/#!/BioMickWatson">BioMickWatson</a>: Are people still at #AGBT? Didn't everyone just leave after the @nanopore announcement?<br />
++10m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Still here for StarWars party? RT @BioMickWatson: Are people still at #AGBT? Didn't everyone just leave after the @nanopore announcement?<br />
++15m <a href="https://twitter.com/#!/Symbionticism">Symbionticism</a>: Lol "@Copenhagenomics: Here's a spy photo from a projected sequencing center, planned to open in early 2013: <a rel="nofollow" href="http://t.co/3Ctam3Lo">http://t.co/3Ctam3Lo</a> #AGBT"<br />
++16m <a href="https://twitter.com/#!/CLCbio">CLCbio</a>: Kevin McKernan, Medicinal Genomics: "Most assemblers gave up assembling the cannabis genome, but @CLCbio did the job" #AGBT<br />
++25m <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: Good description of @nanopore's MinION potential with this tag: #DriveBySequencing (coined by  @brynskov) #AGBT :)<br />
++26m <a href="https://twitter.com/#!/chloe46037">chloe46037</a>: Great turn out for K.McKernan talk #AGBT but no tweets?<br />
++28m <a href="https://twitter.com/#!/Personal_RX_WI">Personal_RX_WI</a>: Thanks to Geospiza @PerkinElmer for meeting with us today about your LIMS system. Very informative. #AGBT<br />
++30m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Vivian Cheung, UPenn discussing RNA and DNA sequence differences in the human genome #AGBT<br />
++31m <a href="https://twitter.com/#!/nygenome">nygenome</a>: Great #nygenome #AGBT presentation this morning. Thanks to all who joined us! We'd love your feedback here or agbt@nygenome.org.<br />
++32m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Vivian Cheung of Penn kicking off last session. RNA:DNA differences. #AGBT<br />
++32m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: Viburnum Chueng talking about RNA and DNA differences in the human genome. #AGBT<br />
++34m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: In case you have been under a rock, Cheung's lab found much larger than expected numbers of sequence diff's bn RNA/DNA of same person. #AGBT<br />
++34m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: Damn autocorrect Vivien! No more tweeting on my phone. #AGBT<br />
++36m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Vivian Cheung: looking for differences (not only editing) between DNA and RNA in B cells<br />
++36m <a href="https://twitter.com/#!/bongopondit">bongopondit</a>: Vivien Cheung: Does not want to use the term RNA-editing, but call it RNA-DNA differences (RDD) since mechanism is unknown. #AGBT<br />
++37m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Vivien Cheung: Does not want to use the term RNA-editing, but call it RNA-DNA differences (RDD) since mechanism is unknown. #AGBT<br />
++37m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Cheung defining very strict requirements for determining differences between RNA and DNA #AGBT<br />
++38m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Cheung: sequence must be unique, covered by at least 10 reads, must have two RNA reads with mismatch and must be found in two people #AGBT<br />
++38m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Vivian Cheung: A to G RDD most common C to G and G to least common. #AGBT<br />
++39m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Vivian Cheung: after filtering, BLAT-based remapping, cov&gt;=10X: 10,210 exonic sites differed between DNA and RNA<br />
++39m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Cheung: base pair differences found between RNA and DNA are common between individuals #AGBT<br />
++39m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Vivian Cheung: aware that this is unexpected, not ready to assign it to some systematic error. Must be some biological mechanism. #AGBT<br />
++40m <a href="https://twitter.com/#!/joe_pickrell">joe_pickrell</a>: For background on Cheung RNA-DNA differences talk, see <a rel="nofollow" href="http://t.co/g65UAGHA">http://t.co/g65UAGHA</a> <a rel="nofollow" href="http://t.co/oRzySH0q">http://t.co/oRzySH0q</a> #AGBT<br />
++41m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Vivian Cheung at #AGBT: found 10,210 RNA-DNA differences in 4,741 genes, of which 8,163 sites seen in &gt;50% of samples examined.<br />
++42m <a href="https://twitter.com/#!/omespeak">omespeak</a>: RT @joe_pickrell: For background on Cheung RNA-DNA differences talk, see <a rel="nofollow" href="http://t.co/2JZtRsHN">http://t.co/2JZtRsHN</a>  <a rel="nofollow" href="http://t.co/kLOgV71I">http://t.co/kLOgV71I</a>  #AGBT<br />
++43m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Original paper Cheung is describing with RNA:DNA differences: <a rel="nofollow" href="http://t.co/vWyBwCbY">http://t.co/vWyBwCbY</a> ($) #AGBT<br />
++43m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Have they tried enriching for the variant allele in the DNA? Maybe as-PCR or COLD-PCR? #AGBT<br />
++43m <a href="https://twitter.com/#!/bigfeet5grl">bigfeet5grl</a>: Jelly RT @girlscientist Vivian Cheung of Penn kicking off last session. RNA:DNA differences. #AGBT<br />
++43m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Vivian Cheung: showing example of genes with differences eg CORO1C; coverages showed were high in DNA-seq,  lower in RNA-seq (&lt;20X)<br />
++44m <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: #AGBT Vivian Cheung on RNA editing.  Found ~10k sites/~5k genes. Data show varied allele frequency, usually the RDD is lower, some complete<br />
++44m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Vivian Cheung: RDDs observed in tissues other than B-cells as well. Prsent in skin cells too. #AGBT<br />
++46m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Vivian Cheung: showing examples of genes with DNA-RNA differences eg CORO1C; coverage shown higher in DNA-seq cmp to RNA-seq (&lt;20X)<br />
++46m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Cheung: very thorough in ruling out alternative non-biological explanations for RNA DNA differences #AGBT<br />
++47m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Cheung: since their paper, at least 5 others have come out with similar findings (did not comment on relative numbers of sites yet). #AGBT<br />
++48m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Cheung: RDDs tend to occur in patches #AGBT<br />
++48m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Vivian Cheung: RDDs seem happens in patches.  #AGBT<br />
++48m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Vivian Cheung: 41% RNA-DNA differences in coding exons, 71% of which lead to changes in aa (most freq are L&gt;P, V&gt;A, S&gt;P)<br />
++48m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Vivian Cheung: RDDs seem to happen in patches. #AGBT<br />
++48m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Cheung: 71% of RNA DNA changes are nonsynonymous #AGBT<br />
++49m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Cheung: can they find peptides corresponding to RNA form? LC-MS/MS in B cells. Answer = yes, see both RNA and DNA forms in peptides. #AGBT<br />
++49m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Vivien Cheung: Founds example of protein encoded by the RDD RNAs using LC-MS.  #AGBT<br />
++50m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Vivien Cheung: Found examples of protein encoded by the RDD RNAs using LC-MS. #AGBT<br />
++50m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Vivian Cheung: DNA-RNA differences present in translated proteins according to mass spec<br />
++51m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: @girlscientist , where does the DNA form come from? #AGBT<br />
++52m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Vivien Cheung: RDD levels ~20% on an average. Bimodal distribution of RDD levels. #AGBT<br />
++53m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Cheung: levels of RDD vary across inidivduals  #AGBT<br />
++53m <a href="https://twitter.com/#!/bongopondit">bongopondit</a>: Vivien Cheung: RDD levels vary across individuals. #AGBT<br />
++53m <a href="https://twitter.com/#!/rnomics">rnomics</a>: RT @razZ0r: RT @ElementoLab: #AGBT Vivian Cheung: after filtering, BLAT-based remapping,... <a rel="nofollow" href="http://t.co/xae5m0K8">http://t.co/xae5m0K8</a> #GeneticSequence-bio @MyEN<br />
++53m <a href="https://twitter.com/#!/rnomics">rnomics</a>: RT @finchtalk: #AGBT Vivian Cheung on #RNA editing. Found ~10k sites/~5k genes. Data show... <a rel="nofollow" href="http://t.co/EtJqQyec">http://t.co/EtJqQyec</a> #GeneticSequence-bio @MyEN<br />
++53m <a href="https://twitter.com/#!/rnomics">rnomics</a>: RT @finchtalk: #AGBT Vivian Cheung on #RNA editing. Found ~10k sites/~5k genes. Data show... <a rel="nofollow" href="http://t.co/EtJqQyec">http://t.co/EtJqQyec</a> #rnomics-bioscience @MyEN<br />
++53m <a href="https://twitter.com/#!/rnomics">rnomics</a>: RT @genome_gov: RT @djschlesinger: Cheung: 71% of #RNA DNA changes are nonsynonymous #AGBT <a rel="nofollow" href="http://t.co/0YlIU6ef">http://t.co/0YlIU6ef</a> #rnomics-bioscience @MyEN<br />
++53m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Vivian Cheung: what mediates DNA-RNA differences not known<br />
++54m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Cheung: "the elephant in the room right now is" underlying mechanism. "Unfortunately don't have answer yet" but working on it, obv! #AGBT<br />
++54m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Vivien Cheung: Elephant in the room 'what is the underlying mechanism'? No answer yet. #AGBT<br />
++55m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Cheung: ADAR siRNA KO does not explain all of RDD seen so far. Cells lose A to G, as expected, but not other changes. #AGBT<br />
++55m <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: #AGBT VC RDD (RNA DNA diff). Transcript abundance bimodal - 20% high, 100% low and variable wrt individuals. A phenotype?<br />
++55m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Vivian Cheung: knocking down ADAR decreases A to G editing, other DNA-RNA differences unaffected<br />
++56m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Vivien Cheung: Twin concordance studies....RDD levels more similar among twins compared to different individuals. #AGBT<br />
++56m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Cheung: looked in twins; RDD distribution more similar in twins than to unrelated inidivduals #AGBT<br />
++56m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Vivian Cheung: DNA-RNA difference levels closer in twins than in unrelated individuals<br />
++57m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Vivien Cheung: so RDD possibly genetically regulated. #AGBT<br />
++58m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Cheung: when doing genetic studies...should we expand to looking at variation in RNA? #AGBT<br />
++59m <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: #AGBT VC high concordance with levels in twins, indicating the RDD level in a transcript is inherited.<br />
++59m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: First Q for Cheung: understatement of "your result is...intriguing." But we now see indiv cells have diff genomes even. Could... #AGBT</p>
+<p><strong>1 - 2pm EST</strong><br />
++13m <a href="https://twitter.com/#!/ribozyme">ribozyme</a>: More like GridIon, cause the sample goes to back room and takes 15 mins :) RT @lexnederbragt: I guess they used MinIONs for GATTACA #AGBT<br />
++15m <a href="https://twitter.com/#!/ribozyme">ribozyme</a>: In a movie remake now she puts the hair root inside her USB stick at her computer :) RT @lexnederbragt: They used MinIONs for GATTACA #AGBT<br />
++16m <a href="https://twitter.com/#!/SEQanswers">SEQanswers</a>: My morning: #AGBT tweets, coffee and firing up an XL EC2 instance to align and call variants from yesterday's runs. (kids are very quiet!)<br />
++18m <a href="https://twitter.com/#!/pathogenomenick">pathogenomenick</a>: #AGBT day 4 tweets <a rel="nofollow" href="http://t.co/gedbgq8q">http://t.co/gedbgq8q</a><br />
++31m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Looking forward to Vivian Cheung's talk on RNA/DNA sequence differences coming up in the afternoon session at #AGBT.<br />
++32m <a href="https://twitter.com/#!/omespeak">omespeak</a>: The study was controversial originally <a rel="nofollow" href="(http://t.co/xwgPZGqI">(http://t.co/xwgPZGqI</a>) but seems like more data will be present to validate the differences/ #AGBT<br />
++40m <a href="https://twitter.com/#!/bhalomanush">bhalomanush</a>: @bongopondit slightly envious. Would have loved to have attended AGBT. Too busy and unfortunately still under-crewed at present.</p>
+<p><strong>12 - 1pm EST</strong><br />
++0m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Galagan: Showing latest TB regulatory network, with 51 TFs chipped, 2704 genes with binding, 5521 interactions. #AGBT<br />
++0m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT James Galagan: some transcription factors in TB only bind to their own promoters !<br />
++8m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Galagan: in hypoxia, TB is in macrophage and relies on host immunomodulatory lipids and induction of foamy macrophages. #AGBT<br />
++9m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Galagan: using their predictive model, show can accurately predict ~30% of differentially expressed genes #AGBT<br />
++9m <a href="https://twitter.com/#!/salisburymw">salisburymw</a>: Galagan: big juicy lipid droplets. Eww. #agbt<br />
++9m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Galagan: in other words, TB another example of infection manipulating your immune system for its own ends. #AGBT #weareallatitsmercy<br />
++9m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT James Galagan: all TB ChIP-seq data available at <a rel="nofollow" href="http://t.co/HUz7O7r4">http://t.co/HUz7O7r4</a><br />
++9m <a href="https://twitter.com/#!/mbeisen">mbeisen</a>: b/c nobody knows about overhyped and not ready for prime time sequencing tech like jonathan rothberg <a rel="nofollow" href="http://t.co/boqzG4uv">http://t.co/boqzG4uv</a> #AGBT @nanopore<br />
++10m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Galagan: Their TB ChiP-Seq data all available at <a rel="nofollow" href="http://t.co/69dYPJNy">http://t.co/69dYPJNy</a>  #AGBT<br />
++18m <a href="https://twitter.com/#!/bkmacy">bkmacy</a>: Shawn Levy presenting how @ING_SYS  variant analysis ID'd novel variant at @roche lunch #AGBT<br />
++21m <a href="https://twitter.com/#!/CrapBio">CrapBio</a>: @mbeisen: nobody knows about overhyped and not ready for prime time sequencing tech like rothberg <a rel="nofollow" href="http://t.co/BqD5rtLq">http://t.co/BqD5rtLq</a> #AGBT apart from us<br />
++21m <a href="https://twitter.com/#!/drgitlin">drgitlin</a>: Sad that I'm at neither #AGBT nor #AAASmtg.<br />
++25m <a href="https://twitter.com/#!/bkmacy">bkmacy</a>: @ING_SYS variant analysis able to collaborate variant hypothesis in less than an hour #AGBT<br />
++25m <a href="https://twitter.com/#!/bioontology">bioontology</a>: RT @bffo: Birney also urges JG to look at encode data  <a rel="nofollow" href="http://t.co/riAfjB6l">http://t.co/riAfjB6l</a>  #AGBT<br />
++31m <a href="https://twitter.com/#!/lexnederbragt">lexnederbragt</a>: I guess they used MinIONs for GATTACA... #ONT #AGBT<br />
++33m <a href="https://twitter.com/#!/bkmacy">bkmacy</a>: Levy: @ING_SYS variant analysis helps find needle in a haystack #AGBT<br />
++33m <a href="https://twitter.com/#!/GenomicsIo">GenomicsIo</a>: Jonathan Roth has some serious doubts about @nanopore technology maturity <a rel="nofollow" href="http://t.co/s3fX4IgA">http://t.co/s3fX4IgA</a> via @forbes - perhaps not unfounded? #agbt<br />
++35m <a href="https://twitter.com/#!/bkmacy">bkmacy</a>: Levy: @ING_SYS variant analysis helps find rare disease novel variants #AGBT<br />
++37m <a href="https://twitter.com/#!/bkmacy">bkmacy</a>: Levy: @ING_SYS variant analysis finds new potential functional variant candidates #AGBT<br />
++56m <a href="https://twitter.com/#!/MTomasson">MTomasson</a>: In the cold light of day, vaguely sad that tech vaporware stole the show from real biology at #AGBT<br />
++57m <a href="https://twitter.com/#!/westr">westr</a>: Hype = Happy! RT @MTomasson: In the cold light of day, vaguely sad that tech vaporware stole the show from real biology at #AGBT<br />
++59m <a href="https://twitter.com/#!/MTomasson">MTomasson</a>: Caring for the ill with compassion not as sexy as selling snake oil with a good back story #AGBT</p>
+<p><strong>11 - 12pm EST</strong><br />
++10m <a href="https://twitter.com/#!/gtyrelle">gtyrelle</a>: While ppl r fussing about technology @ #AGBT here at #EMBL Lee Hood, @timjph, Robert Gentleman et al. discuss implementation of P4 medicine.<br />
++10m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Emily Hodges from HHMI & CSHL up next with a title too long to Tweet, subject: epigenetics #AGBT<br />
++11m <a href="https://twitter.com/#!/leonidkruglyak">leonidkruglyak</a>: A bit? RT @bioitworld: A bit harsh! Ion Torrent's Jonathan Rothberg compares @nanopore to cold fusion! #AGBT #nanopore  <a rel="nofollow" href="http://t.co/1GwzYvCI">http://t.co/1GwzYvCI</a><br />
++13m <a href="https://twitter.com/#!/WeigelWorld">WeigelWorld</a>: Oxford Nanopore @pathogenomenick: I think wordles are often a bit lame, but this one from #AGBT tells a good story <a rel="nofollow" href="http://t.co/v4krjrI8">http://t.co/v4krjrI8</a><br />
++13m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Hodges: jokes about being tall enough to see over the podium and about the length of her talk title #AGBT :p<br />
++14m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Emily Hodges will tell us stories from libraries of shotgun bisulfite sequencing. #AGBT [earlier comment correct: room = ghost town.]<br />
++14m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Hodges: using shotgun busulfite sequencing to study methylomes in various cell types #AGBT<br />
++16m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Now at #AGBT: Emily Hodges on genome-wide methylation studies of human blood cells. Shotgun bisulfite sequencing for hypomethylation.<br />
++16m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Hodges: focusing on hypomethylation to identify areas of interest #AGBT<br />
++18m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Hodges: comparing methylomes from HSPCs, lymphoid and myeloid lineages. Looking for hypomethylated regions. #AGBT<br />
++22m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Hodges: Very cool figure on hypomethylated regions vs CpG island declaration: arbitrary cutoffs make island definition quite arbitrary #AGBT<br />
++23m <a href="https://twitter.com/#!/bioinfosm">bioinfosm</a>: #agbt Hodges: 28k cpg islands and 50k hmr (unconventional tissue spec cpg islands)<br />
++23m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Hodges: no surprise, hypomethylated regions mostly at promoters. But strong subclass outside genes. Every tissue has unique set HMRs. #AGBT<br />
++23m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Emily Hodges: did full bisulfite-seq on hematopoietic stem/progenitor cells, lymphoid and myeloid lineage cells<br />
++23m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Emily Hodges: found 50-60K hypomethylated regions in each cell type, not restricted to CpG islands<br />
++26m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Emily Hodges: increasing lineage commitment is not unidirectional in terms of DNA methylation<br />
++27m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Emily Hodges: some hypomethylated regions are gained in more committed cell types, eg at CD19 in B cells<br />
++28m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Emily Hodges: boundaries of hypomethylated regions expand and contract in a cell type specific manner<br />
++28m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Hodges: at any region, differential methylation is "tidal" meaning boundaries expand and contract in cell-type-specific manner. #AGBT<br />
++29m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Hodges at #AGBT: Differential methylation in HSC lineages is "tidal" near TSS - expanding/contracting in cell-type-specific manner.<br />
++32m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Emily Hodges: H3K4me1 and H3K4me3 are enriched at expanded hypomethylated regions (in ENCODE cell lines)<br />
++34m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Hodges: intergenic HMRs enriched for tissue specific transcription factor binding sites. [Similar to work from ENCODE.] #AGBT<br />
++35m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Hodges: Intergenic hypomethylated regions (iHMRs) shared across subtypes are evol. conserved and enriched for TF binding sites. #AGBT<br />
++36m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Emily Hodges: shared intergenic hypomethylated regions tend to be bound by CTCF<br />
++40m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Emily Hodges: cell type-specific intergenic hypomethylated regions are enriched with H3K4me1; transcription occurs on both sides<br />
++41m <a href="https://twitter.com/#!/salisburymw">salisburymw</a>: Ooh, TB regulatory network up next. Should be good. #agbt<br />
++42m <a href="https://twitter.com/#!/obahcall">obahcall</a>: And now James Galagan on regulatory network of tuberculosis #AGBT<br />
++42m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Galagan: recently reported entirely drug resistant TB strains are quite scary #AGBT<br />
++43m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: The wonderfully nice James Galagan now: TB, when faced with hypoxic environment, eats your cholesterol! Eww. #AGBT<br />
++44m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: James Galagan at #AGBT: The tuberculosis pathogen can persist inside of macrophages, in face of hypoxia and drugs, eating your cholesterol.<br />
++46m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: James Galagan from Boston Univ. speaking very very fast about the regulatory network of TB #AGBT<br />
++46m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: @girlscientist, better than Lipitor?? #AGBT<br />
++46m <a href="https://twitter.com/#!/pathogenomenick">pathogenomenick</a>: better than eating benecol though? MT @girlscientist: ... TB, when faced with hypoxic environment, eats your cholesterol! Eww. #AGBT<br />
++48m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Is it just me, or is Galagan's talk in fast forward mode? #AGBT<br />
++49m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Galagan: start by comprehensive profiling generating tons of data including chip seq, proteomics, glycomics,  and more..   #AGBT<br />
++49m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Galagan: resolving binding site to single nt accuracy and resolution #AGBT<br />
++50m <a href="https://twitter.com/#!/robincoope">robincoope</a>: Eating cholesterol? That's why they used to call it Galloping Consumption. #agbt<br />
++51m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT James Galagan: performing ChIP-seq on ALL transcription factors in TB<br />
++51m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Galagan: see binding is exquisitely reproducible. #AGBT<br />
++52m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Galagan: novel peaks enriched for known fxn. binding associated with motif strength #AGBT<br />
++52m <a href="https://twitter.com/#!/joalunatkthse">joalunatkthse</a>: AGBT<br />
++52m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT James Galagan: less than 30% of high affinity DNA motifs are actually bound in TB<br />
++53m <a href="https://twitter.com/#!/joalunatkthse">joalunatkthse</a>: agbt 2012<br />
++55m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT James Galagan: expression analysis shows that 25% of all TB ChIP-seq peaks are associated with gene regulation<br />
++56m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Galagan: assign potential regulation to 25% of all peaks #AGBT<br />
++59m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Galagan: TB regulatory network quite a respectable hairball thanks to ChIP-seq data. #AGBT</p>
+<p><strong>10 - 11am EST</strong><br />
++0m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Jesse Gray: transcription initiation rates can be estimated from 3' read densities of introns, distribution bimodal too<br />
++0m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Gray: mRNA stability is not bimodal #AGBT<br />
++1m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Gray: what explains bimodal gene expression ? Structure of the genome? #AGBT<br />
++2m <a href="https://twitter.com/#!/bffo">bffo</a>: JG RNA degradation rate is as important as transcription rate #agbt<br />
++2m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Gray: genes where no reads are detected are far from high expressions #AGBT - neat<br />
++4m <a href="https://twitter.com/#!/chloe46037">chloe46037</a>: Don't forget to come and see Kevin McKernan in palms ballroom #AGBT .<br />
++7m <a href="https://twitter.com/#!/bffo">bffo</a>: JG Birney asks about the 1st intron, and JG tells us he actually excluded 1st introns in his analysis  #agbt 1st intron is different<br />
++8m <a href="https://twitter.com/#!/genomeresearch">genomeresearch</a>: RT @Massgenomics: Jesse Gray on RNA-Seq kinetics in vivo: splicing occurs during transcription. Intron size no effect on rate #AGBT<br />
++9m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Patrick Schnable from Iowa State University up next to talk about gene loss during domestication bottleneck in maize #AGBT<br />
++9m <a href="https://twitter.com/#!/bffo">bffo</a>: Birney also urges JG to look at encode data  <a rel="nofollow" href="http://t.co/PNEDOtZI">http://t.co/PNEDOtZI</a>  #AGBT<br />
++10m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Patrick Schnable  talks next on gene loss during domestication of maize #AGBT<br />
++10m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Schnable: regarding tweeting policy, his talk is so secretive he doesn't even want us to listen to him #AGBT :p<br />
++11m <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: Patrick Schnable is doing a talk that is so secret that we can't even hear it! ;) Tweet away :) #sharingiscaring #AGBT<br />
++15m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Schnable: allelic diversity is lost during domestication, are genes lost too? #AGBT<br />
++16m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Patrick Schnable: 250+ genes present in wild maize lines, have been lost in domesticated maize genome<br />
++16m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Schnable: short answer: yes, genes are missing. #AGBT<br />
++17m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Schnable: asking if if whole genes were lost during maize domestication  #AGBT<br />
++17m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Patrick Schnable: Corn was domesticated from Teosinte by native Americans 10k hrs ago. What genes were lost? #AGBT<br />
++19m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Schnable: yes... 1ks of expressed genes in teosinte are missing from B73 ref #AGBT<br />
++20m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT: Patrick Schable: 1,000s genes expressed in teosinte alone, not in domesticated B73 line<br />
++20m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Schnable: validate by seq capture 74% of potential 2800 PAVs not present in B73 #AGBT<br />
++22m <a href="https://twitter.com/#!/rnomics">rnomics</a>: RT @bffo: JG #RNA degradation rate is as important as transcription rate #agbt <a rel="nofollow" href="http://t.co/wv7NPbSd">http://t.co/wv7NPbSd</a> #phylogenomics-gen @MyEN<br />
++24m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT: Patrick Schable: teosinte genome not sequenced, used genetic mapping to find teosinte-specific genes, arranged in clusters<br />
++25m <a href="https://twitter.com/#!/antolikykab2">antolikykab2</a>: AGBT Rong Chen: calc a likelihood ratio of disease for personal genome from multiple allele risks<br />
++26m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT: Patrick Schnable: teosinte genome not sequenced, used genetic mapping to find teosinte-specific genes, arranged in clusters<br />
++26m <a href="https://twitter.com/#!/illumina">illumina</a>: New blog post from Abizar Lakdawalla recapping Friday at #AGBT <a rel="nofollow" href="http://t.co/py652hSN">http://t.co/py652hSN</a><br />
++27m <a href="https://twitter.com/#!/pathogenomenick">pathogenomenick</a>: I think wordles are often a bit lame, but this one from #AGBT tells a good story <a rel="nofollow" href="http://t.co/6gGV6Bbs">http://t.co/6gGV6Bbs</a><br />
++29m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Schnable at #AGBT: selection for or against alleles likely drove gene loss during domestication. e.g. selection against seed shattering<br />
++29m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Great summary of yesterday's talks: RT @illumina: New blog post from Abizar Lakdawalla recapping Friday at #AGBT <a rel="nofollow" href="http://t.co/Sqlk2Nuc">http://t.co/Sqlk2Nuc</a><br />
++30m <a href="https://twitter.com/#!/bffo">bffo</a>: RT @illumina: New blog post from Abizar Lakdawalla recapping Friday at #AGBT <a rel="nofollow" href="http://t.co/XWPrwJOj">http://t.co/XWPrwJOj</a><br />
++30m <a href="https://twitter.com/#!/illumina">illumina</a>: Missed "Eliminating the Sequencing Informatics Bottleneck" workshop this morning? Another one in 5 min, Illumina Lounge (Capri Ballrm) #AGBT<br />
++31m <a href="https://twitter.com/#!/bffo">bffo</a>: RT @pathogenomenick: I think wordles are often a bit lame, but this one from #AGBT tells a good story <a rel="nofollow" href="http://t.co/RPfETLOG">http://t.co/RPfETLOG</a><br />
++32m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT: Patrick Schnable: some imp teosinte genes may have been lost due to proximity to neg selected genes, potential for crop improvement<br />
++34m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Schnable: some these genes lost during domestication may have potential for crop improvement #AGBT<br />
++37m <a href="https://twitter.com/#!/ramblingmuse">ramblingmuse</a>: Meanwhile over on Marco island, people are hugging thumb drives and having wet dreams #AGBT<br />
++50m <a href="https://twitter.com/#!/bioitworld">bioitworld</a>: A bit harsh! Ion Torrent's Jonathan Rothberg compares @nanopore technology to cold fusion! #AGBT #nanopore Forbes  <a rel="nofollow" href="http://t.co/HCcEgmIk">http://t.co/HCcEgmIk</a><br />
++52m <a href="https://twitter.com/#!/assemblathon">assemblathon</a>: Such a good twitter buzz yesterday! RT @pathogenomenick: All the tweets (and there are a lot of them) from #AGBT day 3 <a rel="nofollow" href="http://t.co/WHBX6nY4">http://t.co/WHBX6nY4</a><br />
++55m <a href="https://twitter.com/#!/assemblathon">assemblathon</a>: RT @CRIgenomics: Knock knock, can we come in? There are 1000 attendees at #AGBT that want a new sequencer. <a rel="nofollow" href="http://t.co/OK1m1HtK">http://t.co/OK1m1HtK</a><br />
++56m <a href="https://twitter.com/#!/assemblathon">assemblathon</a>: Awesome! RT @pathogenomenick: I think wordles are often a bit lame, but this one from #AGBT tells a good story <a rel="nofollow" href="http://t.co/E52aWhuT">http://t.co/E52aWhuT</a><br />
++56m <a href="https://twitter.com/#!/kbradnam">kbradnam</a>: RT @pathogenomenick: I think wordles are often a bit lame, but this one from #AGBT tells a good story <a rel="nofollow" href="http://t.co/Zdftxaxf">http://t.co/Zdftxaxf</a></p>
+<p><strong>9 - 10am EST</strong><br />
++0m <a href="https://twitter.com/#!/omespeak">omespeak</a>: #AGBT Equally unsurprising, a doubting voice: MT @matthewherper: Who Doubts The USB Thumb Drive Sequencer? A Rival  <a rel="nofollow" href="http://t.co/qxI7zTN3">http://t.co/qxI7zTN3</a><br />
++0m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Morning session of last day at #AGBT - it's like a ghost town. Must have been a rough night.<br />
++2m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Michael George's from University of Liege giving morning keynote address #AGBT<br />
++6m <a href="https://twitter.com/#!/CrapBio">CrapBio</a>: HELLO! #AGBT anyone awake or are you all sleeping of your nanpore hangover.?<br />
++7m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Starting the last day of #AGBT right with keynote from Michel Georges<br />
++8m <a href="https://twitter.com/#!/omespeak">omespeak</a>: +the strong drinks at IonTorrent party last night RT @CrapBio: HELLO! #AGBT anyone awake or are you all sleeping of your nanpore hangover?<br />
++9m <a href="https://twitter.com/#!/CRIgenomics">CRIgenomics</a>: There is nowhere to put your hand in these cows, unlike last years #AGBT!<br />
++10m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: First session at #AGBT today: Genetic basis of "color-sidedness" in Belgian Blue cattle. Bovines! Presenter said, "Please don't run away."<br />
++10m <a href="https://twitter.com/#!/neilhall_uk">neilhall_uk</a>: @CRIgenomics: There is nowhere to put your hand in these cows, unlike last years #AGBT! I am not even going to try and understand...<br />
++15m <a href="https://twitter.com/#!/CRIgenomics">CRIgenomics</a>: Google image search on "fistulated cow"...it was one of the best talks of last years #AGBT. Maybe the Zebra shaving video was better?<br />
++16m <a href="https://twitter.com/#!/p_hi1">p_hi1</a>: "80% of the genome is expressed in the form of a primary transcript: 90.7% of exon, 79.3% of intron, and 35.5% of intergenic bases." #agbt<br />
++20m <a href="https://twitter.com/#!/p_hi1">p_hi1</a>: Good review: AGBT 2012 Day 2: Cancer, Technology, and Oxford Nanopore: <a rel="nofollow" href="http://t.co/sDKc1phY">http://t.co/sDKc1phY</a><br />
++24m <a href="https://twitter.com/#!/robincoope">robincoope</a>: Domestic yaks! #agbt<br />
++28m <a href="https://twitter.com/#!/pathogenomenick">pathogenomenick</a>: sounds rattled! RT @neilhall_uk: Rothberg does not believe it. <a rel="nofollow" href="http://t.co/P29C99Aq">http://t.co/P29C99Aq</a> Who would have thunk? #agbt #nanopore<br />
++28m <a href="https://twitter.com/#!/pathogenomenick">pathogenomenick</a>: "sequence A bacteria??" ughh #fail RT @neilhall_uk: Rothberg does not believe it. <a rel="nofollow" href="http://t.co/P29C99Aq">http://t.co/P29C99Aq</a> Who would have thunk? #agbt #nanopore<br />
++30m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Michel Georges: color sidedness in cow due to circular bubble containing Kit gene moving from 1 chr to another, partially coming back!<br />
++34m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Jesse Gray from Harvard Medical School up next to tell us about mRNA dynamics from unperturbed cells at steady state using RNA-Seq #AGBT<br />
++35m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Gray: doesn't want to disappoint everyone but his USB stick only contains his PowerPoint slide  #AGBT<br />
++36m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Jesse Gray up next: this may be disappointing, but all I have on this usb is my talk #AGBT<br />
++36m <a href="https://twitter.com/#!/omespeak">omespeak</a>: I can see the joke about 'it is only a USB stick not a sequence' getting old pretty quick here. Jesse Gray does the first one. #AGBT<br />
++37m <a href="https://twitter.com/#!/bffo">bffo</a>: Jesse Gray: next: "after yesterday's talk, you may be disappointed, but all I have on my USB stick is my talk" #agbt<br />
++38m <a href="https://twitter.com/#!/bffo">bffo</a>: JG Kinetic analysis of RNA important, on patient tissues, yes, I strongly agree! #agbt<br />
++38m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Michel Georges: genetic bubble that came back inserted near Kit, did not contain Kit but piece of chr6-chr29<br />
++39m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Gray: existing methods for studying RNA kinetics alter transcription, RNA-Seq is better method #AGBT<br />
++40m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Gray: RNA-Seq densities across introns have negative slopes, why? #AGBT<br />
++41m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Gray: negative slope is not simply due to RNA polymerase falling off #AGBT<br />
++42m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Gray: negative slope is due to the intermediate steps in RNA synthesis, starting from first exon and proceeding to further exons #AGBT<br />
++43m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Gray: negative slope is proportional to transcription initiation rate #AGBT<br />
++43m <a href="https://twitter.com/#!/bffo">bffo</a>: JG  introns have negative  slope 1st principles: transcription, splicing & degraded steady state #agbt  cool to go back to 1st principles!<br />
++44m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Jesse Gray on RNA-seq for in vivo mRNA dynamics from unperturbed cells at steady state  #AGBT<br />
++45m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Gray: some transcripts are longer than diameter of the nucleus, how then do splice sites find each other? #AGBT<br />
++46m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Gray: splicing of long introns requires waiting for transcription of intron to finish #AGBT<br />
++47m <a href="https://twitter.com/#!/bffo">bffo</a>: JG Large introns are processed as efficiently as short ones #agbt<br />
++47m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Gray: actually, he disproved that. Splicing does not wait for transcription of next intron. #AGBT<br />
++49m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Jesse Gray: a lot of mRNA dynamics information can be extracted from RNA-seq read densities across gene bodies and especially introns<br />
++50m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Gray: describing relationship between RNA-Seq read densities and mRNA processing time #AGBT - too much calculus this early in the morning<br />
++50m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Jesse Gray: for example splicing of an intron does not have to wait from next intron to be transcribed<br />
++51m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT: but splicing of long introns waits for transcription of the intron to finish, no pre-splicing<br />
++52m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Jesse Gray on RNA-Seq kinetics in vivo: splicing occurs during transcription. Intron size no effect on rate #AGBT<br />
++52m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Jesse Gray: but splicing of long introns waits for transcription of the intron to finish, no splicing of partially transcribed introns<br />
++54m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Gray: Lariat formation = 2 minute, exon ligation = 1 minute, intron degradation = 30 seconds #AGBT<br />
++55m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Jesse Gray: overall intron processing times:  lariat formation takes 2mins, exon ligation 1min, intron degradation 0.5min<br />
++56m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Gray: gene expression by RNA-Seq is bimodal #AGBT<br />
++57m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Jesse Gray: gene expression by RNA-seq is typically bimodal, low mode is 1-2 copies per cell<br />
++58m <a href="https://twitter.com/#!/CRIgenomics">CRIgenomics</a>: Knock knock, can we come in? There are 1000 attendees at #AGBT that want a new sequencer. <a rel="nofollow" href="http://t.co/Un5TZO3n">http://t.co/Un5TZO3n</a></p>
+<p><strong>8 - 9am EST</strong><br />
++5m <a href="https://twitter.com/#!/illumina">illumina</a>: #AGBT Workshop: Eliminating the Sequencing Informatics Bottleneck -- starts in 10 min, Illumina Lounge (Capri Ballroom 2/3)<br />
++6m <a href="https://twitter.com/#!/wimufi">wimufi</a>: I'm way behind, too MT @mrrizkallah It's been 2 hours and I am half way thru #AGBT tweets. This is a 500X coverage :-)<br />
++18m <a href="https://twitter.com/#!/wimufi">wimufi</a>: Doesnt $ILM own stake? MT @Matt_Francis #AGBT obi-wan: I felt a disturbance in the force, as if a million $ILM investors cried out in pain<br />
++21m <a href="https://twitter.com/#!/neilhall_uk">neilhall_uk</a>: Rothberg does not believe it. <a rel="nofollow" href="http://t.co/bAPfYKXJ">http://t.co/bAPfYKXJ</a> Who would have thunk? #agbt #nanopore<br />
++25m <a href="https://twitter.com/#!/accelmed">accelmed</a>: Unveiled: 1 of coolest inventions @ Wyss/HMS: DNA Nanobot 4 Immune Programming <a rel="nofollow" href="http://t.co/LeEYghZ1">http://t.co/LeEYghZ1</a>  #tedmed #futuremed @hackmedmit #agbt<br />
++38m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: Not sure I can chair session and tweet at the same time, but I'm sure @girlscientist will be all over it! #AGBT<br />
++57m <a href="https://twitter.com/#!/omespeak">omespeak</a>: As expected, the New York Times picks up on the Oxford Nanopore story: <a rel="nofollow" href="http://t.co/FFOo7EdS">http://t.co/FFOo7EdS</a> #AGBT<br />
++57m <a href="https://twitter.com/#!/bongopondit">bongopondit</a>: As expected, the New York Times picks up on the Oxford Nanopore story: <a rel="nofollow" href="http://t.co/EI0suLLp">http://t.co/EI0suLLp</a> #AGBT<br />
++59m <a href="https://twitter.com/#!/Personal_RX_WI">Personal_RX_WI</a>: Last day of #AGBT. Genomics Studies morning session about to get under way.</p>
+<p><strong>7 - 8am EST</strong><br />
++33m <a href="https://twitter.com/#!/chloe46037">chloe46037</a>: Here we go. Day 4 #AGBT .</p>
+<p><strong>6 - 7am EST</strong><br />
++4m <a href="https://twitter.com/#!/hinksonzxgzyq0">hinksonzxgzyq0</a>: Personal_RX_WI tweeting latest and greatest from world of agbt have fun Jaime and Mike!<br />
++56m <a href="https://twitter.com/#!/Chris_Evelo">Chris_Evelo</a>: Happily providing tutorials "@girlscientist: Boland final conclusion: he needs to go back to school for bioinformatics. Don't we all? #AGBT"<br />
++57m <a href="https://twitter.com/#!/Chris_Evelo">Chris_Evelo</a>: Happy 2 provide tutorials RT @girlscientist: Boland final conclusion: he needs to go back to school for bioinformatics. Don't we all? #AGBT</p>
+<p><strong>5 - 6am EST</strong><br />
++2m <a href="https://twitter.com/#!/nanopore">nanopore</a>: RT @genomesunzipped: Making sequencing simpler with nanopores: Our take on the new Oxford @Nanopore machines #AGBT <a rel="nofollow" href="http://t.co/pqWhsQYp">http://t.co/pqWhsQYp</a><br />
++28m <a href="https://twitter.com/#!/simonbayly">simonbayly</a>: MT @pathogenomenick: Oxford Nanopore megaton announcement: Why do you need a machine? <a rel="nofollow" href="http://t.co/wqwZlHRP">http://t.co/wqwZlHRP</a> #AGBT"<br />
++29m <a href="https://twitter.com/#!/pathogenomenick">pathogenomenick</a>: Well here you go, #AGBT day 4 tweets <a rel="nofollow" href="http://t.co/gedbgq8q">http://t.co/gedbgq8q</a> - I guess we're not expecting announcements today.<br />
++51m <a href="https://twitter.com/#!/mannersuwnwe4">mannersuwnwe4</a>: Rehm: discusses creating single database for clinical data, with tiered levels of curation AGBT</p>
+<p><strong>4 - 5am EST</strong><br />
++26m <a href="https://twitter.com/#!/kevinltweets">kevinltweets</a>: diluting rabbit's blood in water = your sample prep I.M.P.R.E.S.S.E.D. Oxford @Nanopore machines #AGBT <a rel="nofollow" href="http://t.co/RoarVw4d">http://t.co/RoarVw4d</a><br />
++45m <a href="https://twitter.com/#!/mincle">mincle</a>: @ElementoLab: #AGBT Scott Grimmond: axon guidance genes eg Robo2, Slt2, Sema3A often mutated in pancreatic adenocarcinomaoops sean<br />
++54m <a href="https://twitter.com/#!/phospho3d">phospho3d</a>: A disposable USB pocket-sized nanopore sequencer. <a rel="nofollow" href="http://t.co/dRl8NV8R">http://t.co/dRl8NV8R</a> #AGBT #science #cool</p>

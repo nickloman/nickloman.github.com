@@ -2,10 +2,10 @@
 layout: post
 title: "Why use Nextera over Nextera XT?"
 description: ""
-category: 
+category: notebook 
 tags: []
 ---
-{% include JB/setup %}
+
 
 My reply to an email I was sent about whether Nextera or Nextera XT a better choice for a whole-genome shotgun metagenomics project:
 

@@ -2,10 +2,10 @@
 layout: post
 title: "Advert: WG2 hackathon: Extracting strain level variation from shotgun metagenome data"
 description: ""
-category: 
+category: notebook 
 tags: []
 ---
-{% include JB/setup %}
+
 
 **Location**:       Cambridge at the Isaac Newton Institute November 7th -11th 2014
 

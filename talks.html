@@ -1,0 +1,13 @@
+---
+layout: page
+title: Talks
+header: Talks
+group: navigation
+---
+<ul>
+{% for talk in site.data.talks %}
+  <li>
+      {{ talk.place }} {{ talk.date }} {{ talk.title }}
+  </li>
+{% endfor %}
+</ul>

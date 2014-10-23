@@ -2,10 +2,10 @@
 layout: post
 title: "Webvalley: 16S Practical"
 description: ""
-category: 
+category: notebook 
 tags: []
 ---
-{% include JB/setup %}
+
 
 # 16S Practical #
 	

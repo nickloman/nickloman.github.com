@@ -2,10 +2,10 @@
 layout: post
 title: "HiSeq 2500 reagent guide"
 description: ""
-category: 
+category: notebook 
 tags: []
 ---
-{% include JB/setup %}
+
 
 There are two options: high output mode, or rapid run mode.
 

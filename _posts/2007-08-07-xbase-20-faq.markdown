@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: xBASE 2.0 - FAQ
+author:
+  display_name: Nick Loman
+  login: nick
+  email: n.j.loman@bham.ac.uk
+  url: http://xbase.bham.ac.uk
+author_login: nick
+author_email: n.j.loman@bham.ac.uk
+author_url: http://xbase.bham.ac.uk
+wordpress_id: 11
+wordpress_url: http://robson.bham.ac.uk:8001/blog/?p=11
+date: '2007-08-07 14:20:30 +0100'
+date_gmt: '2007-08-07 13:20:30 +0100'
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p>Hi all. there have been a few questions about the xBASE 2.0 Preview which I will answer here for the benefit of everyone.</p>
+<p><strong>Q: What happened to the incomplete genomes?</strong></p>
+<p>A: The xBASE 2.0 Preview only has complete genomes from NCBI at the moment. It has all the genomes and plasmids from the taxonomic groups represented by colibase, ftbase, campydb, pseuodb etc, but none others.</p>
+<p><strong>Q: When will the incomplete genomes return?</strong></p>
+<p>A: All the incomplete genomes from the current live site, plus as many other sequences as we can get our hands on will be in the full release of xBASE 2.0 which is slated for end of this month (or sooner if possible).</p>
+<p><strong>Q: Can you add xyz sequence?</strong></p>
+<p>A: The aim is to be completely comprehensive and cover all available bacterial genome sequences, both complete and incomplete, from all taxonomic subgroups. We may add archael sequences if there is demand from the community.</p>
+<p><strong>Q: There is a bug or a missing feature in xBASE 2.0 Preview that I need - what do I do?</strong></p>
+<p>A: Please email <a href="mailto:n.j.loman@bham.ac.uk">n.j.loman@bham.ac.uk</a> or post in the comments section of this blog.</p>

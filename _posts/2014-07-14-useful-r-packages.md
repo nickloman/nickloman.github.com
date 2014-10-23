@@ -2,10 +2,10 @@
 layout: post
 title: "Useful R packages"
 description: ""
-category: 
+category: notebook 
 tags: []
 ---
-{% include JB/setup %}
+
 
 A placeholder page for useful R packages/functions I have used:
 

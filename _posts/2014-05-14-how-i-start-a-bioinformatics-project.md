@@ -2,10 +2,10 @@
 layout: post
 title: "How I start a bioinformatics project"
 description: ""
-category: 
+category: notebook 
 tags: []
 ---
-{% include JB/setup %}
+
 
 Phil Ashton tweeted a link to this nice paper from 2009 about how to set up a bioinformatics project file hierarchy: <http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1000424>
 

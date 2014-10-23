@@ -2,10 +2,10 @@
 layout: post
 title: "Bacterial genomics course"
 description: ""
-category: teaching
+category: notebook teaching
 tags: [assembly]
 ---
-{% include JB/setup %}
+
 
 # Practicals hand-out
 

@@ -1,0 +1,27 @@
+---
+layout: page
+title: Publications
+header: Publications
+group: navigation
+---
+
+{% assign year = '' %}
+
+{% for pub in site.data.pubs %}
+  {% capture pub_date %}{{ pub.PubDate | split:" " | first }}{% endcapture %}
+
+  {% if pub_date != year %}
+     <h2>{{ pub_date }}</h2>
+     {% assign year = pub_date %}
+  {% endif %}
+
+  <p>
+     {{ pub.AuthorList | array_to_sentence_string }}
+     <b>{{ pub.Title }}</b>
+     <em>{{ pub.FullJournalName | capitalize }}</em>
+     {{ pub.SO }}
+     (<a href="http://dx.doi.org/{{pub.DOI}}">{{ pub.DOI }}</a>)
+  </p>
+
+{% endfor %}
+</ul>

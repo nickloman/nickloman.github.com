@@ -2,10 +2,10 @@
 layout: post
 title: "Speccing a high memory server"
 description: ""
-category: servers
+category: notebook servers
 tags: [high-memory]
 ---
-{% include JB/setup %}
+
 
 Want to get a 512Gb server that doesn't break the bank, with decent single processor performance addressing all available RAM. 
 

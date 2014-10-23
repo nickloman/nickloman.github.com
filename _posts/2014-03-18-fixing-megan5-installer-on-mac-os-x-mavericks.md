@@ -2,10 +2,10 @@
 layout: post
 title: "Fixing MEGAN5 installer on Mac OS X Mavericks"
 description: ""
-category: 
+category: notebook 
 tags: []
 ---
-{% include JB/setup %}
+
 
 I couldn't install MEGAN5 on my Mac running OS X Mavericks, as it
 was complaning that the installer was damaged.

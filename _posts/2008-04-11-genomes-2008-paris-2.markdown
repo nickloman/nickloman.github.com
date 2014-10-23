@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Genomes 2008, Paris #2'
+author:
+  display_name: Nick Loman
+  login: nick
+  email: n.j.loman@bham.ac.uk
+  url: http://xbase.bham.ac.uk
+author_login: nick
+author_email: n.j.loman@bham.ac.uk
+author_url: http://xbase.bham.ac.uk
+wordpress_id: 26
+wordpress_url: http://pathogenomics.bham.ac.uk/blog/?p=26
+date: '2008-04-11 11:23:22 +0100'
+date_gmt: '2008-04-11 10:23:22 +0100'
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p>Several stimulating talks so far today. A highlight was the announcement from <span class="texte12gras">Erick </span><span class="texte12grasmaj">Denamur</span> of <a href="http://www.genoscope.fr">Genoscope</a> that they have finished 6 new <em>E. coli</em> strains. One of the nice findings from the talk was a very nice phylogenetic reconstruction of the <em>E. coli </em>(and Shigella) groups. To the consternation of Mark Pallen he made the claim for  K12 being the closest strain to the common ancestor of <em>E. coli. </em>This was justified, on questioning, not just by genome size, but the gene composition. Mark will defend his view that <a href="http://www.blackwell-synergy.com/doi/abs/10.1111/j.1365-2958.2007.05710.x">K-12 is neither archetype nor ancestor</a> later on today. It will be interesting to scrutinise the data further - the <a href="http://www.genoscope.cns.fr/spip/Escherichia-fergusonii">Coliscope project homepage</a> does not let have a link to download the data, but we expect it will be there soon.</p>

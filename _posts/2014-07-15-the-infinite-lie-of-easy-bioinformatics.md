@@ -2,10 +2,10 @@
 layout: post
 title: "The infinite lie of easy bioinformatics"
 description: ""
-category: 
+category: notebook 
 tags: []
 ---
-{% include JB/setup %}
+
 
 Small rant.
 

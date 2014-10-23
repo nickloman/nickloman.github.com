@@ -2,10 +2,10 @@
 layout: post
 title: "Use  X with bowtie2 to set minimum and maximum insert sizes for Nextera libraries"
 description: ""
-category: 
+category: notebook 
 tags: []
 ---
-{% include JB/setup %}
+
 
 Bowtie2 defaults to a minimum and maximum insert size of 0 and 500.
 

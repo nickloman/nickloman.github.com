@@ -1,0 +1,964 @@
+---
+layout: post
+status: publish
+published: true
+title: AGBT 2012 Tweets Day 3
+author:
+  display_name: Nick Loman
+  login: nick
+  email: n.j.loman@bham.ac.uk
+  url: http://xbase.bham.ac.uk
+author_login: nick
+author_email: n.j.loman@bham.ac.uk
+author_url: http://xbase.bham.ac.uk
+wordpress_id: 1049
+wordpress_url: http://pathogenomics.bham.ac.uk/blog/?p=1049
+date: '2012-02-17 10:47:07 +0000'
+date_gmt: '2012-02-17 10:47:07 +0000'
+categories:
+- Genomics
+tags:
+- agbt
+comments:
+- id: 59822
+  author: AGBT 2012 Day 1 Tweets
+  author_email: ''
+  author_url: http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2012-day-1-tweets/
+  date: '2012-02-17 10:51:20 +0000'
+  date_gmt: '2012-02-17 10:51:20 +0000'
+  content: '[...] day 1 tweets! (Day 2, Day 3, Day [...]'
+- id: 59824
+  author: AGBT 2012 Day 2 Tweets
+  author_email: ''
+  author_url: http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2012-day-2-tweets/
+  date: '2012-02-17 10:52:41 +0000'
+  date_gmt: '2012-02-17 10:52:41 +0000'
+  content: '[...] 1, Day 2, Day 3, Day [...]'
+- id: 59827
+  author: AGBT 2012 Blog Post Round-up
+  author_email: ''
+  author_url: http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2012-blog-post-round-up/
+  date: '2012-02-17 11:37:34 +0000'
+  date_gmt: '2012-02-17 11:37:34 +0000'
+  content: '[...] AGBT 2013 day 3 tweets [...]'
+---
+<p>(<a href="http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2012-day-1-tweets/">Day 1</a>, <a href="http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2012-day-2-tweets/">Day 2</a>, Day 3, <a href="http://pathogenomics.bham.ac.uk/blog/2012/02/agbt-2012-day-4-tweets/">Day 4</a>)</p>
+<p>AGBT has been low on announcements so far. As <a href="http://www.massgenomics.org/2012/02/agbt-2012-day-1-clinical-annotation-and-fierce-competition.html">Dan Koboldt says</a> people are now a bit more focused on how to interpret all that lovely data they've been generating. Probably no bad thing, but that's not what we want from AGBT. We want buzz, hype, outrageous marketing statements and speculation on the future of sequencing.</p>
+<p>Today my prayers may be answered ... all eyes will be on Clive Brown and Oxford Nanopore at 11:40am local (4:40pm GMT).</p>
+<p>Scientific agenda</p>
+<p>9:00-9:35 am, Keynote Speaker: Rick Myers, HudsonAlpha Institute for Biotechnology, “Genetics and Epigenetics of Human Gene Regulation”<br />
+9:35-10:05 am, Tom Gingeras, Cold Spring Harbor Laboratory, “Important Lessons from Complex Genomes”<br />
+10:05-10:25 am, Geoffrey Smith, Illumina Cambridge Ltd., “The Miseq DNA Sequencing Platform and Application in Clinical Microbiology”<br />
+11:00-11:20 am, Joseph Boland, National Cancer Institute, “Exome Sequencing on the PGM: Exome in a Day”<br />
+11:20-11:40 am, Richard Roberts, New England Biolabs, “Characterization of DNA Methyltransferase Specificities Using Single-Molecule, Real-Time DNA Sequencing”<br />
+11:40 am-12:00 pm, Clive Brown, Oxford Nanopore Technologies, “Single Molecule ‘Strand’ Sequencing Using Protein Nanopores and Scalable Electronic Devices”<br />
+12:15-2:15 pm, Pacific Biosciences Workshop<br />
+2:15-2:35 pm, Illumina, Inc., Elliott Margulies, “From Sample to Answer: Fast and Accurate Genome Sequencing for the Clinic”<br />
+2:35-2:55 pm, Caliper a Perkin Elmer Company, Kevin Hrusovsky, “Next Generation Technologies Enabling a Revolution in Medicine”<br />
+2:55-3:15 pm, Complete Genomics, Carlos Bustamante, Stanford University, “Population Genetic Inference in the Personal Era”<br />
+3:15-3:35 pm, RainDance Technologies, Andy Watson, “Recent Publication Successes: The Power of RainDance Targeted Sequencing”<br />
+3:35-3:55 pm, Advanced Analytical, Steve Siembieda, “Fragment Analyzer™- Streamlining Quality and Quantity Analysis of Nucleic Acids”<br />
+3:55-4:15 pm, NuGen Technologies, Inc., Elaine Mardis, Washington University School of Medicine, “Simplifying Genomic Sample Preparation with Digital Microfluidics”</p>
+<p>Evening session topics</p>
+<p>Cancer and Transcriptomes (Michael Metzker, Baylor College of Medicine, Chair)<br />
+Genome Biology (Steven Jones, British Columbia Cancer Agency, Chair)<br />
+Computational Biology (Mike Zody, Broad Institute of MIT and Harvard, Chair)</p>
+<p><REPLACE></REPLACE><br />
+<strong>Most popular tweets</strong><br />
+(34) <a href="https://twitter.com/#!/nanopore">nanopore</a>: Introducing the MinION, a nanopore sequencer the size of a USB stick. Works just like GridION, but smaller #AGBT<br />
+(22) <a href="https://twitter.com/#!/pathogenomenick">pathogenomenick</a>: Oxford Nanopore megaton announcement: Why do you need a machine?  exclusive interview on my blog! <a rel="nofollow" href="http://t.co/tJxQit9T">http://t.co/tJxQit9T</a> #AGBT<br />
+(22) <a href="https://twitter.com/#!/kbradnam">kbradnam</a>: Reactions to @nanopore news. Biologists: cheer. Bioinformaticians: groan. System admins: weep. #AGBT<br />
+(20) <a href="https://twitter.com/#!/bioitworld">bioitworld</a>: Full story on Oxford @nanopore stunning presentation from CTO Clive Brown at #AGBT <a rel="nofollow" href="http://t.co/VNvCxLQN">http://t.co/VNvCxLQN</a><br />
+(17) <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: Here's a spy photo from a projected sequencing center, planned to open in early 2013: <a rel="nofollow" href="http://t.co/BjaSNe1P">http://t.co/BjaSNe1P</a> #AGBT<br />
+(17) <a href="https://twitter.com/#!/Matt_Francis">Matt_Francis</a>: #AGBT obi-wan:I felt a great disturbance in the force, as if a million #illumina investors cried out in pain #oxford #Nanopore<br />
+(13) <a href="https://twitter.com/#!/nanopore">nanopore</a>: of course! RT @kbradnam: @nanopore release also reveals that MinION syncs with iTunes, acts as a 3G modem, and has a fresh lemon scent #AGBT<br />
+(13) <a href="https://twitter.com/#!/genomesunzipped">genomesunzipped</a>: Making sequencing simpler with nanopores: Our take on the new Oxford @Nanopore machines #AGBT <a rel="nofollow" href="http://t.co/cjrQX1db">http://t.co/cjrQX1db</a><br />
+(12) <a href="https://twitter.com/#!/kbradnam">kbradnam</a>: Things to tell your grandchildren: "and we used to work in large buildings called sequencing centers" #AGBT<br />
+(10) <a href="https://twitter.com/#!/pathogenomenick">pathogenomenick</a>: The full Oxford Nanopore press release up here <a rel="nofollow" href="http://t.co/JnJHjsD4">http://t.co/JnJHjsD4</a> #AGBT<br />
+(9) <a href="https://twitter.com/#!/genetics_blog">genetics_blog</a>: If looking through the #AGBT tag is too daunting, @pathogenomenick is doing a fine job summarizing at <a rel="nofollow" href="http://t.co/CWWf79Yi">http://t.co/CWWf79Yi</a>. Thank you sir<br />
+(9) <a href="https://twitter.com/#!/pathogenomenick">pathogenomenick</a>: I've embedded all the nanopore videos on the blog here <a rel="nofollow" href="http://t.co/rhBpP9XS">http://t.co/rhBpP9XS</a> #AGBT<br />
+(9) <a href="https://twitter.com/#!/acdarby">acdarby</a>: I am a bit worried that my computer does not have enough USB ports to turn it into a sequencing lab #AGBT @nanopore!<br />
+(7) <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Rich Roberts plays to crowd by asking if some of money being spent on DNA sequencing could instead be used figuring out what genes do. #AGBT<br />
+(6) <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Myers: analysis of DNA methylation in family shows genetics have strong effect, <a rel="nofollow" href="http://t.co/TxLlZIle">http://t.co/TxLlZIle</a> #AGBT<br />
+(6) <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Tom Gingeras: extremely low copy number transcripts in 1 cell type can be highly expressed in another cell type<br />
+(6) <a href="https://twitter.com/#!/timjph">timjph</a>: New sequencers announced at #AGBT by Oxford Nanopore; one USB sized @pathogenomenick: full press release here <a rel="nofollow" href="http://t.co/fYNWJYEf">http://t.co/fYNWJYEf</a> #AGBT<br />
+(5) <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Tom Gingeras: intergenic regions migth be much smaller than currently thought, genes might massively overlap<br />
+(5) <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Eric Green asks Geoffrey Smith of Illumina the $1M question: where do you actually see MiSeq's being deployed? A: in clinics, we hope #AGBT<br />
+(5) <a href="https://twitter.com/#!/bmahersciwriter">bmahersciwriter</a>: RT @girlscientist: Eric Green asks Illumina the $1M question: where do you actually see MiSeq's being deployed? A: in clinics, we hope #AGBT<br />
+(5) <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Joseph Boland on IonTorrent PGM "Exome in a Day". Sure, if you ignore the fact that hybridization takes 3 days. #AGBT.<br />
+(5) <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: RR: There is a lot of money being spent on sequencing- it would be nice to see some of that spent on understanding what genes do. #AGBT<br />
+(5) <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: Richard Roberts: "Can we use a fraction of the $$$ we spend on sequencing, to actually find out what the genes are doing?" #applause #AGBT<br />
+(5) <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Clive Brown: RNA can be DIRECTLY read using nanopores - no cDNA<br />
+(5) <a href="https://twitter.com/#!/notSoJunkDNA">notSoJunkDNA</a>: So, it's for real? DNA sequencer the size of a USB key: <a rel="nofollow" href="http://t.co/VSOyO4WD">http://t.co/VSOyO4WD</a> #AGBT (via @nanopore )<br />
+(5) <a href="https://twitter.com/#!/illumina">illumina</a>: Loman and Robison on #AGBT big news, the MiniIon <a rel="nofollow" href="http://t.co/EUYEpp1d">http://t.co/EUYEpp1d</a> and <a rel="nofollow" href="http://t.co/iGRNR6gq">http://t.co/iGRNR6gq</a><br />
+(5) <a href="https://twitter.com/#!/leonidkruglyak">leonidkruglyak</a>: Great problem to have: "how will 100kb+ reads change your research?" <a rel="nofollow" href="http://t.co/5A6wlkfc">http://t.co/5A6wlkfc</a> #AGBT<br />
+(5) <a href="https://twitter.com/#!/SEQanswers">SEQanswers</a>: Realists: spit take. @kbradnam: Reactions to @nanopore news. Biologists: cheer. Bioinformaticians: groan. System admins: weep. #AGBT<br />
+(5) <a href="https://twitter.com/#!/kbradnam">kbradnam</a>: Warning to all employees of @Nanopore. If you carry any 'regular' USB flash drives on you, prepare to be mugged by rabid genomicists #AGBT<br />
+(4) <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Come tweet my talk at 730 tonight #AGBT, Salon E/F: you will learn about the awesome power of immunogenomics (*hype included w/no charge)!</p>
+<p><strong>5 - 6am EST</strong><br />
++5m <a href="https://twitter.com/#!/archivist84">archivist84</a>: Question to those at #AGBT - After we sort the #datadeluge will we have to tackle an #informationinundation ???<br />
++9m <a href="https://twitter.com/#!/t_basi">t_basi</a>: Nice blog that even I can understand: #AGBT  Marco Island Never Gets Old <a rel="nofollow" href="http://t.co/QrvhInBo">http://t.co/QrvhInBo</a><br />
++25m <a href="https://twitter.com/#!/lucamartins12">lucamartins12</a>: @begandara p mlk agbt vai aloprar<br />
++34m <a href="https://twitter.com/#!/ewanbirney">ewanbirney</a>: I went past 1000 followers yesterday - no doubt to AGBT - am and now at the round number of 1011. Welcome!<br />
++47m <a href="https://twitter.com/#!/pathogenomenick">pathogenomenick</a>: #AGBT day 3 tweets kick off here <a rel="nofollow" href="http://t.co/RfDEXv7H">http://t.co/RfDEXv7H</a>  - today's the big one!</p>
+<p><strong>6 - 7am EST</strong><br />
++4m <a href="https://twitter.com/#!/omespeak">omespeak</a>: RT @pathogenomenick All of the #AGBT day 2 tweets are available at <a rel="nofollow" href="http://t.co/1XkWv6XH">http://t.co/1XkWv6XH</a><br />
++5m <a href="https://twitter.com/#!/pathogenomenick">pathogenomenick</a>: A bit of info on GnuBIO and Lasergen announcements <a rel="nofollow" href="http://t.co/wmy0taIZ">http://t.co/wmy0taIZ</a> #AGBT  - both sound pretty interesting!<br />
++19m <a href="https://twitter.com/#!/mcaccamo">mcaccamo</a>: RT @GenomeAnalysis: if you are at #AGBT remember at 16:30 - 18:00 today Rob Davey will be presenting MISO - An Open Source LIMS - Poster 71<br />
++29m <a href="https://twitter.com/#!/hiro_h">hiro_h</a>: AGBT tweets 2012 (1) <a rel="nofollow" href="http://t.co/Gn5LFZMN">http://t.co/Gn5LFZMN</a></p>
+<p><strong>7 - 8am EST</strong><br />
++7m <a href="https://twitter.com/#!/pascal_biotech">pascal_biotech</a>: Good report on AGBT 2012 Day 1: Clinical Annotation and Fierce Competition <a rel="nofollow" href="http://t.co/shuHIlKH">http://t.co/shuHIlKH</a> #agbt<br />
++11m <a href="https://twitter.com/#!/engawa_02">engawa_02</a>: AGBT tweets 2012 (1) <a rel="nofollow" href="http://t.co/AaFMlZYq">http://t.co/AaFMlZYq</a><br />
++21m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Come tweet my talk at 730 tonight #AGBT, Salon E/F: you will learn about the awesome power of immunogenomics (*hype included w/no charge)!</p>
+<p><strong>8 - 9am EST</strong><br />
++24m <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: RT @rforsberg: Europe also has a genomics conference inspired by #AGBT - it's called @Copenhagenomics - <a rel="nofollow" href="http://t.co/FJrXPacO">http://t.co/FJrXPacO</a> #CPHx<br />
++24m <a href="https://twitter.com/#!/illumina">illumina</a>: New blog post from Live at #AGBT <a rel="nofollow" href="http://t.co/isP5PzDn">http://t.co/isP5PzDn</a><br />
++39m <a href="https://twitter.com/#!/GenomeScience">GenomeScience</a>: via @girlscientist at #AGBT Good q at @PacBio event: who's going to pay for the storage of data we all want to generate?<br />
++45m <a href="https://twitter.com/#!/illumina">illumina</a>: On Facebook? Check out pictures from #AGBT on our page. <a rel="nofollow" href="http://t.co/dQC1dUKE">http://t.co/dQC1dUKE</a><br />
++59m <a href="https://twitter.com/#!/omespeak">omespeak</a>: RT @illumina: New blog post from Live at #AGBT <a rel="nofollow" href="http://t.co/f8Cn91ky">http://t.co/f8Cn91ky</a></p>
+<p><strong>9 - 10am EST</strong><br />
++0m <a href="https://twitter.com/#!/fluidigm">fluidigm</a>: Suite 285 at #AGBT, last day for drop in discussions, 9am -5pm, Single-Cell Gene Expression, Targeted Resequencing and more&gt;o<br />
++0m <a href="https://twitter.com/#!/omespeak">omespeak</a>: We had GnuBio and LaserGen announcing new sequencing machines last night. Today, Oxford Nanopore makes big announcement. #AGBT preview<br />
++1m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: Good Morning! Here are some more live updates via @dgaalaas on some of the talks from Life Tech and GNUbio #AGBT <a rel="nofollow" href="http://t.co/yQV86960">http://t.co/yQV86960</a><br />
++3m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: First talk of morning session: Rick Myers from HudsonAlpha talking about genetics and epigenetics of gene regulation #AGBT<br />
++3m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: Good morning! Up first Rick Myers on genetics and epigenetics of human gene regulation. #AGBT<br />
++3m <a href="https://twitter.com/#!/CompleteGenomic">CompleteGenomic</a>: Come see Steve Lincoln, our VP of scientific apps, present on our assembly process in the #AGBT Complete Suite today at 10:30 am<br />
++5m <a href="https://twitter.com/#!/bffo">bffo</a>: RM has been working on transcription gene regulation for 30 years ... Should be a great talk! #agbt<br />
++5m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Day 2 of #AGBT starts with Rick Myers of @HudsonAlpha. That's my boss up there, so I expect only good tweets from y'all.<br />
++5m <a href="https://twitter.com/#!/bioinfosm">bioinfosm</a>: #agbt tweeps, wassup with the tweetup; when and where? #anotherParty<br />
++6m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: .@bioinfosm #AGBT tweetup is in hotel lobby bar at 9:30ish after sessions end tonight.<br />
++7m <a href="https://twitter.com/#!/bffo">bffo</a>: C U all there! RT @girlscientist: .@bioinfosm #AGBT tweetup is in hotel lobby bar at 9:30ish after sessions end tonight.<br />
++9m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: R Myers echoes theme of meeting: you learn a lot more when you integrate a number of different data types, as in ENCODE. #AGBT<br />
++9m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rick Myers: we will learn a lot by integrating interactome, transcriptome, methylome and allelic variation<br />
++12m <a href="https://twitter.com/#!/bffo">bffo</a>: RM:Encode neophytes should look at the guide paper,  from PLoS Biology paper <a rel="nofollow" href="http://t.co/gvTjRKCf">http://t.co/gvTjRKCf</a>   #AGBT<br />
++14m <a href="https://twitter.com/#!/illumina">illumina</a>: Rick Myers, HudsonAlpha Inst, Encode: Integrate data from interactome, transcriptome, methylome with allelic variation #AGBT<br />
++14m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rick Myers: has performed ChIP-seq for ~80 transcription factors in many cell lines for ENCODE<br />
++14m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: RM: analyzed over 80 transcription factors as part of ENCODE #AGBT<br />
++15m <a href="https://twitter.com/#!/dgaalaas">dgaalaas</a>: Good morning. Rick Myers from Hudson Alpha talking ENCODE and ChIP-Seq at #AGBT<br />
++16m <a href="https://twitter.com/#!/illumina">illumina</a>: Myers: NSRF is almost exclusively a repressor, binds ~2000 sites. Could not find NRSF binding site upstr of neuro D, until ChIP-Seq #AGBT<br />
++16m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: RM: by integrating binding data with variation data they can find both allele biased ans allele specific binding. #AGBT<br />
++17m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rick Myers: found a lot of allele-specific binding<br />
++17m <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: #AGBT Rick Meyers on the gene regulation and the ENCODE project. Allele specific expression is wide spread.<br />
++18m <a href="https://twitter.com/#!/illumina">illumina</a>: Myers: ChIP-seq on over 80 TFs many cell lines. Allele specific occupancy of protein on DNA & only G allele bound by GABP #AGBT<br />
++19m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rick Myers: have developed transposon mediated method to make RNA-seq libraries, Gertz et al, 2012, Genome Research<br />
++19m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rick Myers: can work with very small quantities of RNA, down to 1ng<br />
++20m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Myers: recent paper on transposase-mediated construction of RNA-seq libraries, in @genomeresearch: <a rel="nofollow" href="http://t.co/1lpB7JY0">http://t.co/1lpB7JY0</a> #AGBT<br />
++20m <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: #AGBT RM on RNA-seq, alignment and gene models are an unsolved problem. Transposon based "shearing" improves lib prep.<br />
++20m <a href="https://twitter.com/#!/illumina">illumina</a>: Myers: w/RNA-seq 40M reads gives 40 reads for 1 kb. really really sensitive #AGBT<br />
++21m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Rick Myers mentions difficulty of sequencing methylation using bisulfite (too expensive now). Perhaps nanopores will change that? #AGBT<br />
++21m <a href="https://twitter.com/#!/illumina">illumina</a>: Myers RNA seq library contruction by transposon hopping, much more easier and quite sensitive only 10 pg mRNA #AGBT<br />
++21m <a href="https://twitter.com/#!/rnomics">rnomics</a>: RT @finchtalk: #AGBT RM on #RNA-seq, alignment and gene models are an unsolved problem.... <a rel="nofollow" href="http://t.co/ZJtnjjfa">http://t.co/ZJtnjjfa</a> #rnomics-bioscience @MyEN<br />
++22m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rick Myers: did RRBS on 82 cell lines and tissues for ENCODE, clearly cell lines massively hypermethylated compared to tissues<br />
++22m <a href="https://twitter.com/#!/GenomeBiology">GenomeBiology</a>: DNA methylation profiling of 82 cell lines and tissues on encode project. RM #agbt<br />
++23m <a href="https://twitter.com/#!/illumina">illumina</a>: Myers: DNA methylation, whole genome bisulfite expensive. Compromise =  RRBS, w/ Illumina 450k array. Very sensitive, quantitative #AGBT<br />
++23m <a href="https://twitter.com/#!/EpicentreBio">EpicentreBio</a>: RT @pathogenomenick: #AGBT blog-post round-up <a rel="nofollow" href="http://t.co/p3yUQSPV">http://t.co/p3yUQSPV</a><br />
++23m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Myers: analysis of DNA methylation in family shows genetics have strong effect, <a rel="nofollow" href="http://t.co/TxLlZIle">http://t.co/TxLlZIle</a> #AGBT<br />
++23m <a href="https://twitter.com/#!/NCBI">NCBI</a>: This afternoon at Poster 59, @deannachurch will discuss the impact of structural variation on genome assembly. #AGBT <a rel="nofollow" href="http://t.co/1Kj0Xmpy">http://t.co/1Kj0Xmpy</a><br />
++24m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: RM: genetics has a strong affect on methylation patterns. #AGBT<br />
++24m <a href="https://twitter.com/#!/EpicentreBio">EpicentreBio</a>: RT @illumina: On Facebook? Check out pictures from #AGBT on our page. <a rel="nofollow" href="http://t.co/nnwjLErU">http://t.co/nnwjLErU</a><br />
++24m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rick Myers: 92% allele specific methylation is genetic, 8% is imprinting<br />
++26m <a href="https://twitter.com/#!/illumina">illumina</a>: Myers: Genetics has a strong effect on methylation patterns, 8% allele-specific imprinting, 92% was genetic #AGBT<br />
++26m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rick Myers: in clinical trial of anti-DR5 antibody in breast cancer,  methylation at 114 CpGs  is associated w response to therapy<br />
++26m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: RT @NCBI: This afternoon at Poster 59, @deannachurch will discuss the impact of structural variation on genome assembly. #AGBT<br />
++27m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Good lineup at #AGBT this morning: Rick Myers (HudsonAlpha), Tom Gingeras (CSHL), Geoffrey Smith (Illumina), then much-needed coffee.<br />
++27m <a href="https://twitter.com/#!/GenomeRef">GenomeRef</a>: Com to poster 59 this afternoon at #AGBT to see what we are up to with the reference assembly. #AGBT<br />
++27m <a href="https://twitter.com/#!/omespeak">omespeak</a>: "correlation between methylation and gene expression depends on location of CpG" Rick Myers #AGBT<br />
++27m <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: Rick Myers, Hudson Alpha, shows 114 CpGs associated with response to antibody therapy. #AGBT<br />
++27m <a href="https://twitter.com/#!/illumina">illumina</a>: Myers: Correlation of methylation and gene expression depends on location of CpG #AGBT<br />
++28m <a href="https://twitter.com/#!/westr">westr</a>: +1 RT @girlscientist: Myers: analysis of DNA methylation in family shows genetics have strong effect, <a rel="nofollow" href="http://t.co/hgCK8IX7">http://t.co/hgCK8IX7</a> #AGBT #pm101<br />
++28m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rick Myers: methylation near TSSs negatively correlates w gene expression<br />
++29m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rick Myers: gene body methylation positively correlates w gene expression EXCEPT when CpG islands in gene bodies are methylated<br />
++30m <a href="https://twitter.com/#!/NCBI">NCBI</a>: Tonight at 9:30 in Salon G, NCBI's Eugene Yaschenko will talk about new NGS data compression strategies. #AGBT http:<a rel="nofollow" href="http://t.co/1Kj0Xmpy">http://t.co/1Kj0Xmpy</a><br />
++30m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rick Myers: these gene body CGI are typically enhancers, and need to be unmethylated for gene to be transcribed<br />
++31m <a href="https://twitter.com/#!/NCBI">NCBI</a>: Tonight at 9:30 in Salon G, NCBI's Eugene Yaschenko will talk about new NGS data compression strategies. #AGBT <a rel="nofollow" href="http://t.co/1Kj0Xmpy">http://t.co/1Kj0Xmpy</a><br />
++32m <a href="https://twitter.com/#!/GenomeBiology">GenomeBiology</a>: Genetics meets genomics when variants correlate with phenotype RM #agbt<br />
++32m <a href="https://twitter.com/#!/CompleteGenomic">CompleteGenomic</a>: Great roundtable discussion this morning with Carlos Bustamante of Stanford U at #AGBT <a rel="nofollow" href="http://t.co/7fcXmUAy">http://t.co/7fcXmUAy</a><br />
++33m <a href="https://twitter.com/#!/Gavin_Oliver">Gavin_Oliver</a>: # AGBT Will keep you up to date on Oxford Nanopore announcements here: <a rel="nofollow" href="http://t.co/Rk184B0R">http://t.co/Rk184B0R</a><br />
++33m <a href="https://twitter.com/#!/maureen_mack">maureen_mack</a>: Good morning @Personal_RX_WI friends at #agbt.  What's on the agenda for today?<br />
++36m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: Now up Tom Ginger as on important lessons from complex genomes. #AGBT<br />
++36m <a href="https://twitter.com/#!/CRIgenomics">CRIgenomics</a>: #ONT are talkng today at #AGBT, anyone want to place a bet on the type and number of genomes they have sequenced?<br />
++36m <a href="https://twitter.com/#!/bioinfosm">bioinfosm</a>: a real fun video (not sure of the facts yet) from #ionTorrent on homopolymer comparisons with #illumina = <a rel="nofollow" href="http://t.co/TcAfFaYQ">http://t.co/TcAfFaYQ</a> #agbt #ngs<br />
++36m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Tom Gingeras: lessons learned from complex genomes<br />
++37m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Like that Tom Gingeras's computer had a calendar reminder pop up: "Your Talk = Now." #AGBT<br />
++38m <a href="https://twitter.com/#!/Personal_RX_WI">Personal_RX_WI</a>: Day 3 #AGBT Genomic Studies and New Tech. Looking forward to Oxford Nanopore single molecule seq talk late morning. Stay tuned. . .<br />
++38m <a href="https://twitter.com/#!/omespeak">omespeak</a>: RT @CRIgenomics: #ONT are talkng today at #AGBT, anyone want to place a bet on the type and number of genomes they have sequenced?<br />
++38m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Tom Hudson on lessons learned from ENCODE and modENCODE  #AGBT<br />
++40m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Tom Gingeras on lessons learned from ENCODE and modENCODE #AGBT<br />
++40m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: TG: over 51,000 genic regions 40.5% protein coding, over 161,000 transcripts. #AGBT<br />
++40m <a href="https://twitter.com/#!/KamounLab">KamounLab</a>: Nanopores or NanoBores? RT @Gavin_Oliver # AGBT Will keep you up to date on Oxford Nanopore announcements here: <a rel="nofollow" href="http://t.co/vbSoAWYJ">http://t.co/vbSoAWYJ</a><br />
++41m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: TG: genes don't have a single control region- they have multiple. #AGBT<br />
++42m <a href="https://twitter.com/#!/bioinfosm">bioinfosm</a>: TG: 51k genes, 8 transcripts/gene on avg, 40% are protein coding; alt start could be anywhere; promoters embedded in introns as well! #agbt<br />
++42m <a href="https://twitter.com/#!/illumina">illumina</a>: Gingeras, Lessons learned from complex genomes. 8 transcripts per gene locus more than half are non-coding. #AGBT<br />
++42m <a href="https://twitter.com/#!/bffo">bffo</a>: RM: fEffects of sequence variation on differential allelic transcription factor occupancy & gene expression. <a rel="nofollow" href="http://t.co/qdAf8OxO">http://t.co/qdAf8OxO</a>  #AGBT<br />
++42m <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: #AGBT Tom Gingeras on the transcriptomes: the rule, genes have multiple control points. The exception is 1 gene 1 transcript<br />
++43m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Tom Gingeras: it is critical to think that most genes have multiple transcription initiation sites<br />
++43m <a href="https://twitter.com/#!/michaelgrr">michaelgrr</a>: presentation from Oxford @nanopore at the Advances in Genome Biology and Technology (#AGBT) conf coming up at 11.40am (EST) / 4.40pm (GMT).<br />
++43m <a href="https://twitter.com/#!/illumina">illumina</a>: Gingeras: Number of genes increased 41% since 2004, number of transcripts increased 52% since 2008 #AGBT<br />
++43m <a href="https://twitter.com/#!/timjph">timjph</a>: Lots of GRCh37 patches for one! RT @GenomeRef: poster 59 if you're at #AGBT to see what GRC is up to with the reference assembly<br />
++46m <a href="https://twitter.com/#!/bioinfosm">bioinfosm</a>: #agbt TG: thats a fun term i learnt 'irreproducibility detection rate IDR'<br />
++46m <a href="https://twitter.com/#!/bioinfosm">bioinfosm</a>: #agbt, sorry the term is from TG, but comment is mine :)<br />
++47m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Signing on from the Advances in Genome Biology and Technology Conference in Marco Island, FL. Day 2 of talks. #AGBT<br />
++47m <a href="https://twitter.com/#!/illumina">illumina</a>: Gingeras: cellular addresses RNA for localization: cytoplasmic, nuclear (nucleoli, nucleoplasm, chromatin) #AGBT<br />
++47m <a href="https://twitter.com/#!/westr">westr</a>: Would like to hear more about it: RT @iontorrent Rick Myers, Hudson Alpha, shows 114 CpGs associated with response to antibody therapy #AGBT<br />
++48m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Tom Gingeras: how do you know low read cnt is background or real transcription? irreproducibility detection rate (IDR) (Bickel et al)<br />
++48m <a href="https://twitter.com/#!/westr">westr</a>: RT @deannachurch: TG: over 51,000 genic regions 40.5% protein coding, over 161,000 transcripts. #AGBT // Includes ncRNA genes #pm101<br />
++49m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Tom Gingeras: 80% of the genome covered by primary transcripts (90.7% of exons, 79.3% of introns, 35.5% of intergenic seqs) #AGBT.<br />
++49m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Tom Gingeras: found up to 15K NOVEL multi exon transcripts in intergenic regions, 8K antisense<br />
++50m <a href="https://twitter.com/#!/westr">westr</a>: NB! RT @ElementoLab: #AGBT Tom Gingeras: it is critical to think that most genes have multiple transcription initiation sites #pm101<br />
++50m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Gingeras: A very large portion of the genome is appearing in the RNA space as unspliced transcript, very often polyA- and antisense. #AGBT<br />
++51m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Tom Gingeras: (that was based on RNA-seq in 15 cell lines)<br />
++51m <a href="https://twitter.com/#!/NEBiolabs">NEBiolabs</a>: Hear Rich Roberts, NEB CSO, speak at 11:20 in the Plenary Session at #AGBT. <a rel="nofollow" href="http://t.co/4LcUZpwW">http://t.co/4LcUZpwW</a><br />
++51m <a href="https://twitter.com/#!/CRIgenomics">CRIgenomics</a>: #AGBT Tom Gingeras IDR analysis (Li et al 2011). Statistics for two replicates, I know a lot of biologists who will say two is enough!<br />
++52m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Tom Gingeras: intergenic regions migth be much smaller than currently thought, genes might massively overlap<br />
++52m <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: @westr #AGBT cool stuff!  He is going into publication now.  Stay tuned.<br />
++53m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Gingeras elaborating on previous intriguing suggestions that the amount of transcription seen means we need to redefine "gene." #AGBT<br />
++53m <a href="https://twitter.com/#!/bongopondit">bongopondit</a>: Actually finding it easier to follow these genomics-heavy talks through the summaries on Twitter (my background is not in genomics). #AGBT<br />
++53m <a href="https://twitter.com/#!/bioinfosm">bioinfosm</a>: #agbt have not heard of STAR; TG: rna-seq reads mapped using STAR<br />
++53m <a href="https://twitter.com/#!/CRIgenomics">CRIgenomics</a>: Illumina previewed 687bp reads at #AGBT, no wonder Roche are circling. 25M on MiSeq coming soon...<br />
++55m <a href="https://twitter.com/#!/illumina">illumina</a>: Illumina Talk: MiSeq DNA Seq Platform and Application in Clinical Microbiology -- starts in 10 min, Island Ballroom #AGBT<br />
++55m <a href="https://twitter.com/#!/ClaireAinsworth">ClaireAinsworth</a>: This v cool. MT @girlscientist: Gingeras elaborating on suggestions that  amount of transcription seen = we need to redefine "gene." #AGBT<br />
++55m <a href="https://twitter.com/#!/bongopondit">bongopondit</a>: Missed this news earlier. 687bps! Holy moly! MT @CRIgenomics: Illumina previewed 687bp reads at #AGBT,<br />
++56m <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: For ea category of genes w/ 2 isoforms, both will be expressed in cells. Minor/alt isoforms seen in specific compartments  -T Gingeras #AGBT<br />
++56m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Missed this news earlier. 687bps! Holy moly! MT @CRIgenomics: Illumina previewed 687bp reads at #AGBT,<br />
++56m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Gingeras: most genes have multiple isoforms expressed - and these isoforms are each located in specific compartments of the cell. #AGBT<br />
++56m <a href="https://twitter.com/#!/illumina">illumina</a>: Gingeras: More than half of 247,685 unannotated single exome transcripts are intergenic and antisense #AGBT<br />
++57m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Tom Gingeras: in a given cell, most isoforms of a given gene are expressed, whether the gene has 2 isoforms or 10+<br />
++57m <a href="https://twitter.com/#!/illumina">illumina</a>: Gingeras: Reduction of intergenic region sizes, &lt;10,000 bp due to the discovery of more transcripts #AGBT<br />
++57m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Tom Gingeras did a 454 run looking for novel unannotated GTAG junction seqs. What was that "50% false neg rate for RNA-seq?" about? #AGBT<br />
++57m <a href="https://twitter.com/#!/PacBio">PacBio</a>: #AGBT PacBio Workshop today at 12:15 in Palms Ballroom. Speakers incl. Erich Jarvis (Duke), Paul Hagerman (UC Davis), Matt Waldor (Harvard)<br />
++58m <a href="https://twitter.com/#!/bioinfosm">bioinfosm</a>: #agbt Gingeras: fate of most long ncRNA is small RNA - confirmed by conservation analysis phastCons<br />
++58m <a href="https://twitter.com/#!/illumina">illumina</a>: Gingreas: an indivl cell w/ multiple isoforms, some dominant & the minor ones only in specific cell compartments. Incredible! #AGBT</p>
+<p><strong>10 - 11am EST</strong><br />
++2m <a href="https://twitter.com/#!/illumina">illumina</a>: Gingeras: Drospolia snoRNA, only 25-30% are capped full length, and 20-40% uncapped,= a specific processing site w/ends conserved! #AGBT<br />
++5m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Genomics papers are the new high-energy physics papers (50+ authors). #AGBT<br />
++6m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Tom Gingeras: extremely low copy number transcripts in 1 cell type can be highly expressed in another cell type<br />
++7m <a href="https://twitter.com/#!/illumina">illumina</a>: Gingeras: Transcript low copy can be a std feature in one cell but can change by 5 orders of magnitude in another cell type #AGBT<br />
++8m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Tom Gingeras: low copy number transcripts tend to be nuclear, but in specific compartments<br />
++8m <a href="https://twitter.com/#!/bioinfosm">bioinfosm</a>: if one were to spread out all the sessions (partying being the major part) at #AGBT to sequential events; it would be a month long affair!<br />
++10m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Now up - Geoffrey Smith: "The Miseq DNA Sequencing Platform and Application in Clinical Microbiology" #AGBT<br />
++11m <a href="https://twitter.com/#!/dgaalaas">dgaalaas</a>: Geoffrey Smith of ILMN talking MiSeq in clinical microbiology #AGBT<br />
++11m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Geoffrey Smith: using the Miseq for clinical microbiology applications<br />
++12m <a href="https://twitter.com/#!/dgaalaas">dgaalaas</a>: Uh-oh...just got the no-tweet disclaimer for this talk #AGBT<br />
++15m <a href="https://twitter.com/#!/NGSman">NGSman</a>: @dgaalaas #agbt There's always one<br />
++15m <a href="https://twitter.com/#!/bffo">bffo</a>: GS from Illumina "under review, no tweet" is a very lame excuse that is becoming very bogus ...  #badexcuse #verylame #agbt<br />
++17m <a href="https://twitter.com/#!/froggleston">froggleston</a>: GS: Can short turnaround time sequencing be applied to a clinical setting? I have sneaky feeling this will be a leading question. #agbt<br />
++20m <a href="https://twitter.com/#!/irondiet">irondiet</a>: OpGen Demonstrates Whole Human Chromosome Mapping Capabilities at 2012 AGBT ...: OpGen, Inc., a whole-genome ana... <a rel="nofollow" href="http://t.co/pB9ka95g">http://t.co/pB9ka95g</a><br />
++22m <a href="https://twitter.com/#!/mbcf">mbcf</a>: #AGBT finch and Duck. Tod lunches with RD <a rel="nofollow" href="http://t.co/Kiozg8Rq">http://t.co/Kiozg8Rq</a><br />
++24m <a href="https://twitter.com/#!/stuka">stuka</a>: I'm feeling lonely w/ everyone @ retreats or #AGBT, so I think I throw a few hundred thousands jobs into the cluster so I can get some email<br />
++27m <a href="https://twitter.com/#!/Personal_RX_WI">Personal_RX_WI</a>: #AGBT @illumina MiSeqused to track antibiotic resistant bacteria in hospitals. Clinical 2 day turn around time.<br />
++28m <a href="https://twitter.com/#!/CRIgenomics">CRIgenomics</a>: #AGBT: Some lovely examples of the impact of sequencing on clincal microbiology by Geoff Smith. Look out for publications coming soon...<br />
++31m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Eric Green asks Geoffrey Smith of Illumina the $1M question: where do you actually see MiSeq's being deployed? A: in clinics, we hope #AGBT<br />
++33m <a href="https://twitter.com/#!/bmahersciwriter">bmahersciwriter</a>: RT @girlscientist: Eric Green asks Illumina the $1M question: where do you actually see MiSeq's being deployed? A: in clinics, we hope #AGBT<br />
++36m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Judging by the questions, people are intensely curious about issues surrounding use of MiSeq in clinics. Validation? Translation? #AGBT<br />
++40m <a href="https://twitter.com/#!/CompleteGenomic">CompleteGenomic</a>: Heres another chance to see Jason Laramie presenting on family-based studies, today at the #AGBT Complete Suite at 1:00 pm<br />
++44m <a href="https://twitter.com/#!/assemblathon">assemblathon</a>: RT @djschlesinger: Schwartz: De novo assembly capabilities has not kept pace with increasing volumes of sequencing data #AGBT<br />
++48m <a href="https://twitter.com/#!/EpicentreBio">EpicentreBio</a>: MT @girlscientist: EG asks GS of Illumina the $1M question: where do you actually see MiSeq's being deployed? A: in clinics, we hope #AGBT<br />
++50m <a href="https://twitter.com/#!/ScienceAdvBoard">ScienceAdvBoard</a>: RT @illumina: Myers: Correlation of methylation and gene expression depends on location of CpG #AGBT<br />
++59m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Joseph Boland from NCI up next to discuss exome sequencing on the Ion PGM #AGBT</p>
+<p><strong>11 - 12pm EST</strong><br />
++0m <a href="https://twitter.com/#!/DNASTARInc">DNASTARInc</a>: Are you at #AGBT? Come see us at our poster featuring our #GWAS workflow today from 4:30-6:00 pm<br />
+<a rel="nofollow" href="http://t.co/7Bx7e75b">http://t.co/7Bx7e75b</a><br />
++4m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: #AGBT Joe Boland from NCI talking about exome sequencing on the ion torrent<br />
++4m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Strap in for the lightning round on new technologies #AGBT Starting off with Ion Torrent and the PGM.<br />
++4m <a href="https://twitter.com/#!/nanopore">nanopore</a>: Wow, busy in here #AGBT<br />
++5m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: Joseph Boland up after the break- talking about exome sequencing using the PGM. #AGBT<br />
++6m <a href="https://twitter.com/#!/dgaalaas">dgaalaas</a>: Welcome back to #agbt . Joe Boland talking about generating an Exome in a day on the PGM<br />
++6m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Joseph Boland: exome sequencing on the PGM: exome in a day<br />
++7m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: JB: now routinely getting 250bp reads- up from 100bp reads in Q1. "Length does matter" #AGBT<br />
++7m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Next up: Joseph Boland (NCI) on PGM exomes, Richard Roberts (NE bioLabs) on single-mol seq, Clive Brown of Oxford Nanopore! #AGBT<br />
++7m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Second session of morning underway, most anticipated probably the last one from Clive Owen Of Oxford Nano. #AGBT<br />
++8m <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: within the span of one year with PGM: went from simply looking at barcode diversity to now, exome sequencing -Joe Boland #AGBT<br />
++9m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: JB: Every 6-8 days producing 24-36 exomes on HiSeq but not a lot of flexibility in getting new samples in pipeline. PGM provides flex. #AGBT<br />
++9m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Also, final plug for this blog-post on nanopore technology till it becomes irrelevant in about an hour:   <a rel="nofollow" href="http://t.co/v331AKmW">http://t.co/v331AKmW</a>  #AGBT<br />
++9m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Boland: lab produces 24-36 exomes every 6-8 days #AGBT<br />
++9m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Boland singing praises of PGM for, among other things, meeting reviewer requests in two weeks. Hmmm. #AGBT<br />
++9m <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: #AGBT Joe Boland: exome in a day on the ion pgm.  Uses, data fast for paper resubmission, impending site visits, fill pedigree gaps, backup<br />
++9m <a href="https://twitter.com/#!/dgaalaas">dgaalaas</a>: Exomes on a PGM gives Joe flexibility - main platform is HiSeq2000 #agbt<br />
++10m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: #AGBT Boland: first PGM arrived in Jan '11, first exome data generated by Nov<br />
++10m <a href="https://twitter.com/#!/dgaalaas">dgaalaas</a>: Joe currently generating an Exome on PGM  via sequence across4-5 chips #agbt<br />
++11m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Gah, bad typo ......meant Clive Brown of Oxford of course, not Owen.  #AGBT<br />
++14m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: RT @dgaalaas: Joe currently generating an Exome on PGM  via sequence across4-5 chips #agbt<br />
++15m <a href="https://twitter.com/#!/froggleston">froggleston</a>: @omespeak although I now look foolish as I can't seem to spell 'agbt'.<br />
++15m <a href="https://twitter.com/#!/AdamKraut">AdamKraut</a>: NCI showing impressive evolution of the PGM over the past year. Towards 'Exome in a Day' #AGBT<br />
++15m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: #AGBT Joe Boland: found that 5Gb/exome was the sweet spot<br />
++16m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Second session of morning underway, most anticipated probably the last one from Clive Brown Of Oxford Nano. #AGBT<br />
++16m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Joseph Boland on IonTorrent PGM "Exome in a Day". Sure, if you ignore the fact that hybridization takes 3 days. #AGBT.<br />
++16m <a href="https://twitter.com/#!/NEBiolabs">NEBiolabs</a>: Rich Roberts "Characterization of DNA Methyltransferase Specificities Using Single-Molecule, Real-Time DNA Sequencing" NOW! #AGBT<br />
++18m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Boland and lab generated "exome in a day" after 5 days sample prep, if I read slide correctly. #AGBT<br />
++18m <a href="https://twitter.com/#!/bioinfosm">bioinfosm</a>: #agbt Boland's talk - am not sure if he defined the 'target region' that is referred in the talk<br />
++19m <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: My guess: Most people at #AGBT are waiting for Oxford Nanopore's presentation... Are they going to present a game changer?<br />
++19m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Joseph Boland: can do exome in a day but with 6 machines<br />
++20m <a href="https://twitter.com/#!/CRIgenomics">CRIgenomics</a>: The #ONT website is closed for maintenance, expect it to reopen just after Clive Browns talk later this morning at #AGBT<br />
++20m <a href="https://twitter.com/#!/omespeak">omespeak</a>: RT @CRIgenomics: The #ONT website is closed for maintenance, expect it to reopen just after Clive Browns talk later this morning at #AGBT<br />
++22m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Boland final conclusion: he needs to go back to school for bioinformatics. Don't we all? #AGBT<br />
++23m <a href="https://twitter.com/#!/salisburymw">salisburymw</a>: How fast is tech advancing? J Boland: "This time next year this is going to seem prehistoric.". #agbt<br />
++24m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Up now: Rich Roberts NEB "Characterization of DNA Methyltransferase Specificities using Single-Molecule, Real-time DNA Sequencing" #AGBT<br />
++24m <a href="https://twitter.com/#!/froggleston">froggleston</a>: Borland: Interesting exome-in-a-day PGM talk. Were the pictures of kids the current staff mugshots? Child labour. Tut tut. #agbt<br />
++24m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: Rich Roberts is up next talking about DNA methyltransferase specificities using single molecule sequencing. #AGBT<br />
++25m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Rich Roberts plays to crowd by asking if some of money being spent on DNA sequencing could instead be used figuring out what genes do. #AGBT<br />
++25m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Richard Roberts from NEB talking about characterizing of DNA methyltransferase specificities using a PacBio #AGBT<br />
++25m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Applause for Richard Roberts for saying fraction of money spent on sequencing should be spent on biology. #AGBT<br />
++25m <a href="https://twitter.com/#!/chrisfall">chrisfall</a>: RT @GenomicsIo RT @girlscientist: Boland and lab generated "exome in a day" after 5 days sample prep, if I read slide correctly. #AGBT<br />
++25m <a href="https://twitter.com/#!/GenomeBiology">GenomeBiology</a>: Spend some of the money used for sequencing genomes on finding out what genomes actually do. Richard roberts (NEB) #agbt<br />
++25m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: RR: There is a lot of money being spent on sequencing- it would be nice to see some of that spent on understanding what genes do. #AGBT<br />
++26m <a href="https://twitter.com/#!/froggleston">froggleston</a>: Roberts: Lots of money spent on sequencing, and would be good to see the same amount spent on gene function studies. Cue clapping. #agbt<br />
++26m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Richard Roberts hits the theme of the meeting: it would be nice to start spending some money figuring out what genes do. #AGBT<br />
++26m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Roberts: a lot of money being spent on sequencing, what about money being spent on determining what it all means biologically?  #AGBT<br />
++27m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Richard Roberts: we don't know the specificities of DNA methyltransferases (unlike for restriction enzymes)<br />
++27m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Can report that this is the first slide talk at #AGBT or perhaps ever I've seen with slides in vertical dimension. Am fixated on it. #AGBT<br />
++27m <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: Richard Roberts: "Can we use a fraction of the $$$ we spend on sequencing, to actually find out what the genes are doing?" #applause #AGBT<br />
++27m <a href="https://twitter.com/#!/CRIgenomics">CRIgenomics</a>: Rich Roberts NEB at #AGBT: can we  spend a small fraction of the $$$ going into NGS on finding out what the genes do! Function rocks!<br />
++30m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Was it fair when I asked about sensitivity of PGM exome-in-a-day sequencing? I worry that they found 10 of 16 cancer variants (62.5%). #AGBT<br />
++31m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Richard Roberts: use PacBio to show that EcoKDAM also recognizes also GATC sites, eg GACC<br />
++32m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: #AGBT RT @jimcollins: @girlscientist I for one welcome our new exome overlords<br />
++32m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Richard Roberts: (I meant non-GATC sites) ... non-GATC sites might be due to high over-expression of methyltransferse<br />
++33m <a href="https://twitter.com/#!/Symbionticism">Symbionticism</a>: Rich Roberta of NEB shows PacBio detects methylated Cs due to slower sequencing through these bps in comparison to normal bps. Cool.   #AGBT<br />
++34m <a href="https://twitter.com/#!/obahcall">obahcall</a>: New technologies session at #AGBT   Joseph Boland just spoke on exome seq in a day (plus sample prep days) using PGM<br />
++34m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Richard Roberts: used PacBio SMRT seq to identify DNA motifs methylated by methyltransferases<br />
++35m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: A special thank you for all of our new followers! Stay tuned for more EdgeBio at #AGBT updates #FF<br />
++35m <a href="https://twitter.com/#!/drgitlin">drgitlin</a>: @girlscientist when does AGBT registration usually happen? Need to make sure I'm approved to go beforehand.<br />
++35m <a href="https://twitter.com/#!/illumina">illumina</a>: Richard Roberts, NEB, Characterization of DNA methyltrasferases specifcity using singe-iolecule real-time DNA sequencing #AGBT<br />
++36m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Rich Roberts on char DNA methyltransferase specifities using PacBio #AGBT<br />
++36m <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: #AGBT Richard Roberts: e.coli methylases. Methylase free strains, plasmids, restriction enzymes, and pacbio to see specific target sites.<br />
++38m <a href="https://twitter.com/#!/CRIgenomics">CRIgenomics</a>: How many labs name instruments after Star Wars characters? #AGBT Jo Boland has Yoda, Vader, Boba, etc. We have R2D2, et al...what about you?<br />
++38m <a href="https://twitter.com/#!/froggleston">froggleston</a>: Roberts: Lovely slides. No text. Easy to follow and back up his talk. Portrait a bit weird though. #refreshingchange #agbt<br />
++39m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Richard Roberts: found a methyltransferase that can methylate almost all As in the E coli genome ! it's M.ecoGI<br />
++39m <a href="https://twitter.com/#!/liveinsymbiosis">liveinsymbiosis</a>: @Symbionticism That's cool. How much slower? #AGBT<br />
++39m <a href="https://twitter.com/#!/archivist84">archivist84</a>: So @nanopore are up soon at #AGBT<br />
++39m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Roberts: turns out E. coli can live with most of its genomic adenines methylated, as revealed by PacBio methylation sequencing. #AGBT<br />
++41m <a href="https://twitter.com/#!/DailyScan">DailyScan</a>: Sequencing Takes a Clinical Bent at #AGBT <a rel="nofollow" href="http://t.co/k6QbldL2">http://t.co/k6QbldL2</a><br />
++42m <a href="https://twitter.com/#!/omespeak">omespeak</a>: 'ome' alert: Methylome. #AGBT<br />
++42m <a href="https://twitter.com/#!/froggleston">froggleston</a>: Roberts: Desire to see production of whole genome with accompanying methylation pattern as standard #agbt<br />
++42m <a href="https://twitter.com/#!/AdamKraut">AdamKraut</a>: Clive Brown from @nanopore up next. Wait for it. #AGBT<br />
++42m <a href="https://twitter.com/#!/RainDanceTech">RainDanceTech</a>: Join us today at the RainDance #AGBT Workshop; 3:15pm in the Island Ballroom. Andy Watson will be discussing recent customer publications.<br />
++43m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Clive Brown from Oxford Nanopore up next, he's been pacing back and forth for the past 10 minutes. Anticipations are high. #AGBT<br />
++44m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: Clive Brown from ONT up next- standing room only in here. #AGBT #anticipation<br />
++44m <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: Clive Brown from Oxford @Nanopore coming up now at #AGBT - perhaps the most anticipated presentation this year... Game changer coming up?<br />
++44m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: #AGBT much anticipated talk from Oxford Nanopore up next<br />
++44m <a href="https://twitter.com/#!/obahcall">obahcall</a>: More applications discussed by Eric Schadt in session tonight (thats after @girlscientist talk) #AGBT<br />
++44m <a href="https://twitter.com/#!/CRIgenomics">CRIgenomics</a>: #ONT #AGBT...here it comes.<br />
++44m <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: #AGBT next up Clive Brown from Oxford Nanopore, a highly anticipated presentation.  BTW, HDF is at the core of their data management.<br />
++45m <a href="https://twitter.com/#!/drgitlin">drgitlin</a>: With the tweets and the fact that @nanopore's website is down, I'm getting the feeling that #AGBT is channeling Steve Jobs and Apple today.<br />
++45m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Well, here it is. #nanopore #agbt<br />
++46m <a href="https://twitter.com/#!/dgaalaas">dgaalaas</a>: Clive Brown from Oxford Nanopore on deck here #agbt<br />
++46m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Clive Brown Oxford Nanopore talk starting now at #AGBT<br />
++46m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: CB: 2 hour talk in 17 minutes. #AGBT #go<br />
++46m <a href="https://twitter.com/#!/dgaalaas">dgaalaas</a>: Currently using protein nanopores #agbt<br />
++46m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Clive Brown: Nanopore sequencing<br />
++46m <a href="https://twitter.com/#!/omespeak">omespeak</a>: I will be mostly taking notes, so not much tweeting here. Will do summary later. #agbt<br />
++46m <a href="https://twitter.com/#!/t_basi">t_basi</a>: Breath baited. RT @omespeak: Well, here it is. #nanopore #agbt<br />
++46m <a href="https://twitter.com/#!/Symbionticism">Symbionticism</a>: Next up clive brown on oxford nanopore sequencing. #AGBT<br />
++47m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Brown: this talk usually takes 2 hours, but I'll try to get it down to 17 minutes #AGBT<br />
++47m <a href="https://twitter.com/#!/nanopore">nanopore</a>: Nanopore sensing 101: current through nanopore, molecules interacting with nanopore generate characteristic disruptions, I/D molecule #AGBT<br />
++47m <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: CB, @Nanopore "We have spent the last two years developing our own chemistry" #AGBT<br />
++47m <a href="https://twitter.com/#!/dgaalaas">dgaalaas</a>: Have developed their own proprietary chemistry - 400 bases per second #agbt<br />
++48m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Brown: giving s brief overview of Nanopores  and strand sequencing, nothing new yet #AGBT<br />
++48m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: CB: attach a hairpin to the strand so you can sequence one strand then flip around and sequence the other. #AGBT<br />
++48m <a href="https://twitter.com/#!/CRIgenomics">CRIgenomics</a>: #ONT Hungry Hippos at #AGBT<br />
++48m <a href="https://twitter.com/#!/dgaalaas">dgaalaas</a>: Enzyme feeds sense &antisense through custom Nanopore #agbt<br />
++48m <a href="https://twitter.com/#!/graveley">graveley</a>: Holy cow - Oxford Nanopore @dgaalaas: Have developed their own proprietary chemistry - 400 bases per second #agbt<br />
++48m <a href="https://twitter.com/#!/UK_Biomek">UK_Biomek</a>: No pressure on you @nanopore for #AGBT , but it seems like the whole of bio-twitter is expecting something earth-shattering...<br />
++48m <a href="https://twitter.com/#!/froggleston">froggleston</a>: Brown: Hungry Hippos. I knew it! #agbt<br />
++49m <a href="https://twitter.com/#!/dgaalaas">dgaalaas</a>: No fixed runtime - just refresh solution #agbt<br />
++49m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Brown: no attachment of DNA, all free flowing, sequence read in real time, only requirement for sample prep is dsDNA have 5' overhang #AGBT<br />
++50m <a href="https://twitter.com/#!/dgaalaas">dgaalaas</a>: Sensor can handle 1000bps #agbt<br />
++50m <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: CB, @Nanopore "ASIC is the core. Can do 1000bps. Cameras can't do that." #AGBT<br />
++50m <a href="https://twitter.com/#!/dgaalaas">dgaalaas</a>: Can do parallel sensing - multiplexing using an ASIC #agbt<br />
++51m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Brown: alternative sample prep methods have been tried #AGBT<br />
++51m <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: #AGBT CB uses enzymes to pull DNA through pores, or block movement. over 160 tested. Measurement onASIC (app spec. integrated circuit)<br />
++51m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Clive Brown: only dsDNA with 5' overhang is needed<br />
++51m <a href="https://twitter.com/#!/AdamKraut">AdamKraut</a>: @nanopore uses ASICs, no fixed run time, capable of 1000bps #AGBT<br />
++51m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Brown: membranes in sensor chip are very stable #AGBT<br />
++52m <a href="https://twitter.com/#!/illumina">illumina</a>: Brown: ONT #AGBT Application Specific Integrated circuits instead of cameras<br />
++52m <a href="https://twitter.com/#!/notSoJunkDNA">notSoJunkDNA</a>: Can do, or actually DO? @dgaalaas: Have developed their own proprietary chemistry - 400 bases per second #agbt<br />
++52m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Brown of Oxford Nanopore at light speed through their technology. Many comparative asides of how superior to current methods. #AGBT<br />
++53m <a href="https://twitter.com/#!/nanopore">nanopore</a>: Oxford Nanopore has engineered+screened &gt;1,000 diff pores and &gt;160 enzymes. Using unpublished proprietary system, continue to iterate #AGBT<br />
++54m <a href="https://twitter.com/#!/NowgenCentre">NowgenCentre</a>: Currently reading tweets about Oxford @Nanopore presentation at #AGBT<br />
++54m <a href="https://twitter.com/#!/nanopore">nanopore</a>: Nanopore movement scheme: dsDNA+enzyme engages with pore, enzyme unzips DNA so sense and antisense in 1 pass many fragments (hairpin) #AGBT<br />
++54m <a href="https://twitter.com/#!/NGSman">NGSman</a>: @ElementoLab #agbt it was actually 5 :)<br />
++54m <a href="https://twitter.com/#!/froggleston">froggleston</a>: K-mers travelling through pore blockades provide basis for base calling. Neat. #agbt<br />
++54m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Brown: sequenced PhiX genome as full genome read - 5kb and 10kb reads #AGBT - wild!<br />
++54m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: CB: Sequenced PhiX: whole 5kb genome as single fragments, 4% error rate with deletions dominating. Read length = fragment size. #AGBT<br />
++54m <a href="https://twitter.com/#!/nanopore">nanopore</a>: Nanopore movement scheme: after strand 1 completes, a new DNA+enzyme strand reloads, and repeat  #AGBT<br />
++54m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Brown: "so we did a genome" = PhiX. See about 4% raw read error, mostly deletions due to base caller. #AGBT<br />
++54m <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: CB, @Nanopore "4% raw read error. Mostly deletions." #AGBT<br />
++54m <a href="https://twitter.com/#!/nanopore">nanopore</a>: Sample prep: only requirement dsDNA with overhang. No amplification. Variety of app-specific preps available. #AGBT<br />
++54m <a href="https://twitter.com/#!/dgaalaas">dgaalaas</a>: PhiX genome as single fragments, 5kb and 10 kb dsDNA reads! #agbt<br />
++54m <a href="https://twitter.com/#!/illumina">illumina</a>: Brown: ONT #AGBT Lots of enzymes and pores tried<br />
++55m <a href="https://twitter.com/#!/nanopore">nanopore</a>: ASIC at the heart of the technology. Low noise, high freq chip designed to measure 1,000 bases per second on '000s arrays #AGBT<br />
++55m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Brown: 4% raw read error, primarily deletions #AGBT<br />
++55m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Clive Brown: seq whole phix as 1 fragment .. 5kb or 10kb reads ... 4% raw error rate mostly deletions<br />
++55m <a href="https://twitter.com/#!/nanopore">nanopore</a>: Sensor chip: arrayed wells each with electrode measuring single nanopore experiment.  #AGBT<br />
++55m <a href="https://twitter.com/#!/dgaalaas">dgaalaas</a>: No degradation of signal over time #agbt<br />
++55m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: CB: Not limited by fidelity of system- limited by sample fragmentation. No diff between base 1 and base 40,000. #AGBT<br />
++55m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Brown: no degradation of signal over time base 10 same as base 40,000 #AGBT<br />
++55m <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: CB, @Nanopore "We did a 48kb run. Quality consistent across reads - no difference between first and 40000th read!" #AGBT<br />
++55m <a href="https://twitter.com/#!/nanopore">nanopore</a>: Base calling: overlapping kmers cause characteristic current blocks, Viterbi path. Done in real time on node #AGBT<br />
++55m <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: #AGBT CB reading full length sequences, 10 kb for phiX. And recently the lambda genome. No signal degradation. Reads words not bases.<br />
++56m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: #AGBT Clive Brown: if genome is small enough it can be fully sequenced as a single fragment<br />
++56m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Brown: no degradation of signal over time. Principal cause of error known, engineering barrel of pores to compensate. #AGBT<br />
++56m <a href="https://twitter.com/#!/nanopore">nanopore</a>: 5kb genome sequenced sense and antisense (with hairpin) in single 10kb run. Further examples at tens of kbs #AGBT<br />
++56m <a href="https://twitter.com/#!/dgaalaas">dgaalaas</a>: Improvements - removal of variance needed #agbt<br />
++56m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: RT @dgaalaas: No degradation of signal over time #agbt<br />
++56m <a href="https://twitter.com/#!/froggleston">froggleston</a>: Brown: Oscillating k-mers produce majority of error. Fixable. Dips in quality with erroneous bases. #agbt<br />
++57m <a href="https://twitter.com/#!/Symbionticism">Symbionticism</a>: Oxford nanopore has sequenced largest reads ever - up to 40 kb but with 4% error. They will surpass them said clivebrown. Exciting at #AGBT.<br />
++57m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: RT @dgaalaas: Improvements - removal of variance needed #agbt<br />
++57m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Brown: can directly read RNA, no cDNA required #AGBT<br />
++57m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Clive Brown: RNA can be DIRECTLY read using nanopores - no cDNA<br />
++57m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Brown: "we had a quick look at RNA" can be read directly with no need for cDNA, data look same as DNA. #AGBT<br />
++57m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: CB: RNA can be read directly using nanopores- no need to make cDNA. #AGBT<br />
++58m <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: CB, @Nanopore "RNA can be read directly. No cDNA required. This is an application we will put out at a later stage." #AGBT<br />
++58m <a href="https://twitter.com/#!/notSoJunkDNA">notSoJunkDNA</a>: I want one! @ElementoLab: #AGBT Clive Brown: RNA can be DIRECTLY read using nanopores - no cDNA<br />
++58m <a href="https://twitter.com/#!/dgaalaas">dgaalaas</a>: Should be able to process RNA - development of base calling for RNA on hold #agbt<br />
++58m <a href="https://twitter.com/#!/bioinfosm">bioinfosm</a>: #agbt nanopore talk "the enzyme ticks after each nucleotide to overcome homopolymer issue"!! long reads, max 41kb single molecule read<br />
++58m <a href="https://twitter.com/#!/graveley">graveley</a>: Wow!! @djschlesinger: Brown: can directly read RNA, no cDNA required #AGBT - looks like game changer!<br />
++58m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Brown: excellent shoutout to Monty Python rabbit. #AGBT<br />
++58m <a href="https://twitter.com/#!/Symbionticism">Symbionticism</a>: Wow. Oxford nanopore will sequence RNA too at same efficiency as DNA. more to come. #AGBT<br />
++58m <a href="https://twitter.com/#!/westr">westr</a>: RT @DailyScan: Sequencing Takes a Clinical Bent at #AGBT <a rel="nofollow" href="http://t.co/JLFOIksm">http://t.co/JLFOIksm</a> #pm101<br />
++59m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Clive Brown: epigenetic modifications can be detected using nanopores too eg methylation<br />
++59m <a href="https://twitter.com/#!/neilhall_uk">neilhall_uk</a>: Want! #agbt<br />
++59m <a href="https://twitter.com/#!/nanopore">nanopore</a>: Measuring direct from blood: new robust polymer membranes resistant to complex sample. #AGBT<br />
++59m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Brown: sequenced rabbit DNA extracted from blood, no sample prep at all!!! #AGBT<br />
++59m <a href="https://twitter.com/#!/dgaalaas">dgaalaas</a>: Can sequence directly froml blood - no sample prep necessary... #agbt<br />
++59m <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: CB, @Nanopore "DNA directly from blood. No sample prep required." #AGBT<br />
++59m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: CB: 0 sample prep- directly sequenced rabbit blood and sewage water. #AGBT #supercool</p>
+<p><strong>12 - 1pm EST</strong><br />
++0m <a href="https://twitter.com/#!/fluidigm">fluidigm</a>: For Targeted Resequencing and Single Cell Studies swing by Suite 285 at #AGBT, let us show you what we got!&gt;o<br />
++0m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Brown: "Just one more thing..." new product with single use disposable sequencer #AGBT<br />
++0m <a href="https://twitter.com/#!/illumina">illumina</a>: Brown: Sequencing, RNA and epigenetic mods with ONT #AGBT<br />
++0m <a href="https://twitter.com/#!/Symbionticism">Symbionticism</a>: Nanopore will sequence directly from blood and sewage water. #blownaway #AGBT<br />
++0m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: CB: MinION: usb sized DNA sequencer- single use disposable sequencer. #AGBT<br />
++0m <a href="https://twitter.com/#!/nanopore">nanopore</a>: Hardware: a single GridION node can be used alone as a desktop or lots clustered. Each node analyses data locally in real time. #AGBT<br />
++0m <a href="https://twitter.com/#!/cwduffy_lshtm">cwduffy_lshtm</a>: So going by the #AGBT tweets @nanopore may have completely changed the face of sequencing. 40kb+ reads! Can't wait to see some publications.<br />
++0m <a href="https://twitter.com/#!/AdamKraut">AdamKraut</a>: And one more thing MiniION. USB key size sequencer that plugs into your laptop. Same data as GridION #AGBT<br />
++0m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Brown: one more thing: MiniION portable Nanopore sequencer, plugs right into USB port of your laptop #AGBT<br />
++0m <a href="https://twitter.com/#!/dgaalaas">dgaalaas</a>: Going to launch MinION later this year, a USB disposable sequencer. wow! Plug it directly into your laptop.... #agbt<br />
++0m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Oxford MinION USB-sized disposable DNA sequencer, 150 Mbp per hour for 6 hours.. YHGTBFKM! #AGBT.<br />
++0m <a href="https://twitter.com/#!/liveinsymbiosis">liveinsymbiosis</a>: @Symbionticism That's amazing!!! Will it be competitive cost/bp? #AGBT<br />
++0m <a href="https://twitter.com/#!/nanopore">nanopore</a>: And now for something completely different #AGBT<br />
++1m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Brown: competitive with current desktop prices at launch, Tolerates body fluids and plant extracts. #AGBT There's your headline, people.<br />
++1m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Plug and play sequencer from Oxford Nano. #agbt<br />
++1m <a href="https://twitter.com/#!/nanopore">nanopore</a>: Introducing the MinION, a nanopore sequencer the size of a USB stick. Works just like GridION, but smaller #AGBT<br />
++1m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Brown: new sequencer called MinION, powered from USB on your laptop. #AGBT<br />
++1m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Clive Brown: MinION sequencer basically looks like a USB key<br />
++1m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Brown: sequencer will be USB powered and disposable #AGBT<br />
++1m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Brown: MinION app-driven and open. "lets any bench scientist put their arms around process" of sequencing. #AGBT<br />
++1m <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: CB, @Nanopore "We're launching a USB sized disposable sequencer later this year: 'MinION' - 150MB/hr, runtime 6 hrs." &lt;-- Amazing! #AGBT<br />
++2m <a href="https://twitter.com/#!/rowan_UK">rowan_UK</a>: Following @nanopore tweets from #AGBT. Smokin performance reported by Clive Brown<br />
++2m <a href="https://twitter.com/#!/AdamKraut">AdamKraut</a>: You can even yank the USB sequencer out, it pauses, re-insert and it continues sequencing #AGBT<br />
++2m <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: #AGBT CB sequenced rabbit blood directly, sewage with minimal prep. MiniION, a USB sequencer. Just need a laptop and software.<br />
++2m <a href="https://twitter.com/#!/drgitlin">drgitlin</a>: Game changer? Wow. RT @nanopore: Measuring direct from blood: new robust polymer membranes resistant to complex sample. #AGBT<br />
++2m <a href="https://twitter.com/#!/pathogenomenick">pathogenomenick</a>: Too many amazing @nanopore tweets to retweet them all. Follow #AGBT or go to <a rel="nofollow" href="http://t.co/KUVmX75N">http://t.co/KUVmX75N</a> to see them all.<br />
++2m <a href="https://twitter.com/#!/froggleston">froggleston</a>: Holy crap. Minion. A USB sized sequencer with real time informatics. This changes the game. I'm grinning. Electrochemistry issues tho #agbt<br />
++2m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Brown: MiniION launched later this year, 5-25 Gb per day, chip will last ~6 hours #AGBT<br />
++2m <a href="https://twitter.com/#!/notSoJunkDNA">notSoJunkDNA</a>: MinION sounds like "mignon" in French, which means cute! @nanopore: Introducing the MinION, a nanopore sequencer  #AGBT<br />
++2m <a href="https://twitter.com/#!/613SportsChick">613SportsChick</a>: Collective gasp at #AGBT as Brown announces the MinIon.<br />
++2m <a href="https://twitter.com/#!/nanopore">nanopore</a>: GridION node 2012: 2,000 nanopore experiments at a time, in 2013 to 8,000. Node designed for tens of Gb/24 hours, no fixed run time #AGBT<br />
++3m <a href="https://twitter.com/#!/bkmacy">bkmacy</a>: Nanopore discusses new MinION USB 3.0 based personal DNA/RNA sequencer later this year, #AGBT<br />
++3m <a href="https://twitter.com/#!/NGSman">NGSman</a>: #agbt miniIon....outrageous!<br />
++3m <a href="https://twitter.com/#!/omespeak">omespeak</a>: If the machines perform as promised, The Oxford Nano announcements are indeed quite game changing. #agbt<br />
++3m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Clive Brown: MinION can seq 1-5 Gb/day<br />
++3m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Brown: future improvements will extend that to over 600Gb per day #AGBT<br />
++3m <a href="https://twitter.com/#!/archivist84">archivist84</a>: MiniION from @nanopore - in the conference goody bag next year? #AGBT<br />
++3m <a href="https://twitter.com/#!/drgitlin">drgitlin</a>: OMFG RT @nanopore: Introducing the MinION, a nanopore sequencer the size of a USB stick. Works just like GridION, but smaller #AGBT<br />
++3m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Brown: price list. MinION about $1000/Gb, will retail at $500-$1000. #AGBT<br />
++3m <a href="https://twitter.com/#!/rowan_UK">rowan_UK</a>: Buy disk stocks MT @nanopore Introducing the MinION, a nanopore sequencer the size of a USB stick. Works like GridION, but smaller #AGBT<br />
++3m <a href="https://twitter.com/#!/AdamKraut">AdamKraut</a>: MiniION will cost between $500-$1000. Lower cost per Gb with GridION #AGBT<br />
++4m <a href="https://twitter.com/#!/liveinsymbiosis">liveinsymbiosis</a>: @djschlesinger Is the ~6hr a limitation/exhaustion of the chemistry? #AGBT<br />
++4m <a href="https://twitter.com/#!/nanopore">nanopore</a>: New pricing schemes: no more box/instr price.Think cellphone pricing - packages. Price per base competitive at launch with other techs #AGBT<br />
++4m <a href="https://twitter.com/#!/mbeisen">mbeisen</a>: i'm not at #AGBT but @nanopore USB sequencer sounds totally badass<br />
++4m <a href="https://twitter.com/#!/Symbionticism">Symbionticism</a>: NANOPORE will introduce usb- drive sequencer called minion. Benchtop sequ. in laptop. 150mb per hr if i heard that right.  $1000. #AGBT<br />
++4m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: The throw-away USB sequencer, second half of this year, will cost $500-1000 per use, supposedly. #AGBT.<br />
++4m <a href="https://twitter.com/#!/DailyScan">DailyScan</a>: Truly! #AGBT MT @pathogenomenick Too many amazing @nanopore tweets to retweet them all.<br />
++4m <a href="https://twitter.com/#!/AdamKraut">AdamKraut</a>: Always knew @nanopore was the dark horse. Clive just killed it! #AGBT<br />
++4m <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: CB, @Nanopore "Nanopore sequencing is high-throughput. MinION $1000/Gb. GridION2K $25-40/Gb. GridION8K $10/Gb" #AGBT<br />
++4m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Brown: future = GridION cluster. &lt;$10/Gb by hooking up cluster together. #AGBT Eric Green "I can't imagine there are any questions."<br />
++4m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: MiniION - holy crap!!!!!! Amazing!!!!  #AGBT<br />
++4m <a href="https://twitter.com/#!/AdamKraut">AdamKraut</a>: First question: "When can I buy one?" #AGBT<br />
++4m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: MiniION available second half of this year #AGBT<br />
++5m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Clive Brown: MinION to be released second half of this year<br />
++5m <a href="https://twitter.com/#!/CRIgenomics">CRIgenomics</a>: gridion and MinIon coming mid 2012 #AGBT #ONT really rocks...<br />
++5m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Will be available second half of this year... #AGBT<br />
++5m <a href="https://twitter.com/#!/froggleston">froggleston</a>: GridION and MinION available Q3 2012. Want. #agbt<br />
++5m <a href="https://twitter.com/#!/Symbionticism">Symbionticism</a>: Will be released in 2nd half of year. #AGBT<br />
++5m <a href="https://twitter.com/#!/bkmacy">bkmacy</a>: Nanopore MinION expected to cost $500-1000 / experiment, #AGBT<br />
++5m <a href="https://twitter.com/#!/aaron_best">aaron_best</a>: RT @pathogenomenick: Too many amazing @nanopore tweets to retweet them all. Follow #AGBT or go to <a rel="nofollow" href="http://t.co/9XtYwi30">http://t.co/9XtYwi30</a> to see them all.<br />
++5m <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: CB, @Nanopore "MinION and GridION2K will be launched in the second half of 2012." &lt;-- Q4 perhaps? #AGBT<br />
++6m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Eric Green asks if MinION will work on Mac and PC -- Brown says he is Mac user to applause from room. #AGBT<br />
++6m <a href="https://twitter.com/#!/BARCLABS">BARCLABS</a>: AGBT: Oxford Nanopore to Begin Selling Two Low-Cost DNA Strand Sequencing Instruments this Year:<br />
+read more</p>
+<p> <a rel="nofollow" href="http://t.co/P3Y9TDFz">http://t.co/P3Y9TDFz</a><br />
++6m <a href="https://twitter.com/#!/Symbionticism">Symbionticism</a>: Yay! Minion will work on your macs. #AGBT<br />
++6m <a href="https://twitter.com/#!/pathogenomenick">pathogenomenick</a>: The full Oxford Nanopore press release up here <a rel="nofollow" href="http://t.co/JnJHjsD4">http://t.co/JnJHjsD4</a> #AGBT<br />
++6m <a href="https://twitter.com/#!/Personal_RX_WI">Personal_RX_WI</a>: #AGBT Oxford Nanopore MinION USB sized disposable sequencer. Available sencond half of 2012.150Mb/hour<br />
++7m <a href="https://twitter.com/#!/genomigence">genomigence</a>: InSequence: AGBT: Oxford Nanopore to Begin Selling Two Low-Cost DNA Strand Sequencing Instruments this Year:<br />
+r... <a rel="nofollow" href="http://t.co/NbamPTje">http://t.co/NbamPTje</a><br />
++7m <a href="https://twitter.com/#!/InSequence">InSequence</a>: AGBT: Oxford Nanopore to Begin Selling Two Low-Cost DNA Strand Sequencing Instruments this Year:<br />
+read more</p>
+<p> <a rel="nofollow" href="http://t.co/RDy3CMMs">http://t.co/RDy3CMMs</a><br />
++7m <a href="https://twitter.com/#!/archivist84">archivist84</a>: <a rel="nofollow" href="http://t.co/Pz7eFAub">http://t.co/Pz7eFAub</a> #OGT website is back up! #AGBT<br />
++7m <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: I do think @nanopore presented a potential game changer today: The MinION brings something totally new, with disposable sequencers! #AGBT<br />
++8m <a href="https://twitter.com/#!/AdamKraut">AdamKraut</a>: Small mob forming around Clive now #AGBT<br />
++8m <a href="https://twitter.com/#!/pathogenomenick">pathogenomenick</a>: Oxford Nanopore megaton announcement: Why do you need a machine?  exclusive interview on my blog! <a rel="nofollow" href="http://t.co/tJxQit9T">http://t.co/tJxQit9T</a> #AGBT<br />
++9m <a href="https://twitter.com/#!/rnomics">rnomics</a>: RT @notSoJunkDNA: I want one! @ElementoLab: #AGBT Clive Brown: #RNA can be DIRECTLY read... <a rel="nofollow" href="http://t.co/MPjnke5h">http://t.co/MPjnke5h</a> #rnomics-bioscience @MyEN<br />
++9m <a href="https://twitter.com/#!/MoleculaBiology">MoleculaBiology</a>: Oxford Nanopore minIon announced at AGBT. Unbelievable. The revolution is here for single molecule sequencing.<br />
++9m <a href="https://twitter.com/#!/CrapBio">CrapBio</a>: SO what i am hearing is that Oxford Nanopore have taken all the fun out of sequencing. #AGBT<br />
++10m <a href="https://twitter.com/#!/Symbionticism">Symbionticism</a>: MiniION will make the tricorder a reality:-)  awesomeness at #AGBT<br />
++10m <a href="https://twitter.com/#!/rnomics">rnomics</a>: RT @deannachurch: CB: #RNA can be read directly using nanopores- no need to make cDNA. #AGBT <a rel="nofollow" href="http://t.co/5dNOOxYt">http://t.co/5dNOOxYt</a> #phylogenomics-gen @MyEN<br />
++10m <a href="https://twitter.com/#!/westr">westr</a>: RT @Personal_RX_WI: #AGBT Oxford Nanopore MinION USB sized disposable sequencer. Available sencond half of 2012.150Mb/hour #pm101<br />
++11m <a href="https://twitter.com/#!/ChaunceyGrattan">ChaunceyGrattan</a>: My head is about to explode. #RNAtoo RT: @pathogenomenick The full Oxford Nanopore press release up here <a rel="nofollow" href="http://t.co/Jp4DCgqP">http://t.co/Jp4DCgqP</a> #AGBT<br />
++11m <a href="https://twitter.com/#!/liveinsymbiosis">liveinsymbiosis</a>: Welcome to the new age of sequencing tec. AGBT: Oxford Nanopore to Begin Selling Low-Cost DNA Sequencing <a rel="nofollow" href="http://t.co/nsXrplry">http://t.co/nsXrplry</a> @AddThis #AGBT<br />
++11m <a href="https://twitter.com/#!/InSequence">InSequence</a>: Details on ONT's GridIon and disposable nanopore sequencer, MinIon: <a rel="nofollow" href="http://t.co/WwPKPXQ5">http://t.co/WwPKPXQ5</a> #AGBT<br />
++12m <a href="https://twitter.com/#!/UK_Biomek">UK_Biomek</a>: Woah RT @nanopore: Introducing the MinION, a nanopore sequencer the size of a USB stick. Works just like GridION, but smaller #AGBT<br />
++13m <a href="https://twitter.com/#!/westr">westr</a>: RT @InSequence: Details on ONT's GridIon and disposable nanopore sequencer, MinIon: <a rel="nofollow" href="http://t.co/pcJC5Wtu">http://t.co/pcJC5Wtu</a> #AGBT #pm101<br />
++13m <a href="https://twitter.com/#!/mcaccamo">mcaccamo</a>: CB: 48KB lambda genome in one read #agbt<br />
++13m <a href="https://twitter.com/#!/ezequiel_coelho">ezequiel_coelho</a>: #AGBT Does anyone know the price for the grid ION from oxford nanopore?<br />
++14m <a href="https://twitter.com/#!/avsmith">avsmith</a>: Those Ion Torrent tweets suddenly got much less interesting. Drooling over Oxford Nanopore reveal at #agbt.<br />
++14m <a href="https://twitter.com/#!/liveinsymbiosis">liveinsymbiosis</a>: #AGBT this will be great for bringing sequencing tech to the classroom.<br />
++16m <a href="https://twitter.com/#!/sumansen2011">sumansen2011</a>: Affordable and accessible DNA sequencing, a big step in personalized medicine <a rel="nofollow" href="http://t.co/X3I345iJ">http://t.co/X3I345iJ</a> via @AddThis<br />
++16m <a href="https://twitter.com/#!/notSoJunkDNA">notSoJunkDNA</a>: So, it's for real? DNA sequencer the size of a USB key: <a rel="nofollow" href="http://t.co/VSOyO4WD">http://t.co/VSOyO4WD</a> #AGBT (via @nanopore )<br />
++17m <a href="https://twitter.com/#!/bethasullivan">bethasullivan</a>: wow, so exciting! MT @girlscientist Brown (of Oxford Nanopore): new sequencer called MinION, powered from USB on your laptop. #AGBT<br />
++18m <a href="https://twitter.com/#!/ribozyme">ribozyme</a>: Agreed! RT @bffo: GS from Illumina "under review, no tweet" is a very lame excuse that is becoming very bogus ..  #badexcuse #verylame #agbt<br />
++20m <a href="https://twitter.com/#!/omespeak">omespeak</a>: So guess what the lunch time discussions will be at #AGBT?<br />
++20m <a href="https://twitter.com/#!/assemblathon">assemblathon</a>: RT @pathogenomenick: Too many amazing @nanopore tweets to retweet them all. Follow #AGBT or go to <a rel="nofollow" href="http://t.co/pCPsTBaw">http://t.co/pCPsTBaw</a> to see them all.<br />
++20m <a href="https://twitter.com/#!/GenomeWeb">GenomeWeb</a>: Big stories from this year's #AGBT? It will be hard to beat Oxford Nanopore's announcement of the disposable MinIon <a rel="nofollow" href="http://t.co/P6eVIKjz">http://t.co/P6eVIKjz</a><br />
++21m <a href="https://twitter.com/#!/rowan_UK">rowan_UK</a>: True! RT @avsmith<br />
+Those Ion Torrent tweets suddenly got much less interesting. Drooling over Oxford Nanopore reveal at #agbt.<br />
++22m <a href="https://twitter.com/#!/assemblathon">assemblathon</a>: RT @djschlesinger: Brown: sequenced rabbit DNA extracted from blood, no sample prep at all!!! #AGBT<br />
++22m <a href="https://twitter.com/#!/assemblathon">assemblathon</a>: RT @deannachurch: CB: MinION: usb sized DNA sequencer- single use disposable sequencer. #AGBT<br />
++22m <a href="https://twitter.com/#!/timjph">timjph</a>: New sequencers announced at #AGBT by Oxford Nanopore; one USB sized @pathogenomenick: full press release here <a rel="nofollow" href="http://t.co/fYNWJYEf">http://t.co/fYNWJYEf</a> #AGBT<br />
++23m <a href="https://twitter.com/#!/NextBio">NextBio</a>: Exciting news! RT @nanopore: Introducing the MinION, nanopore sequencer the size of a USB stick. Works just like GridION, but smaller #AGBT<br />
++23m <a href="https://twitter.com/#!/kbradnam">kbradnam</a>: A disposable sequencer is the perfect successor to years of throwaway sequencing data ;-) #AGBT<br />
++24m <a href="https://twitter.com/#!/assemblathon">assemblathon</a>: RT @Massgenomics: Oxford MinION USB-sized disposable DNA sequencer, 150 Mbp per hour for 6 hours.. YHGTBFKM! #AGBT.<br />
++24m <a href="https://twitter.com/#!/assemblathon">assemblathon</a>: RT @djschlesinger: Brown: MiniION launched later this year, 5-25 Gb per day, chip will last ~6 hours #AGBT<br />
++25m <a href="https://twitter.com/#!/assemblathon">assemblathon</a>: RT @girlscientist: Brown: price list. MinION about $1000/Gb, will retail at $500-$1000. #AGBT<br />
++26m <a href="https://twitter.com/#!/jung_gt">jung_gt</a>: For real? RT: @Massgenomics: Oxford MinION USB-sized disposable DNA sequencer, 150 Mbp per hour for 6 hours.. YHGTBFKM! #AGBT.<br />
++26m <a href="https://twitter.com/#!/nparmalee">nparmalee</a>: I assume that all the geneticists I know are already following the #AGBT hashtag. If not, you should be. #FF<br />
++26m <a href="https://twitter.com/#!/morinryan">morinryan</a>: Keith Robison's blog post (Omics! Omics!) on Oxford Nanopore's big #AGBT reveal is now live: <a rel="nofollow" href="http://t.co/UQ7mHm2H">http://t.co/UQ7mHm2H</a><br />
++28m <a href="https://twitter.com/#!/rowan_UK">rowan_UK</a>: @zerojinx @nanopore Who do I have to mug to get a MinION? #AGBT<br />
++28m <a href="https://twitter.com/#!/illumina">illumina</a>: Loman and Robison on #AGBT big news, the MiniIon <a rel="nofollow" href="http://t.co/EUYEpp1d">http://t.co/EUYEpp1d</a> and <a rel="nofollow" href="http://t.co/iGRNR6gq">http://t.co/iGRNR6gq</a><br />
++29m <a href="https://twitter.com/#!/bioitworld">bioitworld</a>: Full story on Oxford @nanopore stunning presentation from CTO Clive Brown at #AGBT <a rel="nofollow" href="http://t.co/VNvCxLQN">http://t.co/VNvCxLQN</a><br />
++29m <a href="https://twitter.com/#!/fluidigm">fluidigm</a>: LEARN about targeted resequencing on all major next-gen sequencing systems. Stop by Suite 285. #AGBT ^S<br />
++29m <a href="https://twitter.com/#!/archivist84">archivist84</a>: Too much excitement! Too many NGS slides to change next week! Off to the pub! #AGBT #OGT #nanopore<br />
++29m <a href="https://twitter.com/#!/sargoshoe">sargoshoe</a>: Is it weird that I'm excited about this? RT @omespeak: Well, here it is. #nanopore #agbt<br />
++30m <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: Join Us - Ion lounge at AGBT, Friday, 9:00 p.m.--2:00 a.m.: <a rel="nofollow" href="http://t.co/OExjUIVf">http://t.co/OExjUIVf</a> via @youtube<br />
++30m <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: RT @larsgt: Wouldn't want to be the guy running the PacBio workshop this afternoon... #AGBT<br />
++30m <a href="https://twitter.com/#!/westr">westr</a>: Thanks to all the tweeters at #AGBT for keeping the rest of us informed about sequencing & genomic breakthroughs!<br />
++31m <a href="https://twitter.com/#!/Jeylen">Jeylen</a>: +1 Wow @pathogenomenick: Oxford Nanopore megaton announcement: Why do you need a machine?  exclusive interview <a rel="nofollow" href="http://t.co/7TXozcQo">http://t.co/7TXozcQo</a> #AGBT<br />
++32m <a href="https://twitter.com/#!/EpicentreBio">EpicentreBio</a>: Keith Robison on Oxford Nanopore #AGBT announcements <a rel="nofollow" href="http://t.co/wh6Vvmp4">http://t.co/wh6Vvmp4</a><br />
++32m <a href="https://twitter.com/#!/AdamKraut">AdamKraut</a>: How far will the PacBio, Illumina, and Life stocks drop after that? #AGBT<br />
++32m <a href="https://twitter.com/#!/assemblathon">assemblathon</a>: RT @pathogenomenick: The full Oxford Nanopore press release up here <a rel="nofollow" href="http://t.co/RzKT3s4f">http://t.co/RzKT3s4f</a> #AGBT<br />
++33m <a href="https://twitter.com/#!/nparmalee">nparmalee</a>: #FF @girlscientist Chris Gunter tweeting from #AGBT This is what twitter is for.<br />
++33m <a href="https://twitter.com/#!/ijivanjee">ijivanjee</a>: @pathogenomenick Great interview, this technology blows my mind! #AGBT #ONT<br />
++33m <a href="https://twitter.com/#!/pathogenomenick">pathogenomenick</a>: jeez I need a lie-down at this point #AGBT @nanopore<br />
++34m <a href="https://twitter.com/#!/ribozyme">ribozyme</a>: Go Mac! RT @girlscientist: Eric Green asks if MinION will work on Mac and PC -- Brown says he is Mac user to applause from room. #AGBT<br />
++35m <a href="https://twitter.com/#!/LucigenCorp">LucigenCorp</a>: Need libraries for NexGen Seq? Sample prep solutions you can use for better libraries! Posters at #AGBT:<a rel="nofollow" href="http://t.co/iUh67GSb">http://t.co/iUh67GSb</a><br />
++35m <a href="https://twitter.com/#!/kbradnam">kbradnam</a>: RT @CrapBio: SO what i am hearing is that Oxford Nanopore have taken all the fun out of sequencing. #AGBT<br />
++37m <a href="https://twitter.com/#!/genetics_blog">genetics_blog</a>: Cool. Oxford Nanopore's tiny DNA sequencing instrument - (MinION) doubles as USB drive #AGBT <a rel="nofollow" href="http://t.co/NfsIUEsD">http://t.co/NfsIUEsD</a> <a rel="nofollow" href="http://t.co/AMNU6m3v">http://t.co/AMNU6m3v</a><br />
++39m <a href="https://twitter.com/#!/SEQanswers">SEQanswers</a>: Vaporware is in the air at Marco Island.  Oxford Nanopore owes me a thorough computer monitor cleaning.  #AGBT<br />
++40m <a href="https://twitter.com/#!/leonidkruglyak">leonidkruglyak</a>: "Hard to compete against reductions in cost, labor and input DNA reqs, esp when data is many fold more useful." <a rel="nofollow" href="http://t.co/DT2WMfJH">http://t.co/DT2WMfJH</a> #AGBT<br />
++40m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: MiniION - haven's been this excited about a piece of technology since the original iPhone. #AGBT<br />
++40m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: MiniION - haven's been this excited about a piece of technology since the original iPhone. #AGBT<br />
++40m <a href="https://twitter.com/#!/ribozyme">ribozyme</a>: This year at #AGBT: a USB stick giveaway with data from trios; next year a USB stick disposable sequencer giveaway - awesome!<br />
++41m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: MiniION - will Life sue over the use of the name "Ion"?? #AGBT<br />
++41m <a href="https://twitter.com/#!/kristen_hallam">kristen_hallam</a>: Also, it's possible to sequence a human genome in 15 min. using @nanopore's GridION system. <a rel="nofollow" href="http://t.co/MZhO16lr">http://t.co/MZhO16lr</a> #agbt<br />
++41m <a href="https://twitter.com/#!/leonidkruglyak">leonidkruglyak</a>: "would the processivity limits be reached at BAC scale?  Whole bacterial chromosomes?  Whole yeast chromosomes?" <a rel="nofollow" href="http://t.co/DT2WMfJH">http://t.co/DT2WMfJH</a> #AGBT<br />
++42m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Lots of great tweets from the Marco Island meeting! Interested? Follow the #AGBT hashtag<br />
++42m <a href="https://twitter.com/#!/CompleteGenomic">CompleteGenomic</a>: Today at #AGBT, catch customer Carlos Bustamante of Stanford U. present on population genetics at 2:55 pm in Islands Ballroom<br />
++43m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: MiniION - kind of wish the made the announcement on Saturday, the rest of the meeting won't be nearly as exciting #AGBT :p<br />
++43m <a href="https://twitter.com/#!/AdamKraut">AdamKraut</a>: People are literally on the phone with their brokers right now #AGBT<br />
++43m <a href="https://twitter.com/#!/drgitlin">drgitlin</a>: If @nanopore's 4% error rate is uniform, does that mean it goes away with high enough coverage? #AGBT<br />
++44m <a href="https://twitter.com/#!/MicheleClamp">MicheleClamp</a>: So the fancy new OxNano pocket sequencers I can finally rave about!!!   Sequencing has finally broken free of the lab!! #AGBT<br />
++45m <a href="https://twitter.com/#!/t_basi">t_basi</a>: Too right! RT @AdamKraut: People are literally on the phone with their brokers right now #AGBT<br />
++46m <a href="https://twitter.com/#!/mrkrly">mrkrly</a>: #FF #FollowFriday @nanopore - tweeting the future from #AGBT today!<br />
++46m <a href="https://twitter.com/#!/akmi3">akmi3</a>: MinIon, USB sequencer for $900 with 512 nanopores, 150mb/hour. Disruptive Innovation! <a rel="nofollow" href="http://t.co/wArJWkLV">http://t.co/wArJWkLV</a> #DigitalHealth #personalmed #AGBT<br />
++47m <a href="https://twitter.com/#!/BioInfo">BioInfo</a>: AGBT: Oxford Nanopore to Begin Selling Two Low-Cost DNA Strand Sequencing Instruments this Year | In Sequence | Sequencing | GenomeWeb http:<br />
++51m <a href="https://twitter.com/#!/BozelosP">BozelosP</a>: @nanopore DNA sequencer with USB plug for $900 - 512 nanopores, 150mb/hour - Disruptive Innovation! <a rel="nofollow" href="http://t.co/vXOqpFcj">http://t.co/vXOqpFcj</a> #AGBT<br />
++51m <a href="https://twitter.com/#!/dud3k">dud3k</a>: Bets on Roche lowering its bidding price for $ILMN after today? #agbt Also, anyone short $PACB, $ILMN and $LIFE? =)<br />
++51m <a href="https://twitter.com/#!/cwduffy_lshtm">cwduffy_lshtm</a>: Is it wrong that I want a minION just to put on my key chain? #AGBT #livinginthefuture<br />
++52m <a href="https://twitter.com/#!/nlbigas">nlbigas</a>: A disposable USB pocket-sized nanopore sequencer. <a rel="nofollow" href="http://t.co/zqvmzkZz">http://t.co/zqvmzkZz</a> #AGBT<br />
++53m <a href="https://twitter.com/#!/Gavin_Oliver">Gavin_Oliver</a>: Attempting to live-blog Clive's talk was an unmitigated disaster.  Too much info.  In a good way.  Good work @nanopore #AGBT<br />
++55m <a href="https://twitter.com/#!/wboonn">wboonn</a>: Thx! RT @PopperandCo: It's #FF - @Paul_Sonnier @wboonn @Doherty_pd @kenwalz @portablegenomic @DivaBiotech @westr @illumina @agbt @Forbes<br />
++55m <a href="https://twitter.com/#!/markgenome">markgenome</a>: #AGBT tweet stream lit up, and no wonder. @nanopore had an amazing announcement up its sleeve. <a rel="nofollow" href="http://t.co/udJ6IvO8">http://t.co/udJ6IvO8</a><br />
++56m <a href="https://twitter.com/#!/nparmalee">nparmalee</a>: Can I make #AGBT requests? Would love to "hear" Carlos Bustamante's talk, 2:55p today, Islands Ballroom.<br />
++56m <a href="https://twitter.com/#!/genetics_blog">genetics_blog</a>: If looking through the #AGBT tag is too daunting, @pathogenomenick is doing a fine job summarizing at <a rel="nofollow" href="http://t.co/CWWf79Yi">http://t.co/CWWf79Yi</a>. Thank you sir<br />
++56m <a href="https://twitter.com/#!/lexnederbragt">lexnederbragt</a>: Congrats to @pathogenomenick for the scoop, interview with @nanopore #AGBT<br />
++57m <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: Gotta love the duality of "MinION" - even the name is cool! :) #AGBT<br />
++58m <a href="https://twitter.com/#!/timjph">timjph</a>: @nanopore parodies Apple! Eyeing the future value of universal DNA sequencing? RT @girlscientist: Brown: "Just one more thing..." #AGBT</p>
+<p><strong>1 - 2pm EST</strong><br />
++0m <a href="https://twitter.com/#!/j_perkel">j_perkel</a>: Oxford Nanopore details GridION and MinION systems at AGBT: <a rel="nofollow" href="http://t.co/8keFNrKJ">http://t.co/8keFNrKJ</a><br />
++0m <a href="https://twitter.com/#!/BozelosP">BozelosP</a>: Introduction to Nanopore Technology <a rel="nofollow" href="http://t.co/dpRlpoYE">http://t.co/dpRlpoYE</a> 4th generation DNA sequencing is here.. Great news for personal genome era #AGBT<br />
++1m <a href="https://twitter.com/#!/nakedideas">nakedideas</a>: We just launched the new @nanopore website in a #Apple Keynote style whirlwind for #AGBT So exciting! Congrats to them! <a rel="nofollow" href="http://t.co/EbsX3CfF">http://t.co/EbsX3CfF</a><br />
++1m <a href="https://twitter.com/#!/liu3zhen">liu3zhen</a>: This video helps understand the Wow Nanopore tech: <a rel="nofollow" href="http://t.co/0tOJygpv">http://t.co/0tOJygpv</a>    #AGBT<br />
++2m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Correct spelling is MinION, not MiniION. I was so excited to tweet about it, I forgot to spellcheck #AGBT<br />
++2m <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: Come to the Ion Lounge tonight!  Beer, food and science on the beach. Meet us at the bus. #agbt #ionbus  <a rel="nofollow" href="http://t.co/gpXIbNV6">http://t.co/gpXIbNV6</a> via @youtube<br />
++3m <a href="https://twitter.com/#!/GenomicsIo">GenomicsIo</a>: MT @nlbigas: A disposable USB pocket-sized nanopore sequencer. <a rel="nofollow" href="http://t.co/PfKkmrmg">http://t.co/PfKkmrmg</a> #AGBT Mind-boggling, but incredibly exciting!<br />
++4m <a href="https://twitter.com/#!/notSoJunkDNA">notSoJunkDNA</a>: Starting today, we'll never hear @illumina or @SOLiDSequencing referred to as "Next-Gen Seq" But I think they still have a future. #AGBT<br />
++4m <a href="https://twitter.com/#!/nakedideas">nakedideas</a>: We just launched the new @nanopore website in a #Apple Keynote style whirlwind for #AGBT So exciting! Congrats to them! <a rel="nofollow" href="http://t.co/U516x2Uo">http://t.co/U516x2Uo</a><br />
++5m <a href="https://twitter.com/#!/dud3k">dud3k</a>: Wow, them markets don't snooze. $ILMN $LIFE $PACB all down 5-6% in last hour. #agbt<br />
++7m <a href="https://twitter.com/#!/leonidkruglyak">leonidkruglyak</a>: "We wander into the realms of sci-fi at this point." @pathogenomenick interview with @nanopore <a rel="nofollow" href="http://t.co/5A6wlkfc">http://t.co/5A6wlkfc</a> #AGBT<br />
++8m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Most commonly overheard snippet at #AGBT right now: 'it is amazing, but we have to see it work in practice'. No prize for guessing 'it'.<br />
++8m <a href="https://twitter.com/#!/kristen_hallam">kristen_hallam</a>: Shares of $LIFE, $ILMN falling after Oxford Nanopore unveils portable DNA sequencing device, GridION scalability. #agbt<br />
++10m <a href="https://twitter.com/#!/notSoJunkDNA">notSoJunkDNA</a>: Amen @omespeak: Most commonly overheard snippet at #AGBT right now: 'it is amazing, but we have to see it work in practice'<br />
++12m <a href="https://twitter.com/#!/dud3k">dud3k</a>: errr correction, on yesterday's close. RT @dudek Wow, them markets don't snooze. $ILMN $LIFE $PACB all down 5-6% in last hour. #agbt<br />
++13m <a href="https://twitter.com/#!/leonidkruglyak">leonidkruglyak</a>: Great problem to have: "how will 100kb+ reads change your research?" <a rel="nofollow" href="http://t.co/5A6wlkfc">http://t.co/5A6wlkfc</a> #AGBT<br />
++15m <a href="https://twitter.com/#!/yokofakun">yokofakun</a>: @Fuzzyraptor oui a buzz fort  la confrence #AGBT : un squenceur de la taille d'une clef USB: see also: <a rel="nofollow" href="http://t.co/lBCg8WaG">http://t.co/lBCg8WaG</a><br />
++15m <a href="https://twitter.com/#!/SEQanswers">SEQanswers</a>: Waiting to see the 48.5kb lambda read.  @nanopore ?? #AGBT #makemeeatmywords<br />
++15m <a href="https://twitter.com/#!/_a_muse">_a_muse</a>: Excited about the Oxford plug and sequence announcement. And I am not at #AGBT . That place will be buzzing right now with discussions.<br />
++17m <a href="https://twitter.com/#!/michaelhoffman">michaelhoffman</a>: @leonidkruglyak The first problem is I'm going to have to clean up all this drool. (sorry) #agbt<br />
++17m <a href="https://twitter.com/#!/caddymob">caddymob</a>: minions and gridions! Gridion (not grid-ion) will forever be the title bestowed on most productive summer intern. Thx #AGBT<br />
++18m <a href="https://twitter.com/#!/khedkarsupriya">khedkarsupriya</a>: Sequencing technology reads bases in triplets and detects them using electrochemistry <a rel="nofollow" href="http://t.co/dXhCVl0P">http://t.co/dXhCVl0P</a> <a rel="nofollow" href="http://t.co/ssFjZtpZ">http://t.co/ssFjZtpZ</a> #AGBT<br />
++18m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Wondering when we shall see real world data from Oxford Nanopore? #AGBT<br />
++24m <a href="https://twitter.com/#!/ijivanjee">ijivanjee</a>: I am in a state of shock. #AGBT #ONT<br />
++25m <a href="https://twitter.com/#!/RickyConnolly">RickyConnolly</a>: "@nanopore: Introducing the MinION, a nanopore sequencer the size of a USB stick. Works just like GridION, but smaller #AGBT" neat tech<br />
++26m <a href="https://twitter.com/#!/pedrobeltrao">pedrobeltrao</a>: @mndoci just a very small selection bias :).those not at the AGBT meeting probably wished they were<br />
++28m <a href="https://twitter.com/#!/j_perkel">j_perkel</a>: .@Erika_Check at @NatureNews on today's Oxford Nanopore announcement at AGBT: <a rel="nofollow" href="http://t.co/Cml2zV63">http://t.co/Cml2zV63</a>. // A human genome in 15 minutes?<br />
++34m <a href="https://twitter.com/#!/kbradnam">kbradnam</a>: Reactions to @nanopore news. Biologists: cheer. Bioinformaticians: groan. System admins: weep. #AGBT<br />
++36m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Hmmm...... a 'nanopore war'!!! <a rel="nofollow" href="http://t.co/7S3iWnPG">http://t.co/7S3iWnPG</a> #AGBT #ONT<br />
++37m <a href="https://twitter.com/#!/jung_gt">jung_gt</a>: Indeed! RT: @liveinsymbiosis: #AGBT this will be great for bringing sequencing tech to the classroom.<br />
++37m <a href="https://twitter.com/#!/GenomeBiology">GenomeBiology</a>: Oxford nanopore had everyone talking at lunch. Is the minION going to be the next next gen? Wow. #agbt<br />
++37m <a href="https://twitter.com/#!/SEQanswers">SEQanswers</a>: Realists: spit take. @kbradnam: Reactions to @nanopore news. Biologists: cheer. Bioinformaticians: groan. System admins: weep. #AGBT<br />
++37m <a href="https://twitter.com/#!/druvus">druvus</a>: Oxford Nanopore Doesn't Disappoint <a rel="nofollow" href="http://t.co/Hbf2tI6r">http://t.co/Hbf2tI6r</a> #sequencing #AGBT<br />
++40m <a href="https://twitter.com/#!/schip">schip</a>: RT Watch ILMN rebound on purchase of Oxford @dudek Wow, them markets don't snooze. $ILMN $LIFE $PACB all down. #agbt<br />
++45m <a href="https://twitter.com/#!/illumina">illumina</a>: How did we get 4 whole human genomes on 1 USB drive? Find out at our talk in the Island Ballroom at 2:15p #AGBT<br />
++45m <a href="https://twitter.com/#!/dfjenkins3">dfjenkins3</a>: Only after nerding out. RT @SEQanswers: Realists: spit take. @kbradnam: Reactions to @nanopore...Bioinformaticians: groan...#AGBT<br />
++47m <a href="https://twitter.com/#!/kbradnam">kbradnam</a>: Every picture tells a story #AGBT  <a rel="nofollow" href="http://t.co/trbX0XFX">http://t.co/trbX0XFX</a><br />
++48m <a href="https://twitter.com/#!/Matt_Francis">Matt_Francis</a>: Hard act2follow RT @illumina How did we get 4 whole human genomes on 1 USB drive? Find out at our talk in the Island Ballroom at 2:15p #AGBT<br />
++49m <a href="https://twitter.com/#!/assemblathon">assemblathon</a>: RT @genetics_blog: If looking through the #AGBT tag is too daunting, @pathogenomenick is doing a fine job summarizing <a rel="nofollow" href="http://t.co/vXy0mFRw">http://t.co/vXy0mFRw</a><br />
++49m <a href="https://twitter.com/#!/DPMelters">DPMelters</a>: RT @kbradnam Every picture tells a story #AGBT  <a rel="nofollow" href="http://t.co/bsh3FiJI">http://t.co/bsh3FiJI</a><br />
++50m <a href="https://twitter.com/#!/Matt_Francis">Matt_Francis</a>: #AGBT so the nanopore + a laptop is almost a star trek tri-corder. #futureishere #wheresmyhoverboard<br />
++52m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Oh yeah? Well, our new R10K project gives free reagents! And it's sexy! And you can use a USB drive for it, kind of! Find out at 7:30. #AGBT<br />
++55m <a href="https://twitter.com/#!/Bobmorevc">Bobmorevc</a>: Moore's law blown away @kbradnam: Reactions to @nanopore news. Biologists: cheer. Bioinformaticians: groan. System admins: weep. #AGBT<br />
++58m <a href="https://twitter.com/#!/kbradnam">kbradnam</a>: You will now be able to tell your kids "I remember when USB thumb drives were only used to store files" #AGBT</p>
+<p><strong>2 - 3pm EST</strong><br />
++0m <a href="https://twitter.com/#!/fluidigm">fluidigm</a>: IT'S NOT TOO  LATE!! Stop by and learn about eliminating the need for paired-end read sequencing. Suite 285. #AGBT ^S<br />
++0m <a href="https://twitter.com/#!/EquallyBalance">EquallyBalance</a>: RT @GenomeBiology: Oxford nanopore had everyone talking at lunch. Is the minION going to be the next next gen? Wow. #agbt<br />
+WOW!<br />
++1m <a href="https://twitter.com/#!/illumina">illumina</a>: Illumina Talk: From Sample to Answer: Fast and Accurate Genome Seq for the Clinic -- starts in 10 min, Island Ballroom #AGBT<br />
++2m <a href="https://twitter.com/#!/assemblathon">assemblathon</a>: I wonder if tourism to Oxford, UK will see a little spike in the coming months? #AGBT<br />
++2m <a href="https://twitter.com/#!/BioMickWatson">BioMickWatson</a>: I'm a bioinf not groaning! RT @kbradnam Reactions to @nanopore news. Biologists: cheer. Bioinformaticians: groan. System admins: weep. #AGBT<br />
++4m <a href="https://twitter.com/#!/lexnederbragt">lexnederbragt</a>: I guess 100kb reads make the bioinformatics of whole genome assembly problem go away... #ONT #AGBT<br />
++5m <a href="https://twitter.com/#!/emmecola">emmecola</a>: NGS: News on Genomic Studies: Flash report: two new Next Generation Sequencers presented at AGBT <a rel="nofollow" href="http://t.co/vh3Qpd9l">http://t.co/vh3Qpd9l</a><br />
++5m <a href="https://twitter.com/#!/illumina">illumina</a>: Come pick up a "Genome on a Stick" in the Illumina Lounge after Elliott Margulies' talk. 4 genomes, 1 USB drive. #AGBT <a rel="nofollow" href="http://t.co/KNW7EMzr">http://t.co/KNW7EMzr</a><br />
++11m <a href="https://twitter.com/#!/BiotechMarketer">BiotechMarketer</a>: Looks like @nanopore stole the show with 15 min talk. Did all other platform cos waste their marketing budgets at #AGBT ?<br />
++12m <a href="https://twitter.com/#!/WeigelWorld">WeigelWorld</a>: Sequencing on a USB stick? <a rel="nofollow" href="http://t.co/aZh8Z7f5">http://t.co/aZh8Z7f5</a><br />
++13m <a href="https://twitter.com/#!/folded">folded</a>: Someone should go and park an #ONT branded matchbox bus next to the #ionbus at #agbt.<br />
++14m <a href="https://twitter.com/#!/rob_carlson">rob_carlson</a>: Recalling that just two months ago several prominent biologists assured me #nanopore sequencing was fairy dust. Oops. #AGBT<br />
++15m <a href="https://twitter.com/#!/maureen_mack">maureen_mack</a>: hey  @Personal_RX_WI apparently @illumina is giving away genomes on a stick #agbt don't miss it!<br />
++16m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Afternoon sessions just starting. Will anyone actually listen? #AGBT #ONT<br />
++23m <a href="https://twitter.com/#!/ribozyme">ribozyme</a>: I want sequencers on a stick! @maureen_mack, RT:  @illumina is giving away genomes on a stick #agbt don't miss it! #AGBT<br />
++25m <a href="https://twitter.com/#!/CompleteGenomic">CompleteGenomic</a>: Find out more about our Cancer Sequencing Service from our own Srinka Ghosh, in the #AGBT Complete Suite at 4:15pm<br />
++26m <a href="https://twitter.com/#!/pathogenomenick">pathogenomenick</a>: I've embedded all the nanopore videos on the blog here <a rel="nofollow" href="http://t.co/rhBpP9XS">http://t.co/rhBpP9XS</a> #AGBT<br />
++27m <a href="https://twitter.com/#!/rob_carlson">rob_carlson</a>: ILMN cheers storing genomes on a USB stick while Oxford #Nanopore was showing sequencing genomes WITH a USB stick? #AGBT #futureshock<br />
++27m <a href="https://twitter.com/#!/Personal_RX_WI">Personal_RX_WI</a>: #AGBT @illumina HiSeq2500  DNA in to gene annotation in 60hr 40 min.  Perfect for clinical whole genome sequencing.<br />
++27m <a href="https://twitter.com/#!/ribozyme">ribozyme</a>: 4% error still needs deep cov; also mixtures (i.e. cancer), het calls also. RT @drgitlin: goes away with high enough coverage? #AGBT<br />
++28m <a href="https://twitter.com/#!/GarimaKushwaha">GarimaKushwaha</a>: "Miniaturized, disposable USB DNA-sequencer" OH MY GOD!!! #amazing #AGBT<br />
++32m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Market reacts to #ONT announcement at #AGBT RT @matthewherper: The Next DNA Disruptor? - Forbes <a rel="nofollow" href="http://t.co/ZCLKzhXi">http://t.co/ZCLKzhXi</a><br />
++35m <a href="https://twitter.com/#!/illumina">illumina</a>: Marguiles: Data integration from multiple databases including medical risk data w/ variant calls using ISAAC to detect causal muts #AGBT<br />
++36m <a href="https://twitter.com/#!/illumina">illumina</a>: Marguiles: Accelerated analysis, 7 hrs for total analysis workflow w/ iSAAC + GATK, one command operation #AGBT<br />
++37m <a href="https://twitter.com/#!/illumina">illumina</a>: Marguiles: 120 Gb BAM reduced to just 6 Gb as CRAM file #AGBT<br />
++37m <a href="https://twitter.com/#!/westr">westr</a>: RT @pathogenomenick: I've embedded all the nanopore videos on the blog here <a rel="nofollow" href="http://t.co/6uD2uSzc">http://t.co/6uD2uSzc</a> #AGBT #pm101<br />
++38m <a href="https://twitter.com/#!/lykkebak">lykkebak</a>: eller Video from #AGBT with Anja about #CPHx 2012 June 14-15 <a rel="nofollow" href="http://t.co/w5Vnp0kL">http://t.co/w5Vnp0kL</a><br />
++42m <a href="https://twitter.com/#!/leonidkruglyak">leonidkruglyak</a>: RT @pathogenomenick: I've embedded all the nanopore videos on the blog here <a rel="nofollow" href="http://t.co/C7CrCTMO">http://t.co/C7CrCTMO</a> #AGBT<br />
++42m <a href="https://twitter.com/#!/finchtalk">finchtalk</a>: #AGBT Kevin Hrusovsky on where PerkinElmer is going, mentions that 4th leading cause of death: drug side effects.<br />
++44m <a href="https://twitter.com/#!/kbradnam">kbradnam</a>: The @nanopore press release also reveals that the MinION syncs with iTunes, acts as a 3G modem, and has a fresh lemon scent #AGBT<br />
++44m <a href="https://twitter.com/#!/nanopore">nanopore</a>: of course! RT @kbradnam: @nanopore release also reveals that MinION syncs with iTunes, acts as a 3G modem, and has a fresh lemon scent #AGBT<br />
++47m <a href="https://twitter.com/#!/ING_SYS">ING_SYS</a>: Check out our poster: Biological Interpretation of NGS Re-sequencing Data- today 4:30pm to 6:00pm # 293 #AGBT<br />
++53m <a href="https://twitter.com/#!/howitts_done">howitts_done</a>: Very cool technology! @pathogenomenick: Oxford Nanopore megaton announcement: Why do you need a machine? <a rel="nofollow" href="http://t.co/HydaHnmL">http://t.co/HydaHnmL</a> #AGBT<br />
++55m <a href="https://twitter.com/#!/genetics_blog">genetics_blog</a>: Hmm. What will Oxford @nanopore's 4% error rate mean #bioinformatics? #AGBT<br />
++55m <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: Anja introducing #CPHx 2012 from #AGBT - we hope to see you in Copenhagen, June 14-15 :) <a rel="nofollow" href="http://t.co/F1ExdRRx">http://t.co/F1ExdRRx</a><br />
++59m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: OK @nparmalee Carlos Bustamante is up now talking about Complete Genomics and population genetics inference in the personal era. #AGBT<br />
++59m <a href="https://twitter.com/#!/kbradnam">kbradnam</a>: Things to tell your grandchildren: "and we used to work in large buildings called sequencing centers" #AGBT</p>
+<p><strong>3 - 4pm EST</strong><br />
++0m <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: Yoga flash mob, informal 45 min, with Garrick @ 3:30 pm, Palms Lawn - Northern most lawn of the Marriott. Mats provided #namaste #AGBT<br />
++1m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: CB: trying to address how many mutations do genomes from different populations carry + looking at ancient genomes and modern genomes. #AGBT<br />
++1m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: CB: Comp. Genomics: average 55X coverage. Reference guided assembly + de novo assembly in variant regions. #AGBT<br />
++2m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: CB: What can you find out from high coverage genomes that you miss with low coverage genomes? #AGBT<br />
++2m <a href="https://twitter.com/#!/ChaunceyGrattan">ChaunceyGrattan</a>: Can the pores sequence more than one fragment per run? @nanopores #AGBT<br />
++3m <a href="https://twitter.com/#!/mrfoyle">mrfoyle</a>: RT @rob_carlson Recalling that just two months ago several prominent biologists assured me #nanopore sequencing was fairy dust. Oops. #AGBT<br />
++5m <a href="https://twitter.com/#!/Awesomics">Awesomics</a>: On the @Nanopore splash at #AGBT RT @matthewherper: The Next DNA Disruptor? - Forbes <a rel="nofollow" href="http://t.co/6ondWpl0">http://t.co/6ondWpl0</a><br />
++5m <a href="https://twitter.com/#!/illumina">illumina</a>: Bustamante: CGI released 69 genomes avail as a reference and plans to do 500 more genomes #AGBT<br />
++6m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: CB: Populations can vary in nucleotide diversity by two fold. #AGBT<br />
++6m <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: Did the AV guy fall asleep? Bustamante is LOUD... #AGBT<br />
++7m <a href="https://twitter.com/#!/acdarby">acdarby</a>: I am a bit worried that my computer does not have enough USB ports to turn it into a sequencing lab #AGBT @nanopore!<br />
++8m <a href="https://twitter.com/#!/ldtimmerman">ldtimmerman</a>: RT @Awesomics: On the @Nanopore splash at #AGBT RT @matthewherper: The Next DNA Disruptor? - Forbes <a rel="nofollow" href="http://t.co/vHisjesO">http://t.co/vHisjesO</a><br />
++9m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: CB: pop load of damaging homozygous mutations does not track w/ diversity. e.g. CHB low div. but higher rate of damaging mutations. #AGBT<br />
++10m <a href="https://twitter.com/#!/illumina">illumina</a>: Bustamante: Genetic diversity among Chinese, Eurpoean, African pops. Excess diversity damaging? #AGBT<br />
++11m <a href="https://twitter.com/#!/bioinfosm">bioinfosm</a>: with so much #agbt buzz after the #oxford #nanopore talk, it might actually have become a trending topic on #twitter!!!<br />
++11m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: CB: bottleneck followed by expansion allows for retention of deleterious mutations. Admixture is protective for hom. deleterious mut. #AGBT<br />
++12m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: CB: Rest of talk not tweetable. #AGBT<br />
++14m <a href="https://twitter.com/#!/bkmacy">bkmacy</a>: Nanopore genome sequencer makes its debut <a rel="nofollow" href="http://t.co/P7k0G5E0">http://t.co/P7k0G5E0</a> @naturenews #AGBT<br />
++14m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Somewhat lost in the hype of the MINIon is that the nanopore can potentially sequence RNA directly. Big news for RNA researchers. #AGBT<br />
++14m <a href="https://twitter.com/#!/illumina">illumina</a>: Bustamante: Excess deleterious homoz muts characterized by &gt;1 severe dramatic bottlenecks followed by population expansion #AGBT<br />
++18m <a href="https://twitter.com/#!/bkmacy">bkmacy</a>: Can MinION by nanopore sequence RNA for gene expression investigations? #AGBT<br />
++19m <a href="https://twitter.com/#!/stveep">stveep</a>: It's that time of year when I realise how "small potatoes" my sequencing projects are...but then why do they cause so much grief?! #AGBT<br />
++20m <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: Bustamante: "Finns are special." &lt;-- A return trip to Helsinki easily confirms that... ;) #scandinavianlove #AGBT<br />
++21m <a href="https://twitter.com/#!/saxscience">saxscience</a>: #AB471 MT @pathogenomenick: I've embedded all the #nanopore videos on the blog here <a rel="nofollow" href="http://t.co/wdAbG98h">http://t.co/wdAbG98h</a> #AGBT<br />
++22m <a href="https://twitter.com/#!/leonidkruglyak">leonidkruglyak</a>: +1, and I'm not even at #AGBT No one is talking about much else right now. <a rel="nofollow" href="http://t.co/u2fQZhIM">http://t.co/u2fQZhIM</a><br />
++23m <a href="https://twitter.com/#!/JasonDeKoning">JasonDeKoning</a>: Crazy stuff being announced at #AGBT! <a rel="nofollow" href="http://t.co/iDJ3V9E2">http://t.co/iDJ3V9E2</a><br />
++24m <a href="https://twitter.com/#!/bslatko">bslatko</a>: @agbt<br />
++25m <a href="https://twitter.com/#!/ayrrisbio">ayrrisbio</a>: Why do you need a machine to do next-generation sequencing?<a rel="nofollow" href="http://t.co/wZIuV4Dk">http://t.co/wZIuV4Dk</a> Lots more 'omics data coming!!  #AGBT HT @Nanopore<br />
++26m <a href="https://twitter.com/#!/drgitlin">drgitlin</a>: +2 RT @leonidkruglyak: +1, and I'm not even at #AGBT No one is talking about much else right now. <a rel="nofollow" href="http://t.co/7Kd3YPRG">http://t.co/7Kd3YPRG</a><br />
++27m <a href="https://twitter.com/#!/illumina">illumina</a>: Watson: 1B reactions per day based on droplet streams #AGBT<br />
++29m <a href="https://twitter.com/#!/illumina">illumina</a>: Watson: V. large number of singleplex PCR primers merged with gDNA in a droplet, then PCRd #AGBT<br />
++30m <a href="https://twitter.com/#!/froggleston">froggleston</a>: Rothberg: "Nanopores are an 'elegant' technology [..] but Ion Torrent already has a foot in the door" (NewSci). Palpable desperation? #agbt<br />
++30m <a href="https://twitter.com/#!/SarahSalbu">SarahSalbu</a>: wow RT @finchtalk: #AGBT Kevin Hrusovsky on where PerkinElmer is going, mentions that 4th leading cause of death: drug side effects.<br />
++39m <a href="https://twitter.com/#!/GenomeBiology">GenomeBiology</a>: Raindance discusses Olivier Harismendy's recent Genome Biology paper that used their technology #agbt<br />
++40m <a href="https://twitter.com/#!/illumina">illumina</a>: #AGBT poster 191: Deep seq ribosome protected mRNA frags from poly- & monosomes isol by size excl chrom<br />
++44m <a href="https://twitter.com/#!/joe_pickrell">joe_pickrell</a>: +1 RT @leonidkruglyak +1, and I'm not even at #AGBT No one is talking about much else right now. <a rel="nofollow" href="http://t.co/MZxSS5n4">http://t.co/MZxSS5n4</a><br />
++45m <a href="https://twitter.com/#!/illumina">illumina</a>: #AGBT poster 126: High accuracy and high speed sequencing on Illumina platforms<br />
++45m <a href="https://twitter.com/#!/parijata">parijata</a>: RT @kbradnam: Reactions to @nanopore news. Biologists: cheer. Bioinformaticians: groan. System admins: weep. #AGBT<br />
++45m <a href="https://twitter.com/#!/EpicentreBio">EpicentreBio</a>: RT @illumina: #AGBT poster 191: Deep seq ribosome protected mRNA frags from poly- & monosomes isol by size excl chrom<br />
++46m <a href="https://twitter.com/#!/NextBio">NextBio</a>: Visit us at #AGBT poster 370: Mining TCGA glioblastoma data for potential #biomarker! #PM101<br />
++46m <a href="https://twitter.com/#!/bioontology">bioontology</a>: RT @bioitworld: Full story on Oxford @nanopore stunning presentation from CTO Clive Brown at #AGBT <a rel="nofollow" href="http://t.co/5esocobA">http://t.co/5esocobA</a><br />
++46m <a href="https://twitter.com/#!/TrishWhetzel">TrishWhetzel</a>: RT @bioitworld: Full story on Oxford @nanopore stunning presentation from CTO Clive Brown at #AGBT <a rel="nofollow" href="http://t.co/0lpJgvWi">http://t.co/0lpJgvWi</a><br />
++46m <a href="https://twitter.com/#!/bioontology">bioontology</a>: RT @bioitworld: Full story on Oxford @nanopore stunning presentation from CTO Clive Brown at #AGBT <a rel="nofollow" href="http://t.co/eE67nP5n">http://t.co/eE67nP5n</a><br />
++50m <a href="https://twitter.com/#!/illumina">illumina</a>: #AGBT poster 234: #Nextera amplicon lib prep for Illuminas #MiSeq personal sequencing system<br />
++54m <a href="https://twitter.com/#!/drchriscole">drchriscole</a>: @davidmam I'm not sure that'll happen. 100x coverage genomes will be unnecessary #ngs #nanopore #AGBT<br />
++54m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Elaine Mardis talking about NuGen's microfluidics technology #AGBT<br />
++55m <a href="https://twitter.com/#!/illumina">illumina</a>: #AGBT poster 149 Using #HiSeq2000 to detect de novo germline and somatic muts in clinical WGS<br />
++56m <a href="https://twitter.com/#!/rbuels">rbuels</a>: Huge, accurate, fast, super-cheap DNA reads?  :-O  Oxford #nanopore #ngs at #AGBT shot has definitely been heard round the world.<br />
++58m <a href="https://twitter.com/#!/EdgeBio">EdgeBio</a>: #AGBT @EdgeBio SAB chair Elaine Mardis up next to talk about NuGen microfluidics technology<br />
++58m <a href="https://twitter.com/#!/eonsim">eonsim</a>: I want some MinIon minions! Cheapish and disposable just as they should be! #agbt<br />
++59m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Elaine Mardis on making libraries w/ 10-20 ng of DNA: "You gotta have Sean. But the bad news for you is, you can't have Sean." #AGBT.</p>
+<p><strong>4 - 5pm EST</strong><br />
++0m <a href="https://twitter.com/#!/fluidigm">fluidigm</a>: Only 60 minutes left! Stop by Suite 285 and learn how you can obtain reads from both ends with single-read sequencing. #AGBT ^S<br />
++1m <a href="https://twitter.com/#!/kbradnam">kbradnam</a>: My #AGBT tweets have gained me several new followers today. Wonder how quick I'll lose them when I revert to tweeting about angry penguins?<br />
++1m <a href="https://twitter.com/#!/illumina">illumina</a>: #AGBT poster 353: Single-day, highly multiplexed amplicon sequencing with #MiSeq<br />
++1m <a href="https://twitter.com/#!/illumina">illumina</a>: Have a cocktail and meet our experts at Happy Hour in the Illumina Lounge (Capri Ballroom 2/3) now thru 7:00pm. #AGBT<br />
++1m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: If you haven't seen the NuGen system in person, it's pretty neat. Droplets move across the circuit board look like cartoon animation. #AGBT<br />
++1m <a href="https://twitter.com/#!/KamounLab">KamounLab</a>: Oxford #Nanopores MinIon "run-until" option is cool. Great for sloppy labs. If wrong sample is loaded then stop the run  #ngs #AGBT<br />
++7m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Mardis: Low-input libraries @WashU: PCR cycle optimization helps control the duplication rate ==&gt; better sequencing efficiency. #AGBT.<br />
++9m <a href="https://twitter.com/#!/suganthibala">suganthibala</a>: AGBT 2012 Day 1: Clinical Annotation and Fierce Competition <a rel="nofollow" href="http://t.co/e9MMaa72">http://t.co/e9MMaa72</a><br />
++9m <a href="https://twitter.com/#!/razoralign">razoralign</a>: AGBTOxford Nanopore minIONw<br />
++12m <a href="https://twitter.com/#!/NEBiolabs">NEBiolabs</a>: Meet NEB scientists at the #AGBT poster session at 4:30.  We're at booth 256 talking about strand-specific RNA.<br />
++13m <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: Here's a spy photo from a projected sequencing center, planned to open in early 2013: <a rel="nofollow" href="http://t.co/BjaSNe1P">http://t.co/BjaSNe1P</a> #AGBT<br />
++15m <a href="https://twitter.com/#!/lexnederbragt">lexnederbragt</a>: Our competitors are like a pregnant woman" #ONT #AGBT  <a rel="nofollow" href="http://t.co/hQHJY0at">http://t.co/hQHJY0at</a><br />
++15m <a href="https://twitter.com/#!/kbradnam">kbradnam</a>: Heh! RT @Copenhagenomics: Here's a spy photo from a projected sequencing center, planned to open in early 2013: <a rel="nofollow" href="http://t.co/KcOFGxcZ">http://t.co/KcOFGxcZ</a> #AGBT<br />
++15m <a href="https://twitter.com/#!/NEBiolabs">NEBiolabs</a>: Meet NEB scientists at the #AGBT poster session at 4:30. We're poster 256 and talking about strand-specific RNA.<br />
++17m <a href="https://twitter.com/#!/schnablep">schnablep</a>: #AGBT #NGS game changer? press release from @nanopore: <a rel="nofollow" href="http://t.co/HC51JxFo">http://t.co/HC51JxFo</a> more: <a rel="nofollow" href="http://t.co/FZoyImTP">http://t.co/FZoyImTP</a> (do check these out)<br />
++20m <a href="https://twitter.com/#!/illumina">illumina</a>: #AGBT Workshop: Illumina Targeted Reseq and Sample Prep Solutions -- starts in 10 min, Illumina Lounge (Capri Ballroom 2/3)<br />
++20m <a href="https://twitter.com/#!/daweonline">daweonline</a>: I'm not at #AGBT but I heard a couple of bombs falling!<br />
++21m <a href="https://twitter.com/#!/NEBiolabs">NEBiolabs</a>: #AGBT poster session - visit us at poster 214 to learn about our library prep developments in adaptors!<br />
++21m <a href="https://twitter.com/#!/Matt_Francis">Matt_Francis</a>: #AGBT obi-wan:I felt a great disturbance in the force, as if a million #illumina investors cried out in pain #oxford #Nanopore<br />
++21m <a href="https://twitter.com/#!/NeonAardvark">NeonAardvark</a>: RT @bioinfosm with so much #agbt buzz after the #oxford #nanopore talk, it might actually have become a trending topic on #twitter!!!<br />
++26m <a href="https://twitter.com/#!/NEBiolabs">NEBiolabs</a>: Come to Collier Hall and learn about #automation at poster 153 at the #AGBT poster session starting in 5 minutes!<br />
++26m <a href="https://twitter.com/#!/NeonAardvark">NeonAardvark</a>: RT  ILMN cheers storing genomes on a USB stick while Oxford #Nanopore was showing sequencing genomes WITH a USB stick? #AGBT #futureshock<br />
++29m <a href="https://twitter.com/#!/Calo_BM">Calo_BM</a>: #AGBT<br />
++29m <a href="https://twitter.com/#!/eperlste">eperlste</a>: @nparmalee +1! I've been on both sides of conference tweeting. Maybe it's the subject matter, but following #AGBT has been a blast.<br />
++30m <a href="https://twitter.com/#!/NEBiolabs">NEBiolabs</a>: Chat with NEB scientists and learn about microbiome enrichment at poster 82 at the #AGBT poster session starting now in Collier Hall.<br />
++33m <a href="https://twitter.com/#!/EpicentreBio">EpicentreBio</a>: Thursday afternoon at #AGBT: roundup from @Illumina <a rel="nofollow" href="http://t.co/NOYpw7qX">http://t.co/NOYpw7qX</a><br />
++36m <a href="https://twitter.com/#!/kbradnam">kbradnam</a>: Warning to all employees of @Nanopore. If you carry any 'regular' USB flash drives on you, prepare to be mugged by rabid genomicists #AGBT<br />
++41m <a href="https://twitter.com/#!/xprize">xprize</a>: #AGBT RT @agxp: Head to poster 170 to meet Grant Campany Sr. Dir Archon Genomics X PRIZE presented by Medco. learn abt the $10M Competition<br />
++42m <a href="https://twitter.com/#!/emergentnexus">emergentnexus</a>: @MiriamGoldste There's also #AGBT where Oxford Nanopore announced USB stick sized ultra-long read $900 nanopore DNA sequencer #aaasmtg<br />
++44m <a href="https://twitter.com/#!/t_basi">t_basi</a>: I'm so relieved that's OVER. I don't understand any of it yet I've been on the edge of my seat all week. Well done Zoe @nanopore . #agbt<br />
++46m <a href="https://twitter.com/#!/eperlste">eperlste</a>: @sargoshoe #AGBT has generated the most scientific buzz I've seen on Twitter, and it has nothing to do with PLoS, arsenate or retractions!<br />
++47m <a href="https://twitter.com/#!/liu3zhen">liu3zhen</a>: Crazy world. I guess many PIs will re-write their proposals based on the unbelievable Nanopore new system #AGBT<br />
++51m <a href="https://twitter.com/#!/Jeylen">Jeylen</a>: I plan to start up a sequencing center. :) MT @Copenhagenomics: a projected sequencing center in early 2013: <a rel="nofollow" href="http://t.co/9wvLMS1H">http://t.co/9wvLMS1H</a> #AGBT<br />
++51m <a href="https://twitter.com/#!/KazanLaw">KazanLaw</a>: I liked a @YouTube video from @iontorrent <a rel="nofollow" href="http://t.co/qFqVyIVX">http://t.co/qFqVyIVX</a> Follow the Ion Bus to AGBT 2012...Get On<br />
++55m <a href="https://twitter.com/#!/NEBiolabs">NEBiolabs</a>: Visit NEB scientists at posters 82, 153, 214, and 256 at the #AGBT poster session going on now! <a rel="nofollow" href="http://t.co/z2Ex5VuN">http://t.co/z2Ex5VuN</a><br />
++58m <a href="https://twitter.com/#!/aindap">aindap</a>: Twitter feed is exploding with @nanopore related #AGBT tweets!</p>
+<p><strong>5 - 6pm EST</strong><br />
++4m <a href="https://twitter.com/#!/rkirkbride">rkirkbride</a>: Today, everyone was watching the race for the $1000 genome got blindsided by the $1000 genome sequenceER. #AGBT #nanopore<br />
++5m <a href="https://twitter.com/#!/illumina">illumina</a>: Come on by for happy hour in the Illumina Lounge! #AGBT<br />
++6m <a href="https://twitter.com/#!/rkirkbride">rkirkbride</a>: Today Evonne who was watching the race for the $1000 genome got blindsided by the $1000 genome sequencER. #AGBT #minION<br />
++13m <a href="https://twitter.com/#!/bkmacy">bkmacy</a>: RT @ING_SYS: Check out our poster NOW: Biological Interpretation of NGS Re-sequencing Data- today 4:30pm to 6:00pm #293 #AGBT<br />
++17m <a href="https://twitter.com/#!/nygenome">nygenome</a>: Lots of energy and interest in #nygenome at the #AGBT poster session. Stop by Collier #173 if you haven't visited us yet.<br />
++17m <a href="https://twitter.com/#!/nanopore">nanopore</a>: RT @kbradnam: Warning to all employees of @Nanopore. If u carry 'regular' USB drives on you, prepare to be mugged by rabid genomicists #AGBT<br />
++18m <a href="https://twitter.com/#!/sujaik">sujaik</a>: Keith Robinson adds a dash of realism to the #nanopore #agbt gushiness :-) <a rel="nofollow" href="http://t.co/AKwoNpbo">http://t.co/AKwoNpbo</a><br />
++19m <a href="https://twitter.com/#!/bkmacy">bkmacy</a>: At heart of the sequencing debate, researchers face the difficult task of relating data to affected biology <a rel="nofollow" href="http://t.co/ObGCOIR8">http://t.co/ObGCOIR8</a> #AGBT<br />
++21m <a href="https://twitter.com/#!/genomesunzipped">genomesunzipped</a>: Making sequencing simpler with nanopores: Our take on the new Oxford @Nanopore machines #AGBT <a rel="nofollow" href="http://t.co/cjrQX1db">http://t.co/cjrQX1db</a><br />
++24m <a href="https://twitter.com/#!/Clarksearch">Clarksearch</a>: U R Funny RT @kbradnam: Things to tell your grandchildren: "and we used to work in large buildings called sequencing centers" #AGBT<br />
++24m <a href="https://twitter.com/#!/GenomeInstitute">GenomeInstitute</a>: Details of Oxford Nanopore's Next Gen sequencing technology <a rel="nofollow" href="http://t.co/NkWv97NW">http://t.co/NkWv97NW</a> (@bioitworld) #AGBT<br />
++28m <a href="https://twitter.com/#!/CompleteGenomic">CompleteGenomic</a>: Another exciting day at the #AGBT Complete Suite with our customers and partners. Hope everyone had a great time!<br />
++31m <a href="https://twitter.com/#!/JTBiotech">JTBiotech</a>: Crazy announcement at the #AGBT conference: #MiniION, a disposable USB pocket-sized nanopore sequencer: <a rel="nofollow" href="http://t.co/cg2JO6Xa">http://t.co/cg2JO6Xa</a><br />
++34m <a href="https://twitter.com/#!/rkirkbride">rkirkbride</a>: Everyone looking for $1000 genomes surprised today by $1000 genome sequencER. #AGBT #nanopore<br />
++42m <a href="https://twitter.com/#!/belvario">belvario</a>: Entering the age of the $1K genome - <a rel="nofollow" href="http://t.co/RPVGsmMj">http://t.co/RPVGsmMj</a> and <a rel="nofollow" href="http://t.co/nXxdoeuf">http://t.co/nXxdoeuf</a> @nanopore @iontorrent #AGBT<br />
++49m <a href="https://twitter.com/#!/belvario">belvario</a>: So, what is the exact use case for the @nanopore MinION?  #AGBT<br />
++52m <a href="https://twitter.com/#!/coding_doc">coding_doc</a>: @belvario Have look at the @GenomesUnzipped blog <a rel="nofollow" href="http://t.co/gkPdIm14">http://t.co/gkPdIm14</a> #AGBT<br />
++52m <a href="https://twitter.com/#!/mjcgenetics">mjcgenetics</a>: Oxford @Nanopore's MiniON. A DNA sequencer the size of a memory stick! Put away that tricorder, Bones. <a rel="nofollow" href="http://t.co/ZTbMe5Od">http://t.co/ZTbMe5Od</a> #AGBT #genomics<br />
++53m <a href="https://twitter.com/#!/Copenhagenomics">Copenhagenomics</a>: We sure are minions of the MinION... Thanks for all the retweets :) #AGBT<br />
++54m <a href="https://twitter.com/#!/neilhall_uk">neilhall_uk</a>: "Its like youve been in a band. doing gigs in grotty little venues,then you wake up and youre number one" <a rel="nofollow" href="http://t.co/GQr4acRW">http://t.co/GQr4acRW</a> #ONT #AGBT</p>
+<p><strong>6 - 7pm EST</strong><br />
++3m <a href="https://twitter.com/#!/belvario">belvario</a>: Anyone else thinking GATTACA? RT @coding_doc: @belvario Have look at the @GenomesUnzipped blog <a rel="nofollow" href="http://t.co/E35JYGeK">http://t.co/E35JYGeK</a> #AGBT<br />
++5m <a href="https://twitter.com/#!/kbradnam">kbradnam</a>: If you're going to get a MinION then you may as well buy one of these as well (http:/worldssmallestpc.com/ultrasmall.htm)  #AGBT #smallworld<br />
++6m <a href="https://twitter.com/#!/DonRosenthal">DonRosenthal</a>: MT @westr @genomesunzipped: Making sequencing simpler w/ nanopores: Our take on the new Oxford @Nanopore machines #AGBT <a rel="nofollow" href="http://t.co/IPrsp8Zt">http://t.co/IPrsp8Zt</a><br />
++19m <a href="https://twitter.com/#!/Personal_RX_WI">Personal_RX_WI</a>: #AGBT Not a bad place to spend 4 days. Thanks AGBT! <a rel="nofollow" href="http://t.co/Z2eKHkT8">http://t.co/Z2eKHkT8</a><br />
++28m <a href="https://twitter.com/#!/genomematt">genomematt</a>: New announcement from oxford @nanopore are the talk of the sequencing world after #agbt announcements <a rel="nofollow" href="http://t.co/8kDyKQOd">http://t.co/8kDyKQOd</a><br />
++29m <a href="https://twitter.com/#!/8iterations">8iterations</a>: Rack-mounted USB nanopore DNA sequencers RT @Copenhagenomics: spy photo : <a rel="nofollow" href="http://t.co/Eyz3RMxf">http://t.co/Eyz3RMxf</a> #AGBT<br />
++31m <a href="https://twitter.com/#!/HRSearchPros">HRSearchPros</a>: Are you a good fit for this job? Recruiting Manager in Houston, TX <a rel="nofollow" href="http://t.co/KyymMXgs">http://t.co/KyymMXgs</a> #job<br />
++32m <a href="https://twitter.com/#!/assemblathon">assemblathon</a>: RT @genomesunzipped: Making sequencing simpler with nanopores: Our take on the new Oxford @Nanopore machines #AGBT <a rel="nofollow" href="http://t.co/SZmpwcbz">http://t.co/SZmpwcbz</a><br />
++32m <a href="https://twitter.com/#!/GenomeWeb">GenomeWeb</a>: Impact of @nanopore's #minIon announcement on rest of sequencing market is pretty telling: <a rel="nofollow" href="http://t.co/GCB4Up9l">http://t.co/GCB4Up9l</a> #AGBT<br />
++33m <a href="https://twitter.com/#!/assemblathon">assemblathon</a>: How long before a MinION is featured on CSI? Though it would of course need a blue light and be able to sequence a genome in seconds. #AGBT<br />
++35m <a href="https://twitter.com/#!/kbradnam">kbradnam</a>: Of course @nanopore are having the last laugh as they haven't told people that the MinION syncs data over USB 1.0 #AGBT<br />
++43m <a href="https://twitter.com/#!/TrishWhetzel">TrishWhetzel</a>: RT @genomeweb: Impact of @nanopore's #minIon announcement on rest of sequencing market is pretty telling: <a rel="nofollow" href="http://t.co/wlg0kWvY">http://t.co/wlg0kWvY</a> #AGBT<br />
++47m <a href="https://twitter.com/#!/kb_macrolee">kb_macrolee</a>: $1000 genomes in 2013 ? RT @genomesunzipped: simpler with nanopores: on the new Oxford @Nanopore machines #AGBT <a rel="nofollow" href="http://t.co/XFXn9Pln">http://t.co/XFXn9Pln</a></p>
+<p><strong>7 - 8pm EST</strong><br />
++2m <a href="https://twitter.com/#!/becky_furlong">becky_furlong</a>: looks like I should have gone to #agbt just for the @nanopore talk ...<br />
++8m <a href="https://twitter.com/#!/humanlifee">humanlifee</a>: AGBT 2012 Tweets Day 3: 9:00-9:35 am, Keynote Speaker: Rick Myers, HudsonAlpha Institute for Biotechnology, Gen... <a rel="nofollow" href="http://t.co/6F3Aclqd">http://t.co/6F3Aclqd</a><br />
++8m <a href="https://twitter.com/#!/aninditaarci">aninditaarci</a>: AGBT for ...<br />
++9m <a href="https://twitter.com/#!/IanGoodhead">IanGoodhead</a>: I feel sorry for anyone else giving a talk today at #AGBT.<br />
++12m <a href="https://twitter.com/#!/belvario">belvario</a>: Everyone's focusing on the price/speed - my money's on the real story being long reads... @nanopore #AGBT<br />
++18m <a href="https://twitter.com/#!/Symbionticism">Symbionticism</a>: Oxford nanopore usb-sequencer is like bringing social media to genomicists. We will all be empowered instead of waiting for cores. #AGBT<br />
++29m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: Getting ready for @girlscientist to talk in the Genome Biology session tonight: measuring T cell repertoire diversity. #AGBT<br />
++31m <a href="https://twitter.com/#!/chloe46037">chloe46037</a>: Chris gunter is up #AGBT "measurement of TCell repertoire diversity<br />
++31m <a href="https://twitter.com/#!/genomeresearch">genomeresearch</a>: The fabulous Chris Gunter from HudsonAlpha talking about T cell repertoire diversity at #AGBT<br />
++32m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: CG: focusing on the beta receptor- looking to measure genetic and environment interaction #AGBT<br />
++33m <a href="https://twitter.com/#!/613SportsChick">613SportsChick</a>: I need to tweet as @girlscientist is presenting at #AGBT right now! #tweetfriendlytalk<br />
++34m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: CG: Looking at the diversity using RNA rather than DNA. mostly sequencing on 454 but also some Illumina. #AGBT<br />
++34m <a href="https://twitter.com/#!/iontorrent">iontorrent</a>: Great AGBT talk by Dr. Tim Triche about long-read RNA Seq on the Ion PGM...: <a rel="nofollow" href="http://t.co/eCJbdXV9">http://t.co/eCJbdXV9</a> via @youtube #agbt #ionbus<br />
++35m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: CG: looking at repeatability (looks good) and quantitation (semi-quantitative).  #AGBT<br />
++36m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Scott Grimmond: genomic analysis of pancreatic adenocarcinoma<br />
++36m <a href="https://twitter.com/#!/chloe46037">chloe46037</a>: CG:multiplexing PCR primers in the TCRB genes #AGBT.<br />
++37m <a href="https://twitter.com/#!/genomeresearch">genomeresearch</a>: related <a rel="nofollow" href="http://t.co/vQRlXuBF">http://t.co/vQRlXuBF</a> RT @deannachurch: CG: focusing on the beta receptor-looking to measure genetic & environment interaction #AGBT<br />
++38m <a href="https://twitter.com/#!/bffo">bffo</a>: CG cool visualization tools .#agbt<br />
++38m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: CG: Able to see difference in TCRB between normal samples and both Lupus and colon cancer samples. #AGBT<br />
++38m <a href="https://twitter.com/#!/bffo">bffo</a>: Chris Gunter (.@girlscientist) talks about cool stuff.! #agbt<br />
++41m <a href="https://twitter.com/#!/GenomicsIo">GenomicsIo</a>: MT @belvario: [] - my money's on the real story being long reads... @nanopore #AGBT & RNA & protein & small molecue-seq on same hardware<br />
++41m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: CG: advertising the "R10K" project- want to sequence the immune repertoire of 10,000 individuals, 100 each and 100 diseases. #agbt<br />
++41m <a href="https://twitter.com/#!/salisburymw">salisburymw</a>: Full house for the @girlscientist talk on immune response. Very cool work. #agbt<br />
++41m <a href="https://twitter.com/#!/coding_doc">coding_doc</a>: RT @genomeresearch: The fabulous @girlscientist from HudsonAlpha talking about T cell repertoire diversity at #AGBT<br />
++41m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: CG: go to <a rel="nofollow" href="http://t.co/rekf2Gkd">http://t.co/rekf2Gkd</a> for more information on joining the project! #AGBT<br />
++43m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Scott Grimmond: DNA damage repair genes often mutated in PDAC .. also includes p300<br />
++43m <a href="https://twitter.com/#!/GenomicsIo">GenomicsIo</a>: MT @iontorrent: AGBT talk by Dr. Tim Triche about long-read RNA Seq on the Ion PGM.: <a rel="nofollow" href="http://t.co/AjQLr5Vd">http://t.co/AjQLr5Vd</a> via @youtube #agbt #ionbus thx!<br />
++44m <a href="https://twitter.com/#!/obahcall">obahcall</a>: @girlscientist speaking on <a rel="nofollow" href="http://t.co/GWcVJCOQ">http://t.co/GWcVJCOQ</a> , sequence immune repertoire in 10k, 100 each in 100 diseases #AGBT<br />
++44m <a href="https://twitter.com/#!/JChrisPires">JChrisPires</a>: FREEDOM! fancy new OxNano pocket sequencers #sequencing has finally broken free of the lab! #genome #bioinformatics #AGBT<br />
++45m <a href="https://twitter.com/#!/JChrisPires">JChrisPires</a>: RT @bffo: CG cool #visualization tools #bioinformatics #agbt<br />
++46m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Scott Grimmond: axon guidance genes eg Robo2, Slt2, Sema3A often mutated in pancreatic adenocarcinoma<br />
++47m <a href="https://twitter.com/#!/jewmanchue">jewmanchue</a>: @bmooreUT @foryvonne @genotyper: Congrats!  Major #VAAST twitter activity from #AGBT including: @illumina @iontorrent #YandellLab #FTW<br />
++48m <a href="https://twitter.com/#!/jewmanchue">jewmanchue</a>: @illumina FYI its Lynn Jorde; not Lynne :-) #VAAST #AGBT<br />
++48m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Joanna Kelley on multi platform de novo assembly of self fertilizing hermaphroditic fish  #AGBT<br />
++48m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Scott Grimmond: ROBO2 and ROBO3 expression correlate significantly with survival in pancreatic adenocarcinoma<br />
++50m <a href="https://twitter.com/#!/CaitieL">CaitieL</a>: "game changer" new sequencer revealed at #AGBT - thoughts? <a rel="nofollow" href="http://t.co/IeEyjnc6">http://t.co/IeEyjnc6</a><br />
++51m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: Joanna Kelley talking about sequencing and de novo a self-fertilizing hermaphroditic fish. #AGBT<br />
++51m <a href="https://twitter.com/#!/froggleston">froggleston</a>: No tweets about surname leakage. A tad ironic one could say. #agbt<br />
++53m <a href="https://twitter.com/#!/jewmanchue">jewmanchue</a>: @GholsonLyon Dr. Jorde shared the NAA10 story at #AGBT<br />
++53m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Kelley: multi-platform approach de novo genome sequence of self fertilizing hermaphroditic fish ... We are literally swimming in data #AGBT<br />
++54m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT David Smith:  Exome, Transcriptome and Methylome Analysis of Oropharygneal Cancers<br />
++54m <a href="https://twitter.com/#!/mgberlin">mgberlin</a>: @nanopore Why not set up with a minION and a laptop in the corner of #AGBT and sequence genomes? All promises, no proof.<br />
++56m <a href="https://twitter.com/#!/rnomics">rnomics</a>: RT @GenomicsIo: MT @iontorrent: AGBT talk by Dr. Tim Triche about long-read #RNA Seq on... <a rel="nofollow" href="http://t.co/2OHsXK34">http://t.co/2OHsXK34</a> #rnomics-bioscience @MyEN<br />
++57m <a href="https://twitter.com/#!/bioinfosm">bioinfosm</a>: multiple Informatics Specialist job openings at Mayo Clinic <a rel="nofollow" href="http://t.co/kkuFWskx">http://t.co/kkuFWskx</a><br />
+#agbt #jobs #ngs<br />
++58m <a href="https://twitter.com/#!/jgreid">jgreid</a>: AGBT Agilent Party <a rel="nofollow" href="http://t.co/n5M4nkqp">http://t.co/n5M4nkqp</a><br />
++59m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Thanks all for the tweets of the talk! Main message: we welcome you to participate in the R10K project, <a rel="nofollow" href="http://t.co/Cj2Qcz0s">http://t.co/Cj2Qcz0s</a> #AGBT<br />
++59m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: David Smith (Mayo) on oral pharynx carcinoma: Some exomes, some RNA-seq, some methylome. Talking so fast I can't write anything down. #AGBT</p>
+<p><strong>8 - 9pm EST</strong><br />
++2m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Kelley: will use RNASeq to improve assembly in future work #AGBT<br />
++2m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Kelley: discussing challenges to taking mixed approach, mainly bioinformatics, some assemblers not handle ion torrent data. #AGBT<br />
++3m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Kelley: population genomic analysis shows highly homozygous populations  #AGBT<br />
++3m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Like being attacked by dementors, eating chocolate helps after giving an #AGBT talk.<br />
++5m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Joanna Kelley did a great job talking about fish genome sequencing and problems with trying to combine data from multiple platforms. #AGBT<br />
++5m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: David Smith: No differences in somatic mutation count between current smokers (HPV-) and never-smokers (HPV+). Doesn't make sense. #AGBT<br />
++5m <a href="https://twitter.com/#!/lykkebak">lykkebak</a>: #AGBT Interesting talk on smokers/non smokers/former smokers by David Smith. Still hope for the smokers - if they stop smoking.<br />
++6m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Martin Hirst: Epigenetic contributions to cell identity in human breast #AGBT<br />
++10m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT John McPherson: Evaluating Targeted Resequencing as a Diagnostic Tool: a Prospective Clinical Trial<br />
++11m <a href="https://twitter.com/#!/obahcall">obahcall</a>: John McPherson on targeted resequencing as a cancer diagnostic tool #AGBT<br />
++12m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Martin Hirst: "I would argue one of seminal findings of RNA seq-ing in cancer are the recurrent findings of epigenetic modifiers." #AGBT<br />
++13m <a href="https://twitter.com/#!/chloe46037">chloe46037</a>: John McPherson "evaluating targeted resequencing as a diagnostic tool" #AGBT<br />
++16m <a href="https://twitter.com/#!/jewmanchue">jewmanchue</a>: hey #AGBT folks:  do you have a link to @nanopore summary statistics?  #depth #coverage #quality?<br />
++16m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Hirst has asked us not to tweet the details of his breast cancer epigenetic data, sorry. #AGBT<br />
++16m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Hirst on breast cancer epigenetics. Epigenetic modifiers recurrently mutated: MLL2, ARID1A examples. Ever heard of DNMT3A, guy? #AGBT.<br />
++17m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Well I guess I asked for it - Hirst just asked for "no tweeting" at #AGBT. Rarely a good sign for a talk, ironically.<br />
++20m <a href="https://twitter.com/#!/chloe46037">chloe46037</a>: JMP reports to clinician composed of mutation, frequency and clinical studies relevant to reported mutations #AGBT<br />
++27m <a href="https://twitter.com/#!/illumina">illumina</a>: Hirst: Many cancers associated with genome hypomethylation and paradoxically CpG island hypermethylation #AGBT<br />
++28m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Alan Harris on Evolutionary genetics of small body size and dizygotic twinning in Callitrichine Primates #AGBT<br />
++28m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Awwww...Alan Harris of Baylor showing cute monkeys. #AGBT<br />
++29m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: [except that one of the small monkeys in Harris's slide looks like he has wicked teeth and he is gouging a tree to get the bark off. #AGBT]<br />
++30m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Weird. Harris: these callitrichine primates have dichorionic, dizygotic twins 80% of wild births. Twins all the time: dream genetics! #AGBT<br />
++30m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT John McPherson: reported cancer diagnostic testing results of 19 actionable genes, using PacBio and Sequenom on 30 patients<br />
++31m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Samuel Levy: somatic detection in tumor genomes using Illumina and Ion Torrent seq data #AGBT<br />
++33m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT John McPherson: on 19 gene panel,  PacBio found a few more actionable mutations than Sequenom, because entire genes were sequenced<br />
++33m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Levy: Assembly-to-assembly comparison can reveal complex DNA variation, i.e. as found in Craig Venter's genome. Ah, name-dropping. #AGBT.<br />
++33m <a href="https://twitter.com/#!/neandrothal">neandrothal</a>: @dgmacarthur We haven't seen the real product yet. PacBio gave similar predictions at AGBT before<br />
++37m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Levy: De novo Assembly Assembly Mapping (DAAM). Wins the acronym award, at least. #AGBT.<br />
++38m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: You're at #AGBT? And you're reading twitter? You should meet the other tweeps in person. Hotel lobby bar, when sessions end.<br />
++38m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Samuel Levy: using an assembly approach to look for indels (instead of simply aligning reads using short read aligners)<br />
++39m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Samuel Levy: assembly approach is called DA-AM, detects 2-10 fold longer indels than GATK<br />
++41m <a href="https://twitter.com/#!/BiotechMarketer">BiotechMarketer</a>: I absolutely love being able to attend #AGBT vicariously via twitter. Thanks to all the tweeps at Marco Island!<br />
++41m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: The DAAM approach calls them somatic. The DAAM approach ends up producing stuff that's more accurate. I'll be DAAMed. #AGBT.<br />
++43m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Samuel Levy: showed a nice 15bp somatic insertion missed by GATK (functionality unclear since it is in 5'UTR of a LOC gene)<br />
++44m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Levy: 96-97% mapping rate for IonTorrent 200-bp reads. DK: But let's be honest: 2x coverage is a far cry from validation. #AGBT.<br />
++44m <a href="https://twitter.com/#!/bigfeet5grl">bigfeet5grl</a>: 10Kbp &gt; 40bp reads @belvario: Everyone's focusing on the price/speed - my money's on the real story being long reads... @nanopore #AGBT<br />
++46m <a href="https://twitter.com/#!/spbccar">spbccar</a>: #Agbt  push button perfect bacterial assemblies from david jaffe using allpaths-lg<br />
++48m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rebecca Kusko: comprehensive profiling of lung transcriptome in COPD and IPF patients using RNA-seq<br />
++53m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Michael Talkowski: importance of balanced chromosomal rearrangements in autism. Sorry but I didn't catch whether talk tweetable. #AGBT<br />
++53m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Michael Talkowski on Balanced chromosomal rearrangements in Autism and other neurodevelopmental disorders  #AGBT<br />
++54m <a href="https://twitter.com/#!/thinkCara">thinkCara</a>: I so want to go to a scientific conference with a hashtag. But alas, I'm a first year grad student so I must wait. #AGBT<br />
++56m <a href="https://twitter.com/#!/froggleston">froggleston</a>: Flagging. Need beverages. #agbt<br />
++57m <a href="https://twitter.com/#!/benoitbruneau">benoitbruneau</a>: Transcripts, assembly RT@belvario: Everyone's focusing on the price/speed - my money's on the real story being long reads... @nanopore #AGBT<br />
++57m <a href="https://twitter.com/#!/genomeresearch">genomeresearch</a>: Original Allpaths <a rel="nofollow" href="http://t.co/AzC6Plgf">http://t.co/AzC6Plgf</a> RT @spbccar: #Agbt  push button perfect bacterial assemblies from david jaffe using allpaths-lg<br />
++58m <a href="https://twitter.com/#!/NJL_Broad">NJL_Broad</a>: David Jaffe of @broadinstitute : near perfect assemblies of microbes by combining illumina fragments, jumps and pacbio long reads. #AGBT</p>
+<p><strong>9 - 10pm EST</strong><br />
++0m <a href="https://twitter.com/#!/spiremk">spiremk</a>: Just absorbing the #AGBT @nanopore talk from earlier today. Screw the #iPhone introduction, this is truly mind-blowing <a rel="nofollow" href="http://t.co/J2vupPcE">http://t.co/J2vupPcE</a><br />
++1m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Rebecca Kusko: most interesting finding is wound healing cytokine alternatively spliced in IPF and emphysema<br />
++2m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Talkowski:  chromothrpsis = chromosomal shattering and rearrangement #AGBT<br />
++5m <a href="https://twitter.com/#!/froggleston">froggleston</a>: Potential use of @nanopore for gut microbiomes? Glad those USB sticks are throw away. @CrapBio takeover imminent? #agbt<br />
++7m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Talkowski's work is pretty cool, on chromothripsis in autism. More on him at <a rel="nofollow" href="http://t.co/h5sltduP">http://t.co/h5sltduP</a> #AGBT<br />
++7m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Anyone going to the Ion Bus party? #AGBT<br />
++10m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: Getting ready for @NCBI 's Eugene Yaschenko's talk on compression strategies for NGS data. #AGBT<br />
++11m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Crowd filing back into room and standing in back for Eric Schadt talk next. Modestly titled on slide, "Reveal the true biology." #AGBT<br />
++12m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Maria Mendez-Lago: Genomic analysis of DLBCL<br />
++12m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Eric Shcadt on Kinetic Variation events, SMRT sequencing and novel regulatory mechanisms  #AGBT<br />
++13m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Eric Schadt on novel regulatory mechanisms from more complete characterization DNA methyl #AGBT<br />
++14m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: EY: Going over decision circle needed for defining compression: what to store, remove redundancy, lossy vs. lossless, tuning. #AGBT<br />
++14m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Strap in people: Schadt starting on real-time pathogen outbreak studies with @pacbio. First: summer 2011 E. coli outbreak in Germany. #AGBT<br />
++14m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Schadt: E.coli outbreak in Germany; why was it so virulent? #AGBT<br />
++16m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Schadt: got 8 E. coli genomes of strain to compare, and can see outbreak strain only has shiga toxin gene addition. Explains pathology #AGBT<br />
++16m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Schadt: phagelike element encoding shiga toxin found in outbreak strain #AGBT<br />
++16m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Schadt reviews their studies on pathogen sequencing during epidemic outbreaks, first on Ecoli outbreak in Germany July 2011 #AGBT<br />
++17m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Schadt: horizontal gene transfer indicated in the increased virulence in outbreak strain #AGBT<br />
++18m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Schadt: sequence data led them to hypothesize that some antibiotics would make symptoms much worse; held up with data. #AGBT<br />
++19m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: EY: need to update SRA compression to accommodate BAM and other formats containing both raw reads and alignments. #AGBT<br />
++20m <a href="https://twitter.com/#!/pyknosis">pyknosis</a>: RT @kbradnam: Reactions to @nanopore sequencer news. Biologists: cheer. Bioinformaticians: groan. System admins: weep. #AGBT<br />
++20m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: EY: describing update of cSRA toolkit- you can get this software here: <a rel="nofollow" href="http://t.co/9KWUl5G3">http://t.co/9KWUl5G3</a> #AGBT<br />
++20m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Schadt: now to add methylation data. Going through methods of 5meC detection on @pacbio. #AGBT<br />
++20m <a href="https://twitter.com/#!/genome_gov">genome_gov</a>: Schadt: using PacBio to detect base modifications #AGBT<br />
++22m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Schadt: see massive signature of methylation on outbreak genome compared to reference E. coli strain. What are modfications doing?? #AGBT<br />
++22m <a href="https://twitter.com/#!/djschlesinger">djschlesinger</a>: Do you have all your Ion tiles?? #AGBT <a rel="nofollow" href="http://t.co/EUX8EcTR">http://t.co/EUX8EcTR</a><br />
++22m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: EY: testing new compression method on 1000G data- over 3114 files taking 27 Tb of data after compression. #AGBT<br />
++23m <a href="https://twitter.com/#!/obahcall">obahcall</a>: Schadt: now reanalyzing this Ecoli outbreak seq data using @PacBio to ID kinetic variation events #AGBT<br />
++25m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Schadt: found completely novel sequence contexts for adenine methylation in this outbreak strain. #AGBT<br />
++28m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Schadt: then use RNA-seq to look for enrichment of pathways in outbreak strain. Genes upregulated likely to have new motif, modified. #AGBT<br />
++29m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Schadt: now giving us an animated summary of his entire talk, with videos. #AGBT Guess I shouldn't have worried about Prezi being too fancy.<br />
++29m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: EY: Updates to SRA Run browser to add additional information and to make it easier to show alignment. #AGBT<br />
++29m <a href="https://twitter.com/#!/myopomme">myopomme</a>: Sequencing Takes a Clinical Bent at AGBT <a rel="nofollow" href="http://t.co/Z8VPpukx">http://t.co/Z8VPpukx</a> We can follow the NGS meeting. tech, application, and clinical use. #AGBT<br />
++30m <a href="https://twitter.com/#!/deannachurch">deannachurch</a>: EY: New tool to make access to 1000 Genomes data (BAMs and genotypes)- including downloading BAM slices: <a rel="nofollow" href="http://t.co/9KWUl5G3">http://t.co/9KWUl5G3</a> #AGBT<br />
++31m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Whew. The tweetup should begin shortly. #AGBT<br />
++34m <a href="https://twitter.com/#!/omespeak">omespeak</a>: Already here... RT @girlscientist Whew. The tweetup should begin shortly. #AGBT<br />
++36m <a href="https://twitter.com/#!/454Sequencing">454Sequencing</a>: Don't miss the Roche Applied Science Workshop tomorrow at noon in the Palms Ballroom! #AGBT<br />
++43m <a href="https://twitter.com/#!/ramoyw2">ramoyw2</a>: AGBT<br />
++45m <a href="https://twitter.com/#!/454Sequencing">454Sequencing</a>: "A draft assembly of Cannabis saliva and Cannabis indica" Presented by Kevin McKernan, Medicinal Genomics - Don't miss it! #AGBT<br />
++54m <a href="https://twitter.com/#!/Massgenomics">Massgenomics</a>: Day 2 summary of #AGBT and cool photo posted on Massgenomics: <a rel="nofollow" href="http://t.co/APPtxVay">http://t.co/APPtxVay</a><br />
++56m <a href="https://twitter.com/#!/jgreid">jgreid</a>: @AGBT IonLounge <a rel="nofollow" href="http://t.co/gJTVd6lB">http://t.co/gJTVd6lB</a><br />
++57m <a href="https://twitter.com/#!/ElementoLab">ElementoLab</a>: #AGBT Maria Mendez-Lago: found novel fusions including w FOXP1, also novel targets of aberrant somatic hypermutation in DLBCL, many overexp</p>
+<p><strong>10 - 11pm EST</strong><br />
++6m <a href="https://twitter.com/#!/liu3zhen">liu3zhen</a>: A great AGBT notes; get information without attending the conference <a rel="nofollow" href="http://t.co/ueTd1A72">http://t.co/ueTd1A72</a> #AGBT<br />
++15m <a href="https://twitter.com/#!/kbradnam">kbradnam</a>: A crazy day of #AGBT-related tweets. Hello to my new followers...I'm sure you will be unfollowing me within a week!<br />
++24m <a href="https://twitter.com/#!/bffo">bffo</a>: at bar, waiting for tweet up ... middle table ... #agbt<br />
++34m <a href="https://twitter.com/#!/dgmacarthur">dgmacarthur</a>: Great coverage of #AGBT by @Massgenomics: <a rel="nofollow" href="http://t.co/Hv3aZdSz">http://t.co/Hv3aZdSz</a><br />
++35m <a href="https://twitter.com/#!/girlscientist">girlscientist</a>: Massive turnout for tweetup! Feeling the love. #AGBT<br />
++44m <a href="https://twitter.com/#!/Dr_Bik">Dr_Bik</a>: @kbradnam are you at #AGBT IRL or just following online? Sounds cool either way!<br />
++51m <a href="https://twitter.com/#!/liu3zhen">liu3zhen</a>: MinIon can be used to QC your DNA libraries. Whatever libraries. That is great. #AGBT</p>
+<p><strong>11 - 12pm EST</strong><br />
++1m <a href="https://twitter.com/#!/sciolato">sciolato</a>: So cool! RT @pathogenomenick: I've embedded all the nanopore videos on the blog here <a rel="nofollow" href="http://t.co/mD6XZINx">http://t.co/mD6XZINx</a> #AGBT<br />
++32m <a href="https://twitter.com/#!/SEQanswers">SEQanswers</a>: Thanks to @nanopore for driving a subset of dummies out of $ILMN!! #AGBT<br />
++43m <a href="https://twitter.com/#!/caddymob">caddymob</a>: Is this still a thing #AGBT? "Illumina and Oxford Nanopore Enter into Broad Commercialization Agreement" <a rel="nofollow" href="http://t.co/IPWdRYv6">http://t.co/IPWdRYv6</a><br />
++45m <a href="https://twitter.com/#!/hiro_h">hiro_h</a>: AGBT tweets 2012 (2) <a rel="nofollow" href="http://t.co/8YWvx4S9">http://t.co/8YWvx4S9</a><br />
++46m <a href="https://twitter.com/#!/TogetterJP">TogetterJP</a>: : </p>
+<p>		@hiro_h<br />
+		AGBT tweets 2012 (2)</p>
+<p>		fav:0 view:0<br />
+ <a rel="nofollow" href="http://t.co/WtUd5zah">http://t.co/WtUd5zah</a><br />
++10m <a href="https://twitter.com/#!/ribozyme">ribozyme</a>: Also this: "Illumina Joins $41M Bet on Oxford Nanopore" <a rel="nofollow" href="http://t.co/V84gR201">http://t.co/V84gR201</a> RT @caddymob: Is this still a thing?. #AGBT<br />
++17m <a href="https://twitter.com/#!/fionabrinkman">fionabrinkman</a>: Wow MT @pathogenomenick Oxford Nanopore megaton announcement: Why do you need a machine?  interview <a rel="nofollow" href="http://t.co/8br4kwtb">http://t.co/8br4kwtb</a> #AGBT<br />
++29m <a href="https://twitter.com/#!/EvgenyGlazov">EvgenyGlazov</a>: Video: Dr. Tim Triche talks about long-read ncRNA Seq on the @iontorrent PGM and transcriptional complexity at #AGBT <a rel="nofollow" href="http://t.co/4ubDsVPo">http://t.co/4ubDsVPo</a><br />
++31m <a href="https://twitter.com/#!/terryvrijenhoek">terryvrijenhoek</a>: RT@nanopore: Introducing the MinION, a nanopore sequencer the size of a USB stick. Works just like GridION, but smaller #AGBT<br />
++29m <a href="https://twitter.com/#!/drsteventucker">drsteventucker</a>: "We wander into the realms of sci-fi at this point." @pathogenomenick interview with @nanopore  #AGBT <a rel="nofollow" href="http://t.co/uIoDGvNa">http://t.co/uIoDGvNa</a><br />
++34m <a href="https://twitter.com/#!/gantengp2">gantengp2</a>: AGBT<br />
++47m <a href="https://twitter.com/#!/Arabgenes">Arabgenes</a>: Rt @nanopore Introducing the MinION, a nanopore sequencer the size of a USB stick. Works just like GridION, but smaller #AGBT<br />
++49m <a href="https://twitter.com/#!/KamounLab">KamounLab</a>: @AnneOsterrieder @ThePlantJournal @MPPjournal @PetraKiviniemi @PlantBizarre Easy: Ask them to check hashtags #AGBT #LGD2012 #FRA2012 etc.<br />
++50m <a href="https://twitter.com/#!/Arabgenes">Arabgenes</a>: Rt @genetics_blog If looking through the AGBT tag is too daunting,@pathogenomenick is doing a fine job summarizing at <a rel="nofollow" href="http://t.co/Py4R8uA8">http://t.co/Py4R8uA8</a>.<br />
++1m <a href="https://twitter.com/#!/jessfl4">jessfl4</a>: AGBT<br />
++6m <a href="https://twitter.com/#!/flyembtn9">flyembtn9</a>: HiSeq 1500 is same as 2500 with single lane flow cell. AGBT - what's the point?<br />
++37m <a href="https://twitter.com/#!/Hyoobaloinz">Hyoobaloinz</a>: RT @genomesunzipped: Making sequencing simpler w nanopores: Our take on the new Oxford @Nanopore machines #AGBT <a rel="nofollow" href="http://t.co/6WMW7GfV">http://t.co/6WMW7GfV</a><br />
++43m <a href="https://twitter.com/#!/mrrizkallah">mrrizkallah</a>: Iit's been 2 hours and I am half way #AGBT tweets. This is a 500X coverage :-)</p>

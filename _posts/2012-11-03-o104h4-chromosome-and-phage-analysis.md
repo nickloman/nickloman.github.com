@@ -2,10 +2,10 @@
 layout: post
 title: "O104:H4 chromosome and phage analysis"
 description: ""
-category: clinical-metagenomics
+category: notebook clinical-metagenomics
 tags: [stec]
 ---
-{% include JB/setup %}
+
 
 ## Coverage stats file
 

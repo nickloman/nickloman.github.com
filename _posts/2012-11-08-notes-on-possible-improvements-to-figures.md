@@ -2,10 +2,10 @@
 layout: post
 title: "Notes on possible improvements to figures"
 description: ""
-category: clinical-metagenomics
+category: notebook clinical-metagenomics
 tags: []
 ---
-{% include JB/setup %}
+
 
 ## Figure 1 (coverage gallery)
 

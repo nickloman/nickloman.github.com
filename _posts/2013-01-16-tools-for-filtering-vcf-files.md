@@ -2,10 +2,10 @@
 layout: post
 title: "Tools for filtering VCF files"
 description: ""
-category: 
+category: notebook 
 tags: []
 ---
-{% include JB/setup %}
+
 
 Tools for filtering VCF files:
 

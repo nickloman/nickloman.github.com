@@ -6,7 +6,7 @@ category:
 tags: []
 ---
 
-Oxford Nanopore have recently opened phase 2 of the MinION access programme (MAP) and I have been asked a few times by email whether they should sign up, so here is a little blog post that hopefully will be helpful when making your decision. 
+Oxford Nanopore have recently opened phase 2 of the MinION access programme (MAP) and I have been asked a few times by email by folk wondering whether they should sign up, so here is a little blog post that hopefully will be helpful when making your decision. 
  
 In case you are wondering what MAP is: it gives you the chance to try out the Oxford Nanopore MinION USB sequencer for a very small initial outlay, specifically $1000 per "MAP package" (one MinION sequencer and some number of flow cell reagents and sample preparation kits). The $1000 is refundable, although the delivery costs are not. 
  

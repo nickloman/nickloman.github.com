@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+category: balti
 published: true
 title: 'Cream Teas and Bioinformatics: Meeting Report In Pictures and Slides'
 author:

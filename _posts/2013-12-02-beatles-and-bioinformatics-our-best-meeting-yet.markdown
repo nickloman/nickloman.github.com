@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+category: balti
 published: true
 title: 'Beatles and Bioinformatics: Our best meeting yet'
 author:

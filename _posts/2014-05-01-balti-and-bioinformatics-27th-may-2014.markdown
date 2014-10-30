@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+category: balti
 published: true
 title: 'Balti and Bioinformatics: 27th May, 2014'
 author:

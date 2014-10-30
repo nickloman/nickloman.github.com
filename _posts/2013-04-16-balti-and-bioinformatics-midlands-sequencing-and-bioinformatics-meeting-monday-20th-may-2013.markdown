@@ -2,6 +2,7 @@
 layout: post
 status: publish
 published: true
+category: balti
 title: 'Balti and Bioinformatics: Midlands Sequencing and Bioinformatics Meeting:
   Monday, 20th May 2013'
 author:

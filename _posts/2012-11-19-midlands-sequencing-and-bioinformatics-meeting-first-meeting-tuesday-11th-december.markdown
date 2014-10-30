@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+category: balti
 published: true
 title: 'Midlands Sequencing and Bioinformatics Meeting: First Meeting Tuesday, 11th
   December '

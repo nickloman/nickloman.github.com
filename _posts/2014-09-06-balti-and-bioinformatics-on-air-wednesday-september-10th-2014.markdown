@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+category: balti
 published: true
 title: Balti and Bioinformatics "On Air" Wednesday September 10th 2014
 author:
@@ -38,4 +39,6 @@ comments: []
 <p><a href="https://plus.google.com/events/c84plk0i44oitav9v68mdltas9s">Go register at Google Plus</a>.</p>
 <p>Update 11th September:</p>
 <p>This went great! Please check out the entire event on Youtube:</p>
-<p>https://www.youtube.com/watch?v=UtXlr19xTh8</p>
+<!-- youtube UtXlr19xTh8 -->
+<iframe width="560" height="315" src="http://www.youtube.com/embed/UtXlr19xTh8" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+

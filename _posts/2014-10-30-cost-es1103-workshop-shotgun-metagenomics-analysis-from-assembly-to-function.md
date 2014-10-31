@@ -22,3 +22,5 @@ Application deadline: 1st November 2014
 
 Non-COST funded applicants are also welcome, although these participants will have to pay their own way. Application deadline for these applicants is: 7th November 2014
 
+Applications to Isabel Dodd, I.Dodd@warwick.ac.uk please specify your name, department, supervisor, bioinformatics experience, the type of data you are interested in analysing and details of any datasets you have already generated.
+

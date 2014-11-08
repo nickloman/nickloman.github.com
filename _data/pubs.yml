@@ -1,4 +1,42 @@
 - ArticleIds:
+    doi: 10.1136/bmjopen-2014-006278
+    eid: '25371418'
+    medline: []
+    pii: bmjopen-2014-006278
+    pubmed: ['25371418']
+    rid: '25371418'
+  AuthorList: [Quick J, Cumley N, Wearn CM, Niebel M, Constantinidou C, Thomas CM,
+    Pallen MJ, Moiemen NS, Bamford A, Oppenheim B, Loman NJ]
+  DOI: 10.1136/bmjopen-2014-006278
+  ELocationID: 'doi: 10.1136/bmjopen-2014-006278'
+  EPubDate: 2014 Nov 4
+  ESSN: 2044-6055
+  FullJournalName: BMJ open
+  HasAbstract: 1
+  History:
+    entrez: 2014/11/06 06:00
+    medline: ['2014/11/06 06:00']
+    pubmed: ['2014/11/06 06:00']
+  ISSN: ''
+  Id: '25371418'
+  Issue: '11'
+  Item: []
+  LangList: [English]
+  LastAuthor: Loman NJ
+  NlmUniqueID: '101552874'
+  Pages: e006278
+  PmcRefCount: 0
+  PubDate: 2014 Nov 4
+  PubStatus: epublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - in process
+  References: []
+  SO: 2014 Nov 4;4(11):e006278
+  Source: BMJ Open
+  Title: 'Seeking the source of Pseudomonas aeruginosa infections in a recently opened
+    hospital: an observational study using whole-genome sequencing.'
+  Volume: '4'
+- ArticleIds:
     doi: 10.1038/nmeth.3103
     eid: '25218180'
     medline: []

@@ -18,7 +18,7 @@ group: navigation
   <p>
      {{ pub.AuthorList | array_to_sentence_string }}
      <b>{{ pub.Title }}</b>
-     <em>{{ pub.FullJournalName | capitalize }}</em>
+     <em>{{ pub.Source }}</em>
      {{ pub.SO }}
      (<a href="http://dx.doi.org/{{pub.DOI}}">{{ pub.DOI }}</a>)
   </p>

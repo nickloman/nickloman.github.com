@@ -1,0 +1,21 @@
+---
+layout: page
+title: Events
+---
+
+{% for event in site.data.events %}
+  <p>
+    {{ event.org }}, {{ event.loc }} ({{ event.start_date }}{% if event.end_date %} - {{ event.end_date }}{% endif %})<br/>
+    {% if event.url %}
+      <em><a href="{{ event.url }}">{{ event.title }}</a></em><br/>
+    {% else %}
+      <em>{{ event.title }}</em><br/>
+    {% endif %}
+    <b>{{ event.talk_title }}</b>
+    {% if event.host %}
+       <br/>
+       Hosted by: {{ event.host }}
+    {% endif %}
+  </p>
+{% endfor %}
+

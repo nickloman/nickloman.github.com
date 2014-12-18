@@ -1,0 +1,48 @@
+- org: Utrecht University
+  loc: Utrecht, Netherlands
+  start_date: 2015-01-14
+  title: Visit to van Schaik laboratory
+  talk_title: Prospective and real-time genome sequencing for outbreak investigations
+  url: http://www.eijkmanschool.org/research/index.php?id=535
+  host: Willem van Schaik
+
+- org: VIB
+  loc: Leuven, Belgium
+  start_date: 2015-01-15
+  end_date: 2015-01-16
+  title: "Revolutionizing Next-Generation Sequencing: Tools and Technologies"
+  talk_title: What can we do with real-time nanopore sequencing?
+  url: http://www.vibconferences.be/event/revolutionizing-next-generation-sequencing-tools-and-technologies
+  host: Mark Veuglers
+
+- org: Biofrontiers Institute 
+  loc: Colorado, US
+  start_date: 2015-02-10
+  title: Biofrontiers Seminar Series
+  talk_title: tbc
+  url: http://biofrontiers.colorado.edu/events/upcoming-events
+  host: Daniel MacDonald
+
+- org: VanBUG
+  loc: Vancouver, British Columbia, Canada
+  start_date: 2015-02-12
+  title: VanBUG
+  talk_title: tbc
+  url: http://www.vanbug.org/
+  host: William Hsiao
+
+- org: Wellcome Trust Advanced Courses and Scientific Conferences
+  loc: Hinxton, UK
+  title: Applied Bioinformatics and Public Health Microbiology
+  start_date: 2015-05-06
+  end_date: 2015-05-08
+  url: https://registration.hinxton.wellcome.ac.uk/display_info.asp?id=474
+ 
+- org: ECCMID
+  loc: Copenhagen, Denmark
+  title: European Congress of Clinical Microbiology and Infectious Diseases
+  start_date: 2015-04-25
+  end_date: 2015-04-28
+  talk_title: "Meet-The-Expert: What bioinformatic tools should I use for analysis of high-throughput sequencing data for molecular diagnostics?"
+  talk_title: So I have sequenced my organism ... what do I do now?
+  url: http://www.eccmid.org/ 

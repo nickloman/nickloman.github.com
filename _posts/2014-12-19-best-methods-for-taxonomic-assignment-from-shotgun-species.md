@@ -5,7 +5,6 @@ description: ""
 category: 
 tags: []
 ---
-{% include JB/setup %}
 
 This is turning into a frequently-asked-question on Twitter, so here
 is my $0.02 for the best methods to try:

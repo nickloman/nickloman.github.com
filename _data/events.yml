@@ -31,13 +31,13 @@
   url: http://www.vanbug.org/
   host: William Hsiao
 
-- org: Wellcome Trust Advanced Courses and Scientific Conferences
-  loc: Hinxton, UK
-  title: Applied Bioinformatics and Public Health Microbiology
-  start_date: 2015-05-06
-  end_date: 2015-05-08
-  url: https://registration.hinxton.wellcome.ac.uk/display_info.asp?id=474
- 
+- org: University of Oxford
+  loc: Oxford, UK
+  start_date: 2015-03-05
+  title: Evolutionary Genomics (3rd Year Biological Sciences)
+  talk_title: Microbial genomics in the clinic
+  host: Aziz Aboobaker
+
 - org: ECCMID
   loc: Copenhagen, Denmark
   title: European Congress of Clinical Microbiology and Infectious Diseases
@@ -46,3 +46,11 @@
   talk_title: "Meet-The-Expert: What bioinformatic tools should I use for analysis of high-throughput sequencing data for molecular diagnostics?"
   talk_title: So I have sequenced my organism ... what do I do now?
   url: http://www.eccmid.org/ 
+
+- org: Wellcome Trust Advanced Courses and Scientific Conferences
+  loc: Hinxton, UK
+  title: Applied Bioinformatics and Public Health Microbiology
+  start_date: 2015-05-06
+  end_date: 2015-05-08
+  url: https://registration.hinxton.wellcome.ac.uk/display_info.asp?id=474
+ 

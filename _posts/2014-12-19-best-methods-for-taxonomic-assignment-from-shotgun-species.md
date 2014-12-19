@@ -35,3 +35,11 @@ is my $0.02 for the best methods to try:
   <http://ab.inf.uni-tuebingen.de/software/diamond/>
   <http://ab.inf.uni-tuebingen.de/software/megan5/>
 
+* If you are boldly exploring strange new worlds to seek out
+  new life, a phylogenetic approach may be more suitable. These
+  tend to be slow, and rely on the presence of one or more 
+  marker genes in your sample, but have the advantage of 
+  giving a feel for the phylogenetic position of species 
+  in your sample. If you are doing this kind of thing I 
+  recommend trying Phylosift <http://phylosift.wordpress.com/>
+  or MOCAT <http://vm-lux.embl.de/~kultima/MOCAT/>

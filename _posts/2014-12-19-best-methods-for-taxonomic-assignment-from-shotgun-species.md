@@ -17,7 +17,7 @@ is my $0.02 for the best methods to try:
   <https://bitbucket.org/biobakery/metaphlan2>
 
 * Kraken -- <http://ccb.jhu.edu/software/kraken/>,
-  even faster than Metaphlan2. Last common ancestor (LCA)
+  even faster than Metaphlan2. Lowest common ancestor (LCA)
   approach combined with k-mer matching, hence being rapid. 
   As it is k-mer based may suffer from lower specificity,
   particularly for reference genomes containing erroneous k-mers,

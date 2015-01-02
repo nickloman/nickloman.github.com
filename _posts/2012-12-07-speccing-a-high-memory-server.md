@@ -2,7 +2,7 @@
 layout: post
 title: "Speccing a high memory server"
 description: ""
-category: notebook servers
+category:  servers
 tags: [high-memory]
 ---
 

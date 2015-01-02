@@ -2,7 +2,7 @@
 layout: post
 title: "Understanding insert size calculations from various software"
 description: ""
-category: notebook 
+category:  
 tags: []
 ---
 

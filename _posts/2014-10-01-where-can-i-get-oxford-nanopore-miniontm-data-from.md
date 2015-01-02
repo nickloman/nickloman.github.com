@@ -2,7 +2,7 @@
 layout: post
 title: "Where can I get Oxford Nanopore MinION(tm) data from?"
 description: ""
-category: notebook 
+category:  
 tags: []
 ---
 

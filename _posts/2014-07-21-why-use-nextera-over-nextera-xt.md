@@ -2,7 +2,7 @@
 layout: post
 title: "Why use Nextera over Nextera XT?"
 description: ""
-category: notebook 
+category:  
 tags: []
 ---
 

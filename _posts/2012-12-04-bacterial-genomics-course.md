@@ -2,7 +2,7 @@
 layout: post
 title: "Bacterial genomics course"
 description: ""
-category: notebook teaching
+category:  teaching
 tags: [assembly]
 ---
 

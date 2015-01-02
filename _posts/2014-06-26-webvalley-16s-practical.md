@@ -2,7 +2,7 @@
 layout: post
 title: "Webvalley: 16S Practical"
 description: ""
-category: notebook 
+category:  
 tags: []
 ---
 

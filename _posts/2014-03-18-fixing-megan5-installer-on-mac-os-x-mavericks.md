@@ -2,7 +2,7 @@
 layout: post
 title: "Fixing MEGAN5 installer on Mac OS X Mavericks"
 description: ""
-category: notebook 
+category:  
 tags: []
 ---
 

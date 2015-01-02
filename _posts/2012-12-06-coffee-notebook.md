@@ -2,7 +2,7 @@
 layout: post
 title: "Coffee notebook"
 description: ""
-category: notebook 
+category:  
 tags: []
 ---
 

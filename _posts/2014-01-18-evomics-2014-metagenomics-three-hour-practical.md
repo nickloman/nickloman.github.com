@@ -2,7 +2,7 @@
 layout: post
 title: "Evomics 2014: Metagenomics three hour practical"
 description: ""
-category: notebook 
+category:  
 tags: []
 ---
 

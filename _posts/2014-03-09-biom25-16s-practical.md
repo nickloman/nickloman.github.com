@@ -2,7 +2,7 @@
 layout: post
 title: "BIOM25: 16S Practical"
 description: ""
-category: notebook 
+category:  
 tags: []
 ---
 

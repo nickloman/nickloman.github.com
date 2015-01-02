@@ -2,7 +2,7 @@
 layout: post
 title: "Workplan for STEC paper results generation"
 description: ""
-category: notebook clinical-metagenomics
+category:  clinical-metagenomics
 tags: [stec]
 ---
 

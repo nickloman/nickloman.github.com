@@ -2,7 +2,7 @@
 layout: post
 title: "A few notes on 16S analysis"
 description: ""
-category: notebook 
+category:  
 tags: []
 ---
 

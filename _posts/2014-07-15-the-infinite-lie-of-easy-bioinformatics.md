@@ -2,7 +2,7 @@
 layout: post
 title: "The infinite lie of easy bioinformatics"
 description: ""
-category: notebook 
+category:  
 tags: []
 ---
 

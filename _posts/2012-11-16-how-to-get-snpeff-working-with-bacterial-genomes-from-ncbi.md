@@ -2,7 +2,7 @@
 layout: post
 title: "How to get snpEff working with bacterial genomes from NCBI"
 description: ""
-category: notebook 
+category:  
 tags: []
 ---
 

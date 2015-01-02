@@ -2,7 +2,7 @@
 layout: post
 title: "Chaining bwasw and samtools together"
 description: ""
-category: notebook bioinformatics
+category:  bioinformatics
 tags: []
 ---
 

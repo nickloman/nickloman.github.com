@@ -2,7 +2,7 @@
 layout: post
 title: "How I start a bioinformatics project"
 description: ""
-category: notebook 
+category:  
 tags: []
 ---
 

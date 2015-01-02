@@ -2,7 +2,7 @@
 layout: post
 title: "Visualising metagenomic data in context of pan genome"
 description: ""
-category: notebook clinical-metagenomics
+category:  clinical-metagenomics
 tags: [pangenomes]
 ---
 

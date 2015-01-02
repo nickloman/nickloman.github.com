@@ -2,7 +2,7 @@
 layout: post
 title: "O104:H4 chromosome and phage analysis"
 description: ""
-category: notebook clinical-metagenomics
+category:  clinical-metagenomics
 tags: [stec]
 ---
 

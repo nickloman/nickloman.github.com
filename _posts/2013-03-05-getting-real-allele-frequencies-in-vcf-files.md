@@ -2,7 +2,7 @@
 layout: post
 title: "Getting real allele frequencies in VCF files"
 description: ""
-category: notebook 
+category:  
 tags: []
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "NERC Exeter: Metagenomics three hour practical"
 description: ""
-category: notebook 
+category:  
 tags: []
 ---
 

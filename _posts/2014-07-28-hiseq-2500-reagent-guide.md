@@ -2,7 +2,7 @@
 layout: post
 title: "HiSeq 2500 reagent guide"
 description: ""
-category: notebook 
+category:  
 tags: []
 ---
 

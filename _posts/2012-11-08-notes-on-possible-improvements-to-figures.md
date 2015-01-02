@@ -2,7 +2,7 @@
 layout: post
 title: "Notes on possible improvements to figures"
 description: ""
-category: notebook clinical-metagenomics
+category:  clinical-metagenomics
 tags: []
 ---
 

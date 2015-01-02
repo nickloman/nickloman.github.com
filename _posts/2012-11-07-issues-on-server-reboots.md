@@ -2,7 +2,7 @@
 layout: post
 title: "Issues on server reboots"
 description: ""
-category: notebook 
+category:  
 tags: []
 ---
 

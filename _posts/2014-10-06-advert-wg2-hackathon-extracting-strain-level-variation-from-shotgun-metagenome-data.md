@@ -2,7 +2,7 @@
 layout: post
 title: "Advert: WG2 hackathon: Extracting strain level variation from shotgun metagenome data"
 description: ""
-category: notebook 
+category:  
 tags: []
 ---
 

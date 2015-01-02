@@ -2,7 +2,7 @@
 layout: post
 title: "Useful R packages"
 description: ""
-category: notebook 
+category:  
 tags: []
 ---
 

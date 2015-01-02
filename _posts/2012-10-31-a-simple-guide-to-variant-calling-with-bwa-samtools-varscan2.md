@@ -2,7 +2,7 @@
 layout: post
 title: "A simple guide to variant calling with BWA, samtools, VarScan2"
 description: ""
-category: notebook 
+category:  
 tags: []
 ---
 # Mapping and variant calling

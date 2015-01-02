@@ -2,7 +2,7 @@
 layout: post
 title: "What are the potential sources of errors in sequencing datasets?"
 description: ""
-category: notebook sequencing
+category:  sequencing
 tags: []
 ---
 

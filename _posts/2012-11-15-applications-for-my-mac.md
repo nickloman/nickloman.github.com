@@ -2,7 +2,7 @@
 layout: post
 title: "Applications for my Mac"
 description: ""
-category: notebook computing
+category:  computing
 tags: [mac]
 ---
 

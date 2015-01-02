@@ -2,7 +2,7 @@
 layout: post
 title: "Use  X with bowtie2 to set minimum and maximum insert sizes for Nextera libraries"
 description: ""
-category: notebook 
+category:  
 tags: []
 ---
 

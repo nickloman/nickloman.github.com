@@ -2,7 +2,7 @@
 layout: post
 title: "BIOM25: MEGAN analysis of metagenomes"
 description: ""
-category: notebook 
+category:  
 tags: []
 ---
 

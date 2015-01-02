@@ -2,7 +2,7 @@
 layout: post
 title: "Constructing bacterial pan-genomes"
 description: ""
-category: notebook clinical-metagenomics
+category:  clinical-metagenomics
 tags: [pangenome]
 ---
 # Pan-genome construction notebook

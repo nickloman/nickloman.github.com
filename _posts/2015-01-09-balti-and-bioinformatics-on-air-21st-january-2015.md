@@ -28,7 +28,7 @@ Wednesday 21st January, 4pm GMT (=11am EST, =8am PST, 00:00 China)
 
 Draft schedule:
 
-+0m C. Titus Brown, UC Davis: Self-interest: can it a strategy for convincing scientists to share pre-publication data in a useful way?
++0m C. Titus Brown, UC Davis: Self-interest: can it be a strategy for convincing scientists to share pre-publication data in a useful way?
 
 +30m Scott Edmunds, GigaScience: New models for open data publishing
 

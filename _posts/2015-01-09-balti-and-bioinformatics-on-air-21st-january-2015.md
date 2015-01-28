@@ -19,8 +19,7 @@ So ... to kick us off:
 
 This meeting's theme is *open data and reproducible bioinformatics*.
 
-Please register over at the Google Hangout page:
-<https://plus.google.com/events/cbtuikle0h2619obgjrgfu74424>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZACVcJt0oJA" frameborder="0" allowfullscreen></iframe>
 
 Wednesday 21st January, 4pm GMT (=11am EST, =8am PST, 00:00 China)
 

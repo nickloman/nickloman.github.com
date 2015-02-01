@@ -19,16 +19,31 @@
   loc: Colorado, US
   start_date: 2015-02-10
   title: Biofrontiers Seminar Series
-  talk_title: tbc
+  talk_title: Real-time sequencing in clinical microbiology
   url: http://biofrontiers.colorado.edu/events/upcoming-events
   host: Daniel MacDonald
+
+- org: British Columbia Centers for Disease Control
+  loc: Vancouver, British Columbia, Canada
+  start_date: 2015-02-12
+  title: Grand Rounds
+  talk_title: Prospective outbreak surveillance with real-time whole-genome sequencing
+  host: William Hsiao
 
 - org: VanBUG
   loc: Vancouver, British Columbia, Canada
   start_date: 2015-02-12
   title: VanBUG
-  talk_title: tbc
+  talk_title: Genomes from metagenomes: new technologies and algorithms
   url: http://www.vanbug.org/
+  host: William Hsiao
+
+- org: The University of British Columbia
+  loc: Vancouver, British Columbia, Canada
+  title: Special Seminar
+  start_date: 2015-02-13
+  talk_title: Microevolution in Pseudomonas in patients and hospitals
+  url: http://lsi.ubc.ca/2015/01/14/nick-loman/
   host: William Hsiao
 
 - org: University of Oxford

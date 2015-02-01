@@ -19,7 +19,7 @@
   loc: Colorado, US
   start_date: 2015-02-10
   title: Biofrontiers Seminar Series
-  talk_title: Real-time sequencing in clinical microbiology
+  talk_title: "Real-time sequencing in clinical microbiology"
   url: http://biofrontiers.colorado.edu/events/upcoming-events
   host: Daniel MacDonald
 
@@ -27,14 +27,14 @@
   loc: Vancouver, British Columbia, Canada
   start_date: 2015-02-12
   title: Grand Rounds
-  talk_title: Prospective outbreak surveillance with real-time whole-genome sequencing
+  talk_title: "Prospective outbreak surveillance with real-time whole-genome sequencing"
   host: William Hsiao
 
 - org: VanBUG
   loc: Vancouver, British Columbia, Canada
   start_date: 2015-02-12
   title: VanBUG
-  talk_title: Genomes from metagenomes: new technologies and algorithms
+  talk_title: "Genomes from metagenomes: new technologies and algorithms"
   url: http://www.vanbug.org/
   host: William Hsiao
 

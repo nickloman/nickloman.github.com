@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WebValley: Metagenomics practical"
+title: "BIOM25: Metagenomics practical"
 description: ""
 category:  
 tags: []

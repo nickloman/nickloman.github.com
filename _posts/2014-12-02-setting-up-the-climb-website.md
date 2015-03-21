@@ -38,6 +38,11 @@ whatever versions of MySQL and nginx etc. were used initially.
 To upgrade everything will require making a new Dockerfile which
 has all the files and changes associated with it?
 
+Making a copy of an existing instance:
+
+  sudo docker commit -m "climb-test go live" -a "Nick Loman" 7ade97b25bc9 nick/docker-climb.ac.uk:live
+
+  sudo docker run -p 192.168.1.5:9992:80 --name docker-climb.ac.uk-live -i nick/docker-climb.ac.uk:live -d
 
 
  

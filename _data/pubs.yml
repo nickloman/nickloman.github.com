@@ -1,4 +1,45 @@
 - ArticleIds:
+    doi: 10.1371/journal.pone.0121492
+    eid: '25799414'
+    medline: []
+    pii: PONE-D-14-54393
+    pubmed: ['25799414']
+    rid: '25799414'
+  AuthorList: [Mugumbate G, Abrahams KA, Cox JA, Papadatos G, van Westen G, Lelièvre
+      J, Calus ST, Loman NJ, Ballell L, Barros D, Overington JP, Besra GS]
+  DOI: 10.1371/journal.pone.0121492
+  ELocationID: 'doi: 10.1371/journal.pone.0121492'
+  EPubDate: 2015 Mar 23
+  ESSN: 1932-6203
+  FullJournalName: PloS one
+  HasAbstract: 1
+  History:
+    accepted: 2015/02/01 00:00
+    entrez: 2015/03/24 06:00
+    epublish: 2015/03/23 00:00
+    medline: ['2015/03/24 06:00']
+    pubmed: ['2015/03/24 06:00']
+    received: 2014/12/04 00:00
+  ISSN: ''
+  Id: '25799414'
+  Issue: '3'
+  Item: []
+  LangList: [English]
+  LastAuthor: Besra GS
+  NlmUniqueID: '101285081'
+  Pages: e0121492
+  PmcRefCount: 0
+  PubDate: '2015'
+  PubStatus: ''
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - as supplied by publisher
+  References: []
+  SO: 2015;10(3):e0121492
+  Source: PLoS One
+  Title: Mycobacterial Dihydrofolate Reductase Inhibitors Identified Using Chemogenomic
+    Methods and In Vitro Validation.
+  Volume: '10'
+- ArticleIds:
     doi: 10.1371/journal.pone.0113568
     eid: '25409504'
     medline: []
@@ -39,8 +80,8 @@
   References: []
   SO: 2014;9(11):e113568
   Source: PLoS One
-  Title: Biochemical and Structural Characterization of Mycobacterial Aspartyl-tRNA
-    Synthetase AspS, a Promising TB Drug Target.
+  Title: Biochemical and structural characterization of mycobacterial aspartyl-tRNA
+    synthetase AspS, a promising TB drug target.
   Volume: '9'
 - ArticleIds:
     doi: 10.1186/s12915-014-0087-z
@@ -68,19 +109,19 @@
     received: 2014/07/15 00:00
   ISSN: ''
   Id: '25387460'
-  Issue: '1'
+  Issue: ''
   Item: []
   LangList: [English]
   LastAuthor: Walker AW
   NlmUniqueID: '101190720'
   Pages: '87'
-  PmcRefCount: 0
+  PmcRefCount: 3
   PubDate: 2014 Nov 12
   PubStatus: epublish
   PubTypeList: [Journal Article]
   RecordStatus: PubMed - in process
   References: []
-  SO: 2014 Nov 12;12(1):87
+  SO: 2014 Nov 12;12:87
   Source: BMC Biol
   Title: Reagent and laboratory contamination can critically impact sequence-based
     microbiome analyses.
@@ -116,12 +157,12 @@
   LastAuthor: Loman NJ
   NlmUniqueID: '101596872'
   Pages: '22'
-  PmcRefCount: 0
+  PmcRefCount: 2
   PubDate: '2014'
   PubStatus: ''
   PubTypeList: [Journal Article]
   RecordStatus: PubMed
-  References: []
+  References: ['Gigascience. 2015;4:6. PMID: 25695306']
   SO: 2014;3:22
   Source: Gigascience
   Title: A reference bacterial genome dataset generated on the MinION™ portable single-molecule
@@ -186,7 +227,7 @@
     accepted: 2014/08/18 00:00
     aheadofprint: 2014/09/14 00:00
     entrez: 2014/09/15 06:00
-    medline: ['2014/09/15 06:00']
+    medline: ['2015/02/28 06:00']
     pubmed: ['2014/09/15 06:00']
     received: 2013/12/02 00:00
   ISSN: 1548-7091
@@ -197,11 +238,11 @@
   LastAuthor: Quince C
   NlmUniqueID: '101215604'
   Pages: 1144-6
-  PmcRefCount: 0
+  PmcRefCount: 2
   PubDate: 2014 Nov
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
-  RecordStatus: PubMed - in process
+  RecordStatus: PubMed - indexed for MEDLINE
   References: []
   SO: 2014 Nov;11(11):1144-6
   Source: Nat Methods
@@ -251,6 +292,8 @@
     eid: '25143291'
     medline: []
     pii: btu555
+    pmc: PMC4296151
+    pmcid: 'pmc-id: PMC4296151;'
     pubmed: ['25143291']
     rid: '25143291'
   AuthorList: [Loman NJ, Quinlan AR]
@@ -263,7 +306,7 @@
   History:
     aheadofprint: 2014/08/20 00:00
     entrez: 2014/08/22 06:00
-    medline: ['2014/08/22 06:00']
+    medline: ['2015/02/24 06:00']
     pubmed: ['2014/08/22 06:00']
   ISSN: 1367-4803
   Id: '25143291'
@@ -273,12 +316,12 @@
   LastAuthor: Quinlan AR
   NlmUniqueID: '9808944'
   Pages: 3399-401
-  PmcRefCount: 1
+  PmcRefCount: 2
   PubDate: 2014 Dec 1
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
-  RecordStatus: PubMed - in process
-  References: []
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: ['Nat Methods. 2015 Jan;12(1):12-3. PMID: 25699315']
   SO: 2014 Dec 1;30(23):3399-401
   Source: Bioinformatics
   Title: 'Poretools: a toolkit for analyzing nanopore sequence data.'
@@ -287,6 +330,8 @@
     doi: 10.1111/mmi.12704
     eid: '24995530'
     medline: []
+    pmc: PMC4283999
+    pmcid: 'pmc-id: PMC4283999;'
     pubmed: ['24995530']
     rid: '24995530'
   AuthorList: [Johnson MD, Bell J, Clarke K, Chandler R, Pathak P, Xia Y, Marshall
@@ -311,7 +356,7 @@
   LastAuthor: Lund PA
   NlmUniqueID: '8712028'
   Pages: 911-27
-  PmcRefCount: 0
+  PmcRefCount: 1
   PubDate: 2014 Sep
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -338,7 +383,7 @@
   HasAbstract: 0
   History:
     entrez: 2014/05/27 06:00
-    medline: ['2014/05/27 06:00']
+    medline: ['2015/02/20 06:00']
     pubmed: ['2014/05/27 06:00']
   ISSN: 1078-0998
   Id: '24859302'
@@ -352,9 +397,9 @@
   PubDate: 2014 Jul
   PubStatus: ppublish
   PubTypeList: [Comment, Letter]
-  RecordStatus: PubMed - in process
-  References: ['Inflamm Bowel Dis. 2014 Jul;20(7):E18. PMID: 24859301', 'Inflamm Bowel
-      Dis. 2014 May;20(5):861-71. PMID: 24651582']
+  RecordStatus: PubMed - indexed for MEDLINE
+  References: ['Inflamm Bowel Dis. 2014 May;20(5):861-71. PMID: 24651582', 'Inflamm
+      Bowel Dis. 2014 Jul;20(7):E18. PMID: 24859301']
   SO: 2014 Jul;20(7):E18-9
   Source: Inflamm Bowel Dis
   Title: 'Role of Faecalibacterium prausnitzii in Crohn''s Disease: friend, foe, or
@@ -388,7 +433,7 @@
   LastAuthor: Loman NJ
   NlmUniqueID: '101595808'
   Pages: ''
-  PmcRefCount: 0
+  PmcRefCount: 2
   PubDate: 2014 May 8
   PubStatus: epublish
   PubTypeList: [Journal Article]
@@ -431,7 +476,7 @@
   LastAuthor: Harris S
   NlmUniqueID: '101285081'
   Pages: e83158
-  PmcRefCount: 1
+  PmcRefCount: 2
   PubDate: '2013'
   PubStatus: ''
   PubTypeList: [Journal Article]
@@ -503,7 +548,7 @@
   LastAuthor: Ala'Aldeen DA
   NlmUniqueID: '100887452'
   Pages: ''
-  PmcRefCount: 2
+  PmcRefCount: 4
   PubDate: 2013 Oct 17
   PubStatus: epublish
   PubTypeList: [Journal Article]
@@ -546,7 +591,7 @@
   LastAuthor: Bieniasz PD
   NlmUniqueID: '101238921'
   Pages: e1003461
-  PmcRefCount: 4
+  PmcRefCount: 10
   PubDate: '2013'
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -634,7 +679,7 @@
   LastAuthor: Cammack N
   NlmUniqueID: '101285081'
   Pages: e60933
-  PmcRefCount: 3
+  PmcRefCount: 5
   PubDate: '2013'
   PubStatus: epublish+ppublish
   PubTypeList: [Journal Article]
@@ -673,7 +718,7 @@
   LastAuthor: Pallen MJ
   NlmUniqueID: '7501160'
   Pages: 1502-10
-  PmcRefCount: 22
+  PmcRefCount: 30
   PubDate: 2013 Apr 10
   PubStatus: ppublish
   PubTypeList: [Journal Article]
@@ -754,7 +799,7 @@
   LastAuthor: Pallen MJ
   NlmUniqueID: '100966981'
   Pages: '302'
-  PmcRefCount: 9
+  PmcRefCount: 12
   PubDate: 2012 Dec 23
   PubStatus: epublish
   PubTypeList: [Journal Article]
@@ -792,7 +837,7 @@
   LastAuthor: Pallen MJ
   NlmUniqueID: '101190261'
   Pages: 599-606
-  PmcRefCount: 51
+  PmcRefCount: 60
   PubDate: 2012 Sep
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article, Review]
@@ -833,14 +878,14 @@
   LastAuthor: Pallen MJ
   NlmUniqueID: '9604648'
   Pages: 434-9
-  PmcRefCount: 133
+  PmcRefCount: 168
   PubDate: 2012 May
   PubStatus: ppublish
   PubTypeList: [Journal Article]
   RecordStatus: PubMed - indexed for MEDLINE
-  References: ['Nat Biotechnol. 2013 Jul;31(7):592-4. PMID: 23839141', 'Nat Biotechnol.
-      2013 Apr;31(4):294-6. PMID: 23563421', 'Nat Biotechnol. 2013 Apr;31(4):296.
-      PMID: 23563422', 'Nat Biotechnol. 2012 Jun;30(6):562']
+  References: ['Nat Biotechnol. 2013 Apr;31(4):296. PMID: 23563422', 'Nat Biotechnol.
+      2013 Jul;31(7):592-4. PMID: 23839141', 'Nat Biotechnol. 2013 Apr;31(4):294-6.
+      PMID: 23563421', 'Nat Biotechnol. 2012 Jun;30(6):562']
   SO: 2012 May;30(5):434-9
   Source: Nat Biotechnol
   Title: Performance comparison of benchtop high-throughput sequencing platforms.
@@ -918,7 +963,7 @@
   LastAuthor: Besra GS
   NlmUniqueID: '101285081'
   Pages: e52951
-  PmcRefCount: 6
+  PmcRefCount: 7
   PubDate: '2012'
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -1002,7 +1047,7 @@
   LastAuthor: Henderson IR
   NlmUniqueID: 2985120R
   Pages: '4540'
-  PmcRefCount: 3
+  PmcRefCount: 6
   PubDate: 2011 Sep
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -1043,7 +1088,7 @@
   LastAuthor: Yang R
   NlmUniqueID: '0255562'
   Pages: 718-24
-  PmcRefCount: 98
+  PmcRefCount: 105
   PubDate: 2011 Aug 25
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -1121,7 +1166,7 @@
   LastAuthor: Woodford N
   NlmUniqueID: '7513617'
   Pages: 1499-503
-  PmcRefCount: 12
+  PmcRefCount: 15
   PubDate: 2011 Jul
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -1244,7 +1289,7 @@
   LastAuthor: Penn CW
   NlmUniqueID: '9815056'
   Pages: 625-31
-  PmcRefCount: 31
+  PmcRefCount: 35
   PubDate: 2010 Oct
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article, Review]
@@ -1326,7 +1371,7 @@
   LastAuthor: Pallen MJ
   NlmUniqueID: '8007166'
   Pages: 37-41
-  PmcRefCount: 25
+  PmcRefCount: 31
   PubDate: 2010 May
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -1450,7 +1495,7 @@
   LastAuthor: Pallen MJ
   NlmUniqueID: '9310916'
   Pages: 393-8
-  PmcRefCount: 7
+  PmcRefCount: 9
   PubDate: 2009 Sep
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -1492,7 +1537,7 @@
   LastAuthor: Yuen KY
   NlmUniqueID: '101239074'
   Pages: e1000416
-  PmcRefCount: 19
+  PmcRefCount: 20
   PubDate: 2009 Mar
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -1647,7 +1692,7 @@
   LastAuthor: Pallen MJ
   NlmUniqueID: '0411011'
   Pages: D543-6
-  PmcRefCount: 48
+  PmcRefCount: 54
   PubDate: 2008 Jan
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]

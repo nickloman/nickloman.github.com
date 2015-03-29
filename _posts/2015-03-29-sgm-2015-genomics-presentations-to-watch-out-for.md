@@ -99,6 +99,8 @@ Over at the Library of Birmingham we will be hosting two workshops in the mornin
 
 12:10 Marjory Stephenson Prize Lecture – What's the host and what's the microbe?  ICC Birmingham Robin Weiss (University College London, UK)
 
+### BI21 Prokaryotic Genetics Forum
+
 14:00 Bacterial protein glycosylation - never say never with bacteria Hall 11a Brendan Wren (London School of Hygiene and Tropical Medicine, UK)
 
 14:30 Offered paper - Identification of DNA uptake sequences in Neisseria gonorrhoeae that are intrinsic transcriptional terminators using bioinformatics supported by RNA-seq Sabrina Roberts (Kingston University, UK)

@@ -8,13 +8,14 @@ tags: []
 
 If you are coming to Birmingham for this year's Society for General Microbiology Annual Conference, welcome! This meeting is pretty big, and the website is curiously unnavigable, so I have put my own personal schedule up here.
 
-BTW if you are interested in nice places to eat in Birmingham, the Guardian just did a nice piece <a href="http://www.theguardian.com/travel/2009/jul/08/birmingham-budget-restaurants-uk-food">on cheap eats</a> and we also keep a map of places we like over on <a href="http://smokeandumami.com/where-to-eat-in-birmingham/">my food blog</a>.
-
-A few notables! On Tuesday night there is the announcement of the new SGM journal "Microbial Genomics" which I am pleased to be serving on the editorial board. Straight afterwards we will head to a local pub for a "tweet-up".
+A few notables! On Tuesday night there is the announcement of the new SGM journal <b>Microbial Genomics</b> in Hall 3 which I am pleased to be serving on the editorial board. Lots of tweeps are likely to be there. Straight afterwards we will head to a local pub for a "tweet-up".
 
 On Wednesday morning we will be launching our new BBSRC-funded grant MicrobesNG over at the Library of Birmingham! We will be running two sessions explaining what we are doing, with refreshments provided. Please <a href="http://microbesng.uk/sgm2015">sign-up</a> over at the website!
 
 In terms of scientific sessions I will be mainly hopping between the antibiotic resistance session and the microbiome session, with a few detours for prize lectures and hot genomics lectures. Look forward to saying hello!
+
+And if you are interested in nice places to eat in Birmingham, the Guardian just did a nice piece <a href="http://www.theguardian.com/travel/2015/mar/24/top-10-budget-restaurants-cafes-birmingham">on cheap eats</a> and we also keep a map of places we like over on <a href="http://smokeandumami.com/where-to-eat-in-birmingham/">my food blog</a>.
+
 
 ## Monday 30th
 

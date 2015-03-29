@@ -12,7 +12,7 @@ A few notables! On Tuesday night there is the announcement of the new SGM journa
 
 On Wednesday morning we will be launching our new BBSRC-funded grant <b>MicrobesNG</b> over at the stunning new Library of Birmingham which is well worth a visit if you haven't been in. MicrobesNG aims to provide a very different type of sequencing service, specifically tailored to the needs of microbiologists. We will be running two sessions explaining exactly what we are doing, with refreshments provided. Please <a href="http://microbesng.uk/sgm2015">sign-up</a> over at the website if you would like to come along!
 
-In terms of scientific sessions I will be mainly hopping between the antibiotic resistance session and the microbiome session, with a few detours for prize lectures and hot genomics lectures. During the breaks I will be over on the MicrobeSNG trade-stand. Look forward to saying hello!
+In terms of scientific sessions I will be mainly hopping between the antibiotic resistance session and the microbiome session, with a few detours for prize lectures and hot genomics lectures. During the breaks I will be over on the MicrobesNG trade-stand. Look forward to saying hello!
 
 And if you are interested in nice places to eat in Birmingham, the Guardian just did a nice piece <a href="http://www.theguardian.com/travel/2015/mar/24/top-10-budget-restaurants-cafes-birmingham">on cheap eats</a> and we also keep a map of places we like over on <a href="http://smokeandumami.com/where-to-eat-in-birmingham/">my food blog</a>.
 

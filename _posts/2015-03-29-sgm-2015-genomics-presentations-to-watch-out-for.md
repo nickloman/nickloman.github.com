@@ -67,6 +67,8 @@ And if you are interested in nice places to eat in Birmingham, the Guardian just
 
 11:30 Emergence of resistance in tuberculosis: Clinical and in vitro studies Stephen Gillespie (University of St Andrews)
 
+### BI21 Antimicrobial resistance
+
 14:00 The human gut as reservoir for antibiotic resistance genes and opportunistic pathogens Willem van Schaik (University Medical Center Utrecht, Netherlands)
 
 14:30 Mathematical modelling as a tool to explore unexpected aspects of antimicrobial resistance Robert Beardmore (University of Exeter, UK)

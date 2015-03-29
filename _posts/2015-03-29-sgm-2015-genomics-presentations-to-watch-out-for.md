@@ -10,7 +10,7 @@ If you are coming to Birmingham for this year's Society for General Microbiology
 
 A few notables! On Tuesday night there is the announcement of the new SGM journal <b>Microbial Genomics</b> in Hall 3 which I am pleased to be serving on the editorial board. Lots of tweeps are likely to be there. Straight afterwards we will head to a local pub for a "tweet-up".
 
-On Wednesday morning we will be launching our new BBSRC-funded grant <b>MicrobesNG</b> over at the stunning new Library of Birmingham which is well worth a visit if you haven't been in. We will be running two sessions explaining what we are doing, with refreshments provided. Please <a href="http://microbesng.uk/sgm2015">sign-up</a> over at the website if you would like to come along!
+On Wednesday morning we will be launching our new BBSRC-funded grant <b>MicrobesNG</b> over at the stunning new Library of Birmingham which is well worth a visit if you haven't been in. MicrobesNG aims to provide a very different type of sequencing service, specifically tailored to the needs of microbiologists. We will be running two sessions explaining exactly what we are doing, with refreshments provided. Please <a href="http://microbesng.uk/sgm2015">sign-up</a> over at the website if you would like to come along!
 
 In terms of scientific sessions I will be mainly hopping between the antibiotic resistance session and the microbiome session, with a few detours for prize lectures and hot genomics lectures. During the breaks I will be over on the MicrobeSNG trade-stand. Look forward to saying hello!
 

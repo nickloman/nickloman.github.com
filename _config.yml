@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:            Loman Labs
-tagline:          'Tagline'
+tagline:          'Research group at the University of Birmingham'
 description:      'Research group at the University of Birmingham, fusing cutting-edge sequencing with microbial genomics.'
 url:              http://nickloman.github.io/
 baseurl:          /

@@ -1,0 +1,54 @@
+- org: Utrecht University
+  loc: Utrecht, Netherlands
+  start_date: 2015-01-14
+  title: Visit to van Schaik laboratory
+  talk_title: Prospective and real-time genome sequencing for outbreak investigations
+  url: http://www.eijkmanschool.org/research/index.php?id=535
+  host: Willem van Schaik
+
+- org: VIB
+  loc: Leuven, Belgium
+  start_date: 2015-01-15
+  end_date: 2015-01-16
+  title: "Revolutionizing Next-Generation Sequencing: Tools and Technologies"
+  talk_title: What can we do with real-time nanopore sequencing?
+  url: http://www.vibconferences.be/event/revolutionizing-next-generation-sequencing-tools-and-technologies
+  host: Mark Veuglers
+
+- org: Biofrontiers Institute 
+  loc: Colorado, US
+  start_date: 2015-02-10
+  title: Biofrontiers Seminar Series
+  talk_title: "Real-time sequencing in clinical microbiology"
+  url: http://biofrontiers.colorado.edu/events/upcoming-events
+  host: Daniel MacDonald
+
+- org: British Columbia Centers for Disease Control
+  loc: Vancouver, British Columbia, Canada
+  start_date: 2015-02-12
+  title: Grand Rounds
+  talk_title: "Prospective outbreak surveillance with real-time whole-genome sequencing"
+  host: William Hsiao
+
+- org: VanBUG
+  loc: Vancouver, British Columbia, Canada
+  start_date: 2015-02-12
+  title: VanBUG
+  talk_title: "Genomes from metagenomes: new technologies and algorithms"
+  url: http://www.vanbug.org/
+  host: William Hsiao
+
+- org: The University of British Columbia
+  loc: Vancouver, British Columbia, Canada
+  title: Special Seminar
+  start_date: 2015-02-13
+  talk_title: Microevolution in Pseudomonas in patients and hospitals
+  url: http://lsi.ubc.ca/2015/01/14/nick-loman/
+  host: William Hsiao
+
+- org: University of Oxford
+  loc: Oxford, UK
+  start_date: 2015-03-05
+  title: Evolutionary Genomics (3rd Year Biological Sciences)
+  talk_title: Microbial genomics in the clinic
+  host: Aziz Aboobaker

@@ -79,8 +79,15 @@
 - org: Oxford Nanopore
   loc: Olympic Park, London, UK
   title: London Calling
-  talk_title: tbc
+  talk_title: A Year of Happy MAPping!
   start_date: 2015-05-14
   end_date: 2015-05-15
   url: http://www.nanoporetech.com
- 
+
+- org: Infectious Diseases Research Network
+  loc: Royal Society, London
+  title: An introduction to infectious disease genomics
+  talk_title: Bacterial genomics
+  start_date: 2015-06-18
+  end_date: 2015-06-18
+  url: http://www.idrn.org/events/upcoming/genomics.php 

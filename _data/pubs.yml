@@ -1,8 +1,86 @@
 - ArticleIds:
+    doi: 10.1038/ncomms7717
+    eid: '25848958'
+    medline: []
+    pii: ncomms7717
+    pubmed: ['25848958']
+    rid: '25848958'
+  AuthorList: [Kay GL, Sergeant MJ, Zhou Z, Chan JZ, Millard A, Quick J, Szikossy
+      I, Pap I, Spigelman M, Loman NJ, Achtman M, Donoghue HD, Pallen MJ]
+  DOI: 10.1038/ncomms7717
+  ELocationID: 'doi: 10.1038/ncomms7717'
+  EPubDate: 2015 Apr 7
+  ESSN: 2041-1723
+  FullJournalName: Nature communications
+  HasAbstract: 1
+  History:
+    accepted: 2015/02/18 00:00
+    entrez: 2015/04/08 06:00
+    medline: ['2015/04/08 06:00']
+    pubmed: ['2015/04/08 06:00']
+    received: 2014/10/24 00:00
+  ISSN: ''
+  Id: '25848958'
+  Issue: ''
+  Item: []
+  LangList: [English]
+  LastAuthor: Pallen MJ
+  NlmUniqueID: '101528555'
+  Pages: '6717'
+  PmcRefCount: 0
+  PubDate: 2015 Apr 7
+  PubStatus: epublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - in process
+  References: []
+  SO: 2015 Apr 7;6:6717
+  Source: Nat Commun
+  Title: Eighteenth-century genomes show that mixed infections were common at time
+    of peak tuberculosis in Europe.
+  Volume: '6'
+- ArticleIds:
+    doi: 10.1038/nmeth.3327
+    eid: '25825834'
+    medline: []
+    pii: nmeth.3327
+    pubmed: ['25825834']
+    rid: '25825834'
+  AuthorList: [Loman NJ, Watson M]
+  DOI: 10.1038/nmeth.3327
+  ELocationID: 'doi: 10.1038/nmeth.3327'
+  EPubDate: ''
+  ESSN: 1548-7105
+  FullJournalName: Nature methods
+  HasAbstract: 0
+  History:
+    entrez: 2015/04/01 06:00
+    medline: ['2015/04/01 06:00']
+    pubmed: ['2015/04/01 06:00']
+  ISSN: 1548-7091
+  Id: '25825834'
+  Issue: '4'
+  Item: []
+  LangList: [English]
+  LastAuthor: Watson M
+  NlmUniqueID: '101215604'
+  Pages: 303-4
+  PmcRefCount: 0
+  PubDate: 2015 Mar 31
+  PubStatus: ppublish
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - in process
+  References: []
+  SO: 2015 Mar 31;12(4):303-4
+  Source: Nat Methods
+  Title: Successful test launch for nanopore sequencing.
+  Volume: '12'
+- ArticleIds:
     doi: 10.1371/journal.pone.0121492
     eid: '25799414'
     medline: []
     pii: PONE-D-14-54393
+    pmc: PMC4370846
+    pmcid: 'pmc-id: PMC4370846;'
     pubmed: ['25799414']
     rid: '25799414'
   AuthorList: [Mugumbate G, Abrahams KA, Cox JA, Papadatos G, van Westen G, Lelièvre
@@ -32,12 +110,12 @@
   PubDate: '2015'
   PubStatus: ''
   PubTypeList: [Journal Article]
-  RecordStatus: PubMed - as supplied by publisher
+  RecordStatus: PubMed - in process
   References: []
   SO: 2015;10(3):e0121492
   Source: PLoS One
-  Title: Mycobacterial Dihydrofolate Reductase Inhibitors Identified Using Chemogenomic
-    Methods and In Vitro Validation.
+  Title: Mycobacterial dihydrofolate reductase inhibitors identified using chemogenomic
+    methods and in vitro validation.
   Volume: '10'
 - ArticleIds:
     doi: 10.1371/journal.pone.0113568
@@ -115,7 +193,7 @@
   LastAuthor: Walker AW
   NlmUniqueID: '101190720'
   Pages: '87'
-  PmcRefCount: 3
+  PmcRefCount: 5
   PubDate: 2014 Nov 12
   PubStatus: epublish
   PubTypeList: [Journal Article]
@@ -157,7 +235,7 @@
   LastAuthor: Loman NJ
   NlmUniqueID: '101596872'
   Pages: '22'
-  PmcRefCount: 2
+  PmcRefCount: 3
   PubDate: '2014'
   PubStatus: ''
   PubTypeList: [Journal Article]
@@ -356,7 +434,7 @@
   LastAuthor: Lund PA
   NlmUniqueID: '8712028'
   Pages: 911-27
-  PmcRefCount: 1
+  PmcRefCount: 2
   PubDate: 2014 Sep
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -433,7 +511,7 @@
   LastAuthor: Loman NJ
   NlmUniqueID: '101595808'
   Pages: ''
-  PmcRefCount: 2
+  PmcRefCount: 3
   PubDate: 2014 May 8
   PubStatus: epublish
   PubTypeList: [Journal Article]
@@ -465,7 +543,7 @@
     accepted: 2013/10/30 00:00
     entrez: 2013/12/19 06:00
     epublish: 2013/12/13 00:00
-    medline: ['2013/12/19 06:00']
+    medline: ['2015/03/31 06:00']
     pubmed: ['2013/12/19 06:00']
     received: 2013/07/25 00:00
   ISSN: ''
@@ -480,7 +558,7 @@
   PubDate: '2013'
   PubStatus: ''
   PubTypeList: [Journal Article]
-  RecordStatus: PubMed - in process
+  RecordStatus: PubMed - indexed for MEDLINE
   References: []
   SO: 2013;8(12):e83158
   Source: PLoS One
@@ -513,7 +591,7 @@
   LastAuthor: Watson M
   NlmUniqueID: '9604648'
   Pages: 996-8
-  PmcRefCount: 1
+  PmcRefCount: 2
   PubDate: 2013 Nov
   PubStatus: ppublish
   PubTypeList: [Journal Article]
@@ -591,7 +669,7 @@
   LastAuthor: Bieniasz PD
   NlmUniqueID: '101238921'
   Pages: e1003461
-  PmcRefCount: 10
+  PmcRefCount: 14
   PubDate: '2013'
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -679,7 +757,7 @@
   LastAuthor: Cammack N
   NlmUniqueID: '101285081'
   Pages: e60933
-  PmcRefCount: 5
+  PmcRefCount: 10
   PubDate: '2013'
   PubStatus: epublish+ppublish
   PubTypeList: [Journal Article]
@@ -718,7 +796,7 @@
   LastAuthor: Pallen MJ
   NlmUniqueID: '7501160'
   Pages: 1502-10
-  PmcRefCount: 30
+  PmcRefCount: 34
   PubDate: 2013 Apr 10
   PubStatus: ppublish
   PubTypeList: [Journal Article]
@@ -757,7 +835,7 @@
   LastAuthor: Turton JF
   NlmUniqueID: '0224131'
   Pages: 988-1000
-  PmcRefCount: 2
+  PmcRefCount: 3
   PubDate: 2013 Jul
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -799,7 +877,7 @@
   LastAuthor: Pallen MJ
   NlmUniqueID: '100966981'
   Pages: '302'
-  PmcRefCount: 12
+  PmcRefCount: 14
   PubDate: 2012 Dec 23
   PubStatus: epublish
   PubTypeList: [Journal Article]
@@ -837,7 +915,7 @@
   LastAuthor: Pallen MJ
   NlmUniqueID: '101190261'
   Pages: 599-606
-  PmcRefCount: 60
+  PmcRefCount: 62
   PubDate: 2012 Sep
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article, Review]
@@ -878,7 +956,7 @@
   LastAuthor: Pallen MJ
   NlmUniqueID: '9604648'
   Pages: 434-9
-  PmcRefCount: 168
+  PmcRefCount: 186
   PubDate: 2012 May
   PubStatus: ppublish
   PubTypeList: [Journal Article]
@@ -963,7 +1041,7 @@
   LastAuthor: Besra GS
   NlmUniqueID: '101285081'
   Pages: e52951
-  PmcRefCount: 7
+  PmcRefCount: 10
   PubDate: '2012'
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -1047,7 +1125,7 @@
   LastAuthor: Henderson IR
   NlmUniqueID: 2985120R
   Pages: '4540'
-  PmcRefCount: 6
+  PmcRefCount: 7
   PubDate: 2011 Sep
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -1088,7 +1166,7 @@
   LastAuthor: Yang R
   NlmUniqueID: '0255562'
   Pages: 718-24
-  PmcRefCount: 105
+  PmcRefCount: 108
   PubDate: 2011 Aug 25
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -1166,7 +1244,7 @@
   LastAuthor: Woodford N
   NlmUniqueID: '7513617'
   Pages: 1499-503
-  PmcRefCount: 15
+  PmcRefCount: 18
   PubDate: 2011 Jul
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -1371,7 +1449,7 @@
   LastAuthor: Pallen MJ
   NlmUniqueID: '8007166'
   Pages: 37-41
-  PmcRefCount: 31
+  PmcRefCount: 32
   PubDate: 2010 May
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -1414,7 +1492,7 @@
   LastAuthor: Pallen MJ
   NlmUniqueID: '100965258'
   Pages: '67'
-  PmcRefCount: 4
+  PmcRefCount: 5
   PubDate: 2010 Jan 27
   PubStatus: epublish
   PubTypeList: [Journal Article]
@@ -1455,7 +1533,7 @@
   LastAuthor: Pallen MJ
   NlmUniqueID: 2985120R
   Pages: 5566-7
-  PmcRefCount: 5
+  PmcRefCount: 6
   PubDate: 2009 Sep
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -1692,7 +1770,7 @@
   LastAuthor: Pallen MJ
   NlmUniqueID: '0411011'
   Pages: D543-6
-  PmcRefCount: 54
+  PmcRefCount: 55
   PubDate: 2008 Jan
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]

@@ -25,6 +25,8 @@ would include "solve my problem" sessions and also just more
 discussion generally, and perhaps cap the numbers to something
 like 50.
 
+Email me suggested topics.
+
 Talks:
 
 Jennifer Gardy, BC CDC

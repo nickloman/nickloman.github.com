@@ -19,7 +19,9 @@ I'd quite like to bring this balti and bioinformatics meeting
 heavy, whereas I originally envisaged these meetings as a community
 forum for bioinformaticians to talk openly about problems they were
 encountering, and get the benefit of a diverse group of people
-struggling with their own problems.
+struggling with their own problems. And hopefully to make strong connections
+that would outlast the meeting and lead to collaborations or
+self-help groups etc.
 
 So I am going to limit the number and length of talks down a bit,
 and try and carve out some more structured and unstructured discussion

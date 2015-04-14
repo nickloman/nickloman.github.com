@@ -27,6 +27,8 @@ like 50.
 
 Email me suggested topics.
 
+The sign-up form is <a href="https://docs.google.com/forms/d/1JGRT45F9TWB61j5SF9mFZKYUqC1afx1_DDacKZIDSDs/viewform?usp=send_form">over heeeeeeeeeere</a>.
+
 Talks:
 
 Jennifer Gardy, BC CDC

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Balti and Bioinformatics: 25th May 2015, Birmingham"
+title: "Balti and Bioinformatics: 5th May 2015, Birmingham"
 description: ""
 category: balti
 tags: [balti bioinformatics]

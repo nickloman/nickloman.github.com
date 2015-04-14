@@ -23,7 +23,7 @@ struggling with their own problems. And hopefully to make strong connections
 that would outlast the meeting and lead to collaborations or
 self-help groups etc.
 
-But we will have great talks to, and this is your opportunity to answer
+But we will have great talks too, and this is your opportunity to answer
 the question which is very much to the front of any British person's
 mind, namely: which of the ex-colonies are managing better without
 us, Australia or Canada?

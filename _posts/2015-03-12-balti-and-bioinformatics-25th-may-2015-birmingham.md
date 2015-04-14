@@ -8,6 +8,8 @@ tags: [balti bioinformatics]
 
 ## Tuesday, 5th May 2015
 
+University of Birmingham Campus (building tbc)
+
 13:00 - 16:30, then straight off for a curry.
 
 ### "Revenge of the Commonwealth"

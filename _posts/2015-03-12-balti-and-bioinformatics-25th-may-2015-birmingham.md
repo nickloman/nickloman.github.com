@@ -40,16 +40,20 @@ The sign-up form is <a href="https://docs.google.com/forms/d/1JGRT45F9TWB61j5SF9
 
 Talks:
 
-Jennifer Gardy, BC CDC
+Jennifer Gardy, British Columbia Center for Disease Control (BC CDC)
+<em>Using sequencing to determine if an outbreak is over.</em>
 
 Ana Crisan, BC CDC
 
 Jen Guthrie, BC CDC
 
 Torsten Seemann, University of Melbourne
+<em>Snippy - rapid variant and core genome construction</em>
 
 Simon Gladman, University of Melbourne
+<em>Microbial Genomics Virtual Laboratory</em>
 
-CLIMB update, Nick Loman
+Nick Loman, Univeristy of Birmingham
+Update on CLIMB service
 
 

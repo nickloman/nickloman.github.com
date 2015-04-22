@@ -44,8 +44,10 @@ Jennifer Gardy, British Columbia Center for Disease Control (BC CDC)
 <em>Using sequencing to determine if an outbreak is over.</em>
 
 Ana Crisan, BC CDC
+<em>Visualizing heterogenous clinical and genomic data to support TB clinical teams</em>
 
 Jen Guthrie, BC CDC
+<em>tbc</em>
 
 Torsten Seemann, University of Melbourne
 <em>Snippy - rapid variant and core genome construction</em>
@@ -54,6 +56,6 @@ Simon Gladman, University of Melbourne
 <em>Microbial Genomics Virtual Laboratory</em>
 
 Nick Loman, Univeristy of Birmingham
-Update on CLIMB service
+<em>Update on CLIMB service</em>
 
 

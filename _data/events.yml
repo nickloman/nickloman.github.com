@@ -36,6 +36,14 @@
   end_date: 2015-05-15
   url: http://www.nanoporetech.com
 
+- org: Institut Pasteur
+  loc: Paris, France
+  title: Next Generation Sequencing of Viruses
+  talk_title: Prospective, real-time nanopore sequencing for Ebola genomic epidemiology under outbreak conditions
+  start_date: 2015-04-20
+  end_date: 2015-04-21
+  url: http://predemics.biomedtrain.eu/Media/Shared/uploaded/Files/4/9/1/3.pdf  
+
 - org: Infectious Diseases Research Network
   loc: Royal Society, London
   title: An introduction to infectious disease genomics

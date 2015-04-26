@@ -17,7 +17,7 @@ title: Upcoming Events
        Hosted by: {{ event.host }}
     {% endif %}
     {% if event.slides %}
-       {% event.slides %}
+       {{ event.slides }}
     {% endif %}
   </p>
 {% endfor %}
@@ -36,6 +36,9 @@ title: Upcoming Events
     {% if event.host %}
        <br/>
        Hosted by: {{ event.host }}
+    {% endif %}
+    {% if event.slides %}
+       {{ event.slides }}
     {% endif %}
   </p>
 {% endfor %}

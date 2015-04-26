@@ -5,6 +5,8 @@
   end_date: 2015-04-26
   talk_title: "Genomics in infectious diseases and clinical microbiology: So I have sequenced my organism ... what do I do now?"
   url: http://www.eccmid.org/ 
+  slides: !xml |
+          <iframe src="//www.slideshare.net/slideshow/embed_code/key/x4SibEs14Fb6uW" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/nickloman/eccmid-2015-so-i-have-sequenced-my-genome-what-now" title="ECCMID 2015 - So I have sequenced my genome ... what now?" target="_blank">ECCMID 2015 - So I have sequenced my genome ... what now?</a> </strong> from <strong><a href="//www.slideshare.net/nickloman" target="_blank">Nick Loman</a></strong> </div>
 
 - org: ECCMID
   loc: Copenhagen, Denmark
@@ -13,6 +15,8 @@
   end_date: 2015-04-27
   talk_title: "Meet-The-Expert: What bioinformatic tools should I use for analysis of high-throughput sequencing data for molecular diagnostics?"
   url: http://www.eccmid.org/ 
+  slides: !xml |
+          <iframe src="//www.slideshare.net/slideshow/embed_code/key/27JMKtRHGbbyXX" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/nickloman/eccmid-2015-meettheexpert-bioinformatics-tools" title="ECCMID 2015 Meet-The-Expert: Bioinformatics Tools" target="_blank">ECCMID 2015 Meet-The-Expert: Bioinformatics Tools</a> </strong> from <strong><a href="//www.slideshare.net/nickloman" target="_blank">Nick Loman</a></strong> </div>
 
 - org: University of Birmingham
   loc: Birmingham, UK

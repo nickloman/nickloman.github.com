@@ -8,7 +8,15 @@ tags: [balti bioinformatics]
 
 ## Tuesday, 5th May 2015
 
-University of Birmingham Campus (building tbc)
+WG04, Biosciences
+University of Birmingham
+B15 2TT
+
+Building R27 on Campus Map: <http://www.birmingham.ac.uk/Documents/university/edgbaston-campus-map.pdf>
+
+<http://www.birmingham.ac.uk/contact/directions/getting-here-edgbaston.aspx>
+
+Suggest parking in North East car park (B15 2SA), 10 minutes walk from Biosciences.
 
 13:00 - 16:30, then straight off for a curry.
 

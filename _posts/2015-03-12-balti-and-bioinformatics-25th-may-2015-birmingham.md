@@ -18,6 +18,8 @@ Building R27 on Campus Map: <http://www.birmingham.ac.uk/Documents/university/ed
 
 Suggest parking in North East car park (B15 2SA), 10 minutes walk from Biosciences.
 
+For those arriving by train, the venue is a few minutes walk from University (Birmingham) train station which is 10 minutes from Birmingham New St. When buying your ticket, ensure that the destination is University (Birmingham).
+
 13:00 - 16:30, then straight off for a curry.
 
 ### "Revenge of the Commonwealth"

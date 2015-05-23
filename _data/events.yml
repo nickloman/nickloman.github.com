@@ -6,6 +6,13 @@
   end_date: 2015-04-21
   url: http://predemics.biomedtrain.eu/Media/Shared/uploaded/Files/4/9/1/3.pdf  
 
+- org: University of Birmingham
+  loc: Birmingham, UK
+  title: Recent Technologies in Microbiology
+  start_date: 2015-06-05
+  end_date: 2015-06-05
+  url: http://rtmb.co.uk/
+
 - org: Institut Pasteur de Lille
   loc: Lille, France
   title: Bioinformatics for Third Generation Sequencing

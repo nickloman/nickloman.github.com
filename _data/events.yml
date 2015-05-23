@@ -9,7 +9,7 @@
 - org: Institut Pasteur de Lille
   loc: Lille, France
   title: Bioinformatics for Third Generation Sequencing
-  talk_title: Nanopore sequencing in clinical microbiology
+  talk_title: Bioinformatics approaches for real-time nanopore sequencing
   start_date: 2015-06-09
   end_date: 2015-06-09
   url: http://www.cristal.univ-lille.fr/~touzet/bilille/third_generation.html
@@ -29,6 +29,14 @@
   start_date: 2015-09-01
   end_date: 2015-09-01
   url: http://sequencing.exeter.ac.uk/long_reads_and_cream_teas/
+
+- org: American Society of Microbiology
+  loc: Atlanta, Georgia, US
+  title: International Conference on Emerging Infectious Diseases
+  talk_title: Bioinformatics and big data
+  start_date: 2015-08-24
+  end_date: 2015-08-26
+  url: http://www.iceid.org/
 
 - org: Genome Science 2015
   loc: University of Birmingham

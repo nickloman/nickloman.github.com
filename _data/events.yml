@@ -22,14 +22,6 @@
   end_date: 2015-06-18
   url: http://www.idrn.org/events/upcoming/genomics.php 
 
-- org: Exeter Sequencing Service
-  loc: University of Exeter
-  title: Cream teas and long reads
-  talk_title: Clinical and bacterial applications of long-read sequencing
-  start_date: 2015-09-01
-  end_date: 2015-09-01
-  url: http://sequencing.exeter.ac.uk/long_reads_and_cream_teas/
-
 - org: American Society of Microbiology
   loc: Atlanta, Georgia, US
   title: International Conference on Emerging Infectious Diseases
@@ -37,6 +29,14 @@
   start_date: 2015-08-24
   end_date: 2015-08-26
   url: http://www.iceid.org/
+
+- org: Exeter Sequencing Service
+  loc: University of Exeter
+  title: Cream teas and long reads
+  talk_title: Clinical and bacterial applications of long-read sequencing
+  start_date: 2015-09-01
+  end_date: 2015-09-01
+  url: http://sequencing.exeter.ac.uk/long_reads_and_cream_teas/
 
 - org: Genome Science 2015
   loc: University of Birmingham

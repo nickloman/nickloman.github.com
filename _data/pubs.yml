@@ -1,8 +1,47 @@
 - ArticleIds:
+    doi: 10.1093/jac/dkv109
+    eid: '25953808'
+    medline: []
+    pii: dkv109
+    pubmed: ['25953808']
+    rid: '25953808'
+  AuthorList: [Webber MA, Whitehead RN, Mount M, Loman NJ, Pallen MJ, Piddock LJ]
+  DOI: 10.1093/jac/dkv109
+  ELocationID: 'pii: dkv109'
+  EPubDate: 2015 May 7
+  ESSN: 1460-2091
+  FullJournalName: The Journal of antimicrobial chemotherapy
+  HasAbstract: 1
+  History:
+    entrez: 2015/05/09 06:00
+    medline: ['2015/05/09 06:00']
+    pubmed: ['2015/05/09 06:00']
+  ISSN: 0305-7453
+  Id: '25953808'
+  Issue: ''
+  Item: []
+  LangList: [English]
+  LastAuthor: Piddock LJ
+  NlmUniqueID: '7513617'
+  Pages: ''
+  PmcRefCount: 0
+  PubDate: 2015 May 7
+  PubStatus: aheadofprint
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - as supplied by publisher
+  References: []
+  SO: 2015 May 7;
+  Source: J Antimicrob Chemother
+  Title: Parallel evolutionary pathways to antibiotic resistance selected by biocide
+    exposure.
+  Volume: ''
+- ArticleIds:
     doi: 10.1038/ncomms7717
     eid: '25848958'
     medline: []
     pii: ncomms7717
+    pmc: PMC4396363
+    pmcid: 'pmc-id: PMC4396363;'
     pubmed: ['25848958']
     rid: '25848958'
   AuthorList: [Kay GL, Sergeant MJ, Zhou Z, Chan JZ, Millard A, Quick J, Szikossy
@@ -65,12 +104,12 @@
   NlmUniqueID: '101215604'
   Pages: 303-4
   PmcRefCount: 0
-  PubDate: 2015 Mar 31
+  PubDate: 2015 Apr
   PubStatus: ppublish
-  PubTypeList: [Journal Article]
+  PubTypeList: [Comment, Journal Article]
   RecordStatus: PubMed - in process
-  References: []
-  SO: 2015 Mar 31;12(4):303-4
+  References: ['Nat Methods. 2015 Apr;12(4):351-6. PMID: 25686389']
+  SO: 2015 Apr;12(4):303-4
   Source: Nat Methods
   Title: Successful test launch for nanopore sequencing.
   Volume: '12'
@@ -182,7 +221,7 @@
     accepted: 2014/10/13 00:00
     aheadofprint: 2014/11/12 00:00
     entrez: 2014/11/13 06:00
-    medline: ['2014/11/13 06:00']
+    medline: ['2015/05/20 06:00']
     pubmed: ['2014/11/13 06:00']
     received: 2014/07/15 00:00
   ISSN: ''
@@ -193,11 +232,11 @@
   LastAuthor: Walker AW
   NlmUniqueID: '101190720'
   Pages: '87'
-  PmcRefCount: 5
+  PmcRefCount: 13
   PubDate: 2014 Nov 12
   PubStatus: epublish
   PubTypeList: [Journal Article]
-  RecordStatus: PubMed - in process
+  RecordStatus: PubMed - indexed for MEDLINE
   References: []
   SO: 2014 Nov 12;12:87
   Source: BMC Biol
@@ -235,7 +274,7 @@
   LastAuthor: Loman NJ
   NlmUniqueID: '101596872'
   Pages: '22'
-  PmcRefCount: 3
+  PmcRefCount: 6
   PubDate: '2014'
   PubStatus: ''
   PubTypeList: [Journal Article]
@@ -316,7 +355,7 @@
   LastAuthor: Quince C
   NlmUniqueID: '101215604'
   Pages: 1144-6
-  PmcRefCount: 2
+  PmcRefCount: 4
   PubDate: 2014 Nov
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -354,7 +393,7 @@
   LastAuthor: Kadioglu A
   NlmUniqueID: '101528555'
   Pages: '4780'
-  PmcRefCount: 0
+  PmcRefCount: 1
   PubDate: 2014 Sep 2
   PubStatus: epublish
   PubTypeList: [Journal Article]
@@ -424,7 +463,7 @@
     accepted: 2014/07/02 00:00
     aheadofprint: 2014/07/24 00:00
     entrez: 2014/07/05 06:00
-    medline: ['2014/07/06 06:00']
+    medline: ['2015/05/12 06:00']
     pubmed: ['2014/07/06 06:00']
   ISSN: 0950-382X
   Id: '24995530'
@@ -438,7 +477,7 @@
   PubDate: 2014 Sep
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
-  RecordStatus: PubMed - in process
+  RecordStatus: PubMed - indexed for MEDLINE
   References: []
   SO: 2014 Sep;93(5):911-27
   Source: Mol Microbiol
@@ -554,7 +593,7 @@
   LastAuthor: Harris S
   NlmUniqueID: '101285081'
   Pages: e83158
-  PmcRefCount: 2
+  PmcRefCount: 3
   PubDate: '2013'
   PubStatus: ''
   PubTypeList: [Journal Article]
@@ -669,7 +708,7 @@
   LastAuthor: Bieniasz PD
   NlmUniqueID: '101238921'
   Pages: e1003461
-  PmcRefCount: 14
+  PmcRefCount: 15
   PubDate: '2013'
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -711,7 +750,7 @@
   LastAuthor: Clarke SC
   NlmUniqueID: '101285081'
   Pages: e64731
-  PmcRefCount: 1
+  PmcRefCount: 3
   PubDate: '2013'
   PubStatus: epublish+ppublish
   PubTypeList: [Journal Article]
@@ -757,7 +796,7 @@
   LastAuthor: Cammack N
   NlmUniqueID: '101285081'
   Pages: e60933
-  PmcRefCount: 10
+  PmcRefCount: 11
   PubDate: '2013'
   PubStatus: epublish+ppublish
   PubTypeList: [Journal Article]
@@ -796,7 +835,7 @@
   LastAuthor: Pallen MJ
   NlmUniqueID: '7501160'
   Pages: 1502-10
-  PmcRefCount: 34
+  PmcRefCount: 40
   PubDate: 2013 Apr 10
   PubStatus: ppublish
   PubTypeList: [Journal Article]
@@ -835,7 +874,7 @@
   LastAuthor: Turton JF
   NlmUniqueID: '0224131'
   Pages: 988-1000
-  PmcRefCount: 3
+  PmcRefCount: 4
   PubDate: 2013 Jul
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -877,7 +916,7 @@
   LastAuthor: Pallen MJ
   NlmUniqueID: '100966981'
   Pages: '302'
-  PmcRefCount: 14
+  PmcRefCount: 15
   PubDate: 2012 Dec 23
   PubStatus: epublish
   PubTypeList: [Journal Article]
@@ -915,7 +954,7 @@
   LastAuthor: Pallen MJ
   NlmUniqueID: '101190261'
   Pages: 599-606
-  PmcRefCount: 62
+  PmcRefCount: 66
   PubDate: 2012 Sep
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article, Review]
@@ -956,7 +995,7 @@
   LastAuthor: Pallen MJ
   NlmUniqueID: '9604648'
   Pages: 434-9
-  PmcRefCount: 186
+  PmcRefCount: 195
   PubDate: 2012 May
   PubStatus: ppublish
   PubTypeList: [Journal Article]
@@ -1041,7 +1080,7 @@
   LastAuthor: Besra GS
   NlmUniqueID: '101285081'
   Pages: e52951
-  PmcRefCount: 10
+  PmcRefCount: 11
   PubDate: '2012'
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -1084,7 +1123,7 @@
   LastAuthor: Antonio M
   NlmUniqueID: '101285081'
   Pages: e26742
-  PmcRefCount: 2
+  PmcRefCount: 3
   PubDate: '2012'
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -1166,7 +1205,7 @@
   LastAuthor: Yang R
   NlmUniqueID: '0255562'
   Pages: 718-24
-  PmcRefCount: 108
+  PmcRefCount: 112
   PubDate: 2011 Aug 25
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -1327,7 +1366,7 @@
   LastAuthor: Pallen MJ
   NlmUniqueID: '101285081'
   Pages: e28388
-  PmcRefCount: 3
+  PmcRefCount: 4
   PubDate: '2011'
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -1367,7 +1406,7 @@
   LastAuthor: Penn CW
   NlmUniqueID: '9815056'
   Pages: 625-31
-  PmcRefCount: 35
+  PmcRefCount: 36
   PubDate: 2010 Oct
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article, Review]
@@ -1449,7 +1488,7 @@
   LastAuthor: Pallen MJ
   NlmUniqueID: '8007166'
   Pages: 37-41
-  PmcRefCount: 32
+  PmcRefCount: 33
   PubDate: 2010 May
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -1770,7 +1809,7 @@
   LastAuthor: Pallen MJ
   NlmUniqueID: '0411011'
   Pages: D543-6
-  PmcRefCount: 55
+  PmcRefCount: 57
   PubDate: 2008 Jan
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]

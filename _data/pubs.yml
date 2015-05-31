@@ -1,3 +1,47 @@
+entrezajax: {error: false}
+result:
+- ArticleIds:
+    doi: 10.1186/s13059-015-0677-2
+    eid: '26025440'
+    medline: []
+    pii: 10.1186/s13059-015-0677-2
+    pubmed: ['26025440']
+    rid: '26025440'
+  AuthorList: [Quick J, Ashton P, Calus S, Chatt C, Gossain S, Hawker J, Nair S, Neal
+      K, Nye K, Peters T, De Pinna E, Robinson E, Struthers K, Webber M, Catto A,
+    Dallman TJ, Hawkey P, Loman NJ]
+  DOI: 10.1186/s13059-015-0677-2
+  ELocationID: ''
+  EPubDate: 2015 May 30
+  ESSN: 1465-6914
+  FullJournalName: Genome biology
+  HasAbstract: 1
+  History:
+    accepted: 2015/05/14 00:00
+    aheadofprint: 2015/05/30 00:00
+    entrez: 2015/05/31 06:00
+    medline: ['2015/05/31 06:00']
+    pubmed: ['2015/05/31 06:00']
+    received: 2015/02/25 00:00
+  ISSN: 1465-6906
+  Id: '26025440'
+  Issue: '1'
+  Item: []
+  LangList: [English]
+  LastAuthor: Loman NJ
+  NlmUniqueID: '100960660'
+  Pages: '114'
+  PmcRefCount: 0
+  PubDate: 2015 May 30
+  PubStatus: aheadofprint
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - as supplied by publisher
+  References: []
+  SO: 2015 May 30;16(1):114
+  Source: Genome Biol
+  Title: Rapid draft sequencing and real-time nanopore sequencing in a hospital outbreak
+    of Salmonella.
+  Volume: '16'
 - ArticleIds:
     doi: 10.1093/jac/dkv109
     eid: '25953808'

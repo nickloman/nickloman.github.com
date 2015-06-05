@@ -16,7 +16,7 @@ In the two weeks he was there, he sequenced 14 genomes when based at Donka Hospi
 
 As is often the case in outbreaks, genomic data production and sharing has been patchy and uncoordinated. However, a new exciting deveopment is under way to try and address this. <a href="http://tree.bio.ed.ac.uk/">Andrew Rambaut</a>, author of essential phylogenetics software such as BEAST and FigTree and viral genome maven, has taken on a kind of unofficial role of coordinating genome sequence data, which is distributed through his website and forum <a href="http://virological.org/">Virological.org</a>.
 
-<a href="phyla-dev.s3-website-us-east-1.amazonaws.com/production/"><img src="/images/2015-05-06-real-time-evolution.png"></a>
+<a href="http://phyla-dev.s3-website-us-east-1.amazonaws.com/production/"><img src="/images/2015-05-06-real-time-evolution.png"></a>
 
 His personal database of Ebola genomes sits at nearly 1000 sequences and he has been privately sharing some wonderful integrated phylogenetic analyses covering the entire Ebola outbreak. However, until recently the sharing has been limited by access to public data. At a recent conference at the Institut Pasteur, I met him and his colleague Richard Nehrer and discussed ways to improve sharing. With <a href="http://bedford.io/blog/">Trevor Bedford</a>, Richard is the developers of the <a href="http://www.nextflu.org">nextflu</a> website, which aims to track real-time evolution of flu.
 

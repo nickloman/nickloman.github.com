@@ -16,15 +16,13 @@ In the two weeks he was there, he sequenced 14 genomes when based at Donka Hospi
 
 As is often the case in outbreaks, genomic data production and sharing has been patchy and uncoordinated. However, a new exciting deveopment is under way to try and address this. <a href="http://tree.bio.ed.ac.uk/">Andrew Rambaut</a>, author of essential phylogenetics software such as BEAST and FigTree and viral genome maven, has taken on a kind of unofficial role of coordinating genome sequence data, which is distributed through his website and forum <a href="http://virological.org/">Virological.org</a>.
 
-<a href="http://phyla-dev.s3-website-us-east-1.amazonaws.com/production/"><img src="/images/2015-05-06-real-time-evolution.png"></a>
+<a href="http://ebola.nextflu.org/"><img src="/images/2015-05-06-real-time-evolution.png"></a>
 
 His personal database of Ebola genomes sits at nearly 1000 sequences and he has been privately sharing some wonderful integrated phylogenetic analyses covering the entire Ebola outbreak. However, until recently the sharing has been limited by access to public data. At a recent conference at the Institut Pasteur, I met him and his colleague Richard Nehrer and discussed ways to improve sharing. With <a href="http://bedford.io/blog/">Trevor Bedford</a>, Richard is the developers of the <a href="http://www.nextflu.org">nextflu</a> website, which aims to track real-time evolution of flu.
 
 I said that we needed this for Ebola, and of course they had already thought of this and had started building something. I said that we would contribute our nanopore sequencing dataset to this project in real-time, and those with large datasets to compare also contributed theirs.
 
-So it is a real thrill to see the website up and running now and available to use at <a href="http://ebola.nextflu.org/?cachebust">ebola.nextflu.org</a>. On this website you can explore Ebola evolution during this outbreak, using controls to scroll through time, and restricting analysis to particular locations or laboratories. You can also zoom into particular clades, and see frequency distributions of specific mutations.
-
-<em>As of right now, Amazon seem to have some issues with cache control on this website, so if you have problems with that address try using <a href="http://phyla-dev.s3-website-us-east-1.amazonaws.com/production/">this one</a> for now.</em>
+So it is a real thrill to see the website up and running now and available to use at <a href="http://ebola.nextflu.org/">ebola.nextflu.org</a>. On this website you can explore Ebola evolution during this outbreak, using controls to scroll through time, and restricting analysis to particular locations or laboratories. You can also zoom into particular clades, and see frequency distributions of specific mutations.
 
 One thing that was particularly notable with the data integration is that our surveillance data from Guinea, when compared with Ian Goodfellow's <a href="http://virological.org/t/direct-deep-sequencing-in-sierra-leone-yields-73-new-ebov-genomes-from-february-may-2015/134/1">recently produced surveillance data</a> from Sierra Leone is that the two extant Guinean lineages overlap with with Sierra Leone samples from close to the border in Sierra Leone. This makes sense, and suggests that cross-country transmission may be frequently occurring.
 

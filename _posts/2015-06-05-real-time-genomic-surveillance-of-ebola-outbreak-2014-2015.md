@@ -18,7 +18,7 @@ As is often the case in outbreaks, genomic data production and sharing has been 
 
 <a href="http://ebola.nextflu.org/"><img src="/images/2015-05-06-real-time-evolution.png"></a>
 
-His personal database of Ebola genomes sits at nearly 1000 sequences and he has been privately sharing some wonderful integrated phylogenetic analyses covering the entire Ebola outbreak. However, until recently the sharing has been limited by access to public data. At a recent conference at the Institut Pasteur, I met him and his colleague Richard Nehrer and discussed ways to improve sharing. With <a href="http://bedford.io/blog/">Trevor Bedford</a>, Richard is the developers of the <a href="http://www.nextflu.org">nextflu</a> website, which aims to track real-time evolution of flu.
+His personal database of Ebola genomes sits at nearly 1000 sequences and he has been privately sharing some wonderful integrated phylogenetic analyses covering the entire Ebola outbreak. However, until recently the sharing has been limited by access to public data. At a recent conference at the Institut Pasteur, I met him and his colleague <a href="https://neherlab.wordpress.com/">Richard Nehrer</a> and discussed ways to improve sharing. With <a href="http://bedford.io/blog/">Trevor Bedford</a>, Richard are the developers of the <a href="http://www.nextflu.org">nextflu</a> website, which aims to track real-time evolution of flu.
 
 I said that we needed this for Ebola, and of course they had already thought of this and had started building something. I said that we would contribute our nanopore sequencing dataset to this project in real-time, and those with large datasets to compare also contributed theirs.
 

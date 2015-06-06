@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Real time genomic surveillance of Ebola outbreak 2014 2015"
+title: "Real time genomic surveillance of Ebola outbreak 2014-2015"
 description: ""
 category: 
 tags: []

@@ -51,5 +51,10 @@
   end_date: 2015-09-09
   url: http://genomescience.org.uk
 
-
+- org: Public Health England Annual Conference 2015
+  loc: Warwick, UK
+  start_date: 2015-09-15
+  end_date: 2015-09-16
+  url: https://www.phe-events.org.uk/hpa/frontend/reg/titem.csp?pageID=185576&eventID=436&eventID=436
+  talk_title: Application of MinION technology to provide real time sequencing on the frontline in an outbreak situation: is classical epidemiology dead?
 

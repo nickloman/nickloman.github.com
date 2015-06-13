@@ -1,26 +1,3 @@
-- org: Institut Pasteur
-  loc: Paris, France
-  title: Next Generation Sequencing of Viruses
-  talk_title: Prospective, real-time nanopore sequencing for Ebola genomic epidemiology under outbreak conditions
-  start_date: 2015-04-20
-  end_date: 2015-04-21
-  url: http://predemics.biomedtrain.eu/Media/Shared/uploaded/Files/4/9/1/3.pdf  
-
-- org: University of Birmingham
-  loc: Birmingham, UK
-  title: Recent Technologies in Microbiology
-  start_date: 2015-06-05
-  end_date: 2015-06-05
-  url: http://rtmb.co.uk/
-
-- org: Institut Pasteur de Lille
-  loc: Lille, France
-  title: Bioinformatics for Third Generation Sequencing
-  talk_title: Bioinformatics approaches for real-time nanopore sequencing
-  start_date: 2015-06-09
-  end_date: 2015-06-09
-  url: http://www.cristal.univ-lille.fr/~touzet/bilille/third_generation.html
-
 - org: Infectious Diseases Research Network
   loc: Royal Society, London
   title: An introduction to infectious disease genomics
@@ -28,6 +5,14 @@
   start_date: 2015-06-18
   end_date: 2015-06-18
   url: http://www.idrn.org/events/upcoming/genomics.php 
+
+- org: Michigan State University
+  loc: Kellogg Biological Station, Michigan, US
+  title: Analyzing Next-Generation Sequencing Data
+  talk_title: Guest instructor
+  start_date: 2015-08-10
+  end_date: 2015-08-21
+  url: http://bioinformatics.msu.edu/ngs-summer-course-2015
 
 - org: American Society of Microbiology
   loc: Atlanta, Georgia, US
@@ -45,10 +30,11 @@
   end_date: 2015-09-01
   url: http://sequencing.exeter.ac.uk/long_reads_and_cream_teas/
 
-- org: Genome Science 2015
+- org: Genome Science
   loc: University of Birmingham
   start_date: 2015-09-07
   end_date: 2015-09-09
+  title: Genome Science 2015, chief conference organiser
   url: http://genomescience.org.uk
 
 - org: Public Health England Annual Conference 2015

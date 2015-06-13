@@ -96,3 +96,26 @@
   url: http://www.nanoporetech.com
   slides: !xml |
       <iframe src="//www.slideshare.net/slideshow/embed_code/key/AUiD5n8zKHZwpy" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/nickloman/london-calling-a-year-of-happy-mapping-14th-may-2015" title="London Calling: A Year of Happy MAPping 14th May 2015" target="_blank">London Calling: A Year of Happy MAPping 14th May 2015</a> </strong> from <strong><a href="//www.slideshare.net/nickloman" target="_blank">Nick Loman</a></strong> </div>
+
+- org: Institut Pasteur
+  loc: Paris, France
+  title: Next Generation Sequencing of Viruses
+  talk_title: Prospective, real-time nanopore sequencing for Ebola genomic epidemiology under outbreak conditions
+  start_date: 2015-04-20
+  end_date: 2015-04-21
+  url: http://predemics.biomedtrain.eu/Media/Shared/uploaded/Files/4/9/1/3.pdf  
+
+- org: University of Birmingham
+  loc: Birmingham, UK
+  title: Recent Technologies in Microbiology
+  start_date: 2015-06-05
+  end_date: 2015-06-05
+  url: http://rtmb.co.uk/
+
+- org: Institut Pasteur de Lille
+  loc: Lille, France
+  title: Bioinformatics for Third Generation Sequencing
+  talk_title: Bioinformatics approaches for real-time nanopore sequencing
+  start_date: 2015-06-09
+  end_date: 2015-06-09
+  url: http://www.cristal.univ-lille.fr/~touzet/bilille/third_generation.html

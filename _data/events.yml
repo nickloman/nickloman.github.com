@@ -6,6 +6,14 @@
   end_date: 2015-06-18
   url: http://www.idrn.org/events/upcoming/genomics.php 
 
+- org: DeepSeq
+  loc: Nottingham, UKa
+  title: Midlands Sequencing Consortium Meeting
+  talk_title: Nanopore sequencing 
+  start_date: 2015-07-13
+  end_date: 2015-07-13
+  url: http://www.nottingham.ac.uk/deepseq/events.aspx
+
 - org: Michigan State University
   loc: Kellogg Biological Station, Michigan, US
   title: Analyzing Next-Generation Sequencing Data

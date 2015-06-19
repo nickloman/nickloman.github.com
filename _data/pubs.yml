@@ -1,4 +1,43 @@
 - ArticleIds:
+    doi: 10.1038/nmeth.3444
+    eid: '26076426'
+    medline: []
+    pii: nmeth.3444
+    pubmed: ['26076426']
+    rid: '26076426'
+  AuthorList: [Loman NJ, Quick J, Simpson JT]
+  DOI: 10.1038/nmeth.3444
+  ELocationID: 'doi: 10.1038/nmeth.3444'
+  EPubDate: 2015 Jun 15
+  ESSN: 1548-7105
+  FullJournalName: Nature methods
+  HasAbstract: 1
+  History:
+    accepted: 2015/05/22 00:00
+    entrez: 2015/06/16 06:00
+    medline: ['2015/06/16 06:00']
+    pubmed: ['2015/06/16 06:00']
+    received: 2015/03/11 00:00
+  ISSN: 1548-7091
+  Id: '26076426'
+  Issue: ''
+  Item: []
+  LangList: [English]
+  LastAuthor: Simpson JT
+  NlmUniqueID: '101215604'
+  Pages: ''
+  PmcRefCount: 0
+  PubDate: 2015 Jun 15
+  PubStatus: aheadofprint
+  PubTypeList: [Journal Article]
+  RecordStatus: PubMed - as supplied by publisher
+  References: []
+  SO: 2015 Jun 15;
+  Source: Nat Methods
+  Title: A complete bacterial genome assembled de novo using only nanopore sequencing
+    data.
+  Volume: ''
+- ArticleIds:
     doi: 10.1186/s13059-015-0677-2
     eid: '26025440'
     medline: []
@@ -316,7 +355,7 @@
   LastAuthor: Loman NJ
   NlmUniqueID: '101596872'
   Pages: '22'
-  PmcRefCount: 6
+  PmcRefCount: 7
   PubDate: '2014'
   PubStatus: ''
   PubTypeList: [Journal Article]
@@ -397,7 +436,7 @@
   LastAuthor: Quince C
   NlmUniqueID: '101215604'
   Pages: 1144-6
-  PmcRefCount: 4
+  PmcRefCount: 6
   PubDate: 2014 Nov
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -475,7 +514,7 @@
   LastAuthor: Quinlan AR
   NlmUniqueID: '9808944'
   Pages: 3399-401
-  PmcRefCount: 2
+  PmcRefCount: 3
   PubDate: 2014 Dec 1
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -707,7 +746,7 @@
   LastAuthor: Ala'Aldeen DA
   NlmUniqueID: '100887452'
   Pages: ''
-  PmcRefCount: 4
+  PmcRefCount: 3
   PubDate: 2013 Oct 17
   PubStatus: epublish
   PubTypeList: [Journal Article]
@@ -877,7 +916,7 @@
   LastAuthor: Pallen MJ
   NlmUniqueID: '7501160'
   Pages: 1502-10
-  PmcRefCount: 40
+  PmcRefCount: 42
   PubDate: 2013 Apr 10
   PubStatus: ppublish
   PubTypeList: [Journal Article]
@@ -958,7 +997,7 @@
   LastAuthor: Pallen MJ
   NlmUniqueID: '100966981'
   Pages: '302'
-  PmcRefCount: 15
+  PmcRefCount: 16
   PubDate: 2012 Dec 23
   PubStatus: epublish
   PubTypeList: [Journal Article]
@@ -1037,7 +1076,7 @@
   LastAuthor: Pallen MJ
   NlmUniqueID: '9604648'
   Pages: 434-9
-  PmcRefCount: 195
+  PmcRefCount: 198
   PubDate: 2012 May
   PubStatus: ppublish
   PubTypeList: [Journal Article]
@@ -1122,7 +1161,7 @@
   LastAuthor: Besra GS
   NlmUniqueID: '101285081'
   Pages: e52951
-  PmcRefCount: 11
+  PmcRefCount: 12
   PubDate: '2012'
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]
@@ -1851,7 +1890,7 @@
   LastAuthor: Pallen MJ
   NlmUniqueID: '0411011'
   Pages: D543-6
-  PmcRefCount: 57
+  PmcRefCount: 58
   PubDate: 2008 Jan
   PubStatus: ppublish+epublish
   PubTypeList: [Journal Article]

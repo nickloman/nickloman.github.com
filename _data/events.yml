@@ -52,3 +52,10 @@
   url: "https://www.phe-events.org.uk/hpa/frontend/reg/titem.csp?pageID=185576&eventID=436&eventID=436"
   talk_title: "Application of MinION technology to provide real time sequencing on the frontline in an outbreak situation: is classical epidemiology dead?"
 
+- org: European Society for Human Genetics
+  loc: Barcelona, Spain
+  start_date: 2015-05-21
+  end_date: 2015-05-24
+  title: Novel genome sequencing technologies
+  talk_title: Nanopore sequencing
+

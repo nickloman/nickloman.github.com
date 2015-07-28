@@ -5,7 +5,6 @@ description: ""
 category: 
 tags: []
 ---
-{% include JB/setup %}
 
 For some reason, calling a haploid consensus sequence from a VCF
 seems harder than it needs to be.

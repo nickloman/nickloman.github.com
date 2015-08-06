@@ -127,3 +127,19 @@
   start_date: 2015-06-09
   end_date: 2015-06-09
   url: http://www.cristal.univ-lille.fr/~touzet/bilille/third_generation.html
+
+- org: Infectious Diseases Research Network
+  loc: Royal Society, London
+  title: An introduction to infectious disease genomics
+  talk_title: Bacterial genomics
+  start_date: 2015-06-18
+  end_date: 2015-06-18
+  url: http://www.idrn.org/events/upcoming/genomics.php
+
+- org: DeepSeq
+  loc: Nottingham, UKa
+  title: Midlands Sequencing Consortium Meeting
+  talk_title: Nanopore sequencing
+  start_date: 2015-07-13
+  end_date: 2015-07-13
+  url: http://www.nottingham.ac.uk/deepseq/events.aspx

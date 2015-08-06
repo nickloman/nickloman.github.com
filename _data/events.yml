@@ -1,19 +1,3 @@
-- org: Infectious Diseases Research Network
-  loc: Royal Society, London
-  title: An introduction to infectious disease genomics
-  talk_title: Bacterial genomics
-  start_date: 2015-06-18
-  end_date: 2015-06-18
-  url: http://www.idrn.org/events/upcoming/genomics.php 
-
-- org: DeepSeq
-  loc: Nottingham, UKa
-  title: Midlands Sequencing Consortium Meeting
-  talk_title: Nanopore sequencing 
-  start_date: 2015-07-13
-  end_date: 2015-07-13
-  url: http://www.nottingham.ac.uk/deepseq/events.aspx
-
 - org: Michigan State University
   loc: Kellogg Biological Station, Michigan, US
   title: Analyzing Next-Generation Sequencing Data
@@ -21,6 +5,12 @@
   start_date: 2015-08-10
   end_date: 2015-08-21
   url: http://bioinformatics.msu.edu/ngs-summer-course-2015
+
+- org: St. Jude's Hospital
+  loc: Memphis, US
+  talk_title: Rapid pathogen profiling for outbreaks using portable sequencing
+  start_date: 2015-08-21
+  end_date: 2015-08-21
 
 - org: American Society of Microbiology
   loc: Atlanta, Georgia, US
@@ -52,10 +42,24 @@
   url: "https://www.phe-events.org.uk/hpa/frontend/reg/titem.csp?pageID=185576&eventID=436&eventID=436"
   talk_title: "Application of MinION technology to provide real time sequencing on the frontline in an outbreak situation: is classical epidemiology dead?"
 
+- org: British Society of Animal Science 
+  loc: Roslin Institute, Edinburgh, UK
+  start_date: 2015-10-19
+  end_date: 2015-10-20
+  url: http://www.bsas.org.uk/events-conferences/sequencing-technologies-ever-done-animal-sciences/
+  talk_title: Rapid diagnostics by sequencing
+
+- org: Advances in Genome Biology and Technology
+  loc: Orlando, Florida, US
+  start_date: 2016-02-10
+  end_date: 2016-02-13
+  url: http://www.agbt.org
+  talk_title: tbc
+
 - org: European Society for Human Genetics
   loc: Barcelona, Spain
-  start_date: 2015-05-21
-  end_date: 2015-05-24
+  start_date: 2016-05-21
+  end_date: 2016-05-24
   title: Novel genome sequencing technologies
   talk_title: Nanopore sequencing
 

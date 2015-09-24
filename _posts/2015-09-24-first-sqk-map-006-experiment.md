@@ -12,7 +12,9 @@ introduce the first really major changes to the chemistry for some time.
 
    * First up, the speed has been doubled from ~30 bp/s to ~75 bp/s. 
      The assumption is this will increase yields, but it will be
-     interesting to see what if any effect it has on quality profile.
+     interesting to see what - if any - effect it has on quality profile.
+     The worry would be that increased speeds would increase the chance
+     of missing k-mer transition events, which would manifest as deletions.
    * Secondly, the previous hairpin-motor complex (which enabled 2D
      reads and also stalled the complement strand) has been jettisoned
      to return to a simpler setup. As I understand it, the hairpin
@@ -23,6 +25,16 @@ introduce the first really major changes to the chemistry for some time.
      compare translocated times of the two strands (in SQK-MAP-005
      the complement strand was slower, as it was retarded by two
      enzymes).
+
+The new chemistry is accompanied with a new Metrichor basecaller
+workflow which does not seem to be possible to run with old data.
+A notable change, looking at the returned files, is that the
+model of signal is now considering each possible combination of
+6-mers (4^6 = 4096) to generate the base sequence, whereas before
+5-mers. This may help with basecalling accuracy and it will be
+interesting to see if it resolves any different motifs (Jared and
+us looked at these in our recent paper here:
+www.nature.com/nmeth/journal/v12/n8/full/nmeth.3444.html)
 
 As is typical, we wanted to try it out with our usual reference strain,
 *E. coli* K-12 MG1655. The run has been on since about 17:00 today, and you can view its progress via the amazing MinoTour software from Matt Loose, visit:

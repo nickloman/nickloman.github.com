@@ -28,8 +28,7 @@ introduce the first really major changes to the chemistry for some time.
      as it was retarded by two enzymes).
 
 The new chemistry is accompanied with a new Metrichor basecaller
-workflow specific to SQK-MAP-006 and with which does not seem to
-be supported for re-basecalling runs from previous kits.
+workflow specific to SQK-MAP-006. 
 
 A notable change, looking at the returned FAST5 files, is that the
 model is now considering signal levels from each of the 4^6 possible
@@ -43,6 +42,9 @@ resolves any previously difficult to sequence motifs (we looked at
 such under represented sequences in our recent paper here in
 the context of 5-mers:
 <http://www.nature.com/nmeth/journal/v12/n8/full/nmeth.3444.html>)
+
+It does not seem to be supported to call older, pre-SQK-MAP-006
+data with the new 6-mer model basecaller.
 
 As is typical, we wanted to try it out with our usual reference strain,
 *E. coli* K-12 MG1655. The run has been on since about 17:00 today, and you can view its progress via the amazing MinoTour software from Matt Loose, visit:

@@ -35,9 +35,10 @@ A notable change, looking at the returned FAST5 files, is that the
 model is now considering signal levels from each of the 4^6 possible
 combinations of 6-mers when doing basecalling. Before 5-mers were
 used. Does this mean that the ionic flux through the nanopore is
-in fact affected by 6 or more bases, rather than the 5 that was
-initially assumed? If so - and this seems likely - this may help
-with basecalling accuracy and it will be interesting to see if it
+in fact affected by 6 or more bases, rather than the 5 that we
+initially assumed? Or was 5 simply chosen to simplify the analysis.
+If the latter - and this seems likely - this may help with
+basecalling accuracy and it will be interesting to see if it
 resolves any previously difficult to sequence motifs (we looked at
 such under represented sequences in our recent paper here in
 the context of 5-mers:

@@ -17,7 +17,7 @@ introduce the first really major changes to the chemistry for some time.
      reads and also stalled the complement strand) has been jettisoned
      to return to a simpler setup. As I understand it, the hairpin
      remains (and is now biotinylated and pulled down by beads to
-     ensure very high 2D years) but the second motor has gone. The
+     ensure very high 2D yields) but the second motor has gone. The
      new motor I assume is clever enough to be able to stall both
      the template and complement strand. It will be interesting to 
      compare translocated times of the two strands (in SQK-MAP-005

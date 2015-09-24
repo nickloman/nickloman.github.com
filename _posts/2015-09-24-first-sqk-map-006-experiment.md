@@ -10,7 +10,9 @@ We've just finally found the time to break open the new SQK-MAP-006
 kits from Oxford Nanopore. These kits are notable because they
 introduce the first really major changes to the chemistry for some time.
 
-   * First up, the speed has been doubled from ~30 bp/s to ~75 bp/s
+   * First up, the speed has been doubled from ~30 bp/s to ~75 bp/s. 
+     The assumption is this will increase yields, but it will be
+     interesting to see what if any effect it has on quality profile.
    * Secondly, the previous hairpin-motor complex (which enabled 2D
      reads and also stalled the complement strand) has been jettisoned
      to return to a simpler setup. As I understand it, the hairpin

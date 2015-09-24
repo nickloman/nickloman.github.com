@@ -23,9 +23,9 @@ introduce the first really major changes to the chemistry for some time.
      ensure very high 2D yields) but the second motor has gone. The
      new motor I assume is clever enough to be able to stall both
      the template and complement strand. It will be interesting to 
-     compare translocated times of the two strands (in SQK-MAP-005
-     the complement strand was slower, as it was retarded by two
-     enzymes).
+     compare translocation times of the two strands (in SQK-MAP-005
+     the complement strand went through the pore more slowly,
+     as it was retarded by two enzymes).
 
 The new chemistry is accompanied with a new Metrichor basecaller
 workflow specific to SQK-MAP-006 and with which does not seem to

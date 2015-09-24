@@ -28,8 +28,8 @@ introduce the first really major changes to the chemistry for some time.
      enzymes).
 
 The new chemistry is accompanied with a new Metrichor basecaller
-workflow that is new for SQK-MAP-006 and with which it does not
-seem to be possible to run old data on.
+workflow specific to SQK-MAP-006 and with which does not seem to
+be supported for re-basecalling runs from previous kits.
 
 A notable change, looking at the returned FAST5 files, is that the
 model is now considering signal levels from each of the 4^6 possible

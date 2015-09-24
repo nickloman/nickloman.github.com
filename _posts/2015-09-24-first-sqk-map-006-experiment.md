@@ -41,7 +41,7 @@ with basecalling accuracy and it will be interesting to see if it
 resolves any previously difficult to sequence motifs (we looked at
 such under represented sequences in our recent paper here in
 the context of 5-mers:
-www.nature.com/nmeth/journal/v12/n8/full/nmeth.3444.html)
+<http://www.nature.com/nmeth/journal/v12/n8/full/nmeth.3444.html>)
 
 As is typical, we wanted to try it out with our usual reference strain,
 *E. coli* K-12 MG1655. The run has been on since about 17:00 today, and you can view its progress via the amazing MinoTour software from Matt Loose, visit:

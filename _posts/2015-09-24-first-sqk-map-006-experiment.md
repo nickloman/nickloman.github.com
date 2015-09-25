@@ -59,6 +59,12 @@ can observe and interact with.
 I'll update this post as the run progresses and we take a look at the
 data.
 
+Update 25th September 16:40: This live demo was so popular we had to disable
+it due to the load it was putting on the server! But we will make it
+available again when the run has finished. Currently the run has been
+going for 24 hours and has generated around 700Mb of data, and 38,000
+reads.
+
 As always, thanks to Josh Quick for his masterful library preparation
 technique.
 

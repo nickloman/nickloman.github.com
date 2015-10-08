@@ -65,6 +65,26 @@ available again when the run has finished. Currently the run has been
 going for 24 hours and has generated around 700Mb of data, and 38,000
 reads.
 
+## Links to raw data files
+
+So far we have done four SQK-MAP-006 runs. Two were generated with natural
+DNA, and two were generated with the low-input library that includes 
+a PCR step.
+
+
+| Run   | Basecalled data |  Raw data  |
+|----------------|-----------------|------------|
+| MAP-006-1 (120Gb)      |  http://nanopore.climb-radosgw01.bham.ac.uk/MAP006-1.basecalled.tar  |
+| MAP-006-2 (75Gb)     |  http://nanopore.climb-radosgw01.bham.ac.uk/MAP006-2.basecalled.tar  |
+| MAP-006-PCR-1 (64Gb) |  http://nanopore.climb-radosgw01.bham.ac.uk/MAP006-PCR-1_basecalled.tar  |
+| MAP-006-PCR-2 (154Gb) |  http://nanopore.climb-radosgw01.bham.ac.uk/MAP006-PCR-2_basecalled.tar  | 
+
+
+We have also put a subset of "raw", i.e. pre-event-detected reads up for one of the runs.
+
+Enjoy!
+
+
 As always, thanks to Josh Quick for his masterful library preparation
 technique.
 

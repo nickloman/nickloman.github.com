@@ -59,15 +59,15 @@ detection is carried out).
 
 More files to follow.
 
-un               | Basecalled data |  Raw data  |
-|-------------------|-----------------|------------|
-| MAP-006-1 |  [MAP-006-1 basecalled](http://nanopore.climb-radosgw01.bham.ac.uk/MAP006-1.basecalled.tar)  (120Gb)  | |
-| MAP-006-2  |  [MAP-006-2 basecalled](http://nanopore.climb-radosgw01.bham.ac.uk/MAP006-2.basecalled.tar) (75Gb) | |
-| MAP-006-PCR-1  |  [MAP-006-PCR-1 basecalled](http://nanopore.climb-radosgw01.bham.ac.uk/MAP006-PCR-1_basecalled.tar) (64Gb) | |
-| MAP-006-PCR-2 | [MAP-006-PCR-2 basecalled](http://nanopore.climb-radosgw01.bham.ac.uk/MAP006-PCR-2_basecalled.tar) (154Gb) | [MAP-006-PCR-2 raw](http://nanopore.climb-radosgw01.bham.ac.uk/MAP006-PCR-2_raw.tar) |
+
+Run                | Basecalled data |  Raw data  
+-------------------|-----------------|------------
+MAP-006-1 |  [MAP-006-1 basecalled](http://nanopore.climb-radosgw01.bham.ac.uk/MAP006-1.basecalled.tar)  (120Gb)  |
+MAP-006-2  |  [MAP-006-2 basecalled](http://nanopore.climb-radosgw01.bham.ac.uk/MAP006-2.basecalled.tar) (75Gb) |
+MAP-006-PCR-1  |  [MAP-006-PCR-1 basecalled](http://nanopore.climb-radosgw01.bham.ac.uk/MAP006-PCR-1_basecalled.tar) (64Gb) |
+MAP-006-PCR-2 | [MAP-006-PCR-2 basecalled](http://nanopore.climb-radosgw01.bham.ac.uk/MAP006-PCR-2_basecalled.tar) (154Gb) | [MAP-006-PCR-2 raw](http://nanopore.climb-radosgw01.bham.ac.uk/MAP006-PCR-2_raw.tar)
 
 Enjoy!
-
 
 As always, thanks to Josh Quick for his masterful library preparation
 technique.

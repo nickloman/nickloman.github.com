@@ -46,21 +46,25 @@ the context of 5-mers:
 It does not seem to be supported to call older, pre-SQK-MAP-006
 data with the new 6-mer model basecaller.
 
-## Links to raw data files
+## Links to FAST5 data files
 
 So far we have done four SQK-MAP-006 runs. Two were generated with natural
 DNA, and two were generated with the low-input library that includes 
 a PCR step.
 
+Each of the files below are archives of the runs following base calling
+with Metrichor. We also provide a subset of one of the runs in 'raw'
+format which has the individual signal measurements (i.e. before event
+detection is carried out).
 
-| Run               | Basecalled data |  Raw data  |
+More files to follow.
+
+un               | Basecalled data |  Raw data  |
 |-------------------|-----------------|------------|
-| MAP-006-1 (120Gb) |  http://nanopore.climb-radosgw01.bham.ac.uk/MAP006-1.basecalled.tar  | |
-| MAP-006-2 (75Gb)  |  http://nanopore.climb-radosgw01.bham.ac.uk/MAP006-2.basecalled.tar  | |
-| MAP-006-PCR-1 (64Gb) |  http://nanopore.climb-radosgw01.bham.ac.uk/MAP006-PCR-1_basecalled.tar  | |
-| MAP-006-PCR-2 (154Gb) |  http://nanopore.climb-radosgw01.bham.ac.uk/MAP006-PCR-2_basecalled.tar  | http://nanopore.climb-radosgw01.bham.ac.uk/MAP006-PCR-2_raw.tar |
-
-We have also put a subset of "raw", i.e. pre-event-detected reads up for one of the runs.
+| MAP-006-1 |  [MAP-006-1 basecalled](http://nanopore.climb-radosgw01.bham.ac.uk/MAP006-1.basecalled.tar)  (120Gb)  | |
+| MAP-006-2  |  [MAP-006-2 basecalled](http://nanopore.climb-radosgw01.bham.ac.uk/MAP006-2.basecalled.tar) (75Gb) | |
+| MAP-006-PCR-1  |  [MAP-006-PCR-1 basecalled](http://nanopore.climb-radosgw01.bham.ac.uk/MAP006-PCR-1_basecalled.tar) (64Gb) | |
+| MAP-006-PCR-2 | [MAP-006-PCR-2 basecalled](http://nanopore.climb-radosgw01.bham.ac.uk/MAP006-PCR-2_basecalled.tar) (154Gb) | [MAP-006-PCR-2 raw](http://nanopore.climb-radosgw01.bham.ac.uk/MAP006-PCR-2_raw.tar) |
 
 Enjoy!
 

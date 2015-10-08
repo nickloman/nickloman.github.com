@@ -46,25 +46,6 @@ the context of 5-mers:
 It does not seem to be supported to call older, pre-SQK-MAP-006
 data with the new 6-mer model basecaller.
 
-As is typical, we wanted to try it out with our usual reference strain,
-*E. coli* K-12 MG1655. The run has been on since about 17:00 today, and you can view its progress via the amazing MinoTour software from Matt Loose, visit:
-
-<http://minotour.nottingham.ac.uk>
-
-And login with user: demo password: demouser 
-
-This site has a bunch of cool visualisations of live streaming data that you
-can observe and interact with.
-
-I'll update this post as the run progresses and we take a look at the
-data.
-
-Update 25th September 16:40: This live demo was so popular we had to disable
-it due to the load it was putting on the server! But we will make it
-available again when the run has finished. Currently the run has been
-going for 24 hours and has generated around 700Mb of data, and 38,000
-reads.
-
 ## Links to raw data files
 
 So far we have done four SQK-MAP-006 runs. Two were generated with natural

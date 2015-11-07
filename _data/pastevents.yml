@@ -143,3 +143,59 @@
   start_date: 2015-07-13
   end_date: 2015-07-13
   url: http://www.nottingham.ac.uk/deepseq/events.aspx
+
+- org: Michigan State University
+  loc: Kellogg Biological Station, Michigan, US
+  title: Analyzing Next-Generation Sequencing Data
+  talk_title: Guest instructor
+  start_date: 2015-08-10
+  end_date: 2015-08-21
+  url: http://bioinformatics.msu.edu/ngs-summer-course-2015
+
+- org: St. Jude's Hospital
+  loc: Memphis, US
+  talk_title: Rapid pathogen profiling for outbreaks using portable sequencing
+  start_date: 2015-08-21
+  end_date: 2015-08-21
+
+- org: American Society of Microbiology
+  loc: Atlanta, Georgia, US
+  title: International Conference on Emerging Infectious Diseases
+  talk_title: Bioinformatics and big data
+  start_date: 2015-08-24
+  end_date: 2015-08-26
+  url: http://www.iceid.org/
+
+- org: Exeter Sequencing Service
+  loc: University of Exeter
+  title: Cream teas and long reads
+  talk_title: Clinical and bacterial applications of long-read sequencing
+  start_date: 2015-09-01
+  end_date: 2015-09-01
+  url: http://sequencing.exeter.ac.uk/long_reads_and_cream_teas/
+
+- org: Genome Science
+  loc: University of Birmingham
+  start_date: 2015-09-07
+  end_date: 2015-09-09
+  title: Genome Science 2015, chief conference organiser
+  url: http://genomescience.org.uk
+
+- org: Public Health England Annual Conference 2015
+  loc: Warwick, UK
+  start_date: 2015-09-15
+  end_date: 2015-09-16
+  url: "https://www.phe-events.org.uk/hpa/frontend/reg/titem.csp?pageID=185576&eventID=436&eventID=436"
+  talk_title: "Application of MinION technology to provide real time sequencing on the frontline in an outbreak situation: is classical epidemiology dead?"
+
+- org: PHG Foundation
+  loc: Royal College of Physicians, UK
+  talk_title: "Real-time digital pathogen surveillance"
+
+- org: British Society of Animal Science 
+  loc: Roslin Institute, Edinburgh, UK
+  start_date: 2015-10-19
+  end_date: 2015-10-20
+  url: http://www.bsas.org.uk/events-conferences/sequencing-technologies-ever-done-animal-sciences/
+  talk_title: Rapid diagnostics by sequencing
+

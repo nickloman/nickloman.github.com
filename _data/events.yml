@@ -1,60 +1,23 @@
-- org: Michigan State University
-  loc: Kellogg Biological Station, Michigan, US
-  title: Analyzing Next-Generation Sequencing Data
-  talk_title: Guest instructor
-  start_date: 2015-08-10
-  end_date: 2015-08-21
-  url: http://bioinformatics.msu.edu/ngs-summer-course-2015
-
-- org: St. Jude's Hospital
-  loc: Memphis, US
-  talk_title: Rapid pathogen profiling for outbreaks using portable sequencing
-  start_date: 2015-08-21
-  end_date: 2015-08-21
-
-- org: American Society of Microbiology
-  loc: Atlanta, Georgia, US
-  title: International Conference on Emerging Infectious Diseases
-  talk_title: Bioinformatics and big data
-  start_date: 2015-08-24
-  end_date: 2015-08-26
-  url: http://www.iceid.org/
-
-- org: Exeter Sequencing Service
-  loc: University of Exeter
-  title: Cream teas and long reads
-  talk_title: Clinical and bacterial applications of long-read sequencing
-  start_date: 2015-09-01
-  end_date: 2015-09-01
-  url: http://sequencing.exeter.ac.uk/long_reads_and_cream_teas/
-
-- org: Genome Science
-  loc: University of Birmingham
-  start_date: 2015-09-07
-  end_date: 2015-09-09
-  title: Genome Science 2015, chief conference organiser
-  url: http://genomescience.org.uk
-
-- org: Public Health England Annual Conference 2015
-  loc: Warwick, UK
-  start_date: 2015-09-15
-  end_date: 2015-09-16
-  url: "https://www.phe-events.org.uk/hpa/frontend/reg/titem.csp?pageID=185576&eventID=436&eventID=436"
-  talk_title: "Application of MinION technology to provide real time sequencing on the frontline in an outbreak situation: is classical epidemiology dead?"
-
-- org: British Society of Animal Science 
-  loc: Roslin Institute, Edinburgh, UK
-  start_date: 2015-10-19
-  end_date: 2015-10-20
-  url: http://www.bsas.org.uk/events-conferences/sequencing-technologies-ever-done-animal-sciences/
-  talk_title: Rapid diagnostics by sequencing
-
 - org: Advances in Genome Biology and Technology
   loc: Orlando, Florida, US
   start_date: 2016-02-10
   end_date: 2016-02-13
   url: http://www.agbt.org
   talk_title: tbc
+
+- org: IMMEM XI
+  loc: Estoril, Portugal
+  start_date: 2016-03-09
+  end_date: 2015-03-12
+  url: https://www.escmid.org/research_projects/escmid_conferences/immem_xi/
+  talk_title: "Disruptive technologies in Infectious Disease Epidemiology: the future"
+
+- org: Bundeswehr Institute of Microbiology 
+  loc: Munich, Germany
+  start_date: 2015-04-26
+  end_date: 2015-04-29
+  url: http://www.biodefense2016.org
+  talk_title: "Modern Diagnostics and Applications - From Bench to Bedside"
 
 - org: European Society for Human Genetics
   loc: Barcelona, Spain

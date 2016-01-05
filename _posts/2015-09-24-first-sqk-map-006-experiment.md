@@ -58,6 +58,8 @@ format which has the individual signal measurements (i.e. before event
 detection is carried out).
 
 
+The raw files are available via the [ENA FTP site](ftp://ftp.era.ebi.ac.uk/vol1/ERA540/ERA540530/oxfordnanopore_native/)
+
 
 Run                | Basecalled data | 2D pass FASTA
 -------------------|-----------------|----------------

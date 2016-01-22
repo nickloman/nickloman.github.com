@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Webvalley: 16S Practical"
+title: "BIOM25: 16S Practical"
 description: ""
 category:  
 tags: []
 ---
 
 
-# 16S Practical #
+# BIOM25: 16S Practical #
 	
 In this practical we will analyse datasets from several studies, some very important, others perhaps just a little silly.
 

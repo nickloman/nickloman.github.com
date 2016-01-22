@@ -21,6 +21,8 @@ After that, in groups, we will analyse one of three different datasets:
 *  The microbiome of restroom surfaces (toilets!)
 *  Development of the infant gut microbiome.
 
+Please watch this video for a useful demonstration of how principal component analysis works: <https://www.youtube.com/watch?v=BfTMmoDFXyE>
+
 ## General questions
 
 Q: What is the difference between alpha- and beta-diversity?

@@ -16,6 +16,7 @@ At first, we will go through a dataset together, this is from a pioneering paper
 *  The Human Microbiome in Space and Time.
 
 After that, in groups, we will analyse one of three different datasets:
+
 *  CSI: Microbiome. Can you determine who has been using a keyboard from the microbiome that is left behind? Do keyboards have a core microbiome??
 *  The microbiome of restroom surfaces (toilets!)
 *  Development of the infant gut microbiome.

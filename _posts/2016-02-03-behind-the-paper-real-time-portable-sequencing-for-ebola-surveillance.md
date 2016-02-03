@@ -26,7 +26,7 @@ I thought it might be nice to do a little "behind the paper" post as this projec
 
 ## Prelude
 
-One of the inspirations for this project was [an editorial from Pardis Sabeti](http://www.nature.com/news/data-sharing-make-outbreak-research-open-access-1.16966) and colleagues in Nature. They noted that during the West African Ebola epidemic, there was an extraordinary gap between numbers of available genome sequences and the numbers on the epidemic curve, with no single genome sequence having been released between 2nd August and 9 November, a period when there was conservatively >15,000 cases of Ebola. This was shocking to me and them.
+One of the inspirations and motivations for this project was [an editorial from Pardis Sabeti](http://www.nature.com/news/data-sharing-make-outbreak-research-open-access-1.16966) and colleagues in Nature. They noted that during the West African Ebola epidemic, there was an extraordinary gap between numbers of available genome sequences and the numbers on the epidemic curve, with no single genome sequence having been released between 2nd August and 9 November, a period when there was conservatively >15,000 cases of Ebola. This was shocking to me and them.
 
 There were of course many reasons for this; some were different to work around, for example the time and difficulty taken to ship and analyse samples in remote laboratories, often located in US and Europe. Other excuses were less justifiable - such as locking up sequences waiting for formal articles to be published.
 
@@ -52,9 +52,13 @@ We then faced an agonising wait for ethical approval from the local Sierra Leone
 
 The project looked hopeless at this stage.
 
-Around that time, in March, I had a chance meeting with Jon Green from PHE. He said that he knew of a colleague who was helping in Guinea who might be interested in trialling the system. His name was Miles Carroll and I realised quickly was notable for his snap decision making and urgent manner. He said “we’ve got the samples, we’ve got the ethics; get on a plane in 2 weeks time”. Miles was working with the European Mobile Laboratories and Stephan Günther who had establishe an entire network of diagnostic laboratories in West Africa, testing over 10,000 samples during the epidemic.
+Around that time, in March, I had a chance meeting with Jon Green from PHE. He said that he knew of a colleague who was helping in Guinea who might be interested in trialling the system. His name was Miles Carroll and I realised quickly was notable for being the type of guy that just got stuff (shizz) done. Miles was working with the European Mobile Laboratories and Stephan Günther who had establishe an entire network of diagnostic laboratories in West Africa, testing over 10,000 samples during the epidemic. He said “we’ve got the samples, we’ve got the ethics; you just need to get on a plane in 2 weeks time”. Miles was working with the European Mobile Laboratories and Stephan Günther who had establishe an entire network of diagnostic laboratories in West Africa and had previously sequenced 180 Ebola samples working with the University of Liverpool.
 
-Well - I’m not a lab guy - but I did think about it. And then I thought maybe Josh - both a lab person and a bioinformatician - would be a better person to go! 
+Well - I’m not a lab guy - but I did think about going.
+
+And I spoke to my other half.
+
+And then I thought maybe Josh - both a lab person and a bioinformatician - would be a better person to go! 
 
 Well it wasn't quite like that; he was enthusiastic but had to get permission from his girlfriend first. We had reassurances that he’d be staying in Guinea’s best “5*” hotel and would be under the protection of the WHO.
 

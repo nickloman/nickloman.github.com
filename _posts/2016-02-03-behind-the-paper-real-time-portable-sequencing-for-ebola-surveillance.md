@@ -52,7 +52,7 @@ We then faced an agonising wait for ethical approval from the local Sierra Leone
 
 The project looked hopeless at this stage.
 
-Around that time, in March, I had a chance meeting with Jon Green from PHE. He said that he knew of a colleague who was helping in Guinea who might be interested in trialling the system. His name was Miles Carroll and I realised quickly was notable for being the type of guy that just got stuff (shizz) done. Miles was working with the European Mobile Laboratories and Stephan Günther who had establishe an entire network of diagnostic laboratories in West Africa, testing over 10,000 samples during the epidemic. He said “we’ve got the samples, we’ve got the ethics; you just need to get on a plane in 2 weeks time”. Miles was working with the European Mobile Laboratories and Stephan Günther who had establishe an entire network of diagnostic laboratories in West Africa and had previously sequenced 180 Ebola samples working with the University of Liverpool.
+Around that time, in March, I had a chance meeting with Jon Green from PHE. He said that he knew of a colleague who was helping in Guinea who might be interested in trialling the system. His name was Miles Carroll and I realised quickly was notable for being the type of guy that just got stuff (shizz) done. Miles was working with the European Mobile Laboratories and Stephan Günther who had establishe an entire network of diagnostic laboratories in West Africa, testing over 10,000 samples during the epidemic. Miles had also previously sequenced 180 Ebola samples working with the University of Liverpool. He said “we’ve got the samples, we’ve got the ethics; you just need to get on a plane in 2 weeks time”. 
 
 Well - I’m not a lab guy - but I did think about going.
 
@@ -71,7 +71,7 @@ Well, we knew kind of how we could sequence Ebola on the MinION at this point. B
  
 Firstly Josh had to get his vaccinations - a whole heap of them in time for them to kick in. It took him days to find a willing GP who would give them at short notice.
 
-Then we had to work out what to pack. This was very stressful. The timing was awful, I was laid up in bed with a brutal flu, and trying to coordinate with Josh at work through instant messenger (which he's not very good at replying to at the best of time).
+Then we had to work out what to pack. This was very stressful. The timing was awful, I was laid up in bed with a brutal flu, and trying to coordinate with Josh at work through instant messenger (which he's not very good at replying to at the best of times).
 
 The worry was that with only a couple of weeks to do the work in, if we forgot anything we were dead meat. So Josh cleared down a small lab bench and started simulating MinION experiments to work out exactly what set of equipment he might need, bringing bits in.
 

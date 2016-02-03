@@ -100,7 +100,9 @@ We started using a simple bioinformatics approach using the marginAlign software
 
 ![Early phylogenetic analysis with MinION sequences in black](/images/2016-02-03-georgiostree.png)
 
-One of the first trees we generated was quite fascinating, demonstrating clear evidence of two - by now, given that the epidemic had been going for for around 18 months, quite distantly related lineages. The first lineage was named GN1 -- and this had thought to have been made extinct by that point. As expected, there was a very long branch between our sequences and the previous ones from mid-2014. But without any other data to compare with, we could not see how the virus had spread from East to West Guinea. Later on more sequence data was released retrospectively and the gaps in the tree began to be filled in (you can see this for yourself at ebola.nextstrain.org)
+An early phylogeny from the MinION sequencing by Georgios Pollakis.
+
+One of the first trees we generated was quite fascinating, demonstrating clear evidence of two - by now, given that the epidemic had been going for for around 18 months, quite distantly related lineages. The first lineage was named GN1 -- and this had thought to have been made extinct by that point. As expected, there was a very long branch between our sequences and the previous ones from mid-2014. But without any other data to compare with, we could not see how the virus had spread from East to West Guinea. Later on more sequence data was released retrospectively and the gaps in the tree began to be filled in (you can see this for yourself at <ebola.nextstrain.org>)
 
 Josh managed to get back safely - apart from a minor car crash involving the local _gendarmerie_ - and after a quarantine period away from his girlfriend (at her request) returned home and got on with normal life.
  

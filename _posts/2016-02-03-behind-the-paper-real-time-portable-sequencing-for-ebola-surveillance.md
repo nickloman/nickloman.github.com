@@ -131,7 +131,7 @@ We moved the sequencer to a dedicated hut near the EMLab diagnostic unit in Coya
 
 We spent time liaising with epidemiologists such as Pierre Formenty, Ettore Severi and Amy Mikhail, trying to devise reports that they found informative and trying to make the bioinformatics analysis as quick as possible, building lots of pipelines.
 
-One reporting format that was particularly popular was David Aanensen’s <Microreact.org> website which he and his team kindly added some features to specifically to help our project. The epidemiologists liked the output from that a great deal.
+One reporting format that was particularly popular was David Aanensen’s [Microreact](http://microreact.org) website which he and his team kindly added some features to specifically to help our project. The epidemiologists liked the output from that a great deal.
 
 Over time, new people got trained to do the MinION sequencing, with oversight from Sophie. Lauren Cowley from Public Health England went out for a month’s stint - her slides from Genome Science 2015 show [some of the creepy-crawlies](http://f1000research.com/slides/4-735) that interfered with her library preparations. Unlike Josh’s visit, there was no hot running water in Coyah, so it was significantly less luxurious.
 

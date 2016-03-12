@@ -6,7 +6,7 @@ category:
 tags: []
 ---
 
-Hurrah, [our paper describing the Ebola sequencing surveillance work](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature16996.html) is out today!
+Hurrah, [our paper describing the Ebola sequencing surveillance work](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature16996.html) is out today ([ReadCube Link](http://rdcu.be/gMVd))!
 
 I previously [blogged about it here](/2015/06/05/real-time-genomic-surveillance-of-ebola-outbreak-2014-2015/).
 

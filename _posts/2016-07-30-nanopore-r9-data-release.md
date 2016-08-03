@@ -39,7 +39,7 @@ The results from the better flowcell are presented here with links to data at th
 | pass:template  | 164472      | 1.48Gb     | 9009    | 5944   | 117 | 131969 | 25244 | 14891 | 8074 |
 | fail:template  | 74465       | 467Mb      | 6271    | 3544   | 5   | 328471 | 21903 | 12033 | 6047 |
 
-This is the highest yielding flowcell we've ever had, with just shy of 2Gb of base called sequence, and 1.48Gb in the pass bin.
+This is the highest yielding flowcell we've ever had, with just shy of 2Gb of base called sequence, and 1.48Gb in the pass bin. Over 99% of the reads map to the reference, meaning the <a href="https://en.wikipedia.org/wiki/Goodput">goodput</a> is equivalent to the output.
 
 <img src="/images/2016-08-02-nanopore-1d-read-length.png" alt="Read length" />
 

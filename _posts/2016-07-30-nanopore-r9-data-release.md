@@ -85,6 +85,10 @@ We've also previously generated 2D data and this is available below.
   - <a href="http://s3.climb.ac.uk/nanopore/R9_Ecoli_K12_MG1655_lambda_MinKNOW_0.51.1.62.tar">R9 2D FAST5 files (187.2Gb)</a>
   - <a href="http://s3.climb.ac.uk/nanopore/R9_Ecoli_K12_MG1655_lambda_MinKNOW_0.51.1.62.fasta">R9 2D all FASTA</a>, MD5 ``33cba5312402e14d2eda60296ae99bef``
 
+## ipython notebook
+
+I have posted up the <a href="http://nbviewer.jupyter.org/github/nickloman/nickloman.github.com/blob/master/static/2016-08-03-r9-nanopore-analysis.ipynb">IPython notebook</a> detailing the commands to reproduce this analysis.
+
 ## Credits
 
 Josh Quick did the laboratory work and sequencing. We are grateful to John Tyson for supplying his tuning scripts for the 1D R9 run.

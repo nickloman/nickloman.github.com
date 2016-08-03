@@ -51,7 +51,7 @@ Zooming into this plot it is obvious there are plenty of super long reads - 953 
 
 <img src="/images/2016-08-02-nanopore-1d-read-length-zoom.png" alt="Read length (greater than 50kb)" />
 
-Gratifyingly the data gives a single contig assembly with miniasm and Canu without any custom parameterisation. We'll pass it over to Jared to see what kind of consensus accuracy he can get out of <a href="https://github.com/jts/nanopolish">nanopolish</a> which now has alpha support for R9 data.
+Gratifyingly the data gives a single contig assembly with <a href="https://github.com/lh3/miniasm">miniasm</a> and <a href="http://canu.readthedocs.io/en/stable/">Canu</a> without any custom parameterisation. We'll pass it over to Jared to see what kind of consensus accuracy he can get out of <a href="https://github.com/jts/nanopolish">nanopolish</a> which now has alpha support for R9 data.
 
 <img src="/images/2016-08-02-nanopore-1d-accuracy.png" alt="Accuracy" />
 

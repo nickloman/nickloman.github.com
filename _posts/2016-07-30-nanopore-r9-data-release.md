@@ -83,7 +83,7 @@ We've also previously generated 2D data and this is available below.
 ## Links
 
   - <a href="http://s3.climb.ac.uk/nanopore/R9_Ecoli_K12_MG1655_lambda_MinKNOW_0.51.1.62.tar">R9 2D FAST5 files (187.2Gb)</a>
-  - <a href="http://s3.climb.ac.uk/nanopore/R9_Ecoli_K12_MG1655_lambda_MinKNOW_0.51.1.62.fasta">R9 2D all FASTA</a>, MD5 ``33cba5312402e14d2eda60296ae99bef``
+  - <a href="http://s3.climb.ac.uk/nanopore/R9_Ecoli_K12_MG1655_lambda_MinKNOW_0.51.1.62.all.fasta">R9 2D all FASTA</a>, MD5 ``33cba5312402e14d2eda60296ae99bef``
 
 ## ipython notebook
 

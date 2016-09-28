@@ -18,7 +18,7 @@ date_gmt: '2011-07-28 14:12:34 +0100'
 categories:
 - High-throughput sequencing
 - Ion Torrent
-- E. coli O104:H4
+- E. coli O104 H4
 tags: []
 comments: []
 ---

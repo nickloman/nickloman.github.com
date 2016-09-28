@@ -26,7 +26,7 @@ left. Walk in and follow the signs, we are on the ground floor).
 
 1.30 - tbc: Aaron Darling, iThree Institute, Sydney, Australia
 
-2.00 - tbc: Lex Nederbragt, University of Oslo, Norway
+2.00 - Doing bioinformatics: a user’s perspective: Lex Nederbragt, University of Oslo, Norway
 
 2.30 - Tea and coffee
 

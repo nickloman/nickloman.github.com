@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Open-Source Genomic Analysis of Shiga-Toxin–Producing E. coli O104:H4
+title: Open-Source Genomic Analysis of Shiga-Toxin–Producing E. coli O104 H4
 author:
   display_name: Mark Pallen
   login: mpallen

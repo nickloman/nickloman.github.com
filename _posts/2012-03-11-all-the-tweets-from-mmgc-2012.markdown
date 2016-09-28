@@ -19,7 +19,7 @@ categories:
 - Uncategorized
 - High-throughput sequencing
 - Genomic Epidemiology
-- E. coli O104:H4
+- E. coli O104 H4
 - Genomics
 - Microbiology
 tags:

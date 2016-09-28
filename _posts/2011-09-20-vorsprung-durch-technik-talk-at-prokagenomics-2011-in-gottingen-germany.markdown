@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Vorsprung durch Technik: talk at Prokagenomics 2011 in Göttingen, Germany'
+title: 'Vorsprung durch Technik- talk at Prokagenomics 2011 in Göttingen, Germany'
 author:
   display_name: Mark Pallen
   login: mpallen
@@ -19,7 +19,7 @@ categories:
 - High-throughput sequencing
 - Ion Torrent
 - Genomic Epidemiology
-- E. coli O104:H4
+- E. coli O104 H4
 tags: []
 comments: []
 ---

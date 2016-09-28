@@ -17,7 +17,7 @@ date: '2012-10-09 10:00:45 +0100'
 date_gmt: '2012-10-09 10:00:45 +0100'
 categories:
 - High-throughput sequencing
-- E. coli O104:H4
+- E. coli O104 H4
 - Genomics
 tags:
 - seqbench

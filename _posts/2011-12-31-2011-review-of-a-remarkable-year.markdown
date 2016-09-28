@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '2011: Review of a Remarkable Year'
+title: '2011 Review of a Remarkable Year'
 author:
   display_name: Mark Pallen
   login: mpallen
@@ -21,7 +21,7 @@ categories:
 - Ion Torrent
 - Genomic Epidemiology
 - In our Time
-- E. coli O104:H4
+- E. coli O104 H4
 - Academic life
 - Great read at Birmingham
 tags:

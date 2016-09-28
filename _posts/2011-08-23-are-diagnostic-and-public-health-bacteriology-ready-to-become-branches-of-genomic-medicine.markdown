@@ -21,7 +21,7 @@ categories:
 - Metagenomics
 - 16S
 - Genomic Epidemiology
-- E. coli O104:H4
+- E. coli O104 H4
 - diagnostic microbiology
 tags: []
 comments: []

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Vorsprung durch Technik: Talk on Open-source genomics of German E. coli outbreak'
+title: 'Vorsprung durch Technik, Talk on Open-source genomics of German E. coli outbreak'
 author:
   display_name: Mark Pallen
   login: mpallen
@@ -19,7 +19,7 @@ categories:
 - High-throughput sequencing
 - Ion Torrent
 - Genomic Epidemiology
-- E. coli O104:H4
+- E. coli O104 H4
 tags:
 - thunderbirds
 comments:

@@ -50,21 +50,22 @@ Microbiome maven Elizabeth Bik has a <a href="https://www.ncbi.nlm.nih.gov/pmc/a
 
 ## Bead Beating/Tissue Lysis
 
-Many samples, and particularly environmental samples, need cellular disruption (https://en.wikipedia.org/wiki/Cell_disruption) before DNA extraction can proceed efficiently. One of the most popular methods is bead beating, which usually requires a benchtop instrument. Luckily, there is a portable, battery-powered method available in the form of the TeraLyzer. This device available, available from Zymo Research, uses a converted power tool to act as a portable bead beater. It’s a solid bit of kit, but costs about $1000. If that’s too rich for you, Russell Neches has developed a template that can be 3D printed to turn a Craftsman automatic hammer into a portable bead beater: http://www.thingiverse.com/thing:18289.
+Many samples, and particularly environmental samples, need homogenisation and <a href="https://en.wikipedia.org/wiki/Cell_disruption">cellular disruption</a> before DNA extraction can proceed efficiently. One of the most popular methods is bead beating, which usually requires a benchtop instrument. Luckily, there is a portable, battery-powered method available in the form of the <a href="https://www.zymoresearch.com/devices-instruments/cell-disruptors/terralyzer">TerraLyzer</a> (we have one). This device available, available from Zymo Research, uses a converted power tool to act as a portable bead beater. It’s a solid bit of kit, but costs about $1000. If that’s too rich for you, Russell Neches has developed a <a href="http://www.thingiverse.com/thing:18289">template that can be 3D printed</a> to turn a Craftsman automatic hammer into a portable bead beater.
 
-Here is a video of Russell using it to extract DNA from cat poo:
+Here is a video of Russell using the TerraLyzer to extract DNA from cat poo:
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/XfBTQl0q-Go" frameborder="0" allowfullscreen></iframe>
 
 
 ## DNA extraction
 
-DNA can be extracted very simply from a variety of foods like bananas or strawberries and is method probably familiar to school children; First fruit is blended to break up the tissues, washing up liquid is then added to breakdown the cell membranes before being straining to remove solids. DNA is then precipitated by adding alcohol and spooled off using a toothpick. More detailed instructions here; http://biology.about.com/od/biologylabhowtos/ht/dnafromabanana.htm
-100% ethanol is a problematic substance to ship (it is banned from aircraft holds), so it is an open research question about whether a lower proof alcohol that is readily available, e.g. vodka, would be an acceptable substitute.
+DNA can be extracted very simply from a variety of foods like bananas or strawberries and is method probably familiar to school children; First fruit is blended to break up the tissues, washing up liquid is then added to breakdown the cell membranes before being straining to remove solids. DNA is then precipitated by adding alcohol and spooled off using a toothpick. More detailed instructions here: <a href="http://biology.about.com/od/biologylabhowtos/ht/dnafromabanana.htm">http://biology.about.com/od/biologylabhowtos/ht/dnafromabanana.htm</a>.
+
+100% ethanol is a problematic substance to ship (it is banned from aircrafts), so it is an open research question about whether a lower proof alcohol that is readily available, e.g. vodka, would be an acceptable substitute. Please fund this important project.
 
 ### Portable devices
 
-Claire Lonsdale brought along an interesting device to Porecamp in Cornwall called the <a href="http://www.claremontbio.com/PureLyse_gDNA_extraction_Kit_24_Preps_p/01.350.24.htm">PureLyse from Claremont Bia</a>. This device combines bead-beating with DNA capture using silica beads which are agitated by a small motor. They have built a small disposable device which combines a syringe and a reusable battery pack. The sample, ideally bacterial culture, is aspirated via the syringe then the motor is turned on for a minute to burst the cells/bind the DNA. Claire presented results at London Calling demonstrating that the DNA extracted is probably suitable for PCR but may be too fragmented for single-molecule sequencing.
+Claire Lonsdale brought along an interesting device to Porecamp in Cornwall called the <a href="http://www.claremontbio.com/PureLyse_gDNA_extraction_Kit_24_Preps_p/01.350.24.htm">PureLyse from Claremont Bio</a>. This device combines bead-beating with DNA capture using silica beads which are agitated by a small motor. They have built a small disposable device which combines a syringe and a reusable battery pack. The sample, ideally bacterial culture, is aspirated via the syringe then the motor is turned on for a minute to burst the cells/bind the DNA. Claire presented results at London Calling demonstrating that the DNA extracted is probably suitable for PCR but may be too fragmented for single-molecule sequencing.
 
 Screenshot from Claire’s London Calling talk, showing rapid extraction on the right compared to a regular spin-column extraction on the left.
 

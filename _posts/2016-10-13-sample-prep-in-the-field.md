@@ -22,7 +22,7 @@ We just received our first R9.4 double-speed (450 b/s) kits and so we will see h
 
 The significance for our work: we can now start to consider using MinION for metagenomic sequencing (previously we have restricted our ambitions to sequencing individual viruses and bacterial cultures due to relatively low outputs).
 
-Ultimately our research group would like to get to culture-free diagnosis of infectious diseases, with full genomic coverage, as a near-patient assay. There have been a few proof of principle papers here including use on <a href="https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-015-0220-9">Ebola and chikungunya</a> (from Charles Chiu) and on <a href="urinary infection (from Justin O'Grady).
+Ultimately our research group would like to get to culture-free diagnosis of infectious diseases, with full genomic coverage, as a near-patient assay. There have been a few proof of principle papers here including use on <a href="https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-015-0220-9">Ebola and chikungunya</a> (from Charles Chiu) and on <a href="http://jac.oxfordjournals.org/content/early/2016/09/22/jac.dkw397.full?keytype=ref&ijkey=R3WEIpCywXsUDnN">bacterial urinary tract infections</a> (from Justin O'Grady).
 
 However, for portable metagenomics sequencing to really become a viable prospect, the sample needs to be rapidly prepared at point of collection (from near the patient, in diagnostics, or from water, food, animals, the natural environment, etc.).
 

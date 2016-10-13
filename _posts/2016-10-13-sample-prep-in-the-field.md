@@ -95,7 +95,7 @@ An alternative is the Bento Lab from Bento Bio. This device caught many peopleâ€
  
 ##Â Portable Liquid Handler
 
-Pipetting is is only accurate at relatively large volumes (>1 ul) which both increases costs and is a major source of errors. The Voltrax is an interesting device that was announced by ONT at London Calling 2015 and has not yet been seen in the wild, although the access programme was recently announced. The basic principle is the movement of ultra low liquid volumes around a matrix through an applied electrical current - a process called electrowetting. The appeal of such a process is that complex pipetting and mixing steps could be automated (apparently via a scriptable Python interface). 
+Pipetting is only accurate at relatively large volumes (>1 ul) which both increases reagent costs and can be a major source of errors with multi-step protocols. The Voltrax is an interesting device that was announced by ONT at London Calling 2015 and has not yet been seen in the wild, although the access programme was recently announced. The basic principle is the movement of ultra low liquid volumes around a matrix through an applied electrical current - a process called electrowetting. The appeal of such a process is that complex pipetting and mixing steps could be automated (apparently via a scriptable Python interface). 
 
 There may well be more that I have not mentioned ... feel free to drop your suggestions in the comments box below!
 

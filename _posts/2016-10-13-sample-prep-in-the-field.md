@@ -103,4 +103,7 @@ There may well be more that I have not mentioned ... feel free to drop your sugg
 
 I have received an honorarium to speak at an Oxford Nanopore meeting, and travel and accommodation to attend London Calling 2015 and 2016. I have ongoing research collaborations with ONT although I am not financially compensated for this and hold no stocks, shares or options. ONT have supplied free-of-charge reagents as part of the MinION Access Programme and also generously supported our infectious disease surveillance projects with reagents. Cambio sent us some free reagents to go with the MiniPCR instrument we purchased.
 
+## Credits
+
+Thanks to Josh Quick for contributing to this post, and to Matt Loose and John Tyson for reading a draft version.
 

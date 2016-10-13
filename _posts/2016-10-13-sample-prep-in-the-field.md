@@ -46,7 +46,7 @@ Just as a reminder, the steps for sample preparation are to a) make the sample s
 
 Microbiome maven Elizabeth Bik has a <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045145/">very nice review</a> of this in a recent article which is focused around microbiome studies but applies equally to other types of study:
 
-<img src="../images/2016-10-13-sample-prep.png" />
+<img src="/images/2016-10-13-sample-prep.png" />
 
 ## Bead Beating/Tissue Lysis
 
@@ -68,7 +68,7 @@ Claire Lonsdale brought along an interesting device to Porecamp in Cornwall call
 
 Screenshot from Claire’s London Calling talk, showing rapid extraction on the right compared to a regular spin-column extraction on the left.
 
-<img href="../images/2016-10-13-purelyse.png">
+<img href="/images/2016-10-13-purelyse.png">
 
 The announced, but not currently available Zumbador from ONT looks to take this syringe concept further, by including reagents for lysis, purification and potentially library preparation in a single pre-loaded cartridge. This looks appealing but the worry for those of us who deal with a lot of DNA extractions from different organisms is which cell lysis solution is likely to be universally applied to all manner of organisms with quite different cell wall compositions - Gram positives and spore forming bacteria are notoriously tough shells to crack, this may need to be combined with the bead beating step above.
 

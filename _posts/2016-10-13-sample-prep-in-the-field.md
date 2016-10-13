@@ -67,9 +67,9 @@ DNA can be extracted very simply from a variety of foods like bananas or strawbe
 
 Claire Lonsdale brought along an interesting device to Porecamp in Cornwall called the <a href="http://www.claremontbio.com/PureLyse_gDNA_extraction_Kit_24_Preps_p/01.350.24.htm">PureLyse from Claremont Bio</a>. This device combines bead-beating with DNA capture using silica beads which are agitated by a small motor. They have built a small disposable device which combines a syringe and a reusable battery pack. The sample, ideally bacterial culture, is aspirated via the syringe then the motor is turned on for a minute to burst the cells/bind the DNA. Claire presented results at London Calling demonstrating that the DNA extracted is probably suitable for PCR but may be too fragmented for single-molecule sequencing.
 
-Screenshot from Claire’s London Calling talk, showing rapid extraction on the right compared to a regular spin-column extraction on the left.
+Screenshot from <a href="https://player.vimeo.com/video/168700563">Claire’s London Calling talk</a>, showing rapid extraction on the right compared to a regular spin-column extraction on the left.
 
-<img href="/images/2016-10-13-purelyse.png">
+<img src="/images/2016-10-13-purelyse.png">
 
 The announced, but not currently available Zumbador from ONT looks to take this syringe concept further, by including reagents for lysis, purification and potentially library preparation in a single pre-loaded cartridge. This looks appealing but the worry for those of us who deal with a lot of DNA extractions from different organisms is which cell lysis solution is likely to be universally applied to all manner of organisms with quite different cell wall compositions - Gram positives and spore forming bacteria are notoriously tough shells to crack, this may need to be combined with the bead beating step above.
 

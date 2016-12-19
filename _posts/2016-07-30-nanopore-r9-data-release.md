@@ -61,8 +61,8 @@ We'll do more analysis on this dataset and hope to write it up as a manuscript i
 
 ## Links
 
-  - <a href="http://s3.climb.ac.uk/nanopore/E_coli_K12_1D_R9.2_SpotON_2.tgz">R9 1D Rapid FAST5 Files (333Gb)</a>
-  - <a href="http://s3.climb.ac.uk/nanopore/E_coli_K12_1D_R9.2_SpotON_2.pass.fasta">R9 1D Rapid FASTA files (1.5Gb)</a>
+  - <a href="https://s3.climb.ac.uk/nanopore/E_coli_K12_1D_R9.2_SpotON_2.tgz">R9 1D Rapid FAST5 Files (333Gb)</a>
+  - <a href="https://s3.climb.ac.uk/nanopore/E_coli_K12_1D_R9.2_SpotON_2.pass.fasta">R9 1D Rapid FASTA files (1.5Gb)</a>
 
 ## E. coli 2D kit data
 
@@ -82,8 +82,8 @@ We've also previously generated 2D data and this is available below.
 
 ## Links
 
-  - <a href="http://s3.climb.ac.uk/nanopore/R9_Ecoli_K12_MG1655_lambda_MinKNOW_0.51.1.62.tar">R9 2D FAST5 files (187.2Gb)</a>
-  - <a href="http://s3.climb.ac.uk/nanopore/R9_Ecoli_K12_MG1655_lambda_MinKNOW_0.51.1.62.all.fasta">R9 2D all FASTA</a>, MD5 ``33cba5312402e14d2eda60296ae99bef``
+  - <a href="https://s3.climb.ac.uk/nanopore/R9_Ecoli_K12_MG1655_lambda_MinKNOW_0.51.1.62.tar">R9 2D FAST5 files (187.2Gb)</a>
+  - <a href="https://s3.climb.ac.uk/nanopore/R9_Ecoli_K12_MG1655_lambda_MinKNOW_0.51.1.62.all.fasta">R9 2D all FASTA</a>, MD5 ``33cba5312402e14d2eda60296ae99bef``
 
 ## ipython notebook
 

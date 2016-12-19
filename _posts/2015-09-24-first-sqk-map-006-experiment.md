@@ -63,10 +63,10 @@ The raw files are available via the [ENA FTP site](ftp://ftp.era.ebi.ac.uk/vol1/
 
 Run                | Basecalled data | 2D pass FASTA
 -------------------|-----------------|----------------
-MAP-006-1          |  [Basecalled](http://www.ebi.ac.uk/ena/data/view/ERR1147227) | [Pass FASTA](http://nanopore.s3.climb.ac.uk/MAP006-1_2D_pass.fasta)
-MAP-006-2  | [Basecalled and raw](http://www.ebi.ac.uk/ena/data/view/ERR1147228) | [Pass FASTA](http://nanopore.s3.climb.ac.uk/MAP006-2_2D_pass.fasta)
-MAP-006-PCR-1  |  [Basecalled](http://www.ebi.ac.uk/ena/data/view/ERR1147229)  | [Pass FASTA](http://nanopore.s3.climb.ac.uk/MAP006-PCR-1_2D_pass.fasta)
-MAP006-PCR-2 | [Basecalled and raw](http://www.ebi.ac.uk/ena/data/view/ERR1147230) | [Pass FASTA](http://nanopore.s3.climb.ac.uk/MAP006-PCR-2_2D_pass.fasta)
+MAP-006-1          |  [Basecalled](http://www.ebi.ac.uk/ena/data/view/ERR1147227) | [Pass FASTA](https://nanopore.s3.climb.ac.uk/MAP006-1_2D_pass.fasta)
+MAP-006-2  | [Basecalled and raw](http://www.ebi.ac.uk/ena/data/view/ERR1147228) | [Pass FASTA](https://nanopore.s3.climb.ac.uk/MAP006-2_2D_pass.fasta)
+MAP-006-PCR-1  |  [Basecalled](http://www.ebi.ac.uk/ena/data/view/ERR1147229)  | [Pass FASTA](https://nanopore.s3.climb.ac.uk/MAP006-PCR-1_2D_pass.fasta)
+MAP006-PCR-2 | [Basecalled and raw](http://www.ebi.ac.uk/ena/data/view/ERR1147230) | [Pass FASTA](https://nanopore.s3.climb.ac.uk/MAP006-PCR-2_2D_pass.fasta)
 
 
 

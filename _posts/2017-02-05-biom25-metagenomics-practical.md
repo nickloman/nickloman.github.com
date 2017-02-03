@@ -13,9 +13,11 @@ bowel disease to characterise their microbiomes:
 
 <https://www.ebi.ac.uk/metagenomics/projects/ERP000108>
 
-Q: Take 5 samples at random and look at it's taxonomic distribution. Tabulate the top 3 phyla present and their relative abundances.
+Have a read of how the study was designed:
 
-How do the German samples compare to the “healthy” population?
+<http://www.nature.com/nature/journal/v464/n7285/full/nature08821.html>
+
+Q: Take 10 samples at random and look at their taxonomic distribution. Tabulate the top 3 phyla present and their relative abundances.
 
 ## E. coli outbreak
 
@@ -33,17 +35,17 @@ The data website:
 
 Q. Pick some samples at random. For example sample, look at the taxonomic distributions.
 
-Q. Do any samples look abnormal, compared to the normal microbiome?
+Q. Do any samples look abnormal, compared to the 'normal' microbiome?
 
 Q. Are any toxins present? Which ones? What is the significance of this toxin and how might it cause disease?
 
 ## Antibiotic resistance
 
-Here is a report from one of the outbreak metagenomes:
+Here is a report from one of the outbreak metagenomes using a different analysis pipeline:
 
 <https://app.onecodex.com/analysis/public/94b2f5f421a841be>
 
-Q. What antibiotic resistance genes are present?
+Q. What antibiotic resistance genes are present? (Hint: check the AMR report)
 
 Q. What antibiotics might the outbreak strain be resistant to?
 

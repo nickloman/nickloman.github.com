@@ -6,6 +6,10 @@ category:
 tags: []
 ---
 
+Scratchpad for session:
+
+<https://docs.google.com/document/d/1DY8efRRM2MO7N2DuFTKN-QEmwOm9JuZF_UZKAFme9RU/edit?usp=sharing>
+
 ## Normal human microbiome
 
 The MetaHIT project studied healthy volunteers, as well as people with diabetes and inflammatory

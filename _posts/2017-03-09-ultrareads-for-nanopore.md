@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thar she blows! Ultra long read method for nanpore sequencing"
+title: "Thar she blows! Ultra long read method for nanopore sequencing"
 description: ""
 category: 
 tags: []

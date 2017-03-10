@@ -161,7 +161,7 @@ Hosting courtesy of <A href="http://www.climb.ac.uk">CLIMB</a>:
 
    - <a href="http://s3.climb.ac.uk/nanopore/ecoli_allreads.m5">GraphMap alignment</a>
    - <a href="http://s3.climb.ac.uk/nanopore/ecoli_allreads.fasta">Basecalls (5Gb)</a>
-   - <a href="http://s3.climb.ac.uk/nanopore/">FAST5 files (500Gb)</a>
+   - <a href="http://s3.climb.ac.uk/nanopore/Ecoli_MinKNOW_1.4_RAD002_Sambrook.tar">FAST5 files (500Gb)</a>
    - <a href="http://s3.climb.ac.uk/nanopore/ecoliall.db">Poredb database</a> (<a href="http://github.com/nickloman/poredb">Poredb</a> for details on Poredb)
 
 ## Acknowledgements

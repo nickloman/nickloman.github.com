@@ -170,7 +170,7 @@ The nanopore squad, John Tyson and Matt Loose provided much helpful advice and i
 
 Thanks to ONT for technical support with particular thanks to Clive Brown, Chris Wright, David Stoddart and Graham Hall for advice and information.
 
-## Conflict of interests
+## Conflicts of interest
 
 I have received an honorarium to speak at an Oxford Nanopore meeting, and travel and accommodation to attend London Calling 2015 and 2016. I have ongoing research collaborations with ONT although I am not financially compensated for this and hold no stocks, shares or options. ONT have supplied free-of-charge reagents as part of the MinION Access Programme and also generously supported our infectious disease surveillance projects with reagents. 
 

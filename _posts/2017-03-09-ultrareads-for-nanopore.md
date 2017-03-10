@@ -20,7 +20,9 @@ What if you could sequence _E. coli_ in just one read? This was the challenge I 
 
 Well actually: we’re not quite there yet, but we did manage to sequence 1/6th of the whole genome in a single read last week. Here’s how we (well, he) did it. As usual we like to release our protocols openly and early to encourage the community to test and improve them. Please let us know about any tweaks you find helpful! The community seems very excited by this judging by my Twitter feed and email inbox, so we have rush released the protocol. The tweets have also inspired commentaries by <a href="http://omicsomics.blogspot.co.uk/2017/03/minion-leviathan-reads-update.html">Keith Robison and <a href="http://enseqlopedia.com/2017/03/really-long-reads-nanopore-minion/">James Hadfield</a>, thanks guys!
 
-First … a bit of background and the importance of working with moles not mass. This line of thinking was triggered during the Zika project when we noticed our yields when sequencing amplicons was never as good as with genomic DNA. Why was that? 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Not bad .. 92% genome coverage of E. coli, average depth of 3.8x. But from just _43_ reads. <a href="https://t.co/vDqaEJblP9">https://t.co/vDqaEJblP9</a> (gt350kb.fasta) <a href="https://t.co/x66o0lXayz">pic.twitter.com/x66o0lXayz</a></p>&mdash; Nick Loman (@pathogenomenick) <a href="https://twitter.com/pathogenomenick/status/837414765609824256">March 2, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+First … a bit of background and the importance of working with moles not mass. This line of thinking was triggered during the <a href="http://zibraproject.org">Zika sequencing project</a> when we noticed our yields when sequencing amplicons was never as good as with genomic DNA. Why was that? 
 
 We decided a possible reason is that nanopore sequencing protocols are usually expressed in terms of starting mass (typically 1 microgram for the ligation protocols). But of course 1 microgram of 300 bp fragments is a lot more (>25x more) DNA fragments compared to 1 microgram of 8000 base fragments. By not factoring this in the library prep, likely we were not making an efficient library because the protocol has not been scaled up 25 times to account for this difference. It stands to reason that it’s the molarity that’s important when loading the flowcell rather than the total volume of DNA. If you could load some imaginary molecule of DNA with mass 1000ng (bear with me), the chances of that interacting with the pore is still quite low. More molecules means more potential interactions with the pore, meaning more potential yield. 
 
@@ -31,9 +33,10 @@ That solves the short read problem, but we started thinking about how it would w
 The math here is simple; you just need to scale the starting DNA by 500x. But this would mean starting with ~500ug of DNA into the library preparation!
 
 500ug of DNA is… quite a lot. And practically there are several problems with this idea:
-you would need a lot of cells to start with (perhaps not such a problem with bacterial cultures but certainly restrictive for some applications)
-what volume do you elute in? DNA starts to get viscous and thick as concentrations increase, at some point you just won’t be able to pipette any more
-how do you deposit that much DNA into the flow cell?
+
+  - you would need a lot of cells to start with (perhaps not such a problem with bacterial cultures but certainly restrictive for some applications)
+  - what volume do you elute in? DNA starts to get viscous and thick as concentrations increase, at some point you just won’t be able to pipette any more
+  - how do you deposit that much DNA into the flow cell?
 
 So - we slightly scaled down our ambitions and decided that it could be practical to scale up the protocol 10-fold, which could still result in average 80 kb reads, a significant improvement to the 8kb typically seen with the standard protocol.
 
@@ -49,9 +52,10 @@ We ran E. coli K-12 MG1655 on a standard FLO-MIN106 (R9.4) flowcell.
 
 ## E. coli stats
 
-	Total bases: 5069967141 (5Gb)
-	N50: 63878
-	Mean: 33334.65
+	Total bases: 5,014,576,373 (5Gb)
+        Number of reads: 150,604
+	N50:  63,747
+	Mean: 33,296.44
 
 ## Read length stats
 
@@ -63,12 +67,23 @@ Ewan Birney suggested this would be more interpretable as a log10 scale, and by 
 
 ## Alignment stats
 
+Wow! The longest 10 reads in this dataset are:
+
+```1113805  916705  790987  778219  771232  671130  646480  629747  614903  603565```
+
+!!!
+
+But hold your horses. As Keith Robison likes to say, and Mark Akeson as well, it's not a
+read unless it maps to a reference. Or as Sir Lord Alan Sugar might say,
+"squiggles are for vanity, basecalls are sanity, but alignments are reality".
+
 Are these reads actually real, then?
 
-Just judging by the distribution it's clear that this is not spurious channel noise, as you can see
-with occasional long reads.
+Just judging by the distribution it's clear that this is not all spurious channel noise. 
 
-But to check, let's align all the reads...
+Let's align all the reads...
+
+## Alignment issues
 
 This dataset poses a few challenges for aligners. BWA-MEM works, but is incredibly slow. It goes much
 faster if you split the read into 50kb chunks (e.g. with split.py) but this is a bit annoying.
@@ -80,21 +95,29 @@ these reads would cross the origin of replication at position 0.
 Another problem! The SAM format will not convert to BAM successfully, so I've output using the
 BLAST -m5 format for ease of parsing. The SAM/BAM developers are working on this (CRAM is fine).
 
+After a solid couple of days of alignment, here are the results:
+
 <img src="/images/2017-03-10-alignment-lengths.png" title="Alignment lengths">
 
 So we lose a few of the really long reads here which are obviously noise (the 1Mb reads
-is just repetitive sequence and probably represents something stuck in a pore), but otherwise
-there is an excellent correlation between the reads and alignments.
+is just repetitive sequence and probably represents something stuck in a pore and the 900Kb
+read is not a full-length alignment), but otherwise there is an excellent correlation
+between the reads and alignments.
+
+So, the longest alignments in the dataset are:
+
+```778217 771227 671129 646399 603564 559415 553029 494330 487836 470664```
 
 95.47% of the bases in the dataset map to the reference, and the mean alignment length is
 slightly higher at 34.7kb.
 
 A few other notable things:
 
-   * There's a 750kb read that is actually two reads - the template and complement strand
-     from the same molecule, separated by an open pore signal.
-     This seems to be how 1D^2 will work. Calling the two reads together (thanks, Chris
-     Wright) gives a 95% accuracy read.
+   * The 790kb read that didn't align full-length is interesting. On inspection it is
+     actually two reads - the template and complement strand of the same starting molecule,
+     separated by an open pore signal. This gives us a clue as to how the proposed 1D^2
+     technology (which is replacing 2D reads) could work.
+     Calling the two reads together (thanks, Chris Wright) gives a 95% accuracy read!
    * We've started using the Albacore basecaller for this, rather than uploading to Metrichor.
      Albacore seems to keep up with basecalling a live-run when using 60 cores.
 
@@ -111,7 +134,8 @@ So we would like to claim at least four world records here!
      post
 
 An interesting exercise for the reader is to figure out the minimum number of reads that can
-be taken from this dataset to produce a contiguous E. coli assembly!
+be taken from this dataset to produce a contiguous E. coli assembly! My first attempt found
+a set of 43 reads which covers 92% of the genome, but you can do better!
 
 Where now? Well, readers will notice that a real landmark is in sight - the first megabase
 read. We've been running this protocol for a bit over a week and a new hobby is 'whale
@@ -135,16 +159,16 @@ The general consensus is that we will need to employ solid-phase DNA extractions
 
 Hosting courtesy of <A href="http://www.climb.ac.uk">CLIMB</a>:
 
-   - <a href="http://s3.climb.ac.uk/nanopore/">Alignment</a>
+   - <a href="http://s3.climb.ac.uk/nanopore/ecoli_allreads.m5">GraphMap alignment</a>
    - <a href="http://s3.climb.ac.uk/nanopore/ecoli_allreads.fasta">Basecalls (5Gb)</a>
    - <a href="http://s3.climb.ac.uk/nanopore/">FAST5 files (500Gb)</a>
-   - <a href="http://s3.climb.ac.uk/nanopore/ecoli.db">Poredb database</a> (<a href="http://github.com/nickloman/poredb">Poredb</a>)
+   - <a href="http://s3.climb.ac.uk/nanopore/ecoliall.db">Poredb database</a> (<a href="http://github.com/nickloman/poredb">Poredb</a> for details on Poredb)
 
 ## Acknowledgements
 
-John Tyson and Matt Loose provided much helpful advice and input during the development of this protocol.
+The nanopore squad, John Tyson and Matt Loose provided much helpful advice and input during the development of this protocol. Matt Loose came up with the whale naming scheme.
 
-Thanks also to ONT for technical support with particular thanks to Clive Brown, Chris Wright, David Stoddart and Graham Hall for advice and information.
+Thanks to ONT for technical support with particular thanks to Clive Brown, Chris Wright, David Stoddart and Graham Hall for advice and information.
 
 ## Conflict of interests
 

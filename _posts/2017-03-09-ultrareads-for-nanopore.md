@@ -108,6 +108,8 @@ So, the longest alignments in the dataset are:
 
 ```778217 771227 671129 646399 603564 559415 553029 494330 487836 470664```
 
+That's theoretical 1x coverage of the 4.6Mb chromosome of _E. coli_ in just the 7 longest reads !!
+
 95.47% of the bases in the dataset map to the reference, and the mean alignment length is
 slightly higher at 34.7kb.
 

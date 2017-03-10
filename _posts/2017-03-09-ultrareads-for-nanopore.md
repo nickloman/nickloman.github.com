@@ -148,8 +148,7 @@ has the answer.
 
 <img src="/images/2017-03-10-whales.png" />
 
-So in that case, we've hit our first narwhal (an 882kb read which translates to a 950kb
-fragment judged against the reference).
+So in that case, we've in the past few days hit our first narwhal (an 882kb read from a different run, which translates to a 950kb fragment judged against the reference).
 
 How can we go longer? Well it might be possible to increase the DNA input some more, but
 we start hitting issues with the viscosity which may start to prevent pipetting onto the flowcell.

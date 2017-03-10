@@ -152,7 +152,7 @@ So in that case, we've in the past few days hit our first narwhal (an 882kb read
 
 How can we go longer? Well it might be possible to increase the DNA input some more, but
 we start hitting issues with the viscosity which may start to prevent pipetting onto the flowcell.
-Also pipette shearing forces are presumably an issue at these concentratiosn.
+Also pipette shearing forces are presumably an issue at these concentrations.
 
 The general consensus is that we will need to employ solid-phase DNA extractions and library construction, e.g. in agarose plugs. The SageHLS instrument also looks quite interesting.
 

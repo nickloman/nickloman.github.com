@@ -12,12 +12,9 @@ tags: []
 
 Institute of Microbiology and Infection, School of Biosciences, University of Birmingham, B15 2TT
 
-### Note
-
 This is the author proof of a chapter for the upcoming textbook edited by Dave Deamer and Daniel Branton entitled: **Nanopore Sequencing: An Introduction** published by World Scientific. We are grateful to have been permitted to retain the copyright for our chapter and it is reproduced in full. Please consider requesting an inspection copy and [purchasing the book](https://www.worldscientific.com/worldscibooks/10.1142/10995]) for your course! 
 
 ### Table of Contents
-
 
 [DNA extraction strategies for nanopore sequencing
 1](#__RefHeading___Toc505877551)
@@ -447,7 +444,7 @@ solution is to begin with high integrity DNA, then shearing down to the
 desired size, resulting in a tight fragment distribution with very few
 short fragments.
 
-### Absorbance ratios {#absorbance-ratios .western lang="en-US" style="line-height: 200%"}
+### Absorbance ratios
 
 Another important metric for DNA quality assessment is the absorbance
 measured by a spectrophotometer such as the NanoDrop. This instrument

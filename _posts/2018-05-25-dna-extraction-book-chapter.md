@@ -145,7 +145,7 @@ or spin columns. An understanding of the biological question at hand,
 and the limitations of the sample type available are therefore key to
 designing a good sequencing experiment.
 
-![Figure 1](../images/2018-05-25-figure1.png)
+![Figure 1](/images/2018-05-25-figure1.png)
 
 **Figure 1.** Showing the approximate average size of DNA fragments
 isolated by different methods discussed in this chapter.
@@ -242,7 +242,7 @@ used in many commercial high throughput robot platforms.
 Manual techniques
 ----------------------
 
-![Figure 2](../images/2018-05-25-figure2.png)
+![Figure 2](/images/2018-05-25-figure2.png)
 
 **Figure 2.** Figure showing the order of steps required for DNA
 extraction with optional sample pre-processing and fragmentation.
@@ -361,7 +361,7 @@ In both cases the DNA needs to be thoroughly washed in 70% ethanol to
 remove residual salts before being resuspended in a low ionic
 concentration buffer ideally at pH at 8.0 (see storage of HMW DNA).
 
-![Figure 3](../images/2018-05-25-figure3.png)
+![Figure 3](/images/2018-05-25-figure3.png)
 
 **Figure 3.** DNA prepared using the phenol-chloroform method being
 hooked out of the using a glass rod.
@@ -412,7 +412,7 @@ may be pragmatic to consider another approach. The approximate number of
 cells required to generate ultra-long reads (15 g in our hands) are
 given below (for phenol-chloroform extractions).
 
-![Figure 1](../images/2018-05-25-table1.png)
+![Table 1](/images/2018-05-25-table1.png)
 
 
 Table 1. Input requirements based on requiring minimum 15 g DNA for
@@ -477,7 +477,7 @@ DNA in Figure 3, which has higher ratios than expected for pure DNA.
 Nanodrop is mainly useful for DNA purity assessment but less so for
 quantification as absorbance is less accurate than fluorometry.
 
-![Figure 1](../images/2018-05-25-figure4.png)
+![Figure 4](/images/2018-05-25-figure4.png)
 
 **Figure 4.** Absorbance spectra between 220 and 350 nm as measured by
 the NanoDrop instrument. This was the DNA sample used to generate the

@@ -23,5 +23,6 @@ Some notes for posterity from a recent conversation I was having on Twitter:
 11. Check the VCF makes sense before doing that- if SupportFractions are low (e.g. <80-90%) then suggestive of something going wrong (contaminated sample, error to nano polishinput, primer-binding sites not catered for etc.)
 12. I tend to filter out any indels in homopolymers although these will get a low likelihood score anyway most likely.
 13. All this (and more!) is implemented in the ARTIC pipeline, refer to: http://artic.network/ebov/ebov-it-setup.html and http://artic.network/ebov/ebov-bioinformatics-sop.html for more details.
+14. Oh finally - much heartache during analysis is saved by including a negative (water) control all the way through to assigning a barcode, and a positive control of known sequence.
 
 

@@ -12,7 +12,7 @@ tags: []
 
 Institute of Microbiology and Infection, School of Biosciences, University of Birmingham, B15 2TT
 
-This is the author proof of a chapter for the upcoming textbook edited by Dave Deamer and Daniel Branton entitled: **Nanopore Sequencing: An Introduction** published by World Scientific. We are grateful to have been permitted to retain the copyright for our chapter and it is reproduced in full. Please consider requesting an inspection copy and [purchasing the book](https://www.worldscientific.com/worldscibooks/10.1142/10995]) for your course! 
+This is the author proof of a chapter for the upcoming textbook edited by Dave Deamer and Daniel Branton entitled: **Nanopore Sequencing: An Introduction** published by World Scientific. We are grateful to have been permitted to retain the copyright for our chapter and it is reproduced in full. Please consider requesting an inspection copy and [purchasing the book](https://www.worldscientific.com/worldscibooks/10.1142/10995) for your course! 
 
 ### Table of Contents
 

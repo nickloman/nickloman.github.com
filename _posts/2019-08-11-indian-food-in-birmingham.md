@@ -6,11 +6,11 @@ category:
 tags: []
 ---
 
-## Indian
+## Indian
 
 Indian food in Birmingham is some of the best in the UK - but that’s not to say every Indian restaurant is good, in fact far from it. The selection can be broadly divided into three categories: cheap eats (less than a tenner/head), mid-range (10-30/head) and high end (more than 30/head):
 
-### Cheap eats
+### Cheap eats
 
 Convenient for the University is Vaibhavam South Indian, under new management from when it was called Dosa Mania (and also good). Specialising in South Indian cuisine the masala dosa is always a good and cheap option for a filling lunch. If going for dinner, throw in some curries such as the chettinad style dishes. Even closer to the University is Amaa Dosa, rather unpreprocessingly located at the back of the old Costcutter supermarket on the Bristol Road. Service is pretty patchy but the curries are tasty (can also Deliveroo).
 

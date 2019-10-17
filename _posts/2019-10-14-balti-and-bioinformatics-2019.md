@@ -18,10 +18,16 @@ Location: Room WG12, Biosciences Building, University of Birmingham
 (From University Station, turn left, walk down hill, Biosciences is 3 minutes walk and on your
 left. Walk in and follow the signs, we are on the ground floor).
 
-## Agenda
+## Current lineup
 
-tbc
+| title | speaker |
+|-------|---------|
+|Optical Mapping - A tool for looking at large scale SV’s|Joe Butler|
+|Machine learning approaches to identifying antibiotic resistance from bacterial WGS data|Nicole Wheeler|
+|Building better infrastructure for a brave new world|Nabil Alikhan|
+|Pandora - lifting the lid on nucleotide level pangenome variation|Rachel Colquhoun|
+|Coinfinder: A new tool for the identification of associating and dissociating genes in pangenomes|Fiona Whelan|
 
-Sign-up form is [here](https://forms.gle/kz6DMVKouijKRP7XA)
+Timetable is TBC.
 
-
+If you'd like to give a talk, or just want to attend, please use the sign-up form [here](https://forms.gle/kz6DMVKouijKRP7XA)

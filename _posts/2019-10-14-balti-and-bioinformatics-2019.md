@@ -10,13 +10,13 @@ Balti and Bioinformatics returns .......
 
 University of Birmingham
 
-9am - 5pm, 14th November 2019
+12pm - 5pm, 14th November 2019
 
 Balti @ 6pm
 
 ## How to get here
 
-Location: Room WG12, Biosciences Building, University of Birmingham
+Location: Room WG12, Aston Webb Building, University of Birmingham
 
 (From University Station, turn left, walk down hill and follow signs for lapworth museum. We'll have signage from there.
 

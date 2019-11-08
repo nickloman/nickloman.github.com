@@ -6,30 +6,4 @@ category: balti
 tags: []
 ---
 
-Balti and Bioinformatics returns .......
-
-University of Birmingham
-
-12pm - 5pm, 14th November 2019
-
-Balti @ 6pm
-
-## How to get here
-
-Location: Room WG12, Aston Webb Building, University of Birmingham
-
-(From University Station, turn left, walk down hill and follow signs for lapworth museum. We'll have signage from there.
-
-## Current lineup
-
-| title | speaker |
-|-------|---------|
-|Optical Mapping - A tool for looking at large scale SV’s|Joe Butler|
-|Machine learning approaches to identifying antibiotic resistance from bacterial WGS data|Nicole Wheeler|
-|Building better infrastructure for a brave new world|Nabil Alikhan|
-|Pandora - lifting the lid on nucleotide level pangenome variation|Rachel Colquhoun|
-|Coinfinder: A new tool for the identification of associating and dissociating genes in pangenomes|Fiona Whelan|
-
-Timetable is TBC.
-
-If you'd like to give a talk, or just want to attend, please use the sign-up form [here](https://forms.gle/kz6DMVKouijKRP7XA)
+![img](https://github.com/nickloman/nickloman.github.com/raw/master/images/2019-11-14-balti-and-bioinformatics.png)

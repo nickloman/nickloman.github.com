@@ -31,3 +31,7 @@ gems:
  - jekyll-gist
  - jekyll-paginate
  - jekyll-redirect-from
+
+plugins:
+ - jekyll-gist
+ - jekyll-paginate

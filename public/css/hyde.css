@@ -247,3 +247,59 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Captioned images converted from WordPress [caption] shortcodes */
+.wp-caption {
+  margin: 0 0 1rem;
+  max-width: 100%;
+}
+.wp-caption.aligncenter {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.wp-caption img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: .25rem;
+}
+.wp-caption figcaption {
+  font-size: .85rem;
+  font-style: italic;
+  color: #9a9a9a;
+}
+.wp-caption.alignright {
+  float: right;
+  margin-left: 1rem;
+}
+.wp-caption.alignleft {
+  float: left;
+  margin-right: 1rem;
+}
+
+/* Galleries converted from WordPress [gallery] shortcodes */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: .5rem;
+  margin: 0 0 1rem;
+}
+.gallery-columns-1 { grid-template-columns: 1fr; }
+.gallery-columns-2 { grid-template-columns: repeat(2, 1fr); }
+.gallery-columns-4 { grid-template-columns: repeat(4, 1fr); }
+.gallery-item { margin: 0; }
+.gallery-item img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0;
+}
+.gallery:not(.gallery-columns-1) .gallery-item img {
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+.gallery-item figcaption {
+  font-size: .85rem;
+  font-style: italic;
+  color: #9a9a9a;
+}

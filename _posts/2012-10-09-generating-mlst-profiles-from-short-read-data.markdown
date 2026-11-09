@@ -91,7 +91,10 @@ comments:
   content: "Looks like the great Torsten Seemann has got one as well:\r\n\r\nhttps://github.com/Victorian-Bioinformatics-Consortium/mlst"
 ---
 <p>There are now several available options if you want to call MLST profiles from whole-genome data.</p>
-<p>[caption id="attachment_1366" align="alignright" width="300" caption="Result from the DTU MLST web server"]<a href="http://pathogenomics.bham.ac.uk/blog/wp-content/uploads/st678.png"><img class="size-medium wp-image-1366" title="st678" src="http://pathogenomics.bham.ac.uk/blog/wp-content/uploads/st678-300x173.png" alt="" width="300" height="173" /></a>[/caption]</p>
+<figure class="wp-caption alignright">
+<a href="http://pathogenomics.bham.ac.uk/blog/wp-content/uploads/st678.png"><img class="size-medium wp-image-1366" title="st678" src="http://pathogenomics.bham.ac.uk/blog/wp-content/uploads/st678-300x173.png" alt="" width="300" height="173" /></a>
+<figcaption>Result from the DTU MLST web server</figcaption>
+</figure>
 <p><strong>DTU MLST Server</strong></p>
 <p>The <a href="http://cge.cbs.dtu.dk/services/MLST/">web server</a> at the Center for Genomic Epidemiology at the Danish Technical University is probably the easiest option, with the advantage that it will accept both raw read files and assemblies. It worked well when I tried it, however it was quite slow to return results and if you are uploading large read datasets it will take some time, particularly if you are analysing a large number of samples. It also does not have all of the MLST database listed (I wanted to use <em>C. albicans</em>).</p>
 <p><strong>BIGSdb</strong></p>

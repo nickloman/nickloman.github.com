@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Saving a process running in the foreground
+author:
+  display_name: nick
+  login: nick
+  email: nick@loman.net
+  url: ''
+author_login: nick
+author_email: nick@loman.net
+wordpress_id: 421
+wordpress_url: http://nickloman.wordpress.com/2010/02/03/saving-a-process-running-in-the-foreground/
+date: '2010-02-03 15:29:47 +0100'
+date_gmt: '2010-02-03 15:29:47 +0100'
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p>Did you start a script running in a bash shell and then need to pack your laptop up in a hurry? Did you commit the dual crimes of forgetting to background your task and to <font face="courier new">nohup</font>? Tsk, you are a bad man. Like you, I had previously consigned such tasks to the dustbin, resigned to the fact they were <em>unsalvagable</em>.</p>
+<p>But wait, bash comes to the rescue. You can retroactively nohup your tasks even if they are running in the foreground! Who knew?</p>
+<p>1) Get your shell back with <font face="courier new">CTRL-Z</font>. This puts the process into pause mode.</p>
+<p>2) Find the job ID using <font face="courier new">jobs &ndash;l</font> and reactivate the process with <font face="courier new">bg <job number></font></p>
+<p>3) Finally, use the bash function disown to prevent SIGHUP signals taking down your process when your shell quits, i.e. <font face="courier new">disown &ndash;h <PID></font></p>
+<p>Voila! You can now undock your laptop and meet your hot date without losing your work progress!</p>

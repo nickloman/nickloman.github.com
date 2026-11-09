@@ -1,0 +1,50 @@
+---
+layout: post
+status: publish
+published: true
+title: Recovering Wubi disk images
+author:
+  display_name: nick
+  login: nick
+  email: nick@loman.net
+  url: ''
+author_login: nick
+author_email: nick@loman.net
+wordpress_id: 373
+wordpress_url: http://nickloman.wordpress.com/?p=373
+date: '2009-10-21 10:55:56 +0200'
+date_gmt: '2009-10-21 10:55:56 +0200'
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p>I previously waxed lyrical about <a href="http://wubi-installer.org/">Wubi</a> as a nice way of getting <a href="http://www.ubuntu.org/">Ubuntu</a> on your Windows laptop without having to repartition your hard drive. It achieves this task by storing the partition as a disk image on your NTFS partition. However, I have recently discovered a major drawback of this approach. On the return leg of my journey, my laptop NTFS partition slowly started to die. Windows wouldn't boot but the Linux partition was OK. However a few days later, I couldn't boot Linux either. I am not sure yet if it is a hard drive problem or a file system problem but things were getting desperate as I had all my trip photos and videos on this disk!<br />
+Foolishly I ran CHKDSK in /R mode which decided to delete my root.disk index entry. Doh! I tried the various NTFS recovery utilities but to no avail. There are so many worthless (or expensive) file system recovery problems for Windows, I thought I might have better luck with a Linux utility.</p>
+<p>In steps the excellent <a href="http://www.student.dtu.dk/~s042078/magicrescue/">magicrescue</a>. This utility can recover files based on a signature in the file header, similar to the way the Linux utility file works. However, to get it working you need to build a recipe which will identify Linux file system images. After a bit of hacking and with reference to /usr/share/misc/magic I constructed this one, which seemed to work:<br />
+<code><br />
+1080 char x53<br />
+1081 char xef<br />
+1100 char x01<br />
+1124 char x03<br />
+command ./writenbytes.py 42949672960 $1<br />
+</code></p>
+<p>The accompanying Python script simply extracts N bytes from stdin and writes it to a file.<br />
+<code><br />
+#!/usr/bin/python<br />
+import sys<br />
+import os<br />
+max = int(sys.argv[1])<br />
+fh = open(sys.argv[2], "w")<br />
+n = 0<br />
+while 1:<br />
+&nbsp;if n == max:<br />
+&nbsp;&nbsp;break<br />
+&nbsp;data = sys.stdin.read(1024)<br />
+&nbsp;n += len(data)<br />
+&nbsp;if not data:<br />
+&nbsp;&nbsp;break<br />
+&nbsp;fh.write(data)<br />
+fh.close()<br />
+</code></p>
+<p>I found that this recipe extracted 4 potential files from the corrupt file system, of which one of them was my root.disk partition. Magicrescue has no way of identifying the end of a file, so I decided that I would extract to a file somewhat larger than the partition size (about 30Gb). After that has completed you can fix the partition by using e2fsck -f root.disk and then resize2fs. Job done!</p>

@@ -32,7 +32,10 @@ comments:
     folk at the University of Exeter. Come for an informal discussion of the [...]'
 ---
 <p>The Balti and Bioinformatics juggernaut rolls on, and this September we are going on our summer holidays, <strong>to Exeter</strong>! So, the next Balti and Bioinformatics is being rebranded as <strong>Cream Teas and Bioinformatics! </strong></p>
-<p>[caption id="attachment_1731" align="alignright" width="300"]<a href="http://pathogenomics.bham.ac.uk/blog/wp-content/uploads/creamtea.jpeg"><img class="size-medium wp-image-1731" title="creamtea" src="http://pathogenomics.bham.ac.uk/blog/wp-content/uploads/creamtea-300x224.jpeg" alt="" width="300" height="224" /></a> Cream Tea done the correct Devonshire way, with jam on top![/caption]</p>
+<figure class="wp-caption alignright">
+<a href="http://pathogenomics.bham.ac.uk/blog/wp-content/uploads/creamtea.jpeg"><img class="size-medium wp-image-1731" title="creamtea" src="http://pathogenomics.bham.ac.uk/blog/wp-content/uploads/creamtea-300x224.jpeg" alt="" width="300" height="224" /></a>
+<figcaption>Cream Tea done the correct Devonshire way, with jam on top!</figcaption>
+</figure>
 <p>We have the excellent <a href="http://biosciences.exeter.ac.uk/staff/index.php?web_id=konrad_paszkiewicz">Konrad Paszkiewicz</a>, Thomas Laver and James Harrison to thank for hosting the next meeting in this (loosely) <a href="http://pathogenomics.bham.ac.uk/blog/tag/balti-and-bioinformatics/">themed series</a>.</p>
 <p>The meeting will be on the afternoon of <strong>Thursday, September 5th</strong>, after the <a href="http://www.nottingham.ac.uk/deepseq/events.aspx">UK Genome Sciences</a> meeting in Nottingham which I also urge you to attend!</p>
 <p>Registration is free <a href="https://docs.google.com/forms/d/1bPmI0wKqmuXwwzmrrq5A3MTgaDLbKIMn9ueVgjxdRoM/viewform">at this link</a>!<span style="font-size: 13px;"> </span></p>

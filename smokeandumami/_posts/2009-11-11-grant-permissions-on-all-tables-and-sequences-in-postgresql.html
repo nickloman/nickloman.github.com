@@ -1,0 +1,50 @@
+---
+layout: post
+status: publish
+published: true
+title: Grant permissions on all tables and sequences in Postgresql
+author:
+  display_name: nick
+  login: nick
+  email: nick@loman.net
+  url: ''
+author_login: nick
+author_email: nick@loman.net
+wordpress_id: 389
+wordpress_url: http://nickloman.wordpress.com/?p=389
+date: '2009-11-11 10:16:49 +0100'
+date_gmt: '2009-11-11 10:16:49 +0100'
+categories:
+- Uncategorized
+tags: []
+comments:
+- id: 237
+  author: akash
+  author_email: akash94thakur@gmail.com
+  author_url: http://thinkingmonster.wordpress.com
+  date: '2012-10-04 09:24:42 +0200'
+  date_gmt: '2012-10-04 09:24:42 +0200'
+  content: how is this script working can you please explain its working
+- id: 238
+  author: Antixrict
+  author_email: antixrict@gmail.com
+  author_url: ''
+  date: '2013-02-05 10:33:06 +0100'
+  date_gmt: '2013-02-05 10:33:06 +0100'
+  content: Thank you! Script working on my servers.
+---
+<p><a href="http://www.postgresql.org/">Postgresql</a> doesn't make it very easy to grant permissions on all tables and sequences to a particular user, so here's a little script I've hacked up to help.<br />
+<code>#!/bin/bash<br />
+DBNAME=$1<br />
+SCHEMA=$2<br />
+USER=$3<br />
+for table in `echo "SELECT relname FROM pg_stat_all_tables WHERE schemaname='$SCHEMA';" | psql $DBNAME | grep -v "pg_" | grep "^ "`;<br />
+do<br />
+echo "GRANT SELECT,UPDATE,DELETE,INSERT ON TABLE $SCHEMA.$table to $USER;"<br />
+done<br />
+for grant in `echo "select n.nspname||'.'||c.relname from pg_class c, pg_namespace n where n.oid = c.relnamespace and c.relkind in ('S') and n.nspname in ('$SCHEMA');" | psql $DBNAME | grep "^ $SCHEMA"`;<br />
+do<br />
+echo "GRANT ALL ON $grant TO $USER";<br />
+done<br />
+</code></p>
+<p>Run, e.g. grant.sh    - if you don't use schemas then it will be 'public'.</p>

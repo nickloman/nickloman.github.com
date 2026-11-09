@@ -1,0 +1,81 @@
+---
+layout: post
+status: publish
+published: true
+title: Advice to a young bioinformatician
+author:
+  display_name: nick
+  login: nick
+  email: nick@loman.net
+  url: ''
+author_login: nick
+author_email: nick@loman.net
+wordpress_id: 247
+wordpress_url: http://nickloman.wordpress.com/?p=247
+date: '2009-05-30 22:27:54 +0200'
+date_gmt: '2009-05-30 22:27:54 +0200'
+categories:
+- Uncategorized
+tags: []
+comments:
+- id: 212
+  author: hanpod
+  author_email: hannaheno@yahoo.co.uk
+  author_url: ''
+  date: '2009-05-31 06:21:47 +0200'
+  date_gmt: '2009-05-31 06:21:47 +0200'
+  content: I was going to say ... that last one sounds familiar :)
+- id: 213
+  author: Sarah &amp; Andy
+  author_email: edenhope@riseup.net
+  author_url: ''
+  date: '2009-06-01 21:31:37 +0200'
+  date_gmt: '2009-06-01 21:31:37 +0200'
+  content: ".... I made a perfect system for ecological data modelling. It was even
+    edible in case of environmental disasters."
+- id: 214
+  author: Sarah &amp; Andy
+  author_email: edenhope@riseup.net
+  author_url: ''
+  date: '2009-06-01 21:33:04 +0200'
+  date_gmt: '2009-06-01 21:33:04 +0200'
+  content: |-
+    .... I made a perfect system for ecological data modelling. It was even edible in case of environmental disasters.
+
+    There's a really tiny wee smiley right at the bottom of the '#comments' page
+- id: 215
+  author: Jon Segar
+  author_email: jon.segar@ridgewaybarn.net
+  author_url: ''
+  date: '2012-05-10 16:19:47 +0200'
+  date_gmt: '2012-05-10 16:19:47 +0200'
+  content: Number 7 makes me think of a chapter in the book (by a guy called Brooks)
+    called 'The mythical man month' Get hold of a copy if you can. My last copy went
+    walkies so I cant lend it to you
+---
+<p>What rules of thumb would you suggest to a fledging bioinformatican? Or if you could travel back in time, what would you tell your younger self?</p>
+<p>I thought it would be fun to try and get down some of the things I've learnt, some are practical and some are a bit more philosophical.</p>
+<p>Any bioinformaticians reading I'd be interested to hear your thoughts!</p>
+<h3>1) Always "nohup" your analysis runs</h3>
+<p>Basic, but easy to forget. How many times has a long-running analysis died, usually just before the end, because my laptop went on standby, or the 'net connection went down, killing an SSH session.</p>
+<p>Write a script that calls your program and execute it with nohup <script-name> &amp; to run it in the background. If it sucks major CPU time then remember to renice the process, remembering that higher nice values mean lower priority.</p>
+<h3>2) Name your directories and your files carefully</h3>
+<p>It's no fun returning to an analysis some months or even years after you did it to find a directory called 'stuff' filled with files like 'out', 'results' and 'crunch'.</p>
+<p>Name your scripts according to function, e.g. 'parse-glimmer-output-to-genbank'. Organise your directories into logical hierarchies, and then datestamp and serial each set of results i.e. 'amazing-genome-work-23052009-1'.</p>
+<h3>3) Put all your scripts and primary data into <a href="http://www.subversion.org/">Subversion</a> or equivalent source control system</h3>
+<p>This solves two problems at once: how to ensure a copy of all your useful scripts on each server you work with and your personal machine. It is also the answer to how to keep a distributed backup of all your work.</p>
+<p>Put primary data sources in Subversion, but add your results directory to '.svnignore' so you don't store analysis which can be re-constructed easily by your scripts.</p>
+<p>Subversion is just an example, you might prefer git or bazaar or some other fangled system. It doesn't matter so much what you use but that you use it.</p>
+<h3>4) Write your scripts for the guy in 'Momento'</h3>
+<p>You remember the guy that can't remember anything older than about 5 minutes ago. That's you.</p>
+<p>Make your scripts parse the command-line properly and output a friendly message when you run it with no arguments. Use a consistent scheme for input and output, either using command-line flags like "--in" and "--out", or make all your scripts use redirection. Try not to mix different schemes.</p>
+<p>Put a README in the directory to remind you of the order you run the scripts, and any environment variables or other gotchas when running.</p>
+<h3>5) Be able to work effectively on both your laptop as well as a server</h3>
+<p>Install a desktop environment similar to your server environment (probably Linux), and enough on your laptop so you can develop stand-alone.</p>
+<p>That way when you are at the airport or on a plane or train, in a tedious seminar you can't get out of, or when your Internet connection has gone down you can can still get some work done. Point 3) helps&nbsp; with that.</p>
+<h3>6) Split scripts by task, and allow check-points</h3>
+<p>There is nothing more annoying than a script that takes a week to run crapping out in the last few minutes due to a bug and there being no way to restart the analysis except from the beginning. Break down tasks into modules, write a separate script for each part of the analysis, and make it so you can start from any point in your analysis pipeline.</p>
+<h3>7) Beware the "ultimate system" which solves everything</h3>
+<p><a rel="attachment wp-att-249" href="http://nickloman.wordpress.com/2009/05/30/advice-to-a-young-bioinformatician/batch2-148/"><img class="alignleft size-medium wp-image-249" title="batch2 148" src="/images/smokeandumami/2009/05/batch2-148.jpg?w=300" alt="batch2 148" width="300" height="299" /></a>An error that affects newbies and experienced bioinformaticians alike, in my experience. In your mind there is a gleaming, shiny "system" that can solve all known bioinformatics problems. It probably has an elaborate web interface, RPC bindings, a fully normalised RDBMS and probably a full Turing AI as well. This system will never exist. Don't start building it. Resist.</p>
+<p>Instead build something that does something useful NOW, document it, release it and move on. If the thing you built is really useful to someone else you will start getting emails. Then you can start extending it, if necessary!</p>
+<p>Like all advice, it is easier to dish out than to take, particularly the last one!</p>
